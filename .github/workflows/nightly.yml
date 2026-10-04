@@ -1,4 +1,4 @@
-#  >>> DESTINATION: GoodGlobeLLC/TRAPP2  (.github/workflows/nightly.yml — REPLACE)
+#  >>> DESTINATION: TheMostLocal/TRAPP2  (.github/workflows/nightly.yml — REPLACE)
 name: Nightly Full Refresh
 
 # TRAPP2 is the US-EQUITIES repo. This nightly does EQUITIES data only:
