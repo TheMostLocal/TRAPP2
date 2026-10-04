@@ -8,9 +8,9 @@
     "businessperson"
   ],
   "education": [
+    "Harvard University",
     "Harvard Business School",
-    "Georgia Tech",
-    "Harvard University"
+    "Georgia Tech"
   ],
   "employers": [
     {
@@ -26,7 +26,6 @@
   ],
   "positions": [],
   "currentTickers": [
-    "CVX",
     "ORCL"
   ]
 }
