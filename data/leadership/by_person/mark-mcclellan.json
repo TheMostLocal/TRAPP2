@@ -1,0 +1,36 @@
+{
+  "qid": "Q6768777",
+  "name": "Mark McClellan",
+  "dateOfBirth": "1963-06-26",
+  "birthPlace": "Austin",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MarkMcClellan.jpg",
+  "occupations": [
+    "physician"
+  ],
+  "education": [
+    "University of Texas at Austin",
+    "John F. Kennedy School of Government",
+    "Harvard\u2013MIT Division of Health Sciences and Technology",
+    "Austin High School",
+    "Massachusetts Institute of Technology",
+    "Harvard University"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2013-10-15",
+      "end": null
+    },
+    {
+      "title": "Commissioner of Food and Drugs",
+      "company": null,
+      "start": "2002-11-14",
+      "end": "2004-03-25"
+    }
+  ],
+  "currentTickers": [
+    "CI"
+  ]
+}
