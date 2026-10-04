@@ -1,26 +1,44 @@
 {
   "ticker": "AMC",
-  "qid": "Q202708",
-  "fetchedAt": "2026-06-11T05:51:41.966266Z",
+  "qid": "Q460307",
+  "fetchedAt": "2026-10-04T21:21:56.685878Z",
   "source": "wikidata",
-  "name": "American Motors Corporation",
-  "description": "American automobile manufacturer",
-  "website": null,
-  "isin": null,
-  "inception": "1954-01-01",
+  "name": "Amcor",
+  "description": "Australian-American company in the packaging industry",
+  "website": "http://www.amcor.com",
+  "isin": "AU000000AMC4",
+  "inception": "1860-01-01",
   "employees": null,
-  "industry": "automotive industry",
-  "headquarters": "Kenosha",
-  "executives": [],
-  "board": [],
-  "founders": [
+  "industry": "product packaging industry",
+  "headquarters": "Zurich",
+  "executives": [
     {
-      "name": "George W. Mason"
+      "name": "Peter Konieczny",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Ron Delia",
+      "role": "Chief Executive Officer"
     }
   ],
+  "board": [
+    {
+      "name": "Achal Agarwal",
+      "role": "Board Member"
+    },
+    {
+      "name": "Graeme Liebelt",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ron Delia",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [],
   "products": [
     {
-      "name": "car"
+      "name": "product packaging"
     }
   ],
   "countries": []

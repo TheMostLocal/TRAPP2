@@ -56,6 +56,7 @@
           "lawyer"
         ],
         "education": [
+          "University of Oxford",
           "Harvard Law School",
           "University of Oxford",
           "Harvard Business School",
@@ -122,11 +123,11 @@
           "business executive"
         ],
         "education": [
+          "Northwestern University",
+          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management",
-          "Northwestern University",
-          "Tufts University"
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -408,13 +409,13 @@
         ],
         "employers": [
           {
-            "company": "Radcliffe College",
-            "start": "2001-01-01",
+            "company": "University of Pennsylvania",
+            "start": "1975-01-01",
             "end": null
           },
           {
-            "company": "University of Pennsylvania",
-            "start": "1975-01-01",
+            "company": "Radcliffe College",
+            "start": "2001-01-01",
             "end": null
           },
           {

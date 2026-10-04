@@ -1,7 +1,7 @@
 {
   "ticker": "COP",
   "qid": "Q214763",
-  "fetchedAt": "2026-06-11T05:38:46.375381Z",
+  "fetchedAt": "2026-10-04T20:54:52.131754Z",
   "source": "wikidata",
   "name": "ConocoPhillips",
   "description": "American oil and gas company",
@@ -18,34 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Robert Niblock",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ryan Lance",
-      "role": "Board Member"
-    },
-    {
-      "name": "John V. Faraci",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jody Freeman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jeffrey A. Joerres",
-      "role": "Board Member"
-    },
-    {
-      "name": "Charles Bunch",
-      "role": "Board Member"
-    },
-    {
-      "name": "William H. McRaven",
-      "role": "Board Member"
-    },
     {
       "name": "Al Walker",
       "role": "Board Member"
@@ -80,6 +52,22 @@
     },
     {
       "name": "Gay Huey Evans",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ryan Lance",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jody Freeman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jeffrey A. Joerres",
+      "role": "Board Member"
+    },
+    {
+      "name": "William H. McRaven",
       "role": "Board Member"
     }
   ],

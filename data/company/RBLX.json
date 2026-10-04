@@ -1,7 +1,7 @@
 {
   "ticker": "RBLX",
   "qid": "Q67186598",
-  "fetchedAt": "2026-06-11T05:40:17.617930Z",
+  "fetchedAt": "2026-10-04T20:57:54.233567Z",
   "source": "wikidata",
   "name": "Q67186598",
   "description": "American video game developer",
@@ -22,6 +22,9 @@
   "products": [
     {
       "name": "Roblox Studio"
+    },
+    {
+      "name": "Roblox"
     }
   ],
   "countries": []

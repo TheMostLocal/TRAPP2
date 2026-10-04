@@ -1,19 +1,23 @@
 {
   "ticker": "WELL",
-  "qid": "Q20486917",
-  "fetchedAt": "2026-06-11T05:37:20.237376Z",
+  "qid": "Q7981191",
+  "fetchedAt": "2026-10-04T20:51:12.327727Z",
   "source": "wikidata",
-  "name": "Welltower",
-  "description": "Real estate investment trust",
-  "website": "http://www.welltower.com",
-  "isin": "US95040Q1040",
-  "inception": "1970-01-01",
+  "name": "Wellcome Collection",
+  "description": "museum and library in London, United Kingdom",
+  "website": "http://www.wellcomecollection.org",
+  "isin": null,
+  "inception": "2007-01-01",
   "employees": null,
-  "industry": "real estate investment trust",
-  "headquarters": "Toledo",
+  "industry": null,
+  "headquarters": null,
   "executives": [],
   "board": [],
-  "founders": [],
+  "founders": [
+    {
+      "name": "Henry Solomon Wellcome"
+    }
+  ],
   "products": [],
   "countries": []
 }

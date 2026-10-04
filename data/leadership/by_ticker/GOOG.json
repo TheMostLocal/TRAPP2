@@ -26,13 +26,13 @@
         ],
         "employers": [
           {
-            "company": "Google",
-            "start": "2004-01-01",
+            "company": "Alphabet Inc.",
+            "start": "2019-01-01",
             "end": null
           },
           {
-            "company": "Alphabet Inc.",
-            "start": "2019-01-01",
+            "company": "Google",
+            "start": "2004-01-01",
             "end": null
           }
         ],
@@ -69,10 +69,10 @@
           "engineer"
         ],
         "education": [
+          "Stanford University",
           "University of Michigan",
           "Interlochen Center for the Arts",
-          "East Lansing High School",
-          "Stanford University"
+          "East Lansing High School"
         ],
         "employers": [
           {

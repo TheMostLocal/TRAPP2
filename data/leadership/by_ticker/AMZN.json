@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -299,9 +299,9 @@
           "soldier"
         ],
         "education": [
-          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
+          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Horace Mann School",
@@ -419,9 +419,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -586,9 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",

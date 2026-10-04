@@ -1,7 +1,7 @@
 {
   "ticker": "TTWO",
   "qid": "Q94933",
-  "fetchedAt": "2026-06-11T05:40:13.438708Z",
+  "fetchedAt": "2026-10-04T20:57:47.098193Z",
   "source": "wikidata",
   "name": "Take-Two Interactive",
   "description": "American publisher, developer and distributor of video games",
@@ -25,10 +25,10 @@
   ],
   "products": [
     {
-      "name": "software"
+      "name": "video game"
     },
     {
-      "name": "video game"
+      "name": "software"
     }
   ],
   "countries": []

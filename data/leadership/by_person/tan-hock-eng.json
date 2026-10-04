@@ -8,10 +8,15 @@
     "business executive"
   ],
   "education": [
-    "Massachusetts Institute of Technology",
-    "Harvard Business School"
+    "Harvard Business School",
+    "Massachusetts Institute of Technology"
   ],
   "employers": [
+    {
+      "company": "General Motors",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Broadcom",
       "start": "2006-03-01",
@@ -34,11 +39,6 @@
     },
     {
       "company": "PepsiCo",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "General Motors",
       "start": null,
       "end": null
     }

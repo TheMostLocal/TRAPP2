@@ -1,7 +1,7 @@
 {
   "ticker": "PPG",
   "qid": "Q48754",
-  "fetchedAt": "2026-06-11T05:48:46.499011Z",
+  "fetchedAt": "2026-10-04T21:16:52.610807Z",
   "source": "wikidata",
   "name": "PPG Industries",
   "description": "global supplier of glass, paint, coatings and chemical products",
@@ -9,7 +9,7 @@
   "isin": "US6935061076",
   "inception": "1883-01-01",
   "employees": null,
-  "industry": "chemical product",
+  "industry": "glass",
   "headquarters": "Pittsburgh",
   "executives": [],
   "board": [],

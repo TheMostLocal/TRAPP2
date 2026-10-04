@@ -17,6 +17,11 @@
   ],
   "employers": [
     {
+      "company": "California Institute of Technology",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Stanford University",
       "start": null,
       "end": null

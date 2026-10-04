@@ -62,8 +62,6 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "financier",
-          "investor",
           "chief executive officer",
           "shareholder",
           "economist",
@@ -73,9 +71,9 @@
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
@@ -304,9 +302,9 @@
           "businessperson"
         ],
         "education": [
+          "Teachers College",
           "Trinity College",
-          "Harvard Business School",
-          "Teachers College"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
@@ -521,8 +519,6 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "financier",
-          "investor",
           "chief executive officer",
           "shareholder",
           "economist",
@@ -532,9 +528,9 @@
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
@@ -563,12 +559,13 @@
           "venture capitalist",
           "entrepreneur",
           "chief executive officer",
-          "lawyer"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "The Waldorf School of Garden City"
         ],
         "employers": [
           {
@@ -591,12 +588,6 @@
           {
             "title": "board of directors member",
             "company": null,
-            "start": "2018-01-01",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
             "start": "2020-05-02",
             "end": null
           },
@@ -605,6 +596,12 @@
             "company": null,
             "start": "2001-01-01",
             "end": "2018-02-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": null
           }
         ]
       }

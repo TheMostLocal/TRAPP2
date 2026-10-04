@@ -1,19 +1,28 @@
 {
   "ticker": "ICE",
-  "qid": "Q216645",
-  "fetchedAt": "2026-06-11T05:44:12.700444Z",
+  "qid": "Q841458",
+  "fetchedAt": "2026-10-04T21:07:09.965251Z",
   "source": "wikidata",
-  "name": "Icelandair",
-  "description": "flag carrier airline of Iceland",
-  "website": "http://www.icelandair.com",
-  "isin": null,
-  "inception": "1937-01-01",
+  "name": "Intercontinental Exchange",
+  "description": "financial company based in Atlanta, Georgia",
+  "website": "https://www.theice.com",
+  "isin": "US45866F1049",
+  "inception": "2000-05-11",
   "employees": null,
   "industry": null,
-  "headquarters": "Hafnarfj\u00f6r\u00f0ur",
-  "executives": [],
+  "headquarters": "Atlanta",
+  "executives": [
+    {
+      "name": "Jeffrey Sprecher",
+      "role": "Chief Executive Officer"
+    }
+  ],
   "board": [],
-  "founders": [],
+  "founders": [
+    {
+      "name": "Jeffrey Sprecher"
+    }
+  ],
   "products": [],
   "countries": []
 }

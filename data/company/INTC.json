@@ -1,7 +1,7 @@
 {
   "ticker": "INTC",
   "qid": "Q248",
-  "fetchedAt": "2026-06-11T05:42:55.971124Z",
+  "fetchedAt": "2026-10-04T21:04:26.320868Z",
   "source": "wikidata",
   "name": "Intel",
   "description": "American multinational technology company",
@@ -12,6 +12,22 @@
   "industry": "semiconductor industry",
   "headquarters": "Santa Clara",
   "executives": [
+    {
+      "name": "Paul Otellini",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Andrew Grove",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Gordon Moore",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Robert Noyce",
+      "role": "Chief Executive Officer"
+    },
     {
       "name": "Brian Krzanich",
       "role": "Chief Executive Officer"
@@ -25,27 +41,11 @@
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Paul Otellini",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Andrew Grove",
-      "role": "Chief Executive Officer"
-    },
-    {
       "name": "Michelle Johnston Holthaus",
       "role": "Chief Executive Officer"
     },
     {
       "name": "Bob Swan",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Gordon Moore",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Robert Noyce",
       "role": "Chief Executive Officer"
     }
   ],

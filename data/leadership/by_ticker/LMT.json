@@ -221,10 +221,10 @@
           "merchant"
         ],
         "education": [
-          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -245,11 +245,11 @@
           "military officer"
         ],
         "education": [
+          "Georgetown University",
+          "Tufts University",
           "Boston College High School",
           "Saint Michael's College",
-          "The Fletcher School of Law and Diplomacy",
-          "Georgetown University",
-          "Tufts University"
+          "The Fletcher School of Law and Diplomacy"
         ],
         "employers": [],
         "positions": [
@@ -390,7 +390,7 @@
         "qid": "Q1159888",
         "name": "Daniel Akerson",
         "dateOfBirth": "1948-10-21",
-        "birthPlace": "California",
+        "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
           "manager",

@@ -1,23 +1,19 @@
 {
   "ticker": "SPG",
-  "qid": "Q2117643",
-  "fetchedAt": "2026-06-11T05:37:29.350897Z",
+  "qid": "Q868587",
+  "fetchedAt": "2026-10-04T20:51:23.925188Z",
   "source": "wikidata",
-  "name": "Shapoorji Pallonji Group",
-  "description": "engineering, construction conglomerate based in India",
-  "website": "http://www.shapoorjipallonji.com/",
-  "isin": null,
-  "inception": "1865-01-01",
-  "employees": null,
-  "industry": "conglomerate",
-  "headquarters": "Mumbai",
+  "name": "S&P Global",
+  "description": "American publicly traded corporation, formerly McGraw Hill Financial, Inc",
+  "website": "https://www.spglobal.com/en",
+  "isin": "US78409V1044",
+  "inception": null,
+  "employees": 17000,
+  "industry": "financial services",
+  "headquarters": "New York City",
   "executives": [],
   "board": [],
-  "founders": [
-    {
-      "name": "Pallonji Mistry"
-    }
-  ],
+  "founders": [],
   "products": [],
   "countries": []
 }

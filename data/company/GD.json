@@ -1,10 +1,10 @@
 {
   "ticker": "GD",
   "qid": "Q502940",
-  "fetchedAt": "2026-06-11T05:39:28.396709Z",
+  "fetchedAt": "2026-10-04T20:56:01.890664Z",
   "source": "wikidata",
   "name": "General Dynamics",
-  "description": "American defense manufacturing conglomerate",
+  "description": "American aerospace and defense manufacturing conglomerate",
   "website": "https://www.gd.com/",
   "isin": "US3695501086",
   "inception": "1952-02-21",
@@ -68,9 +68,6 @@
     }
   ],
   "founders": [
-    {
-      "name": "General Dynamics Electric Boat"
-    },
     {
       "name": "John Philip Holland"
     }
