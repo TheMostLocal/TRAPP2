@@ -1,0 +1,344 @@
+{
+  "ticker": "BA",
+  "fetchedAt": "2026-10-04T17:57:07.921071Z",
+  "people": [
+    {
+      "qid": "Q104862847",
+      "name": "Sean Doyle",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q104862847",
+        "name": "Sean Doyle",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Doyle%20at%20SXSW%20London%202025.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2021-04-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-10-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q96385593",
+      "name": "Keith Williams",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q96385593",
+        "name": "Keith Williams",
+        "dateOfBirth": null,
+        "birthPlace": "Teesside",
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q75517224",
+      "name": "Roy Thomas Watts",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q75517224",
+        "name": "Roy Thomas Watts",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q64876118",
+      "name": "Ross Stainton",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q64876118",
+        "name": "Ross Stainton",
+        "dateOfBirth": "1914-05-27",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q22003790",
+      "name": "\u00c1lex Cruz",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q22003790",
+        "name": "\u00c1lex Cruz",
+        "dateOfBirth": "1966-01-01",
+        "birthPlace": "Bilbao",
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Ohio State University",
+          "Central Michigan University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2015-11-06",
+            "end": "2021-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7356184",
+      "name": "Rod Eddington",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q7356184",
+        "name": "Rod Eddington",
+        "dateOfBirth": "1950-01-02",
+        "birthPlace": "Perth",
+        "image": null,
+        "occupations": [
+          "cricketer",
+          "merchant",
+          "engineer",
+          "businessperson"
+        ],
+        "education": [
+          "Christ Church Grammar School",
+          "University of Western Australia",
+          "Lincoln College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7341669",
+      "name": "Robert Ayling",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q7341669",
+        "name": "Robert Ayling",
+        "dateOfBirth": "1946-08-03",
+        "birthPlace": "Battersea",
+        "image": null,
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "King's College School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q3569110",
+      "name": "Willie Walsh",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q3569110",
+        "name": "Willie Walsh",
+        "dateOfBirth": "1961-10-25",
+        "birthPlace": "Dublin",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Willie%20Walsh%20%28cropped%29.jpg",
+        "occupations": [
+          "businessperson",
+          "entrepreneur"
+        ],
+        "education": [
+          "School of Business, Trinity College Dublin",
+          "Trinity College, Dublin"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2011-01-24",
+            "end": "2020-10-11"
+          },
+          {
+            "title": "director general",
+            "company": null,
+            "start": "2021-04-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q404455",
+      "name": "Colin Marshall, Baron Marshall of Knightsbridge",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q404455",
+        "name": "Colin Marshall, Baron Marshall of Knightsbridge",
+        "dateOfBirth": "1933-11-16",
+        "birthPlace": "London Borough of Barnet",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lord%20Marshall%20of%20Knightsbridge.jpg",
+        "occupations": [
+          "politician"
+        ],
+        "education": [
+          "University College School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the House of Lords",
+            "company": null,
+            "start": "1998-07-20",
+            "end": "2012-07-05"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q15810073",
+      "name": "Francis McFadzean, Baron McFadzean of Kelvinside",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q15810073",
+        "name": "Francis McFadzean, Baron McFadzean of Kelvinside",
+        "dateOfBirth": "1915-11-26",
+        "birthPlace": "Troon",
+        "image": null,
+        "occupations": [
+          "manager",
+          "university teacher",
+          "economist",
+          "politician"
+        ],
+        "education": [
+          "University of Glasgow",
+          "London School of Economics and Political Science"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the House of Lords",
+            "company": null,
+            "start": "1980-09-01",
+            "end": "1992-05-23"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5238030",
+      "name": "David Nicolson",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5238030",
+        "name": "David Nicolson",
+        "dateOfBirth": "1922-09-20",
+        "birthPlace": "London",
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "politician"
+        ],
+        "education": [
+          "Haileybury and Imperial Service College",
+          "St Paul's School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Member of the European Parliament",
+            "company": null,
+            "start": "1979-07-17",
+            "end": "1984-07-23"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1700825",
+      "name": "John King, Baron King of Wartnaby",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q1700825",
+        "name": "John King, Baron King of Wartnaby",
+        "dateOfBirth": "1917-08-29",
+        "birthPlace": "Brentwood",
+        "image": null,
+        "occupations": [
+          "politician",
+          "farmer"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the House of Lords",
+            "company": null,
+            "start": "1983-07-15",
+            "end": "2005-07-12"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q859931",
+      "name": "Martin Broughton",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q859931",
+        "name": "Martin Broughton",
+        "dateOfBirth": "1947-04-15",
+        "birthPlace": "London",
+        "image": null,
+        "occupations": [
+          "association football player",
+          "businessperson"
+        ],
+        "education": [
+          "Westminster City School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}
