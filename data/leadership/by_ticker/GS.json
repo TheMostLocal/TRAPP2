@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-10-04T18:36:13.442617Z",
+  "fetchedAt": "2026-10-04T21:59:23.151026Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -50,25 +50,25 @@
         "birthPlace": "Nigeria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adebayo%20Ogunlesi.jpg",
         "occupations": [
-          "academic",
-          "investment banker",
+          "businessperson",
           "lawyer",
-          "businessperson"
+          "academic",
+          "investment banker"
         ],
         "education": [
+          "University of Oxford",
           "Harvard Law School",
           "Harvard Business School",
-          "University of Oxford",
           "King's College, Lagos"
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Credit Suisse First Boston",
             "start": null,
             "end": null
           },
           {
-            "company": "Credit Suisse First Boston",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "director",
+          "businessperson",
           "computer scientist",
-          "businessperson"
+          "director"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -122,11 +122,11 @@
           "business executive"
         ],
         "education": [
+          "Northwestern University",
+          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management",
-          "Northwestern University",
-          "Tufts University"
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -401,20 +401,20 @@
           "university teacher"
         ],
         "education": [
+          "Bryn Mawr College",
           "Harvard University",
           "Concord Academy",
-          "University of Pennsylvania",
-          "Bryn Mawr College"
+          "University of Pennsylvania"
         ],
         "employers": [
           {
-            "company": "Radcliffe College",
-            "start": "2001-01-01",
+            "company": "University of Pennsylvania",
+            "start": "1975-01-01",
             "end": null
           },
           {
-            "company": "University of Pennsylvania",
-            "start": "1975-01-01",
+            "company": "Radcliffe College",
+            "start": "2001-01-01",
             "end": null
           },
           {

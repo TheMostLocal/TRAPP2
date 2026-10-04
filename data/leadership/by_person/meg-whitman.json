@@ -6,8 +6,8 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
   "occupations": [
     "politician",
-    "business executive",
-    "entrepreneur"
+    "entrepreneur",
+    "business executive"
   ],
   "education": [
     "Cold Spring Harbor Jr./Sr. High School",
@@ -16,13 +16,18 @@
   ],
   "employers": [
     {
-      "company": "Procter & Gamble",
-      "start": "1979-01-01",
+      "company": "Hasbro",
+      "start": null,
       "end": null
     },
     {
-      "company": "The Walt Disney Company",
+      "company": "Bain & Company",
       "start": null,
+      "end": null
+    },
+    {
+      "company": "Procter & Gamble",
+      "start": "1979-01-01",
       "end": null
     },
     {
@@ -36,12 +41,7 @@
       "end": null
     },
     {
-      "company": "Hasbro",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Bain & Company",
+      "company": "The Walt Disney Company",
       "start": null,
       "end": null
     },

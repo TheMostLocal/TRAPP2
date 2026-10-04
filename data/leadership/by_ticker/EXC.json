@@ -1,6 +1,6 @@
 {
   "ticker": "EXC",
-  "fetchedAt": "2026-10-04T18:36:13.438930Z",
+  "fetchedAt": "2026-10-04T21:59:23.145440Z",
   "people": [
     {
       "qid": "Q114959854",
@@ -38,9 +38,9 @@
           "businessperson"
         ],
         "education": [
+          "Stanford Graduate School of Business",
           "University of Pennsylvania",
-          "Paris Institute of Political Studies",
-          "Stanford Graduate School of Business"
+          "Paris Institute of Political Studies"
         ],
         "employers": [],
         "positions": []
@@ -166,8 +166,8 @@
         ],
         "education": [
           "Francis Lewis High School",
-          "Cornell University",
-          "Yale University"
+          "Yale University",
+          "Cornell University"
         ],
         "employers": [
           {

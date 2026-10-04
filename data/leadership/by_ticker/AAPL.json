@@ -1,55 +1,7 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-04T18:36:13.418965Z",
+  "fetchedAt": "2026-10-04T21:59:23.116661Z",
   "people": [
-    {
-      "qid": "Q265852",
-      "name": "Tim Cook",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q265852",
-        "name": "Tim Cook",
-        "dateOfBirth": "1960-11-01",
-        "birthPlace": "Mobile",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
-        "occupations": [
-          "presenter",
-          "manager",
-          "chief executive officer",
-          "businessperson",
-          "computer scientist",
-          "engineer"
-        ],
-        "education": [
-          "Rostrevor College",
-          "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2011-08-24",
-            "end": "2026-08-31"
-          }
-        ]
-      }
-    },
     {
       "qid": "Q709063",
       "name": "Arthur D. Levinson",
@@ -67,8 +19,8 @@
           "biochemist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -83,6 +35,108 @@
             "company": null,
             "start": "2011-01-01",
             "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q19673",
+      "name": "Al Gore",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q19673",
+        "name": "Al Gore",
+        "dateOfBirth": "1948-03-31",
+        "birthPlace": "Washington, D.C.",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
+        "occupations": [
+          "climate activist",
+          "orator",
+          "financier",
+          "blogger",
+          "environmentalist",
+          "journalist",
+          "farmer",
+          "university teacher",
+          "politician",
+          "businessperson",
+          "writer"
+        ],
+        "education": [
+          "Harvard College",
+          "Vanderbilt University",
+          "Vanderbilt University Divinity School",
+          "St. Albans School",
+          "Defense Information School"
+        ],
+        "employers": [
+          {
+            "company": "University of California, Los Angeles",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1983-01-03",
+            "end": "1985-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
+          },
+          {
+            "title": "Vice President of the United States",
+            "company": null,
+            "start": "1993-01-20",
+            "end": "2001-01-20"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1985-01-03",
+            "end": "1987-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1979-01-03",
+            "end": "1981-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1991-01-03",
+            "end": "1993-01-02"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1977-01-03",
+            "end": "1979-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }
@@ -166,108 +220,6 @@
       }
     },
     {
-      "qid": "Q19673",
-      "name": "Al Gore",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q19673",
-        "name": "Al Gore",
-        "dateOfBirth": "1948-03-31",
-        "birthPlace": "Washington, D.C.",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
-        "occupations": [
-          "climate activist",
-          "farmer",
-          "financier",
-          "orator",
-          "blogger",
-          "environmentalist",
-          "journalist",
-          "university teacher",
-          "businessperson",
-          "politician",
-          "writer"
-        ],
-        "education": [
-          "Vanderbilt University Divinity School",
-          "St. Albans School",
-          "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
-        ],
-        "employers": [
-          {
-            "company": "University of California, Los Angeles",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1983-01-03",
-            "end": "1985-01-03"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
-          },
-          {
-            "title": "Vice President of the United States",
-            "company": null,
-            "start": "1993-01-20",
-            "end": "2001-01-20"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1985-01-03",
-            "end": "1987-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1979-01-03",
-            "end": "1981-01-03"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1991-01-03",
-            "end": "1993-01-02"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q709063",
       "name": "Arthur D. Levinson",
       "role_at_company": "Board Member",
@@ -284,8 +236,8 @@
           "biochemist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -352,12 +304,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
           "programmer",
-          "computer scientist",
           "electronics technician",
           "inventor",
           "entrepreneur",
-          "engineer",
           "businessperson",
+          "engineer",
+          "computer scientist",
           "teacher",
           "actor"
         ],
@@ -365,8 +317,8 @@
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Homestead High School"
         ],
         "employers": [
           {
@@ -405,16 +357,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "film producer",
-          "designer",
-          "technology entrepreneur",
           "founder",
-          "financier",
           "general manager",
           "executive producer",
-          "inventor",
+          "designer",
+          "technology entrepreneur",
+          "film producer",
+          "financier",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "inventor"
         ],
         "education": [
           "Homestead High School",
@@ -423,7 +375,7 @@
         ],
         "employers": [
           {
-            "company": "NeXT",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -433,7 +385,7 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },

@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-04T18:36:13.423957Z",
+  "fetchedAt": "2026-10-04T21:59:23.123007Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -23,13 +23,13 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -125,13 +125,13 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -295,13 +295,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "soldier",
-          "intelligence officer"
+          "intelligence officer",
+          "soldier"
         ],
         "education": [
-          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
+          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Horace Mann School",
@@ -406,42 +406,6 @@
       }
     },
     {
-      "qid": "Q376800",
-      "name": "Jamie S. Gorelick",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q376800",
-        "name": "Jamie S. Gorelick",
-        "dateOfBirth": "1950-05-06",
-        "birthPlace": "Brooklyn",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamie%20Gorelick%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
-        "occupations": [
-          "lawyer"
-        ],
-        "education": [
-          "William A. Shine Great Neck South High School",
-          "Radcliffe College",
-          "Harvard Law School"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "United States Deputy Attorney General",
-            "company": null,
-            "start": "1994-03-17",
-            "end": "1997-05-01"
-          },
-          {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "1993-05-05",
-            "end": "1994-03-17"
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q312556",
       "name": "Jeff Bezos",
       "role_at_company": "Board Member",
@@ -455,9 +419,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -526,22 +490,22 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
           {
             "company": "ABB Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
@@ -573,6 +537,42 @@
       }
     },
     {
+      "qid": "Q376800",
+      "name": "Jamie S. Gorelick",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q376800",
+        "name": "Jamie S. Gorelick",
+        "dateOfBirth": "1950-05-06",
+        "birthPlace": "Brooklyn",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamie%20Gorelick%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
+        "occupations": [
+          "lawyer"
+        ],
+        "education": [
+          "Radcliffe College",
+          "Harvard Law School",
+          "William A. Shine Great Neck South High School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "United States Deputy Attorney General",
+            "company": null,
+            "start": "1994-03-17",
+            "end": "1997-05-01"
+          },
+          {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "1993-05-05",
+            "end": "1994-03-17"
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q312556",
       "name": "Jeff Bezos",
       "role_at_company": "Founder",
@@ -586,9 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",

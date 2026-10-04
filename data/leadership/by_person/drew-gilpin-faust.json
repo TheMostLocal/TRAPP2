@@ -9,20 +9,20 @@
     "university teacher"
   ],
   "education": [
+    "Bryn Mawr College",
     "Harvard University",
     "Concord Academy",
-    "University of Pennsylvania",
-    "Bryn Mawr College"
+    "University of Pennsylvania"
   ],
   "employers": [
     {
-      "company": "Radcliffe College",
-      "start": "2001-01-01",
+      "company": "University of Pennsylvania",
+      "start": "1975-01-01",
       "end": null
     },
     {
-      "company": "University of Pennsylvania",
-      "start": "1975-01-01",
+      "company": "Radcliffe College",
+      "start": "2001-01-01",
       "end": null
     },
     {

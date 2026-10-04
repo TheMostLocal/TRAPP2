@@ -1,6 +1,6 @@
 {
   "ticker": "DVN",
-  "fetchedAt": "2026-10-04T18:36:13.437139Z",
+  "fetchedAt": "2026-10-04T21:59:23.142072Z",
   "people": [
     {
       "qid": "Q749887",
@@ -14,8 +14,8 @@
         "birthPlace": "Holland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Prince%20by%20Gage%20Skidmore%20%28cropped%29.jpg",
         "occupations": [
-          "aircraft pilot",
           "financier",
+          "aircraft pilot",
           "military officer",
           "entrepreneur",
           "businessperson"
