@@ -66,13 +66,20 @@ from pathlib import Path
 
 import requests
 
+# Repo owner — resolved at runtime so the pipeline follows the repos to any
+# GitHub account. Actions sets GITHUB_REPOSITORY_OWNER automatically;
+# VALUATIO_OWNER (repo variable/env) overrides; legacy owner is the fallback.
+_GH_OWNER = (__import__("os").environ.get("VALUATIO_OWNER")
+             or __import__("os").environ.get("GITHUB_REPOSITORY_OWNER")
+             or "GoodGlobeLLC").strip()
+
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
 WIKIDATA_SPARQL = "https://query.wikidata.org/sparql"
 WIKIDATA_API = "https://www.wikidata.org/w/api.php"
 
-UA = "TRAPP2/1.0 (https://github.com/GoodGlobeLLC/TRAPP2; financial-data-app) python-requests"
+UA = f"TRAPP2/1.0 (https://github.com/{_GH_OWNER}/TRAPP2; financial-data-app) python-requests"
 HEADERS = {"User-Agent": UA, "Accept": "application/sparql-results+json"}
 
 ROOT = Path(__file__).resolve().parent.parent
