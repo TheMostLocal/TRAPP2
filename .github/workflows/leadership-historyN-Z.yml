@@ -1,10 +1,10 @@
 # ============================================================
-#  >>> DESTINATION: GoodGlobeLLC/TRAPP2
+#  >>> DESTINATION: TheMostLocal/TRAPP2
 #  >>> FILE PATH:   .github/workflows/leadership-historyN-Z.yml
-#  >>> FULL PATH:   GoodGlobeLLC/TRAPP2/.github/workflows/leadership-historyN-Z.yml
+#  >>> FULL PATH:   TheMostLocal/TRAPP2/.github/workflows/leadership-historyN-Z.yml
 #
 #  Edit/paste directly on GitHub here:
-#  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/leadership-historyN-Z.yml
+#  https://github.com/TheMostLocal/TRAPP2/edit/main/.github/workflows/leadership-historyN-Z.yml
 #
 #  WHAT CHANGED IN THIS FILE:
 #    Cron REMOVED (now triggered only by full-refresh.yml).
