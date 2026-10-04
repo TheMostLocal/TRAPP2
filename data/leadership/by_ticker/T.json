@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-10-04T17:52:07.760424Z",
+  "fetchedAt": "2026-10-04T18:36:13.467140Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -23,12 +23,12 @@
         ],
         "employers": [
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           },
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           }
@@ -92,8 +92,8 @@
         "birthPlace": "Salina",
         "image": null,
         "occupations": [
-          "artist",
-          "musician"
+          "musician",
+          "artist"
         ],
         "education": [
           "Trulaske College of Business",
@@ -119,9 +119,9 @@
         ],
         "education": [
           "Harvard University",
+          "Harvard Business School",
           "Collegiate School",
-          "Allen-Stevenson School",
-          "Harvard Business School"
+          "Allen-Stevenson School"
         ],
         "employers": [],
         "positions": []
@@ -162,26 +162,16 @@
         "birthPlace": "Fort Jackson",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debra%20Lee%20at%20Fortune%20Most%20Powerful%20Women%20Summit.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
-          "Harvard Law School",
-          "Brown University",
           "James B. Dudley High School",
-          "John F. Kennedy School of Government"
+          "Brown University",
+          "John F. Kennedy School of Government",
+          "Harvard Law School"
         ],
         "employers": [
-          {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Monsanto",
             "start": null,
@@ -189,6 +179,16 @@
           },
           {
             "company": "Kodak",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
             "start": null,
             "end": null
           },
@@ -284,8 +284,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -331,12 +331,12 @@
         ],
         "employers": [
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           },
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           }

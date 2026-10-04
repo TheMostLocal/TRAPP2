@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-10-04T17:52:07.762325Z",
+  "fetchedAt": "2026-10-04T18:36:13.469306Z",
   "people": [
     {
       "qid": "Q317521",
@@ -18,13 +18,13 @@
           "programmer",
           "financier",
           "investor",
+          "technology entrepreneur",
           "civil servant",
           "philanthropist",
-          "technology entrepreneur",
-          "inventor",
-          "politician",
+          "engineer",
           "entrepreneur",
-          "engineer"
+          "inventor",
+          "politician"
         ],
         "education": [
           "Queen's University",
@@ -33,8 +33,8 @@
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "University of Pretoria",
           "University of Pennsylvania",
+          "University of Pretoria",
           "Stanford University"
         ],
         "employers": [
@@ -46,6 +46,11 @@
           {
             "company": "Neuralink",
             "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
@@ -62,11 +67,6 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
           },
           {
             "company": "SpaceX",
@@ -131,20 +131,15 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "Georges River College",
           "University of New South Wales",
-          "University of Sydney"
+          "University of Sydney",
+          "Georges River College"
         ],
         "employers": [
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
           {
             "company": "Tesla",
             "start": "2014-01-01",
@@ -161,11 +156,6 @@
             "end": "2017-04-01"
           },
           {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          },
-          {
             "company": "Toyota Australia",
             "start": "1989-01-01",
             "end": "1996-01-01"
@@ -179,6 +169,16 @@
             "company": "Echelon Corporation",
             "start": "2008-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           }
         ],
         "positions": [
@@ -327,20 +327,15 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "Georges River College",
           "University of New South Wales",
-          "University of Sydney"
+          "University of Sydney",
+          "Georges River College"
         ],
         "employers": [
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
           {
             "company": "Tesla",
             "start": "2014-01-01",
@@ -357,11 +352,6 @@
             "end": "2017-04-01"
           },
           {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          },
-          {
             "company": "Toyota Australia",
             "start": "1989-01-01",
             "end": "1996-01-01"
@@ -375,6 +365,16 @@
             "company": "Echelon Corporation",
             "start": "2008-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           }
         ],
         "positions": [
@@ -458,9 +458,9 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
-          "entrepreneur",
+          "environmentalist",
           "restaurateur",
-          "environmentalist"
+          "entrepreneur"
         ],
         "education": [
           "International Culinary Center",
@@ -488,13 +488,13 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
-          "businessperson",
+          "chief technology officer",
           "inventor",
-          "chief technology officer"
+          "businessperson"
         ],
         "education": [
-          "Edgewood High School of the Sacred Heart",
-          "Stanford University"
+          "Stanford University",
+          "Edgewood High School of the Sacred Heart"
         ],
         "employers": [
           {
@@ -529,13 +529,13 @@
           "programmer",
           "financier",
           "investor",
+          "technology entrepreneur",
           "civil servant",
           "philanthropist",
-          "technology entrepreneur",
-          "inventor",
-          "politician",
+          "engineer",
           "entrepreneur",
-          "engineer"
+          "inventor",
+          "politician"
         ],
         "education": [
           "Queen's University",
@@ -544,8 +544,8 @@
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "University of Pretoria",
           "University of Pennsylvania",
+          "University of Pretoria",
           "Stanford University"
         ],
         "employers": [
@@ -557,6 +557,11 @@
           {
             "company": "Neuralink",
             "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
@@ -573,11 +578,6 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
           },
           {
             "company": "SpaceX",
@@ -643,10 +643,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "entrepreneur",
-          "actor",
           "businessperson",
-          "computer scientist"
+          "actor"
         ],
         "education": [
           "University of Chicago",
@@ -742,8 +742,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "York Community High School",

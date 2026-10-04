@@ -1,6 +1,6 @@
 {
   "ticker": "BA",
-  "fetchedAt": "2026-10-04T17:57:07.921071Z",
+  "fetchedAt": "2026-10-04T18:36:13.426367Z",
   "people": [
     {
       "qid": "Q104862847",
@@ -130,10 +130,10 @@
         "birthPlace": "Perth",
         "image": null,
         "occupations": [
-          "cricketer",
           "merchant",
-          "engineer",
-          "businessperson"
+          "cricketer",
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Christ Church Grammar School",
@@ -247,8 +247,8 @@
           "politician"
         ],
         "education": [
-          "University of Glasgow",
-          "London School of Economics and Political Science"
+          "London School of Economics and Political Science",
+          "University of Glasgow"
         ],
         "employers": [],
         "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-10-04T17:57:07.926706Z",
+  "fetchedAt": "2026-10-04T18:36:13.431953Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -14,8 +14,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -181,8 +181,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -292,17 +292,17 @@
         ],
         "employers": [
           {
+            "company": "University of New Mexico",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "University of Cincinnati",
             "start": null,
             "end": null
           },
           {
             "company": "United States Food and Drug Administration",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of New Mexico",
             "start": null,
             "end": null
           }

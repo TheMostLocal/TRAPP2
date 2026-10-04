@@ -1,6 +1,6 @@
 {
   "ticker": "TRV",
-  "fetchedAt": "2026-10-04T17:52:07.761987Z",
+  "fetchedAt": "2026-10-04T18:36:13.468948Z",
   "people": [
     {
       "qid": "Q1405941",
@@ -14,11 +14,11 @@
         "birthPlace": "New York City",
         "image": null,
         "occupations": [
-          "insurance executive",
-          "business executive",
-          "chief executive officer",
           "entrepreneur",
-          "businessperson"
+          "chief executive officer",
+          "businessperson",
+          "insurance executive",
+          "business executive"
         ],
         "education": [
           "University of Pennsylvania",
@@ -130,8 +130,8 @@
           "businessperson"
         ],
         "education": [
-          "Williams College",
-          "Columbia University"
+          "Columbia University",
+          "Williams College"
         ],
         "employers": [],
         "positions": []
@@ -216,8 +216,8 @@
           "lawyer"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Yale University"
+          "Yale University",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -259,9 +259,9 @@
           "entrepreneur"
         ],
         "education": [
+          "University of Johannesburg",
           "University of South Africa",
-          "University of the Witwatersrand",
-          "University of Johannesburg"
+          "University of the Witwatersrand"
         ],
         "employers": [
           {
@@ -285,8 +285,8 @@
         "birthPlace": "United States",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Schnitzer.png",
         "occupations": [
-          "chairperson",
-          "lawyer"
+          "lawyer",
+          "chairperson"
         ],
         "education": [
           "The Wharton School",
