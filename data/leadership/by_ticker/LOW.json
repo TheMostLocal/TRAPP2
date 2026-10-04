@@ -1,6 +1,6 @@
 {
   "ticker": "LOW",
-  "fetchedAt": "2026-10-04T18:55:32.757140Z",
+  "fetchedAt": "2026-10-04T21:07:55.944254Z",
   "people": [
     {
       "qid": "Q22279080",
@@ -188,8 +188,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [],
         "employers": [],
@@ -251,8 +251,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
