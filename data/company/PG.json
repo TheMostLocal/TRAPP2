@@ -1,0 +1,23 @@
+{
+  "ticker": "PG",
+  "qid": "Q22673",
+  "fetchedAt": "2026-06-11T05:31:49.077152Z",
+  "source": "wikidata",
+  "name": "Project Gutenberg",
+  "description": "volunteer effort to digitize and archive books",
+  "website": "https://gutenberg.org",
+  "isin": null,
+  "inception": "1971-07-04",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Michael S. Hart"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

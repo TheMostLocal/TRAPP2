@@ -1,0 +1,24 @@
+{
+  "ticker": "PSA",
+  "qid": "Q1485461",
+  "fetchedAt": "2026-06-11T05:37:46.255875Z",
+  "source": "wikidata",
+  "name": "Pacific Southwest Airlines",
+  "description": "airline",
+  "website": null,
+  "isin": null,
+  "inception": "1949-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "San Diego",
+  "executives": [
+    {
+      "name": "Kenny Friedkin",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}
