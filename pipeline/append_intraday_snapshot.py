@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # ============================================================
-#  >>> DESTINATION: GoodGlobeLLC/TRAPP2, TRAPP2-2, TRAPP2-3, TRAPP2-1  (identical file)
+#  >>> DESTINATION: TheMostLocal/TRAPP2, TRAPP2-2, TRAPP2-3, TRAPP2-1  (identical file)
 #  >>> FILE PATH:   pipeline/append_intraday_snapshot.py
 #
 #  THE 15-MINUTE INTRADAY TAPE — "GOOGLEFINANCE-in-Sheets" refresh for the app.
