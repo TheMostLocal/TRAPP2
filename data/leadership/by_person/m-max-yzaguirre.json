@@ -1,0 +1,26 @@
+{
+  "qid": "Q125706041",
+  "name": "M. Max Yzaguirre",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [
+    "University of Texas School of Law",
+    "University of Texas at Austin"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2022-05-19",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "MO"
+  ]
+}

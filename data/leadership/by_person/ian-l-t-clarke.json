@@ -1,0 +1,34 @@
+{
+  "qid": "Q125695495",
+  "name": "Ian L.T. Clarke",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Greater Toronto Airports Authority",
+      "start": "2017-01-01",
+      "end": "2022-12-01"
+    },
+    {
+      "company": "Maple Leaf Sports & Entertainment",
+      "start": "1990-01-01",
+      "end": "2016-01-01"
+    }
+  ],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2022-05-19",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "MO"
+  ]
+}

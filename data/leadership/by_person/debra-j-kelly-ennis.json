@@ -1,0 +1,29 @@
+{
+  "qid": "Q125696902",
+  "name": "Debra J. Kelly-Ennis",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Diageo",
+      "start": "2005-01-01",
+      "end": "2012-06-01"
+    }
+  ],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2013-02-26",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "MO"
+  ]
+}

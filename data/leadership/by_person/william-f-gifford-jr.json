@@ -1,0 +1,36 @@
+{
+  "qid": "Q125693897",
+  "name": "William F. Gifford, Jr.",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Altria",
+      "start": "1994-01-01",
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2020-05-14",
+      "end": null
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2020-04-16",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "MO",
+    "MO"
+  ]
+}

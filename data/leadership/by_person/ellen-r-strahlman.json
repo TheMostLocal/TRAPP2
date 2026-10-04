@@ -1,0 +1,34 @@
+{
+  "qid": "Q125705903",
+  "name": "Ellen R. Strahlman",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Becton Dickinson",
+      "start": "2013-04-01",
+      "end": "2018-01-01"
+    },
+    {
+      "company": "GSK",
+      "start": "2008-04-01",
+      "end": "2013-03-01"
+    }
+  ],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2020-11-02",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "MO"
+  ]
+}

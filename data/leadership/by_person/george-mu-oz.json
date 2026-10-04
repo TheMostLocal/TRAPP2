@@ -1,0 +1,28 @@
+{
+  "qid": "Q5542738",
+  "name": "George Mu\u00f1oz",
+  "dateOfBirth": "1951-01-01",
+  "birthPlace": "Brownsville",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Mu%C3%B1oz%2C%20OPIC%20President%20and%20CEO.jpg",
+  "occupations": [
+    "politician"
+  ],
+  "education": [
+    "University of Texas at Austin",
+    "John F. Kennedy School of Government",
+    "Harvard Law School",
+    "DePaul University College of Law"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2004-01-01",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "MO"
+  ]
+}

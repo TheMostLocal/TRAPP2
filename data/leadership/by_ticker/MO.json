@@ -1,0 +1,386 @@
+{
+  "ticker": "MO",
+  "fetchedAt": "2026-10-04T18:55:32.760465Z",
+  "people": [
+    {
+      "qid": "Q125693897",
+      "name": "William F. Gifford, Jr.",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q125693897",
+        "name": "William F. Gifford, Jr.",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Altria",
+            "start": "1994-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-14",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-04-16",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125706041",
+      "name": "M. Max Yzaguirre",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125706041",
+        "name": "M. Max Yzaguirre",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "University of Texas School of Law",
+          "University of Texas at Austin"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-05-19",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125705903",
+      "name": "Ellen R. Strahlman",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125705903",
+        "name": "Ellen R. Strahlman",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Becton Dickinson",
+            "start": "2013-04-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "GSK",
+            "start": "2008-04-01",
+            "end": "2013-03-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-11-02",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125705742",
+      "name": "Virginia E. Shanks",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125705742",
+        "name": "Virginia E. Shanks",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Pinnacle Entertainment",
+            "start": "2010-10-01",
+            "end": "2018-10-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2017-05-18",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125697071",
+      "name": "Kathryn B. McQuade",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125697071",
+        "name": "Kathryn B. McQuade",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Canadian Pacific Railway",
+            "start": "2007-06-01",
+            "end": "2012-11-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-02-29",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125696902",
+      "name": "Debra J. Kelly-Ennis",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125696902",
+        "name": "Debra J. Kelly-Ennis",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Diageo",
+            "start": "2005-01-01",
+            "end": "2012-06-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2013-02-26",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125696553",
+      "name": "R. Matt Davis",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125696553",
+        "name": "R. Matt Davis",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Dow Inc.",
+            "start": "1987-01-01",
+            "end": "2019-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-10-27",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125695784",
+      "name": "Marjorie M. Connelly",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125695784",
+        "name": "Marjorie M. Connelly",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Barclaycard",
+            "start": "2009-07-01",
+            "end": "2011-12-01"
+          },
+          {
+            "company": "Convergys",
+            "start": "2014-11-01",
+            "end": "2017-12-01"
+          },
+          {
+            "company": "Longwood University",
+            "start": "2012-06-01",
+            "end": "2013-05-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-10-27",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125695495",
+      "name": "Ian L.T. Clarke",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125695495",
+        "name": "Ian L.T. Clarke",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Greater Toronto Airports Authority",
+            "start": "2017-01-01",
+            "end": "2022-12-01"
+          },
+          {
+            "company": "Maple Leaf Sports & Entertainment",
+            "start": "1990-01-01",
+            "end": "2016-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-05-19",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125693897",
+      "name": "William F. Gifford, Jr.",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125693897",
+        "name": "William F. Gifford, Jr.",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Altria",
+            "start": "1994-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-14",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-04-16",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5542738",
+      "name": "George Mu\u00f1oz",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5542738",
+        "name": "George Mu\u00f1oz",
+        "dateOfBirth": "1951-01-01",
+        "birthPlace": "Brownsville",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Mu%C3%B1oz%2C%20OPIC%20President%20and%20CEO.jpg",
+        "occupations": [
+          "politician"
+        ],
+        "education": [
+          "University of Texas at Austin",
+          "John F. Kennedy School of Government",
+          "Harvard Law School",
+          "DePaul University College of Law"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2004-01-01",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

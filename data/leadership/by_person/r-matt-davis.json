@@ -1,0 +1,29 @@
+{
+  "qid": "Q125696553",
+  "name": "R. Matt Davis",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Dow Inc.",
+      "start": "1987-01-01",
+      "end": "2019-01-01"
+    }
+  ],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2021-10-27",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "MO"
+  ]
+}

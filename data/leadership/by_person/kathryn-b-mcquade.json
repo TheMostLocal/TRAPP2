@@ -1,0 +1,29 @@
+{
+  "qid": "Q125697071",
+  "name": "Kathryn B. McQuade",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Canadian Pacific Railway",
+      "start": "2007-06-01",
+      "end": "2012-11-01"
+    }
+  ],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2012-02-29",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "MO"
+  ]
+}

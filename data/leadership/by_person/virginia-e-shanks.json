@@ -1,0 +1,29 @@
+{
+  "qid": "Q125705742",
+  "name": "Virginia E. Shanks",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Pinnacle Entertainment",
+      "start": "2010-10-01",
+      "end": "2018-10-01"
+    }
+  ],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2017-05-18",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "MO"
+  ]
+}
