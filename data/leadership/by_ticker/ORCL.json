@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-10-04T17:52:07.751857Z",
+  "fetchedAt": "2026-10-04T18:36:13.457717Z",
   "people": [
     {
       "qid": "Q92759",
@@ -15,10 +15,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "entrepreneur",
-          "actor",
           "businessperson",
-          "computer scientist"
+          "actor"
         ],
         "education": [
           "University of Chicago",
@@ -198,8 +198,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Santa Barbara",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "University of California, Santa Barbara"
         ],
         "employers": [],
         "positions": []
@@ -220,8 +220,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgia Tech",
           "Harvard Business School",
+          "Georgia Tech",
           "Harvard University"
         ],
         "employers": [
@@ -300,23 +300,23 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "academic",
-          "economist",
+          "university teacher",
           "businessperson",
-          "writer"
+          "writer",
+          "economist"
         ],
         "education": [
           "University of California, Berkeley"
         ],
         "employers": [
           {
-            "company": "Yale University",
+            "company": "University of California, Berkeley",
             "start": null,
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
+            "company": "Yale University",
             "start": null,
             "end": null
           },
@@ -531,8 +531,8 @@
           "university teacher",
           "jurist",
           "political scientist",
-          "politician",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
           "Santa Clara University School of Law",
@@ -652,10 +652,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "entrepreneur",
-          "actor",
           "businessperson",
-          "computer scientist"
+          "actor"
         ],
         "education": [
           "University of Chicago",
@@ -715,10 +715,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "entrepreneur",
-          "actor",
           "businessperson",
-          "computer scientist"
+          "actor"
         ],
         "education": [
           "University of Chicago",

@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-10-04T17:57:07.937724Z",
+  "fetchedAt": "2026-10-04T18:36:13.442617Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -52,23 +52,23 @@
         "occupations": [
           "academic",
           "investment banker",
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard Law School",
+          "Harvard Business School",
           "University of Oxford",
           "King's College, Lagos"
         ],
         "employers": [
           {
-            "company": "Credit Suisse First Boston",
+            "company": "Harvard University",
             "start": null,
             "end": null
           },
           {
-            "company": "Harvard University",
+            "company": "Credit Suisse First Boston",
             "start": null,
             "end": null
           }
@@ -321,9 +321,9 @@
           "chief financial officer"
         ],
         "education": [
-          "Harvard Business School",
           "Union College",
           "Bronx High School of Science",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -348,8 +348,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
@@ -397,14 +397,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Women%20in%20Economic%20Decision-making%20Drew%20Gilpin%20Faust%20%288414040540%29%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "historian"
+          "historian",
+          "university teacher"
         ],
         "education": [
-          "Bryn Mawr College",
-          "University of Pennsylvania",
+          "Harvard University",
           "Concord Academy",
-          "Harvard University"
+          "University of Pennsylvania",
+          "Bryn Mawr College"
         ],
         "employers": [
           {
