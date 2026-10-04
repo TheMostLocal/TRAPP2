@@ -1,55 +1,7 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-04T18:36:13.418965Z",
+  "fetchedAt": "2026-10-04T22:00:21.684382Z",
   "people": [
-    {
-      "qid": "Q265852",
-      "name": "Tim Cook",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q265852",
-        "name": "Tim Cook",
-        "dateOfBirth": "1960-11-01",
-        "birthPlace": "Mobile",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
-        "occupations": [
-          "presenter",
-          "manager",
-          "chief executive officer",
-          "businessperson",
-          "computer scientist",
-          "engineer"
-        ],
-        "education": [
-          "Rostrevor College",
-          "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2011-08-24",
-            "end": "2026-08-31"
-          }
-        ]
-      }
-    },
     {
       "qid": "Q709063",
       "name": "Arthur D. Levinson",
@@ -62,13 +14,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "businessperson",
+          "molecular biologist",
           "biochemist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -88,84 +40,6 @@
       }
     },
     {
-      "qid": "Q17388808",
-      "name": "Susan Wagner",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q17388808",
-        "name": "Susan Wagner",
-        "dateOfBirth": "1961-01-01",
-        "birthPlace": "Chicago",
-        "image": null,
-        "occupations": [
-          "economist",
-          "businessperson"
-        ],
-        "education": [
-          "Booth School of Business",
-          "University of Chicago",
-          "Wellesley College"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q7365310",
-      "name": "Ronald Sugar",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7365310",
-        "name": "Ronald Sugar",
-        "dateOfBirth": "1948-07-30",
-        "birthPlace": "Toronto",
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "University of California, Los Angeles"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6128032",
-      "name": "James A. Bell",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6128032",
-        "name": "James A. Bell",
-        "dateOfBirth": "1948-06-14",
-        "birthPlace": "Los Angeles",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20A.%20Bell.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "California State University, Los Angeles"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q19673",
       "name": "Al Gore",
       "role_at_company": "Board Member",
@@ -177,24 +51,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
+          "blogger",
+          "environmentalist",
           "climate activist",
+          "journalist",
           "farmer",
           "financier",
           "orator",
-          "blogger",
-          "environmentalist",
-          "journalist",
           "university teacher",
           "businessperson",
-          "politician",
-          "writer"
+          "writer",
+          "politician"
         ],
         "education": [
+          "Harvard College",
+          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -268,6 +142,84 @@
       }
     },
     {
+      "qid": "Q17388808",
+      "name": "Susan Wagner",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q17388808",
+        "name": "Susan Wagner",
+        "dateOfBirth": "1961-01-01",
+        "birthPlace": "Chicago",
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "economist"
+        ],
+        "education": [
+          "Booth School of Business",
+          "University of Chicago",
+          "Wellesley College"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7365310",
+      "name": "Ronald Sugar",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7365310",
+        "name": "Ronald Sugar",
+        "dateOfBirth": "1948-07-30",
+        "birthPlace": "Toronto",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of California, Los Angeles"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6128032",
+      "name": "James A. Bell",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6128032",
+        "name": "James A. Bell",
+        "dateOfBirth": "1948-06-14",
+        "birthPlace": "Los Angeles",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20A.%20Bell.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "California State University, Los Angeles"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q709063",
       "name": "Arthur D. Levinson",
       "role_at_company": "Board Member",
@@ -279,13 +231,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "businessperson",
+          "molecular biologist",
           "biochemist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -316,8 +268,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -352,25 +304,25 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
           "programmer",
-          "computer scientist",
-          "electronics technician",
-          "inventor",
           "entrepreneur",
+          "electronics technician",
           "engineer",
+          "computer scientist",
+          "inventor",
           "businessperson",
           "teacher",
           "actor"
         ],
         "education": [
+          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley"
+          "Homestead High School"
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -385,7 +337,7 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }
@@ -405,23 +357,28 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "film producer",
-          "designer",
           "technology entrepreneur",
+          "designer",
           "founder",
+          "film producer",
+          "entrepreneur",
           "financier",
           "general manager",
           "executive producer",
-          "inventor",
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "inventor"
         ],
         "education": [
-          "Homestead High School",
           "Reed College",
-          "De Anza College"
+          "De Anza College",
+          "Homestead High School"
         ],
         "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
           {
             "company": "NeXT",
             "start": null,
@@ -429,11 +386,6 @@
           },
           {
             "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           },

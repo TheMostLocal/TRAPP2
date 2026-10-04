@@ -1,7 +1,53 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-10-04T18:36:13.420477Z",
+  "fetchedAt": "2026-10-04T22:00:21.685962Z",
   "people": [
+    {
+      "qid": "Q95569597",
+      "name": "Robert Ford",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q95569597",
+        "name": "Robert Ford",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20B%20Ford.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Haas School of Business",
+          "Boston College"
+        ],
+        "employers": [
+          {
+            "company": "Abbott Laboratories",
+            "start": "1996-01-01",
+            "end": null
+          },
+          {
+            "company": "Becton Dickinson",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-03-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2019-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
     {
       "qid": "Q281657",
       "name": "Miles D. White",
@@ -28,34 +74,6 @@
           }
         ],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q114840869",
-      "name": "John Stratton",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114840869",
-        "name": "John Stratton",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Harvard Business School"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2017-01-01",
-            "end": null
-          }
-        ]
       }
     },
     {
@@ -111,9 +129,9 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
           "Lakeland University",
-          "University of Wisconsin\u2013Oshkosh"
+          "University of Wisconsin\u2013Oshkosh",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -253,6 +271,52 @@
       }
     },
     {
+      "qid": "Q95569597",
+      "name": "Robert Ford",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q95569597",
+        "name": "Robert Ford",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20B%20Ford.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Haas School of Business",
+          "Boston College"
+        ],
+        "employers": [
+          {
+            "company": "Abbott Laboratories",
+            "start": "1996-01-01",
+            "end": null
+          },
+          {
+            "company": "Becton Dickinson",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-03-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2019-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q94016219",
       "name": "Mike Roman",
       "role_at_company": "Board Member",
@@ -268,9 +332,9 @@
           "business executive"
         ],
         "education": [
+          "University of Southern California",
           "University of Wisconsin\u2013Stevens Point",
-          "University of Minnesota",
-          "University of Southern California"
+          "University of Minnesota"
         ],
         "employers": [
           {
@@ -323,11 +387,11 @@
         "education": [
           "National Defense University",
           "Virginia Military Institute",
-          "Hampton High School",
-          "Embry\u2013Riddle Aeronautical University",
           "Syracuse University",
           "George Washington University",
-          "Air University"
+          "Air University",
+          "Hampton High School",
+          "Embry\u2013Riddle Aeronautical University"
         ],
         "employers": [],
         "positions": [
@@ -394,12 +458,12 @@
             "end": null
           },
           {
-            "company": "University of Chicago",
+            "company": "New York University",
             "start": null,
             "end": null
           },
           {
-            "company": "New York University",
+            "company": "University of Chicago",
             "start": null,
             "end": null
           }
@@ -466,8 +530,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Rhode Island",
@@ -509,8 +573,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "banker"
+          "banker",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -536,6 +600,34 @@
             "title": "chief executive officer",
             "company": null,
             "start": "2018-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114840869",
+      "name": "John Stratton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114840869",
+        "name": "John Stratton",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Harvard Business School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2017-01-01",
             "end": null
           }
         ]

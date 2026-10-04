@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-10-04T18:55:32.759662Z",
+  "fetchedAt": "2026-10-04T22:00:21.729924Z",
   "people": [
     {
       "qid": "Q36215",
@@ -14,12 +14,12 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "patron of the arts",
-          "programmer",
           "philanthropist",
+          "programmer",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -393,8 +393,8 @@
         "birthPlace": "Logan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
         "occupations": [
-          "politician",
-          "diplomat"
+          "diplomat",
+          "politician"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -441,20 +441,20 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "chess player",
           "manager",
           "financier",
-          "entrepreneur",
+          "technology entrepreneur",
           "investor",
-          "banker",
+          "chess player",
           "computer scientist",
+          "banker",
+          "entrepreneur",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -491,14 +491,14 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "blogger",
           "programmer",
-          "investor",
           "software engineer",
+          "blogger",
+          "investor",
           "inventor",
           "engineer",
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "New Lisbon High School",
@@ -538,12 +538,12 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "patron of the arts",
-          "programmer",
           "philanthropist",
+          "programmer",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -585,8 +585,8 @@
           "angel investor"
         ],
         "education": [
-          "Harvard Graduate School of Education",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Graduate School of Education"
         ],
         "employers": [
           {
@@ -610,12 +610,12 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "patron of the arts",
-          "programmer",
           "philanthropist",
+          "programmer",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",

@@ -1,6 +1,6 @@
 {
   "ticker": "RBLX",
-  "fetchedAt": "2026-10-04T18:36:13.462918Z",
+  "fetchedAt": "2026-10-04T22:00:21.744300Z",
   "people": [
     {
       "qid": "Q20117554",
@@ -19,8 +19,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Eden Prairie High School",
-          "Stanford University"
+          "Stanford University",
+          "Eden Prairie High School"
         ],
         "employers": [],
         "positions": [

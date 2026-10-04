@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-10-04T18:36:13.425417Z",
+  "fetchedAt": "2026-10-04T22:00:21.692550Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -17,8 +17,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -74,13 +74,13 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
+          "university teacher",
           "entrepreneur",
-          "computer scientist",
-          "university teacher"
+          "computer scientist"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Fairfax High School"
+          "Fairfax High School",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -271,8 +271,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
-          "businessperson"
+          "businessperson",
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -313,8 +313,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -442,13 +442,13 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
+          "university teacher",
           "entrepreneur",
-          "computer scientist",
-          "university teacher"
+          "computer scientist"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Fairfax High School"
+          "Fairfax High School",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {

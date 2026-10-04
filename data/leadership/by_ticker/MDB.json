@@ -1,6 +1,6 @@
 {
   "ticker": "MDB",
-  "fetchedAt": "2026-10-04T18:55:32.759229Z",
+  "fetchedAt": "2026-10-04T22:00:21.729246Z",
   "people": [
     {
       "qid": "Q125516191",
@@ -53,8 +53,8 @@
         ],
         "education": [
           "University of Cape Town",
-          "Stanford University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -72,8 +72,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Tepper School of Business",

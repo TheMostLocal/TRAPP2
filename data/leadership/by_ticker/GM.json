@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-10-04T18:36:13.441552Z",
+  "fetchedAt": "2026-10-04T22:00:21.715030Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -117,8 +117,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Toronto",
           "University of California, Berkeley",
+          "University of Toronto",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -145,8 +145,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
           "politician",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -357,9 +357,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering",
-          "Massachusetts Institute of Technology"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [],
         "positions": []
@@ -378,22 +378,22 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
           "politician",
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [
+          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
+            "company": "Hasbro",
+            "start": null,
             "end": null
           },
           {
-            "company": "The Walt Disney Company",
+            "company": "Bain & Company",
             "start": null,
             "end": null
           },
@@ -408,12 +408,12 @@
             "end": null
           },
           {
-            "company": "Hasbro",
-            "start": null,
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
             "end": null
           },
           {
-            "company": "Bain & Company",
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           },
@@ -457,17 +457,17 @@
           {
             "title": "vice president",
             "company": null,
-            "start": "1989-01-01",
-            "end": null
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
             "start": null,
             "end": null
           },
           {
             "title": "vice president",
+            "company": null,
+            "start": "1989-01-01",
+            "end": null
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
             "start": null,
             "end": null
@@ -510,9 +510,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
-          "entrepreneur",
+          "executive",
           "businessperson",
-          "executive"
+          "entrepreneur"
         ],
         "education": [
           "Grosse Ile High School"

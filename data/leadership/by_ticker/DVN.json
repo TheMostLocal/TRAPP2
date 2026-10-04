@@ -1,6 +1,6 @@
 {
   "ticker": "DVN",
-  "fetchedAt": "2026-10-04T18:36:13.437139Z",
+  "fetchedAt": "2026-10-04T22:00:21.708427Z",
   "people": [
     {
       "qid": "Q749887",
@@ -14,11 +14,11 @@
         "birthPlace": "Holland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Prince%20by%20Gage%20Skidmore%20%28cropped%29.jpg",
         "occupations": [
+          "businessperson",
+          "entrepreneur",
           "aircraft pilot",
           "financier",
-          "military officer",
-          "entrepreneur",
-          "businessperson"
+          "military officer"
         ],
         "education": [
           "Holland Christian Schools",

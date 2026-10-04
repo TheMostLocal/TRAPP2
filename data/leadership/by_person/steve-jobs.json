@@ -5,23 +5,28 @@
   "birthPlace": "San Francisco",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
   "occupations": [
-    "film producer",
-    "designer",
     "technology entrepreneur",
+    "designer",
     "founder",
+    "film producer",
+    "entrepreneur",
     "financier",
     "general manager",
     "executive producer",
-    "inventor",
-    "entrepreneur",
-    "computer scientist"
+    "computer scientist",
+    "inventor"
   ],
   "education": [
-    "Homestead High School",
     "Reed College",
-    "De Anza College"
+    "De Anza College",
+    "Homestead High School"
   ],
   "employers": [
+    {
+      "company": "Apple Inc.",
+      "start": null,
+      "end": null
+    },
     {
       "company": "NeXT",
       "start": null,
@@ -29,11 +34,6 @@
     },
     {
       "company": "Atari, Inc.",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Apple Inc.",
       "start": null,
       "end": null
     },

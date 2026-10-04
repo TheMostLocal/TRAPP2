@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-10-04T18:36:13.455644Z",
+  "fetchedAt": "2026-10-04T22:00:21.734593Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -34,8 +34,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Oxford",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Oxford"
         ],
         "employers": [],
         "positions": []
@@ -74,8 +74,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "venture capitalist"
+          "venture capitalist",
+          "businessperson"
         ],
         "education": [
           "University of Montana"
@@ -137,10 +137,10 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
-          "rapper",
-          "animator",
           "film producer",
-          "film director"
+          "film director",
+          "rapper",
+          "animator"
         ],
         "education": [
           "Jesuit High School",
@@ -165,18 +165,18 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "St Catherine's College"
+          "St Catherine's College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",
@@ -247,17 +247,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur",
           "philanthropist",
-          "writer"
+          "writer",
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "Oregon State University",
-          "University of Oregon",
           "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Oregon State University",
+          "University of Oregon"
         ],
         "employers": [
           {
@@ -311,11 +311,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
+          "businessperson",
+          "engineer",
           "manager",
           "chief executive officer",
-          "businessperson",
-          "computer scientist",
-          "engineer"
+          "computer scientist"
         ],
         "education": [
           "Rostrevor College",
@@ -358,17 +358,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur",
           "philanthropist",
-          "writer"
+          "writer",
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "Oregon State University",
-          "University of Oregon",
           "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Oregon State University",
+          "University of Oregon"
         ],
         "employers": [
           {

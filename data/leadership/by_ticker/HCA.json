@@ -1,6 +1,6 @@
 {
   "ticker": "HCA",
-  "fetchedAt": "2026-10-04T18:55:32.749669Z",
+  "fetchedAt": "2026-10-04T22:00:21.717143Z",
   "people": [
     {
       "qid": "Q80049510",
@@ -78,8 +78,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []

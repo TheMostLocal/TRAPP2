@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-04T18:55:32.756118Z",
+  "fetchedAt": "2026-10-04T22:00:21.725014Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -194,9 +194,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
           "Harvard University",
@@ -204,24 +204,24 @@
         ],
         "employers": [
           {
-            "company": "Council of Economic Advisers",
-            "start": "2005-01-01",
-            "end": "2007-01-01"
-          },
-          {
             "company": "National Bureau of Economic Research",
             "start": "2001-01-01",
             "end": null
           },
           {
-            "company": "University of Chicago",
-            "start": "2017-01-01",
-            "end": null
+            "company": "Council of Economic Advisers",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
           },
           {
             "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
+          },
+          {
+            "company": "University of Chicago",
+            "start": "2017-01-01",
+            "end": null
           },
           {
             "company": "Dartmouth College",
@@ -269,11 +269,6 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
-          },
-          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -282,6 +277,11 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
           }
         ],
         "positions": [
@@ -309,9 +309,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
+          "Princeton University",
           "Harvard Law School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -457,9 +457,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
+          "businessperson",
           "basketball player",
-          "businessperson"
+          "accountant"
         ],
         "education": [
           "University of Notre Dame"
@@ -493,8 +493,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "oncologist",
           "researcher",
+          "oncologist",
           "university teacher"
         ],
         "education": [

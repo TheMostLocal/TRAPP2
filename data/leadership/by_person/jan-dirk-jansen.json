@@ -1,0 +1,25 @@
+{
+  "qid": "Q63873422",
+  "name": "Jan Dirk Jansen",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "researcher",
+    "dean"
+  ],
+  "education": [
+    "Delft University of Technology"
+  ],
+  "employers": [
+    {
+      "company": "Delft University of Technology",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "CEG"
+  ]
+}

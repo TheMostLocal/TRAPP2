@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-10-04T18:36:13.456901Z",
+  "fetchedAt": "2026-10-04T22:00:21.736180Z",
   "people": [
     {
       "qid": "Q305177",
@@ -14,14 +14,14 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "tech VIP",
-          "founder",
           "manager",
           "electrical engineer",
-          "entrepreneur",
-          "computer scientist",
+          "founder",
+          "tech VIP",
           "chief executive officer",
           "engineer",
+          "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
@@ -32,35 +32,6 @@
         ],
         "employers": [],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q6769848",
-      "name": "Mark Stevens",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6769848",
-        "name": "Mark Stevens",
-        "dateOfBirth": "1959-01-01",
-        "birthPlace": null,
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
-        "occupations": [],
-        "education": [
-          "Harvard Business School",
-          "Harvard University",
-          "University of Southern California",
-          "USC Viterbi School of Engineering"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2008-01-01",
-            "end": null
-          }
-        ]
       }
     },
     {
@@ -251,6 +222,35 @@
       }
     },
     {
+      "qid": "Q6769848",
+      "name": "Mark Stevens",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6769848",
+        "name": "Mark Stevens",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
+        "occupations": [],
+        "education": [
+          "Harvard University",
+          "University of Southern California",
+          "Harvard Business School",
+          "USC Viterbi School of Engineering"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2008-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q6228369",
       "name": "John O. Dabiri",
       "role_at_company": "Board Member",
@@ -264,21 +264,21 @@
         "occupations": [
           "biophysicist",
           "military flight engineer",
-          "engineer",
-          "university teacher"
+          "university teacher",
+          "engineer"
         ],
         "education": [
-          "Princeton University",
-          "California Institute of Technology"
+          "California Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
-            "company": "California Institute of Technology",
+            "company": "Stanford University",
             "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "California Institute of Technology",
             "start": null,
             "end": null
           }
@@ -305,14 +305,14 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "tech VIP",
-          "founder",
           "manager",
           "electrical engineer",
-          "entrepreneur",
-          "computer scientist",
+          "founder",
+          "tech VIP",
           "chief executive officer",
           "engineer",
+          "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
@@ -337,14 +337,14 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "tech VIP",
-          "founder",
           "manager",
           "electrical engineer",
-          "entrepreneur",
-          "computer scientist",
+          "founder",
+          "tech VIP",
           "chief executive officer",
           "engineer",
+          "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [

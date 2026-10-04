@@ -1,6 +1,6 @@
 {
   "ticker": "MCD",
-  "fetchedAt": "2026-10-04T18:55:32.758432Z",
+  "fetchedAt": "2026-10-04T22:00:21.727968Z",
   "people": [
     {
       "qid": "Q73426541",
@@ -65,8 +65,8 @@
         "birthPlace": "Oak Park",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Kroc%201976.jpg",
         "occupations": [
-          "restaurateur",
           "salesperson",
+          "restaurateur",
           "entrepreneur",
           "businessperson",
           "writer"
@@ -76,17 +76,17 @@
         ],
         "employers": [
           {
+            "company": "McDonald's",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Lily-Tulip Cup Company",
             "start": null,
             "end": null
           },
           {
             "company": "Prince Castle",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McDonald's",
             "start": null,
             "end": null
           }

@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-10-04T18:36:13.469306Z",
+  "fetchedAt": "2026-10-04T22:00:21.753427Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,27 +14,27 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "civil servant",
+          "philanthropist",
+          "technology entrepreneur",
           "dub actor",
+          "inventor",
           "programmer",
           "financier",
           "investor",
-          "technology entrepreneur",
-          "civil servant",
-          "philanthropist",
-          "engineer",
           "entrepreneur",
-          "inventor",
-          "politician"
+          "politician",
+          "engineer"
         ],
         "education": [
-          "Queen's University",
-          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "University of Pennsylvania",
           "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pennsylvania",
           "Stanford University"
         ],
         "employers": [
@@ -42,16 +42,6 @@
             "company": "Department of Government Efficiency",
             "start": "2025-01-20",
             "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
           },
           {
             "company": "PayPal",
@@ -69,13 +59,23 @@
             "end": "2019-01-01"
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
             "company": "Tesla",
             "start": "2004-04-23",
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           }
         ],
@@ -131,8 +131,8 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of New South Wales",
@@ -141,19 +141,9 @@
         ],
         "employers": [
           {
-            "company": "Tesla",
-            "start": "2014-01-01",
+            "company": "Telstra",
+            "start": "2017-01-01",
             "end": null
-          },
-          {
-            "company": "Arthur Andersen",
-            "start": "1984-12-01",
-            "end": "1989-08-01"
-          },
-          {
-            "company": "ABB Group",
-            "start": "2016-04-01",
-            "end": "2017-04-01"
           },
           {
             "company": "Toyota Australia",
@@ -171,14 +161,24 @@
             "end": "2013-01-01"
           },
           {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
+          },
+          {
+            "company": "Tesla",
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "company": "Arthur Andersen",
+            "start": "1984-12-01",
+            "end": "1989-08-01"
+          },
+          {
+            "company": "ABB Group",
+            "start": "2016-04-01",
+            "end": "2017-04-01"
           }
         ],
         "positions": [
@@ -205,6 +205,73 @@
             "company": null,
             "start": "http://www",
             "end": "2016-08-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6409751",
+      "name": "Kimbal Musk",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6409751",
+        "name": "Kimbal Musk",
+        "dateOfBirth": "1972-09-20",
+        "birthPlace": "Pretoria",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
+        "occupations": [
+          "environmentalist",
+          "restaurateur",
+          "entrepreneur"
+        ],
+        "education": [
+          "International Culinary Center",
+          "Queen's University"
+        ],
+        "employers": [
+          {
+            "company": "New York University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6107808",
+      "name": "J. B. Straubel",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6107808",
+        "name": "J. B. Straubel",
+        "dateOfBirth": "1965-12-20",
+        "birthPlace": "Wisconsin",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
+        "occupations": [
+          "businessperson",
+          "inventor",
+          "chief technology officer"
+        ],
+        "education": [
+          "Stanford University",
+          "Edgewood High School of the Sacred Heart"
+        ],
+        "employers": [
+          {
+            "company": "Tesla",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2023-05-16",
+            "end": null
           }
         ]
       }
@@ -327,8 +394,8 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of New South Wales",
@@ -337,19 +404,9 @@
         ],
         "employers": [
           {
-            "company": "Tesla",
-            "start": "2014-01-01",
+            "company": "Telstra",
+            "start": "2017-01-01",
             "end": null
-          },
-          {
-            "company": "Arthur Andersen",
-            "start": "1984-12-01",
-            "end": "1989-08-01"
-          },
-          {
-            "company": "ABB Group",
-            "start": "2016-04-01",
-            "end": "2017-04-01"
           },
           {
             "company": "Toyota Australia",
@@ -367,14 +424,24 @@
             "end": "2013-01-01"
           },
           {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
+          },
+          {
+            "company": "Tesla",
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "company": "Arthur Andersen",
+            "start": "1984-12-01",
+            "end": "1989-08-01"
+          },
+          {
+            "company": "ABB Group",
+            "start": "2016-04-01",
+            "end": "2017-04-01"
           }
         ],
         "positions": [
@@ -447,73 +514,6 @@
       }
     },
     {
-      "qid": "Q6409751",
-      "name": "Kimbal Musk",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6409751",
-        "name": "Kimbal Musk",
-        "dateOfBirth": "1972-09-20",
-        "birthPlace": "Pretoria",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
-        "occupations": [
-          "environmentalist",
-          "restaurateur",
-          "entrepreneur"
-        ],
-        "education": [
-          "International Culinary Center",
-          "Queen's University"
-        ],
-        "employers": [
-          {
-            "company": "New York University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6107808",
-      "name": "J. B. Straubel",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6107808",
-        "name": "J. B. Straubel",
-        "dateOfBirth": "1965-12-20",
-        "birthPlace": "Wisconsin",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
-        "occupations": [
-          "chief technology officer",
-          "inventor",
-          "businessperson"
-        ],
-        "education": [
-          "Stanford University",
-          "Edgewood High School of the Sacred Heart"
-        ],
-        "employers": [
-          {
-            "company": "Tesla",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2023-05-16",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q317521",
       "name": "Elon Musk",
       "role_at_company": "Board Member",
@@ -525,27 +525,27 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "civil servant",
+          "philanthropist",
+          "technology entrepreneur",
           "dub actor",
+          "inventor",
           "programmer",
           "financier",
           "investor",
-          "technology entrepreneur",
-          "civil servant",
-          "philanthropist",
-          "engineer",
           "entrepreneur",
-          "inventor",
-          "politician"
+          "politician",
+          "engineer"
         ],
         "education": [
-          "Queen's University",
-          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "University of Pennsylvania",
           "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pennsylvania",
           "Stanford University"
         ],
         "employers": [
@@ -553,16 +553,6 @@
             "company": "Department of Government Efficiency",
             "start": "2025-01-20",
             "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
           },
           {
             "company": "PayPal",
@@ -580,13 +570,23 @@
             "end": "2019-01-01"
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
             "company": "Tesla",
             "start": "2004-04-23",
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           }
         ],
@@ -643,15 +643,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "businessperson",
           "actor"
         ],
         "education": [
-          "University of Chicago",
           "South Shore High School",
-          "University of Illinois Urbana-Champaign"
+          "University of Illinois Urbana-Champaign",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -666,12 +666,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
-          },
           {
             "title": "chairperson",
             "company": null,
@@ -689,6 +683,12 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
           }
         ]
       }
@@ -705,9 +705,9 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
-          "karateka",
+          "businessperson",
           "publisher",
-          "businessperson"
+          "karateka"
         ],
         "education": [
           "Horace Mann School",

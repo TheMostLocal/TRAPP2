@@ -1,5 +1,34 @@
 {
   "ticker": "CEG",
-  "fetchedAt": "2026-10-04T18:36:13.430107Z",
-  "people": []
+  "fetchedAt": "2026-10-04T22:00:21.698710Z",
+  "people": [
+    {
+      "qid": "Q63873422",
+      "name": "Jan Dirk Jansen",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q63873422",
+        "name": "Jan Dirk Jansen",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "researcher",
+          "dean"
+        ],
+        "education": [
+          "Delft University of Technology"
+        ],
+        "employers": [
+          {
+            "company": "Delft University of Technology",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
 }

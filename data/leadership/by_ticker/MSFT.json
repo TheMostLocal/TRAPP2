@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-10-04T18:55:32.761858Z",
+  "fetchedAt": "2026-10-04T22:00:21.732488Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -14,12 +14,12 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
+          "engineer",
+          "computer scientist",
+          "entrepreneur",
           "manager",
           "electrotechnician",
-          "chief executive officer",
-          "entrepreneur",
-          "engineer",
-          "computer scientist"
+          "chief executive officer"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -110,11 +110,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "2017-01-01",
             "end": "2020-06-01"
@@ -133,6 +128,11 @@
             "company": "Dick's Sporting Goods",
             "start": "2015-08-01",
             "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -308,8 +308,8 @@
           "consultant",
           "podcaster",
           "financier",
-          "investor",
           "entrepreneur",
+          "investor",
           "businessperson",
           "writer"
         ],
@@ -395,12 +395,12 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
+          "engineer",
+          "computer scientist",
+          "entrepreneur",
           "manager",
           "electrotechnician",
-          "chief executive officer",
-          "entrepreneur",
-          "engineer",
-          "computer scientist"
+          "chief executive officer"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -444,24 +444,24 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
           "programmer",
-          "film producer",
-          "musician",
-          "television producer",
           "investor",
+          "film producer",
           "inventor",
+          "co-founder",
           "philanthropist",
           "art collector",
+          "television producer",
           "record producer",
-          "co-founder",
-          "entrepreneur",
-          "composer",
           "computer scientist",
-          "businessperson"
+          "musician",
+          "entrepreneur",
+          "businessperson",
+          "composer"
         ],
         "education": [
           "Washington State University",
-          "Harvard University",
-          "Lakeside School"
+          "Lakeside School",
+          "Harvard University"
         ],
         "employers": [
           {

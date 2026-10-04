@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-10-04T18:55:32.761149Z",
+  "fetchedAt": "2026-10-04T22:00:21.731644Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -14,8 +14,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "businessperson",
           "business executive",
+          "businessperson",
           "lawyer"
         ],
         "education": [
@@ -338,8 +338,8 @@
           "researcher"
         ],
         "education": [
-          "George Washington University Medical School",
-          "Harvard University"
+          "Harvard University",
+          "George Washington University Medical School"
         ],
         "employers": [],
         "positions": [
@@ -367,8 +367,8 @@
           "biophysicist"
         ],
         "education": [
-          "Pennsylvania State University",
-          "California Institute of Technology"
+          "California Institute of Technology",
+          "Pennsylvania State University"
         ],
         "employers": [
           {
@@ -438,11 +438,11 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Philadelphia",
+        "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
           "Stony Brook University",
@@ -531,8 +531,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "businessperson",
           "business executive",
+          "businessperson",
           "lawyer"
         ],
         "education": [

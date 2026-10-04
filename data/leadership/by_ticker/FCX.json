@@ -1,6 +1,6 @@
 {
   "ticker": "FCX",
-  "fetchedAt": "2026-10-04T18:36:13.439997Z",
+  "fetchedAt": "2026-10-04T22:00:21.712750Z",
   "people": [
     {
       "qid": "Q16501102",
@@ -14,14 +14,14 @@
         "birthPlace": "Tennessee",
         "image": null,
         "occupations": [
-          "head commissioner",
+          "entrepreneur",
           "accountant",
-          "entrepreneur"
+          "head commissioner"
         ],
         "education": [
+          "Harvard University",
           "Mississippi State University",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -90,14 +90,14 @@
         "birthPlace": "Tennessee",
         "image": null,
         "occupations": [
-          "head commissioner",
+          "entrepreneur",
           "accountant",
-          "entrepreneur"
+          "head commissioner"
         ],
         "education": [
+          "Harvard University",
           "Mississippi State University",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -115,8 +115,8 @@
         "birthPlace": "Blytheville",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ConocoPhillips%20CEO%20Ryan%20Lance%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Montana Technological University",
