@@ -1,6 +1,6 @@
 {
   "ticker": "RBLX",
-  "fetchedAt": "2026-10-04T18:36:13.462918Z",
+  "fetchedAt": "2026-10-04T21:13:40.892847Z",
   "people": [
     {
       "qid": "Q20117554",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Baszucki%20in%202021.jpg",
         "occupations": [
           "engineer",
-          "programmer",
-          "entrepreneur"
+          "entrepreneur",
+          "programmer"
         ],
         "education": [
           "Eden Prairie High School",

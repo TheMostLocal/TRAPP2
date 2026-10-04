@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "fetchedAt": "2026-10-04T18:55:32.751094Z",
+  "fetchedAt": "2026-10-04T21:07:55.935390Z",
   "people": [
     {
       "qid": "Q84053114",
@@ -202,9 +202,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
+          "entrepreneur",
           "business executive",
-          "merchant",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -286,8 +286,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [],
@@ -370,8 +370,8 @@
         "birthPlace": "Cologne",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Buberl%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "businessperson",
           "business manager",
+          "businessperson",
           "chairperson of the executive board",
           "bank teller"
         ],
@@ -433,8 +433,8 @@
         "birthPlace": "Stamford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martha%20E.%20Pollack%20in%202017.jpg",
         "occupations": [
-          "computer scientist",
-          "university president"
+          "university president",
+          "computer scientist"
         ],
         "education": [
           "University of Pennsylvania",
