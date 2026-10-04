@@ -1,0 +1,23 @@
+{
+  "ticker": "DXCM",
+  "qid": "Q15109865",
+  "fetchedAt": "2026-06-11T05:47:17.408902Z",
+  "source": "wikidata",
+  "name": "Dexcom",
+  "description": "company that develops, manufactures and distributes continuous glucose monitoring systems",
+  "website": "http://dexcom.com/",
+  "isin": "US2521311074",
+  "inception": "1999-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "San Diego",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "medical device"
+    }
+  ],
+  "countries": []
+}

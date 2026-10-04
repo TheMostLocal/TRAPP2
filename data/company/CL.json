@@ -1,0 +1,35 @@
+{
+  "ticker": "CL",
+  "qid": "Q657415",
+  "fetchedAt": "2026-06-11T05:32:52.538760Z",
+  "source": "wikidata",
+  "name": "Cleveland Museum of Art",
+  "description": "art museum in Cleveland, Ohio",
+  "website": "https://www.clevelandart.org/",
+  "isin": null,
+  "inception": "1913-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Cleveland",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "John Huntington"
+    },
+    {
+      "name": "Hinman B. Hurlbut"
+    },
+    {
+      "name": "Horace Kelley"
+    },
+    {
+      "name": "Jeptha Homer Wade II"
+    },
+    {
+      "name": "Jeptha Wade"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

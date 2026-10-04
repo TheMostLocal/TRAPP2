@@ -1,0 +1,28 @@
+{
+  "ticker": "RBLX",
+  "qid": "Q67186598",
+  "fetchedAt": "2026-06-11T05:40:17.617930Z",
+  "source": "wikidata",
+  "name": "Q67186598",
+  "description": "American video game developer",
+  "website": "https://corp.roblox.com/",
+  "isin": "US7710491033",
+  "inception": "2004-01-01",
+  "employees": null,
+  "industry": "video game industry",
+  "headquarters": "San Mateo",
+  "executives": [
+    {
+      "name": "David Baszucki",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "Roblox Studio"
+    }
+  ],
+  "countries": []
+}

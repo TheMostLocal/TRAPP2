@@ -1,0 +1,30 @@
+{
+  "ticker": "FTNT",
+  "qid": "Q2749364",
+  "fetchedAt": "2026-06-11T05:41:43.821512Z",
+  "source": "wikidata",
+  "name": "Fortinet",
+  "description": "network security corporation",
+  "website": "http://www.fortinet.com/",
+  "isin": "US34959E1091",
+  "inception": "2000-01-01",
+  "employees": 15109,
+  "industry": "computer security",
+  "headquarters": "Sunnyvale",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Ken Xie"
+    }
+  ],
+  "products": [
+    {
+      "name": "software"
+    },
+    {
+      "name": "networking hardware"
+    }
+  ],
+  "countries": []
+}
