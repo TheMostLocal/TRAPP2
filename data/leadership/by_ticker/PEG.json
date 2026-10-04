@@ -1,0 +1,37 @@
+{
+  "ticker": "PEG",
+  "fetchedAt": "2026-10-04T18:36:13.458932Z",
+  "people": [
+    {
+      "qid": "Q19862201",
+      "name": "Ralph Izzo",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q19862201",
+        "name": "Ralph Izzo",
+        "dateOfBirth": "1957-10-20",
+        "birthPlace": "New York City",
+        "image": null,
+        "occupations": [
+          "nuclear physicist",
+          "baseball player",
+          "business executive",
+          "nuclear engineer"
+        ],
+        "education": [
+          "Rutgers Business School \u2013 Newark and New Brunswick",
+          "Fu Foundation School of Engineering and Applied Science"
+        ],
+        "employers": [
+          {
+            "company": "Public Service Enterprise Group",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

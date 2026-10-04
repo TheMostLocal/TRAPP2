@@ -1,0 +1,115 @@
+{
+  "qid": "Q317521",
+  "name": "Elon Musk",
+  "dateOfBirth": "1971-06-28",
+  "birthPlace": "Pretoria",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
+  "occupations": [
+    "dub actor",
+    "programmer",
+    "financier",
+    "investor",
+    "technology entrepreneur",
+    "civil servant",
+    "philanthropist",
+    "engineer",
+    "entrepreneur",
+    "inventor",
+    "politician"
+  ],
+  "education": [
+    "Queen's University",
+    "The Wharton School",
+    "Smith School of Business",
+    "Bryanston High School",
+    "Waterkloof House Preparatory School",
+    "Pretoria Boys High School",
+    "University of Pennsylvania",
+    "University of Pretoria",
+    "Stanford University"
+  ],
+  "employers": [
+    {
+      "company": "Department of Government Efficiency",
+      "start": "2025-01-20",
+      "end": "2025-05-30"
+    },
+    {
+      "company": "Neuralink",
+      "start": "2016-07-01",
+      "end": null
+    },
+    {
+      "company": "The Boring Company",
+      "start": "2016-12-17",
+      "end": null
+    },
+    {
+      "company": "PayPal",
+      "start": "1998-12-01",
+      "end": null
+    },
+    {
+      "company": "SolarCity",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "OpenAI",
+      "start": "2015-12-11",
+      "end": "2019-01-01"
+    },
+    {
+      "company": "SpaceX",
+      "start": "2002-06-01",
+      "end": null
+    },
+    {
+      "company": "Tesla",
+      "start": "2004-04-23",
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2002-01-01",
+      "end": null
+    },
+    {
+      "title": "co-president",
+      "company": null,
+      "start": "2016-07-01",
+      "end": null
+    },
+    {
+      "title": "chairperson",
+      "company": null,
+      "start": "2008-01-01",
+      "end": "2018-11-01"
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2008-10-01",
+      "end": null
+    },
+    {
+      "title": "Senior Advisor to the President of the United States",
+      "company": null,
+      "start": "2025-01-20",
+      "end": "2025-05-30"
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2022-10-28",
+      "end": "2023-06-05"
+    }
+  ],
+  "currentTickers": [
+    "TSLA",
+    "TSLA"
+  ]
+}

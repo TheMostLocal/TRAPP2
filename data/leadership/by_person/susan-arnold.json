@@ -1,0 +1,29 @@
+{
+  "qid": "Q535362",
+  "name": "Susan Arnold",
+  "dateOfBirth": "1954-01-01",
+  "birthPlace": "Pittsburgh",
+  "image": null,
+  "occupations": [
+    "manager",
+    "businessperson"
+  ],
+  "education": [
+    "University of Pennsylvania",
+    "Joseph M. Katz Graduate School of Business",
+    "University of Pittsburgh"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "chairperson of the executive board",
+      "company": null,
+      "start": "2021-01-01",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "DIS",
+    "DIS"
+  ]
+}

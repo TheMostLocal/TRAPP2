@@ -1,0 +1,43 @@
+{
+  "qid": "Q36215",
+  "name": "Mark Zuckerberg",
+  "dateOfBirth": "1984-05-14",
+  "birthPlace": "White Plains",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
+  "occupations": [
+    "patron of the arts",
+    "philanthropist",
+    "programmer",
+    "computer scientist",
+    "chief executive officer",
+    "entrepreneur"
+  ],
+  "education": [
+    "Phillips Exeter Academy",
+    "Harvard University",
+    "Mercy University",
+    "Johns Hopkins Center for Talented Youth",
+    "Ardsley High School",
+    "New York Medical College"
+  ],
+  "employers": [
+    {
+      "company": "Meta Platforms",
+      "start": "2004-02-04",
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2004-02-04",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "META",
+    "META",
+    "META"
+  ]
+}

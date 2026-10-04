@@ -1,0 +1,29 @@
+{
+  "qid": "Q6425854",
+  "name": "Koh Boon Hwee",
+  "dateOfBirth": "1950-11-17",
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "investor",
+    "chairperson"
+  ],
+  "education": [
+    "Harvard Business School",
+    "Imperial College London",
+    "University of London",
+    "Harvard University"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2003-05-21",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "A"
+  ]
+}

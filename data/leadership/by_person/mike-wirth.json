@@ -1,0 +1,27 @@
+{
+  "qid": "Q48562446",
+  "name": "Mike Wirth",
+  "dateOfBirth": "1960-10-15",
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "engineer",
+    "chief executive officer"
+  ],
+  "education": [
+    "University of Colorado",
+    "University of Colorado Boulder"
+  ],
+  "employers": [
+    {
+      "company": "Chevron Corporation",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "CVX",
+    "CVX"
+  ]
+}
