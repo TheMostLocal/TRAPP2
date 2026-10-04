@@ -36,13 +36,27 @@ def read_json(path, default=None):
         return default
 
 
+def finite(obj):
+    """Recursively replace NaN / ±Infinity with None. Python's json writes them as
+    bare NaN tokens, which browsers (JSON.parse) and Postgres/PostgREST REJECT —
+    one NaN made a whole regime_snapshots upsert batch fail."""
+    if isinstance(obj, float):
+        return obj if math.isfinite(obj) else None
+    if isinstance(obj, dict):
+        return {k: finite(v) for k, v in obj.items()}
+    if isinstance(obj, (list, tuple)):
+        return [finite(v) for v in obj]
+    return obj
+
+
 def write_json(path, data, compact=False):
     p = Path(path)
     p.parent.mkdir(parents=True, exist_ok=True)
+    data = finite(data)
     if compact:
-        p.write_text(json.dumps(data, separators=(",", ":")))
+        p.write_text(json.dumps(data, separators=(",", ":"), allow_nan=False))
     else:
-        p.write_text(json.dumps(data, indent=2))
+        p.write_text(json.dumps(data, indent=2, allow_nan=False))
 
 
 def load_history(ticker):
@@ -70,9 +84,11 @@ def load_history(ticker):
         if d is None or p is None:
             continue
         try:
-            out.append((str(d)[:10], float(p)))
+            fp = float(p)
         except (ValueError, TypeError):
             continue
+        if math.isfinite(fp):
+            out.append((str(d)[:10], fp))
     out.sort()
     return out
 
@@ -95,9 +111,11 @@ def load_macro_series(series_id):
         if not d or v in (None, ".", ""):
             continue
         try:
-            out.append((str(d)[:10], float(v)))
+            fv = float(v)
         except (ValueError, TypeError):
             continue
+        if math.isfinite(fv):
+            out.append((str(d)[:10], fv))
     out.sort()
     return out
 
