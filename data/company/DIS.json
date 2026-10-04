@@ -1,7 +1,7 @@
 {
   "ticker": "DIS",
   "qid": "Q7414",
-  "fetchedAt": "2026-06-11T05:40:52.596042Z",
+  "fetchedAt": "2026-10-04T20:59:03.019963Z",
   "source": "wikidata",
   "name": "The Walt Disney Company",
   "description": "American multinational mass media company",
@@ -9,7 +9,7 @@
   "isin": "US2546871060",
   "inception": "1923-10-16",
   "employees": 201000,
-  "industry": "media industry",
+  "industry": "entertainment industry",
   "headquarters": "Burbank",
   "executives": [
     {
@@ -25,11 +25,7 @@
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Michael Eisner",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Bob Iger",
+      "name": "Walt Disney",
       "role": "Chief Executive Officer"
     },
     {
@@ -45,7 +41,11 @@
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Walt Disney",
+      "name": "Michael Eisner",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Bob Iger",
       "role": "Chief Executive Officer"
     },
     {
@@ -54,6 +54,22 @@
     }
   ],
   "board": [
+    {
+      "name": "Mark Parker",
+      "role": "Board Member"
+    },
+    {
+      "name": "Susan Arnold",
+      "role": "Board Member"
+    },
+    {
+      "name": "Safra Catz",
+      "role": "Board Member"
+    },
+    {
+      "name": "Bob Chapek",
+      "role": "Board Member"
+    },
     {
       "name": "Caroline Leonetti Ahmanson",
       "role": "Board Member"
@@ -75,23 +91,7 @@
       "role": "Board Member"
     },
     {
-      "name": "Mark Parker",
-      "role": "Board Member"
-    },
-    {
-      "name": "Susan Arnold",
-      "role": "Board Member"
-    },
-    {
-      "name": "Safra Catz",
-      "role": "Board Member"
-    },
-    {
       "name": "Calvin McDonald",
-      "role": "Board Member"
-    },
-    {
-      "name": "Amy Chang",
       "role": "Board Member"
     },
     {
@@ -99,16 +99,16 @@
       "role": "Board Member"
     },
     {
-      "name": "Bob Chapek",
+      "name": "Amy Chang",
       "role": "Board Member"
     }
   ],
   "founders": [
     {
-      "name": "Roy O. Disney"
+      "name": "Walt Disney"
     },
     {
-      "name": "Walt Disney"
+      "name": "Roy O. Disney"
     }
   ],
   "products": [
@@ -119,10 +119,10 @@
       "name": "video game"
     },
     {
-      "name": "music"
+      "name": "software"
     },
     {
-      "name": "software"
+      "name": "music"
     }
   ],
   "countries": [

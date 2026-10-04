@@ -1,7 +1,7 @@
 {
   "ticker": "HOOD",
   "qid": "Q18155123",
-  "fetchedAt": "2026-06-11T05:51:34.732725Z",
+  "fetchedAt": "2026-10-04T21:21:50.478695Z",
   "source": "wikidata",
   "name": "Robinhood",
   "description": "American financial services company",
@@ -15,7 +15,7 @@
   "board": [],
   "founders": [
     {
-      "name": "Vladimir Tenev"
+      "name": "Vlad Tenev"
     },
     {
       "name": "Baiju Bhatt"

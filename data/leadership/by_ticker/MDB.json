@@ -1,6 +1,6 @@
 {
   "ticker": "MDB",
-  "fetchedAt": "2026-10-04T18:55:32.759229Z",
+  "fetchedAt": "2026-10-04T21:07:55.947463Z",
   "people": [
     {
       "qid": "Q125516191",
@@ -69,11 +69,11 @@
         "qid": "Q5483294",
         "name": "Francisco D'Souza",
         "dateOfBirth": "1968-08-23",
-        "birthPlace": "Nairobi",
+        "birthPlace": "Kenya",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Tepper School of Business",

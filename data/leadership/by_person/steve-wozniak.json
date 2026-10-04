@@ -16,6 +16,7 @@
     "actor"
   ],
   "education": [
+    "University of California, Berkeley",
     "University of Colorado",
     "De Anza College",
     "University of Colorado Boulder",
@@ -24,7 +25,7 @@
   ],
   "employers": [
     {
-      "company": "Atari, Inc.",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     },
@@ -39,7 +40,7 @@
       "end": null
     },
     {
-      "company": "Apple Inc.",
+      "company": "Atari, Inc.",
       "start": null,
       "end": null
     }

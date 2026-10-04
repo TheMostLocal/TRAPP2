@@ -18,8 +18,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgetown University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Georgetown University"
         ],
         "employers": [
           {
@@ -247,8 +247,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgetown University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Georgetown University"
         ],
         "employers": [
           {
@@ -399,9 +399,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {
@@ -491,10 +491,10 @@
           "governor"
         ],
         "education": [
-          "National Taiwan Normal University",
-          "University of Utah",
           "Highland High School",
-          "The Wharton School"
+          "The Wharton School",
+          "National Taiwan Normal University",
+          "University of Utah"
         ],
         "employers": [],
         "positions": [

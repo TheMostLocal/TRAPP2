@@ -14,8 +14,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "businessperson",
+          "molecular biologist",
           "biochemist"
         ],
         "education": [
@@ -231,8 +231,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "businessperson",
+          "molecular biologist",
           "biochemist"
         ],
         "education": [
@@ -268,8 +268,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -314,6 +314,7 @@
           "actor"
         ],
         "education": [
+          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
@@ -322,7 +323,7 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -337,7 +338,7 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }
@@ -369,9 +370,9 @@
           "inventor"
         ],
         "education": [
-          "Homestead High School",
           "Reed College",
-          "De Anza College"
+          "De Anza College",
+          "Homestead High School"
         ],
         "employers": [
           {

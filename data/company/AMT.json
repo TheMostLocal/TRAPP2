@@ -1,9 +1,9 @@
 {
   "ticker": "AMT",
   "qid": "Q23239",
-  "fetchedAt": "2026-06-11T05:37:06.369951Z",
+  "fetchedAt": "2026-10-04T20:50:48.110852Z",
   "source": "wikidata",
-  "name": "Amtrak",
+  "name": "Q23239",
   "description": "American intercity passenger rail operator",
   "website": "https://amtrak.com",
   "isin": null,
@@ -20,10 +20,10 @@
       "name": "contiguous United States"
     },
     {
-      "name": "British Columbia"
+      "name": "Quebec"
     },
     {
-      "name": "Quebec"
+      "name": "British Columbia"
     },
     {
       "name": "Ontario"

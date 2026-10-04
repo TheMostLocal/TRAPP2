@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "University of Colorado",
@@ -200,8 +200,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Harvard Law School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -312,7 +312,7 @@
         ],
         "employers": [
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Imperial College London",
             "start": null,
             "end": null
           },
@@ -374,8 +374,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "University of Colorado",

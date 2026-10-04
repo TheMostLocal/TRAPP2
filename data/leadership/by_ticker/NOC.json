@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-10-04T18:36:13.456023Z",
+  "fetchedAt": "2026-10-04T21:35:14.883750Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -23,17 +23,17 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -70,6 +70,61 @@
             "end": null
           }
         ]
+      }
+    },
+    {
+      "qid": "Q55196710",
+      "name": "David Abney",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q55196710",
+        "name": "David Abney",
+        "dateOfBirth": "1955-01-01",
+        "birthPlace": "Greenwood",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Abney%20by%20Gage%20Skidmore.jpg",
+        "occupations": [
+          "chief executive officer",
+          "businessperson"
+        ],
+        "education": [
+          "Pillow Academy",
+          "Delta State University"
+        ],
+        "employers": [
+          {
+            "company": "United Parcel Service",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "chief executive officer",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q19865738",
+      "name": "Marianne C. Brown",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q19865738",
+        "name": "Marianne C. Brown",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": "Brooklyn",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Concordia College"
+        ],
+        "employers": [],
+        "positions": []
       }
     },
     {
@@ -156,9 +211,9 @@
           "business executive"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Sloan Fellows Program",
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -179,8 +234,8 @@
           "businessperson"
         ],
         "education": [
-          "Simmons University",
           "Harvard Business School",
+          "Simmons University",
           "Harvard University"
         ],
         "employers": [],
@@ -202,12 +257,12 @@
           "military officer"
         ],
         "education": [
-          "National War College",
-          "John F. Kennedy School of Government",
           "John H. Reagan High School",
           "Wentworth Military Academy and College",
           "Webster University",
-          "United States Air Force Academy"
+          "United States Air Force Academy",
+          "National War College",
+          "John F. Kennedy School of Government"
         ],
         "employers": [
           {
@@ -274,61 +329,6 @@
       }
     },
     {
-      "qid": "Q55196710",
-      "name": "David Abney",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q55196710",
-        "name": "David Abney",
-        "dateOfBirth": "1955-01-01",
-        "birthPlace": "Greenwood",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Abney%20by%20Gage%20Skidmore.jpg",
-        "occupations": [
-          "chief executive officer",
-          "businessperson"
-        ],
-        "education": [
-          "Pillow Academy",
-          "Delta State University"
-        ],
-        "employers": [
-          {
-            "company": "United Parcel Service",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "chief executive officer",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q19865738",
-      "name": "Marianne C. Brown",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q19865738",
-        "name": "Marianne C. Brown",
-        "dateOfBirth": "1959-01-01",
-        "birthPlace": "Brooklyn",
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Concordia College"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q114978153",
       "name": "Graham Robinson",
       "role_at_company": "Board Member",
@@ -366,8 +366,8 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
-          "Yale Law School"
+          "Yale Law School",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -433,17 +433,17 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }

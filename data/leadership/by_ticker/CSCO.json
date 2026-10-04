@@ -241,14 +241,14 @@
         ],
         "employers": [
           {
-            "company": "Duke University",
-            "start": "1999-01-01",
-            "end": "2007-01-01"
-          },
-          {
             "company": "University of Colorado Boulder",
             "start": "1985-01-01",
             "end": "1999-01-01"
+          },
+          {
+            "company": "Duke University",
+            "start": "1999-01-01",
+            "end": "2007-01-01"
           }
         ],
         "positions": []
@@ -463,11 +463,6 @@
         ],
         "employers": [
           {
-            "company": "AMD",
-            "start": "2012-01-01",
-            "end": null
-          },
-          {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
             "end": null
@@ -475,6 +470,11 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
+            "end": null
+          },
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
             "end": null
           },
           {

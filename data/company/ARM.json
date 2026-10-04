@@ -1,35 +1,23 @@
 {
   "ticker": "ARM",
-  "qid": "Q296782",
-  "fetchedAt": "2026-06-11T05:41:40.682692Z",
+  "qid": "Q9219",
+  "fetchedAt": "2026-10-04T21:01:07.573344Z",
   "source": "wikidata",
-  "name": "Arm Holdings",
-  "description": "British multinational semiconductor and software design company",
-  "website": "https://www.arm.com/",
-  "isin": "US0420682058",
-  "inception": "1990-01-01",
-  "employees": 3294,
+  "name": "United States Military Academy",
+  "description": "federal service academy in West Point, New York, United States",
+  "website": "https://www.westpoint.edu",
+  "isin": null,
+  "inception": "1802-03-16",
+  "employees": 1918,
   "industry": null,
-  "headquarters": "Cambridge",
-  "executives": [
-    {
-      "name": "Rene Haas",
-      "role": "Chief Executive Officer"
-    }
-  ],
+  "headquarters": null,
+  "executives": [],
   "board": [],
   "founders": [
     {
-      "name": "Robin Saxby"
+      "name": "Thomas Jefferson"
     }
   ],
-  "products": [
-    {
-      "name": "reduced instruction set computing"
-    },
-    {
-      "name": "software"
-    }
-  ],
+  "products": [],
   "countries": []
 }

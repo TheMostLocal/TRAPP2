@@ -276,6 +276,11 @@
         ],
         "employers": [
           {
+            "company": "Groupe TF1",
+            "start": "2016-01-01",
+            "end": "2023-01-01"
+          },
+          {
             "company": "Bouygues Telecom",
             "start": "2001-01-01",
             "end": "2005-01-01"
@@ -412,8 +417,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Rhode Island",
@@ -463,11 +468,6 @@
         ],
         "employers": [
           {
-            "company": "Qualcomm",
-            "start": "2004-01-01",
-            "end": "2015-01-01"
-          },
-          {
             "company": "Koninklijke Philips NV",
             "start": "1983-01-01",
             "end": "2000-01-01"
@@ -476,6 +476,11 @@
             "company": "Intel",
             "start": "2015-11-01",
             "end": "2020-08-01"
+          },
+          {
+            "company": "Qualcomm",
+            "start": "2004-01-01",
+            "end": "2015-01-01"
           },
           {
             "company": "Skyworks Solutions",

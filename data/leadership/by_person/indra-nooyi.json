@@ -10,10 +10,10 @@
   "education": [
     "Indian Institute of Management Calcutta",
     "University of Madras",
+    "Yale University",
     "Yale School of Management",
     "Holy Angels Anglo Indian Higher Secondary School",
-    "Madras Christian College",
-    "Yale University"
+    "Madras Christian College"
   ],
   "employers": [
     {
@@ -44,6 +44,11 @@
     {
       "company": "Amazon",
       "start": "2019-01-01",
+      "end": null
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "start": null,
       "end": null
     }
   ],

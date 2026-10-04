@@ -17,9 +17,9 @@
           "business executive"
         ],
         "education": [
+          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School",
-          "Harvard University"
+          "Scarsdale High School"
         ],
         "employers": [
           {
@@ -68,6 +68,11 @@
         ],
         "employers": [
           {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
             "end": "1994-01-01"
@@ -81,11 +86,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -119,9 +119,9 @@
           "business executive"
         ],
         "education": [
+          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School",
-          "Harvard University"
+          "Scarsdale High School"
         ],
         "employers": [
           {
@@ -294,6 +294,7 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
+          "intelligence officer",
           "spy",
           "intelligence officer",
           "soldier"
@@ -336,13 +337,13 @@
         "occupations": [
           "executive",
           "dean",
-          "academic",
           "university teacher",
+          "academic",
           "computer scientist"
         ],
         "education": [
-          "University of Michigan",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "University of Michigan"
         ],
         "employers": [
           {
@@ -430,6 +431,11 @@
         ],
         "employers": [
           {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
             "end": "1994-01-01"
@@ -443,11 +449,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -483,10 +484,10 @@
         "education": [
           "Indian Institute of Management Calcutta",
           "University of Madras",
+          "Yale University",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College",
-          "Yale University"
+          "Madras Christian College"
         ],
         "employers": [
           {
@@ -517,6 +518,11 @@
           {
             "company": "Amazon",
             "start": "2019-01-01",
+            "end": null
+          },
+          {
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],
@@ -597,6 +603,11 @@
         ],
         "employers": [
           {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
             "end": "1994-01-01"
@@ -610,11 +621,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

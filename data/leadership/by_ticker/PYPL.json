@@ -1,6 +1,6 @@
 {
   "ticker": "PYPL",
-  "fetchedAt": "2026-10-04T18:36:13.462600Z",
+  "fetchedAt": "2026-10-04T21:35:14.893064Z",
   "people": [
     {
       "qid": "Q5214356",
@@ -48,8 +48,8 @@
         ],
         "education": [
           "Dartmouth College",
-          "Stanford University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {

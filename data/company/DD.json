@@ -1,7 +1,7 @@
 {
   "ticker": "DD",
   "qid": "Q221062",
-  "fetchedAt": "2026-06-11T05:49:26.444832Z",
+  "fetchedAt": "2026-10-04T21:18:50.737040Z",
   "source": "wikidata",
   "name": "DuPont",
   "description": "American multinational chemical company",
@@ -15,10 +15,6 @@
     {
       "name": "Edward D. Breen",
       "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Charles O. Holliday, Jr.",
-      "role": "Chairperson"
     }
   ],
   "board": [],

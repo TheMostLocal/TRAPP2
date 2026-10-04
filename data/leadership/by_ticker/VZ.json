@@ -1,6 +1,6 @@
 {
   "ticker": "VZ",
-  "fetchedAt": "2026-10-04T18:36:13.473195Z",
+  "fetchedAt": "2026-10-04T21:35:14.909510Z",
   "people": [
     {
       "qid": "Q1582880",
@@ -14,8 +14,8 @@
         "birthPlace": "Hudiksvall",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Vestberg.jpg",
         "occupations": [
-          "businessperson",
-          "handball player"
+          "handball player",
+          "businessperson"
         ],
         "education": [
           "Uppsala University"
@@ -44,8 +44,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shellye-Archambeau-CEO.jpg",
         "occupations": [
           "business executive",
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School"
@@ -66,13 +66,13 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Bertolini%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
+          "Cornell University",
           "Samuel Curtis Johnson Graduate School of Management",
-          "Wayne State University",
-          "Cornell University"
+          "Wayne State University"
         ],
         "employers": [
           {
@@ -191,8 +191,8 @@
         "birthPlace": "Hudiksvall",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Vestberg.jpg",
         "occupations": [
-          "businessperson",
-          "handball player"
+          "handball player",
+          "businessperson"
         ],
         "education": [
           "Uppsala University"

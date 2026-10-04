@@ -1,7 +1,7 @@
 {
   "ticker": "CMCSA",
   "qid": "Q1113804",
-  "fetchedAt": "2026-06-11T05:43:21.331288Z",
+  "fetchedAt": "2026-10-04T21:05:13.674542Z",
   "source": "wikidata",
   "name": "Comcast",
   "description": "American multinational telecommunications conglomerate",
@@ -9,7 +9,7 @@
   "isin": "US20030N2001",
   "inception": "1963-06-28",
   "employees": null,
-  "industry": "telecommunications",
+  "industry": "telecommunications industry",
   "headquarters": "Philadelphia",
   "executives": [
     {
