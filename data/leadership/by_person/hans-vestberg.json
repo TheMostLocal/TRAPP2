@@ -1,0 +1,27 @@
+{
+  "qid": "Q1582880",
+  "name": "Hans Vestberg",
+  "dateOfBirth": "1965-06-23",
+  "birthPlace": "Hudiksvall",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Vestberg.jpg",
+  "occupations": [
+    "businessperson",
+    "handball player"
+  ],
+  "education": [
+    "Uppsala University"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2018-08-01",
+      "end": "2025-10-01"
+    }
+  ],
+  "currentTickers": [
+    "VZ",
+    "VZ"
+  ]
+}
