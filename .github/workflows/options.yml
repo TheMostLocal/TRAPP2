@@ -1,4 +1,4 @@
-#  >>> DESTINATION: GoodGlobeLLC/TRAPP2  (.github/workflows/options.yml — NEW FILE)
+#  >>> DESTINATION: TheMostLocal/TRAPP2  (.github/workflows/options.yml — NEW FILE)
 name: Options Chains
 
 # Pulls live options chains + computes Greeks for the main tickers, writing
