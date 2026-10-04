@@ -1,6 +1,6 @@
 {
   "ticker": "COST",
-  "fetchedAt": "2026-10-04T18:36:13.432314Z",
+  "fetchedAt": "2026-10-04T23:02:59.537066Z",
   "people": [
     {
       "qid": "Q114361370",
@@ -55,8 +55,8 @@
         "birthPlace": "Providence",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HelenaFoulkes%20CROP.jpg",
         "occupations": [
-          "politician",
-          "businessperson"
+          "businessperson",
+          "politician"
         ],
         "education": [
           "Harvard Business School",
@@ -119,13 +119,13 @@
         "birthPlace": "Wyandotte",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "Choate Rosemary Hall",
           "Harvard Business School",
-          "Harvard College"
+          "Harvard College",
+          "Choate Rosemary Hall"
         ],
         "employers": [],
         "positions": [
@@ -273,8 +273,8 @@
         "birthPlace": "Nebraska",
         "image": null,
         "occupations": [
-          "businessperson",
           "computer scientist",
+          "businessperson",
           "chief executive officer"
         ],
         "education": [

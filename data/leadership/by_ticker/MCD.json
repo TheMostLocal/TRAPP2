@@ -1,6 +1,6 @@
 {
   "ticker": "MCD",
-  "fetchedAt": "2026-10-04T18:55:32.758432Z",
+  "fetchedAt": "2026-10-04T23:02:59.562765Z",
   "people": [
     {
       "qid": "Q73426541",
@@ -22,11 +22,6 @@
         ],
         "employers": [
           {
-            "company": "McDonald's",
-            "start": "2015-01-01",
-            "end": null
-          },
-          {
             "company": "Kraft Foods Inc.",
             "start": "2008-01-01",
             "end": "2012-01-01"
@@ -35,6 +30,11 @@
             "company": "Kraft Foods Group",
             "start": "2012-01-01",
             "end": "2015-01-01"
+          },
+          {
+            "company": "McDonald's",
+            "start": "2015-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -67,8 +67,8 @@
         "occupations": [
           "restaurateur",
           "salesperson",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [

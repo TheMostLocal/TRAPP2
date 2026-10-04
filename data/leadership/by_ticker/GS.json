@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-10-04T18:36:13.442617Z",
+  "fetchedAt": "2026-10-04T23:02:59.551463Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -52,23 +52,23 @@
         "occupations": [
           "academic",
           "investment banker",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
-          "Harvard Law School",
           "Harvard Business School",
           "University of Oxford",
+          "Harvard Law School",
           "King's College, Lagos"
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Credit Suisse First Boston",
             "start": null,
             "end": null
           },
           {
-            "company": "Credit Suisse First Boston",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -88,8 +88,8 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "director",
           "computer scientist",
+          "director",
           "businessperson"
         ],
         "education": [
@@ -122,11 +122,11 @@
           "business executive"
         ],
         "education": [
+          "Northwestern University",
+          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management",
-          "Northwestern University",
-          "Tufts University"
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -401,10 +401,10 @@
           "university teacher"
         ],
         "education": [
-          "Harvard University",
-          "Concord Academy",
+          "Bryn Mawr College",
           "University of Pennsylvania",
-          "Bryn Mawr College"
+          "Concord Academy",
+          "Harvard University"
         ],
         "employers": [
           {

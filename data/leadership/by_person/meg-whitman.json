@@ -5,8 +5,8 @@
   "birthPlace": "Cold Spring Harbor",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
   "occupations": [
-    "politician",
     "business executive",
+    "politician",
     "entrepreneur"
   ],
   "education": [
@@ -16,8 +16,8 @@
   ],
   "employers": [
     {
-      "company": "Procter & Gamble",
-      "start": "1979-01-01",
+      "company": "DreamWorks",
+      "start": null,
       "end": null
     },
     {
@@ -26,12 +26,7 @@
       "end": null
     },
     {
-      "company": "Hewlett-Packard",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "DreamWorks",
+      "company": "Quibi",
       "start": null,
       "end": null
     },
@@ -46,18 +41,17 @@
       "end": null
     },
     {
-      "company": "Quibi",
+      "company": "Procter & Gamble",
+      "start": "1979-01-01",
+      "end": null
+    },
+    {
+      "company": "Hewlett-Packard",
       "start": null,
       "end": null
     }
   ],
   "positions": [
-    {
-      "title": "general manager",
-      "company": null,
-      "start": "1997-01-01",
-      "end": null
-    },
     {
       "title": "chief executive officer",
       "company": null,
@@ -77,10 +71,22 @@
       "end": null
     },
     {
+      "title": "general manager",
+      "company": null,
+      "start": "1997-01-01",
+      "end": null
+    },
+    {
       "title": "chief executive officer",
       "company": null,
       "start": "1998-01-01",
       "end": "2008-01-01"
+    },
+    {
+      "title": "vice president",
+      "company": null,
+      "start": null,
+      "end": null
     },
     {
       "title": "vice president",
@@ -90,12 +96,6 @@
     },
     {
       "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-      "company": null,
-      "start": null,
-      "end": null
-    },
-    {
-      "title": "vice president",
       "company": null,
       "start": null,
       "end": null

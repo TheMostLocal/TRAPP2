@@ -1,6 +1,6 @@
 {
   "ticker": "SPOT",
-  "fetchedAt": "2026-10-04T18:36:13.465813Z",
+  "fetchedAt": "2026-10-04T23:02:59.583866Z",
   "people": [
     {
       "qid": "Q901670",
@@ -39,10 +39,10 @@
           "entrepreneur"
         ],
         "education": [
-          "School of Business, Economics and Law",
-          "Stockholm School of Economics",
           "Chalmers University of Technology",
-          "Stockholm University"
+          "Stockholm University",
+          "School of Business, Economics and Law",
+          "Stockholm School of Economics"
         ],
         "employers": [],
         "positions": []
@@ -85,10 +85,10 @@
           "entrepreneur"
         ],
         "education": [
-          "School of Business, Economics and Law",
-          "Stockholm School of Economics",
           "Chalmers University of Technology",
-          "Stockholm University"
+          "Stockholm University",
+          "School of Business, Economics and Law",
+          "Stockholm School of Economics"
         ],
         "employers": [],
         "positions": []

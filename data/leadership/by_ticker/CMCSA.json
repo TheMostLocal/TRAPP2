@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-10-04T18:36:13.430749Z",
+  "fetchedAt": "2026-10-04T23:02:59.534922Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -140,8 +140,8 @@
         ],
         "education": [
           "London School of Economics and Political Science",
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -229,8 +229,8 @@
         ],
         "education": [
           "Duke University",
-          "Stern School of Business",
-          "New York University"
+          "New York University",
+          "Stern School of Business"
         ],
         "employers": [
           {

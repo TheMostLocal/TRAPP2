@@ -1,6 +1,6 @@
 {
   "ticker": "WFC",
-  "fetchedAt": "2026-10-04T18:36:13.474032Z",
+  "fetchedAt": "2026-10-04T23:02:59.594765Z",
   "people": [
     {
       "qid": "Q18386868",
@@ -20,6 +20,46 @@
         "education": [
           "Johns Hopkins University",
           "Stern School of Business"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114448889",
+      "name": "Felicia Norwood",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114448889",
+        "name": "Felicia Norwood",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Yale Law School",
+          "University of Wisconsin\u2013Madison",
+          "Valdosta State University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114448713",
+      "name": "CeCe Morken",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114448713",
+        "name": "CeCe Morken",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "North Dakota State University"
         ],
         "employers": [],
         "positions": []
@@ -319,46 +359,6 @@
             "end": null
           }
         ]
-      }
-    },
-    {
-      "qid": "Q114448889",
-      "name": "Felicia Norwood",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114448889",
-        "name": "Felicia Norwood",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Yale Law School",
-          "University of Wisconsin\u2013Madison",
-          "Valdosta State University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q114448713",
-      "name": "CeCe Morken",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114448713",
-        "name": "CeCe Morken",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "North Dakota State University"
-        ],
-        "employers": [],
-        "positions": []
       }
     }
   ]

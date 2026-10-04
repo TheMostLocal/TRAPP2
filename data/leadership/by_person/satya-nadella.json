@@ -8,8 +8,8 @@
     "manager",
     "electrotechnician",
     "chief executive officer",
-    "entrepreneur",
     "engineer",
+    "entrepreneur",
     "computer scientist"
   ],
   "education": [
@@ -21,13 +21,13 @@
   ],
   "employers": [
     {
-      "company": "Sun Microsystems",
-      "start": null,
+      "company": "Microsoft",
+      "start": "1992-01-01",
       "end": null
     },
     {
-      "company": "Microsoft",
-      "start": "1992-01-01",
+      "company": "Sun Microsystems",
+      "start": null,
       "end": null
     }
   ],

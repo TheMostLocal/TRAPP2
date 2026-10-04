@@ -1,6 +1,6 @@
 {
   "ticker": "SYK",
-  "fetchedAt": "2026-10-04T18:36:13.466649Z",
+  "fetchedAt": "2026-10-04T23:02:59.585237Z",
   "people": [
     {
       "qid": "Q127056147",
@@ -49,8 +49,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Toronto",
-          "McGill University"
+          "McGill University",
+          "University of Toronto"
         ],
         "employers": [],
         "positions": []
@@ -72,8 +72,8 @@
         ],
         "education": [
           "Davidson College",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []

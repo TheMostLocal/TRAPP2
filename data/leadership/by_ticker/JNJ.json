@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-10-04T18:55:32.753495Z",
+  "fetchedAt": "2026-10-04T23:02:59.556787Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -110,8 +110,8 @@
         "birthPlace": "Kent",
         "image": null,
         "occupations": [
-          "consultant",
-          "entrepreneur"
+          "entrepreneur",
+          "consultant"
         ],
         "education": [
           "Balliol College"
@@ -145,8 +145,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -190,8 +190,8 @@
           "crystallographer",
           "molecular biologist",
           "biochemist",
-          "chemist",
-          "university teacher"
+          "university teacher",
+          "chemist"
         ],
         "education": [
           "Pomona College",
@@ -205,6 +205,11 @@
             "end": null
           },
           {
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
@@ -212,11 +217,6 @@
           {
             "company": "Howard Hughes Medical Institute",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
             "end": null
           }
         ],
@@ -246,9 +246,9 @@
           "university teacher"
         ],
         "education": [
+          "Harvard T.H. Chan School of Public Health",
           "Radcliffe College",
-          "Harvard Medical School",
-          "Harvard T.H. Chan School of Public Health"
+          "Harvard Medical School"
         ],
         "employers": [
           {
@@ -398,8 +398,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Eugene%20Washington%2C%20MD%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "business executive"
+          "business executive",
+          "university teacher"
         ],
         "education": [],
         "employers": [],
@@ -435,9 +435,9 @@
           "businessperson"
         ],
         "education": [
+          "Syracuse University",
           "Michigan State University",
-          "Harvard Business School",
-          "Syracuse University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -522,9 +522,9 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
+          "lecturer",
           "executive",
           "business manager",
-          "lecturer",
           "chief executive officer",
           "merchant",
           "entrepreneur"
@@ -575,8 +575,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
           "Case Western Reserve University",
@@ -713,12 +713,12 @@
           "physician"
         ],
         "education": [
-          "University of Texas at Austin",
-          "John F. Kennedy School of Government",
+          "Massachusetts Institute of Technology",
+          "Harvard University",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
-          "Massachusetts Institute of Technology",
-          "Harvard University"
+          "University of Texas at Austin",
+          "John F. Kennedy School of Government"
         ],
         "employers": [],
         "positions": [

@@ -5,13 +5,13 @@
   "birthPlace": "Omaha",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
   "occupations": [
-    "broker-dealer",
-    "financier",
-    "investor",
     "chief executive officer",
     "shareholder",
-    "entrepreneur",
-    "economist"
+    "financier",
+    "investor",
+    "broker-dealer",
+    "economist",
+    "entrepreneur"
   ],
   "education": [
     "New York Institute of Finance",

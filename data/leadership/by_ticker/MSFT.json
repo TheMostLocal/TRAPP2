@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-10-04T18:55:32.761858Z",
+  "fetchedAt": "2026-10-04T23:02:59.567084Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -17,8 +17,8 @@
           "manager",
           "electrotechnician",
           "chief executive officer",
-          "entrepreneur",
           "engineer",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -30,13 +30,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -110,11 +110,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "2017-01-01",
             "end": "2020-06-01"
@@ -128,6 +123,11 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Dick's Sporting Goods",
@@ -196,12 +196,12 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "executive",
-          "businessperson"
+          "businessperson",
+          "executive"
         ],
         "education": [
-          "St Swithun's School",
-          "University of Oxford"
+          "University of Oxford",
+          "St Swithun's School"
         ],
         "employers": [
           {
@@ -273,8 +273,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -305,18 +305,18 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
-          "consultant",
           "podcaster",
           "financier",
           "investor",
+          "consultant",
           "entrepreneur",
           "businessperson",
           "writer"
         ],
         "education": [
+          "Stanford University",
           "The Putney School",
-          "Wolfson College",
-          "Stanford University"
+          "Wolfson College"
         ],
         "employers": [
           {
@@ -353,8 +353,8 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
-          "Princeton University"
+          "Princeton University",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -372,8 +372,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Scharf%20in%202020.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Johns Hopkins University",
@@ -398,8 +398,8 @@
           "manager",
           "electrotechnician",
           "chief executive officer",
-          "entrepreneur",
           "engineer",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -411,13 +411,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -443,25 +443,25 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "film producer",
-          "musician",
-          "television producer",
-          "investor",
-          "inventor",
           "philanthropist",
           "art collector",
-          "record producer",
           "co-founder",
+          "film producer",
+          "programmer",
+          "musician",
+          "television producer",
+          "inventor",
+          "investor",
+          "record producer",
           "entrepreneur",
-          "composer",
           "computer scientist",
+          "composer",
           "businessperson"
         ],
         "education": [
           "Washington State University",
-          "Harvard University",
-          "Lakeside School"
+          "Lakeside School",
+          "Harvard University"
         ],
         "employers": [
           {

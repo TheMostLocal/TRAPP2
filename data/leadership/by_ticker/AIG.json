@@ -1,6 +1,6 @@
 {
   "ticker": "AIG",
-  "fetchedAt": "2026-10-04T18:36:13.422220Z",
+  "fetchedAt": "2026-10-04T23:02:59.523145Z",
   "people": [
     {
       "qid": "Q20687650",
@@ -134,8 +134,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
-          "economist"
+          "economist",
+          "university teacher"
         ],
         "education": [],
         "employers": [
@@ -215,9 +215,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Occidental College",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -235,8 +235,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
           "Calvin University",

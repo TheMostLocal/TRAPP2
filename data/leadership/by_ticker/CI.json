@@ -1,6 +1,6 @@
 {
   "ticker": "CI",
-  "fetchedAt": "2026-10-04T18:36:13.430314Z",
+  "fetchedAt": "2026-10-04T23:02:59.534312Z",
   "people": [
     {
       "qid": "Q109562106",
@@ -82,9 +82,9 @@
           "chief executive officer"
         ],
         "education": [
+          "Princeton University",
           "Stanford University",
-          "St. Joseph's Boys' High School, Bangalore",
-          "Princeton University"
+          "St. Joseph's Boys' High School, Bangalore"
         ],
         "employers": [],
         "positions": []
@@ -238,12 +238,12 @@
           "physician"
         ],
         "education": [
-          "University of Texas at Austin",
-          "John F. Kennedy School of Government",
+          "Massachusetts Institute of Technology",
+          "Harvard University",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
-          "Massachusetts Institute of Technology",
-          "Harvard University"
+          "University of Texas at Austin",
+          "John F. Kennedy School of Government"
         ],
         "employers": [],
         "positions": [

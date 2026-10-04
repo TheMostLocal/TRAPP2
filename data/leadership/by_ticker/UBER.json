@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "fetchedAt": "2026-10-04T18:36:13.470388Z",
+  "fetchedAt": "2026-10-04T23:02:59.589977Z",
   "people": [
     {
       "qid": "Q5221979",
@@ -107,8 +107,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Yale University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -350,9 +350,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Yale University",
           "Antioch Community High School",
           "Howard University",
-          "Yale University",
           "Harvard Business School",
           "Massachusetts Institute of Technology",
           "Harvard University"
@@ -379,14 +379,14 @@
         "birthPlace": "Manhattan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula-Burns.jpg",
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
-          "Columbia University",
           "Fu Foundation School of Engineering and Applied Science",
           "Cathedral High School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Columbia University"
         ],
         "employers": [
           {

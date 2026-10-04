@@ -5,25 +5,25 @@
   "birthPlace": "Seattle",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
   "occupations": [
-    "programmer",
-    "film producer",
-    "musician",
-    "television producer",
-    "investor",
-    "inventor",
     "philanthropist",
     "art collector",
-    "record producer",
     "co-founder",
+    "film producer",
+    "programmer",
+    "musician",
+    "television producer",
+    "inventor",
+    "investor",
+    "record producer",
     "entrepreneur",
-    "composer",
     "computer scientist",
+    "composer",
     "businessperson"
   ],
   "education": [
     "Washington State University",
-    "Harvard University",
-    "Lakeside School"
+    "Lakeside School",
+    "Harvard University"
   ],
   "employers": [
     {

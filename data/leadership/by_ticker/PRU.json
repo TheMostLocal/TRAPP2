@@ -1,6 +1,6 @@
 {
   "ticker": "PRU",
-  "fetchedAt": "2026-10-04T18:36:13.461864Z",
+  "fetchedAt": "2026-10-04T23:02:59.577444Z",
   "people": [
     {
       "qid": "Q20687564",
@@ -37,9 +37,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shriti%20Vadera%2C%20Baroness%20Vadera.jpg",
         "occupations": [
           "merchant banker",
-          "politician",
           "economist",
-          "banker"
+          "banker",
+          "politician"
         ],
         "education": [
           "Northwood College",
