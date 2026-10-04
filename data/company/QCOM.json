@@ -1,11 +1,11 @@
 {
   "ticker": "QCOM",
   "qid": "Q544847",
-  "fetchedAt": "2026-06-11T05:42:59.236077Z",
+  "fetchedAt": "2026-10-04T21:04:32.744915Z",
   "source": "wikidata",
   "name": "Qualcomm",
   "description": "American global semiconductor company",
-  "website": "https://www.qualcomm.com/",
+  "website": "https://consumerrights.wiki/w/Qualcomm",
   "isin": "US7475251036",
   "inception": "1985-07-01",
   "employees": 30500,
@@ -41,10 +41,10 @@
       "name": "Binary Runtime Environment for Wireless"
     },
     {
-      "name": "computer hardware"
+      "name": "software"
     },
     {
-      "name": "software"
+      "name": "computer hardware"
     }
   ],
   "countries": []

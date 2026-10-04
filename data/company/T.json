@@ -1,7 +1,7 @@
 {
   "ticker": "T",
   "qid": "Q35476",
-  "fetchedAt": "2026-06-11T05:43:13.606042Z",
+  "fetchedAt": "2026-10-04T21:05:01.333738Z",
   "source": "wikidata",
   "name": "AT&T",
   "description": "American multinational conglomerate",
@@ -18,38 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Scott T. Ford",
-      "role": "Board Member"
-    },
-    {
-      "name": "Samuel DiPiazza",
-      "role": "Board Member"
-    },
-    {
-      "name": "Michael McCallister",
-      "role": "Board Member"
-    },
-    {
-      "name": "Matthew K. Rose",
-      "role": "Board Member"
-    },
-    {
-      "name": "Luis Ubi\u00f1as",
-      "role": "Board Member"
-    },
-    {
-      "name": "Glenn Hutchins",
-      "role": "Board Member"
-    },
-    {
-      "name": "Debra Lee",
-      "role": "Board Member"
-    },
-    {
-      "name": "William Kennard",
-      "role": "Board Member"
-    },
     {
       "name": "Geoff Yang",
       "role": "Board Member"
@@ -72,6 +40,34 @@
     },
     {
       "name": "Stephen J. Luczo",
+      "role": "Board Member"
+    },
+    {
+      "name": "Scott T. Ford",
+      "role": "Board Member"
+    },
+    {
+      "name": "Samuel DiPiazza",
+      "role": "Board Member"
+    },
+    {
+      "name": "Matthew K. Rose",
+      "role": "Board Member"
+    },
+    {
+      "name": "Luis Ubi\u00f1as",
+      "role": "Board Member"
+    },
+    {
+      "name": "Glenn Hutchins",
+      "role": "Board Member"
+    },
+    {
+      "name": "Debra Lee",
+      "role": "Board Member"
+    },
+    {
+      "name": "William Kennard",
       "role": "Board Member"
     }
   ],

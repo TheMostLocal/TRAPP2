@@ -1,7 +1,7 @@
 {
   "ticker": "CSX",
   "qid": "Q856783",
-  "fetchedAt": "2026-06-11T05:50:27.949265Z",
+  "fetchedAt": "2026-10-04T21:20:08.663479Z",
   "source": "wikidata",
   "name": "CSX Transportation",
   "description": "railway system in the United States of America",
@@ -10,7 +10,7 @@
   "inception": "1986-07-01",
   "employees": 29000,
   "industry": null,
-  "headquarters": "Jacksonville",
+  "headquarters": null,
   "executives": [],
   "board": [],
   "founders": [],

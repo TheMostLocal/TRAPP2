@@ -1,7 +1,7 @@
 {
   "ticker": "TEAM",
   "qid": "Q1384984",
-  "fetchedAt": "2026-06-11T05:42:36.092431Z",
+  "fetchedAt": "2026-10-04T21:03:33.919767Z",
   "source": "wikidata",
   "name": "Team17",
   "description": "video game developer based in Wakefield",
@@ -16,10 +16,10 @@
   "founders": [],
   "products": [
     {
-      "name": "Overcooked"
+      "name": "software"
     },
     {
-      "name": "software"
+      "name": "Overcooked"
     }
   ],
   "countries": []

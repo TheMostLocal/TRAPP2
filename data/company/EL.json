@@ -1,23 +1,23 @@
 {
   "ticker": "EL",
-  "qid": "Q56853086",
-  "fetchedAt": "2026-06-11T05:48:43.405253Z",
+  "qid": "Q390287",
+  "fetchedAt": "2026-10-04T21:16:48.060899Z",
   "source": "wikidata",
-  "name": "EssilorLuxottica",
-  "description": "Multinational eyewear and optical equipment company",
-  "website": "https://www.essilorluxottica.com",
-  "isin": "FR0000121667",
-  "inception": "1971-12-31",
-  "employees": 150000,
-  "industry": "glasses manufacturing",
-  "headquarters": "Charenton-le-Pont",
+  "name": "E\u00f6tv\u00f6s Lor\u00e1nd University",
+  "description": "public research university in Budapest, Hungary",
+  "website": "https://www.elte.hu/",
+  "isin": null,
+  "inception": "1635-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Budapest",
   "executives": [],
   "board": [],
-  "founders": [],
-  "products": [
+  "founders": [
     {
-      "name": "eyewear"
+      "name": "P\u00e9ter P\u00e1zm\u00e1ny"
     }
   ],
+  "products": [],
   "countries": []
 }
