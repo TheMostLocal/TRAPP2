@@ -1,0 +1,35 @@
+{
+  "qid": "Q7381427",
+  "name": "Russell Conwell",
+  "dateOfBirth": "1843-09-15",
+  "birthPlace": "South Worthington Historic District",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Russell%20Herman%20Conwell.jpg",
+  "occupations": [
+    "Christian minister",
+    "lawyer",
+    "academic administrator",
+    "orator",
+    "writer"
+  ],
+  "education": [
+    "Yale University",
+    "Wilbraham & Monson Academy",
+    "Albany Law School"
+  ],
+  "employers": [
+    {
+      "company": "Grace Baptist Church of Philadelphia",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Temple University",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "TEM"
+  ]
+}

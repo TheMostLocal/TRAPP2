@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-10-04T18:55:32.759662Z",
+  "fetchedAt": "2026-10-04T21:07:55.948292Z",
   "people": [
     {
       "qid": "Q36215",
@@ -14,12 +14,12 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "patron of the arts",
           "programmer",
           "philanthropist",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -59,9 +59,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
           "economist",
-          "computer scientist",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "computer scientist"
         ],
         "education": [
           "Harvard College",
@@ -139,8 +139,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -213,8 +213,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Lynbrook High School"
+          "Lynbrook High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -241,10 +241,15 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -267,11 +272,6 @@
           },
           {
             "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -363,8 +363,8 @@
         "birthPlace": "Acton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drew%20Houston.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Massachusetts Institute of Technology",
@@ -445,16 +445,16 @@
           "chess player",
           "manager",
           "financier",
+          "computer scientist",
+          "banker",
           "entrepreneur",
           "investor",
-          "banker",
-          "computer scientist",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -492,13 +492,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
           "blogger",
-          "programmer",
           "investor",
           "software engineer",
+          "programmer",
+          "entrepreneur",
           "inventor",
           "engineer",
-          "computer scientist",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
           "New Lisbon High School",
@@ -538,12 +538,12 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "patron of the arts",
           "programmer",
           "philanthropist",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -610,12 +610,12 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "patron of the arts",
           "programmer",
           "philanthropist",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",

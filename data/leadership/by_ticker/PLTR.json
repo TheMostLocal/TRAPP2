@@ -1,7 +1,69 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-10-04T18:36:13.461021Z",
+  "fetchedAt": "2026-10-04T21:13:40.889903Z",
   "people": [
+    {
+      "qid": "Q19560940",
+      "name": "Alexander C. Karp",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q19560940",
+        "name": "Alexander C. Karp",
+        "dateOfBirth": "1967-10-02",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
+        "occupations": [
+          "businessperson",
+          "merchant",
+          "entrepreneur"
+        ],
+        "education": [
+          "Goethe University Frankfurt",
+          "Stanford University",
+          "Haverford College"
+        ],
+        "employers": [
+          {
+            "company": "Palantir Technologies",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q19560940",
+      "name": "Alexander C. Karp",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q19560940",
+        "name": "Alexander C. Karp",
+        "dateOfBirth": "1967-10-02",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
+        "occupations": [
+          "businessperson",
+          "merchant",
+          "entrepreneur"
+        ],
+        "education": [
+          "Goethe University Frankfurt",
+          "Stanford University",
+          "Haverford College"
+        ],
+        "employers": [
+          {
+            "company": "Palantir Technologies",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
     {
       "qid": "Q16204157",
       "name": "Stephen Cohen",
@@ -14,8 +76,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -42,8 +104,8 @@
           "manager",
           "financier",
           "investor",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -86,8 +148,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -108,9 +170,9 @@
         "birthPlace": "Fremont",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
         "occupations": [
+          "venture capitalist",
           "angel investor",
-          "businessperson",
-          "venture capitalist"
+          "businessperson"
         ],
         "education": [
           "Mission San Jose High School",
@@ -188,8 +250,8 @@
           "manager",
           "financier",
           "investor",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -218,6 +280,37 @@
             "end": "2022-05-25"
           }
         ]
+      }
+    },
+    {
+      "qid": "Q19560940",
+      "name": "Alexander C. Karp",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q19560940",
+        "name": "Alexander C. Karp",
+        "dateOfBirth": "1967-10-02",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
+        "occupations": [
+          "businessperson",
+          "merchant",
+          "entrepreneur"
+        ],
+        "education": [
+          "Goethe University Frankfurt",
+          "Stanford University",
+          "Haverford College"
+        ],
+        "employers": [
+          {
+            "company": "Palantir Technologies",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
       }
     }
   ]

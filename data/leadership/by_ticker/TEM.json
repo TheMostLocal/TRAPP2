@@ -1,5 +1,44 @@
 {
   "ticker": "TEM",
-  "fetchedAt": "2026-10-04T18:36:13.467787Z",
-  "people": []
+  "fetchedAt": "2026-10-04T21:13:40.901145Z",
+  "people": [
+    {
+      "qid": "Q7381427",
+      "name": "Russell Conwell",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q7381427",
+        "name": "Russell Conwell",
+        "dateOfBirth": "1843-09-15",
+        "birthPlace": "South Worthington Historic District",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Russell%20Herman%20Conwell.jpg",
+        "occupations": [
+          "Christian minister",
+          "lawyer",
+          "academic administrator",
+          "orator",
+          "writer"
+        ],
+        "education": [
+          "Yale University",
+          "Wilbraham & Monson Academy",
+          "Albany Law School"
+        ],
+        "employers": [
+          {
+            "company": "Grace Baptist Church of Philadelphia",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Temple University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
 }
