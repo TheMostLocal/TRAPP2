@@ -1,0 +1,72 @@
+{
+  "ticker": "BA",
+  "qid": "Q8766",
+  "fetchedAt": "2026-06-11T05:26:15.944591Z",
+  "source": "wikidata",
+  "name": "British Airways",
+  "description": "flag carrier airline of the United Kingdom",
+  "website": "https://britishairways.com/",
+  "isin": "GB0001290575",
+  "inception": "1919-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "London",
+  "executives": [
+    {
+      "name": "Sean Doyle",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Keith Williams",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Roy Thomas Watts",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Ross Stainton",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "\u00c1lex Cruz",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Rod Eddington",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Robert Ayling",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Willie Walsh",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Colin Marshall, Baron Marshall of Knightsbridge",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Francis McFadzean, Baron McFadzean of Kelvinside",
+      "role": "Chairperson"
+    },
+    {
+      "name": "David Nicolson",
+      "role": "Chairperson"
+    },
+    {
+      "name": "John King, Baron King of Wartnaby",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Martin Broughton",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

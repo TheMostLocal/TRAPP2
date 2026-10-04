@@ -1,0 +1,610 @@
+{
+  "ticker": "UBER",
+  "qid": "Q780442",
+  "fetchedAt": "2026-06-11T05:51:47.776660Z",
+  "source": "wikidata",
+  "name": "Uber",
+  "description": "peer-to-peer ridesharing, food delivery, and transportation network company headquartered in San Francisco, California",
+  "website": "https://www.uber.com/",
+  "isin": "US90353T1007",
+  "inception": "2009-03-01",
+  "employees": 12000,
+  "industry": "information technology",
+  "headquarters": "San Francisco",
+  "executives": [
+    {
+      "name": "Dara Khosrowshahi",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [
+    {
+      "name": "Revathi Advaithi",
+      "role": "Board Member"
+    },
+    {
+      "name": "Yasir Al-Rumayyan",
+      "role": "Board Member"
+    },
+    {
+      "name": "David Trujillo",
+      "role": "Board Member"
+    },
+    {
+      "name": "Robert A. Eckert",
+      "role": "Board Member"
+    },
+    {
+      "name": "Alexander Wynaendts",
+      "role": "Board Member"
+    },
+    {
+      "name": "Wan Ling Martello",
+      "role": "Board Member"
+    },
+    {
+      "name": "Tony West",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ronald Sugar",
+      "role": "Board Member"
+    },
+    {
+      "name": "Nelson Chai",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jill Hazelbaker",
+      "role": "Board Member"
+    },
+    {
+      "name": "Dara Khosrowshahi",
+      "role": "Board Member"
+    },
+    {
+      "name": "John Alexander Thain",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ursula Burns",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Travis Kalanick"
+    },
+    {
+      "name": "Garrett Camp"
+    }
+  ],
+  "products": [],
+  "countries": [
+    {
+      "name": "Tortosa"
+    },
+    {
+      "name": "Vielha e Mijaran"
+    },
+    {
+      "name": "Vigo"
+    },
+    {
+      "name": "Jerez de la Frontera"
+    },
+    {
+      "name": "San Sebasti\u00e1n"
+    },
+    {
+      "name": "Ciudad Real"
+    },
+    {
+      "name": "Pamplona"
+    },
+    {
+      "name": "Santiago de Compostela"
+    },
+    {
+      "name": "Vic"
+    },
+    {
+      "name": "Huesca"
+    },
+    {
+      "name": "Teruel"
+    },
+    {
+      "name": "Murcia"
+    },
+    {
+      "name": "Ronda"
+    },
+    {
+      "name": "Seville"
+    },
+    {
+      "name": "Burgos"
+    },
+    {
+      "name": "Cardiff"
+    },
+    {
+      "name": "Blanes"
+    },
+    {
+      "name": "Antwerp"
+    },
+    {
+      "name": "Winterthur"
+    },
+    {
+      "name": "M\u00e9rida"
+    },
+    {
+      "name": "Bilbao"
+    },
+    {
+      "name": "Belfast"
+    },
+    {
+      "name": "Ceuta"
+    },
+    {
+      "name": "Vitoria-Gasteiz"
+    },
+    {
+      "name": "Nantes"
+    },
+    {
+      "name": "Santander"
+    },
+    {
+      "name": "Montpellier"
+    },
+    {
+      "name": "Ponferrada"
+    },
+    {
+      "name": "M\u00e1laga"
+    },
+    {
+      "name": "Alicante"
+    },
+    {
+      "name": "C\u00f3rdoba"
+    },
+    {
+      "name": "Soria"
+    },
+    {
+      "name": "Miranda de Ebro"
+    },
+    {
+      "name": "Avignon"
+    },
+    {
+      "name": "Valencia"
+    },
+    {
+      "name": "Elche"
+    },
+    {
+      "name": "Glasgow"
+    },
+    {
+      "name": "Granada"
+    },
+    {
+      "name": "Strasbourg"
+    },
+    {
+      "name": "Toulouse"
+    },
+    {
+      "name": "Munich"
+    },
+    {
+      "name": "Bordeaux"
+    },
+    {
+      "name": "Madrid"
+    },
+    {
+      "name": "Figueres"
+    },
+    {
+      "name": "Ghent"
+    },
+    {
+      "name": "D\u00fcsseldorf"
+    },
+    {
+      "name": "Birmingham"
+    },
+    {
+      "name": "Orl\u00e9ans"
+    },
+    {
+      "name": "Grenoble"
+    },
+    {
+      "name": "Hamburg"
+    },
+    {
+      "name": "India"
+    },
+    {
+      "name": "Hanover"
+    },
+    {
+      "name": "Frankfurt"
+    },
+    {
+      "name": "Helsinki"
+    },
+    {
+      "name": "Rostock"
+    },
+    {
+      "name": "Ivory Coast"
+    },
+    {
+      "name": "Mannheim"
+    },
+    {
+      "name": "Barcelona"
+    },
+    {
+      "name": "Lyon"
+    },
+    {
+      "name": "Lille"
+    },
+    {
+      "name": "Stuttgart"
+    },
+    {
+      "name": "Cambridge"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Amsterdam"
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Lausanne"
+    },
+    {
+      "name": "Rennes"
+    },
+    {
+      "name": "Arcos de la Frontera"
+    },
+    {
+      "name": "Cologne"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Tours"
+    },
+    {
+      "name": "Cullera"
+    },
+    {
+      "name": "Calafell"
+    },
+    {
+      "name": "Langreo"
+    },
+    {
+      "name": "Ontinyent"
+    },
+    {
+      "name": "Chiva"
+    },
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "Brussels"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "Conil de la Frontera"
+    },
+    {
+      "name": "Mieres"
+    },
+    {
+      "name": "home counties"
+    },
+    {
+      "name": "Alzira"
+    },
+    {
+      "name": "Basel"
+    },
+    {
+      "name": "Alcoy"
+    },
+    {
+      "name": "Petrer"
+    },
+    {
+      "name": "And\u00fajar"
+    },
+    {
+      "name": "Lucena"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "London"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "East Anglia"
+    },
+    {
+      "name": "Antequera"
+    },
+    {
+      "name": "Tudela"
+    },
+    {
+      "name": "Zurich"
+    },
+    {
+      "name": "Vilafranca / Villafranca del Cid"
+    },
+    {
+      "name": "Baza"
+    },
+    {
+      "name": "Geneva"
+    },
+    {
+      "name": "Berlin"
+    },
+    {
+      "name": "Valdepe\u00f1as"
+    },
+    {
+      "name": "Don Benito"
+    },
+    {
+      "name": "Puente Genil"
+    },
+    {
+      "name": "Yecla"
+    },
+    {
+      "name": "Vinar\u00f2s"
+    },
+    {
+      "name": "Plasencia"
+    },
+    {
+      "name": "Puertollano"
+    },
+    {
+      "name": "Villena"
+    },
+    {
+      "name": "Aranda de Duero"
+    },
+    {
+      "name": "Paris"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Leuven"
+    },
+    {
+      "name": "La Palma"
+    },
+    {
+      "name": "Fuerteventura"
+    },
+    {
+      "name": "Linares"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "Talavera de la Reina"
+    },
+    {
+      "name": "Algeciras"
+    },
+    {
+      "name": "\u00dabeda"
+    },
+    {
+      "name": "Bern"
+    },
+    {
+      "name": "Lanzarote"
+    },
+    {
+      "name": "Motril"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "El Puerto de Santa Mar\u00eda"
+    },
+    {
+      "name": "Toulon"
+    },
+    {
+      "name": "Ibiza"
+    },
+    {
+      "name": "Stoke-on-Trent"
+    },
+    {
+      "name": "Leicester"
+    },
+    {
+      "name": "Brighton"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Lorca"
+    },
+    {
+      "name": "Kingston upon Hull"
+    },
+    {
+      "name": "Clermont-Ferrand"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Zug"
+    },
+    {
+      "name": "Sion"
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "Menorca"
+    },
+    {
+      "name": "Reims"
+    },
+    {
+      "name": "Guadalajara Province"
+    },
+    {
+      "name": "Hasselt"
+    },
+    {
+      "name": "Turku"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "York"
+    },
+    {
+      "name": "Nancy"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Oulu"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Tampere"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Sheffield"
+    },
+    {
+      "name": "Fribourg"
+    },
+    {
+      "name": "Nice"
+    },
+    {
+      "name": "Rouen"
+    },
+    {
+      "name": "Leeds"
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "Marseille"
+    },
+    {
+      "name": "Igualada"
+    },
+    {
+      "name": "Gandia"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Nottingham"
+    },
+    {
+      "name": "Ireland"
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Edinburgh"
+    },
+    {
+      "name": "Sussex"
+    },
+    {
+      "name": "\u00c1vila"
+    },
+    {
+      "name": "Le\u00f3n"
+    },
+    {
+      "name": "Manchester"
+    },
+    {
+      "name": "Merseyside"
+    },
+    {
+      "name": "Salamanca"
+    },
+    {
+      "name": "Badajoz"
+    },
+    {
+      "name": "C\u00e1ceres"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Canada"
+    }
+  ]
+}
