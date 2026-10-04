@@ -1,25 +1,25 @@
 {
-  "qid": "Q130783979",
-  "name": "David Joyner",
+  "qid": "Q63873422",
+  "name": "Jan Dirk Jansen",
   "dateOfBirth": null,
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "businessperson",
-    "business executive"
+    "researcher",
+    "dean"
   ],
   "education": [
-    "Texas Tech University"
+    "Delft University of Technology"
   ],
   "employers": [
     {
-      "company": "CVS Health",
-      "start": "2024-10-01",
+      "company": "Delft University of Technology",
+      "start": null,
       "end": null
     }
   ],
   "positions": [],
   "currentTickers": [
-    "CVS"
+    "CEG"
   ]
 }

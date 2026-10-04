@@ -1,7 +1,36 @@
 {
   "ticker": "CVS",
-  "fetchedAt": "2026-10-04T18:36:13.433992Z",
+  "fetchedAt": "2026-10-04T21:20:08.957266Z",
   "people": [
+    {
+      "qid": "Q106086392",
+      "name": "Karen S. Lynch",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q106086392",
+        "name": "Karen S. Lynch",
+        "dateOfBirth": "1963-12-30",
+        "birthPlace": "Ware",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
+        "occupations": [
+          "businessperson",
+          "business executive"
+        ],
+        "education": [
+          "Boston University",
+          "Boston College"
+        ],
+        "employers": [
+          {
+            "company": "CVS Health",
+            "start": "2021-02-01",
+            "end": "2024-10-01"
+          }
+        ],
+        "positions": []
+      }
+    },
     {
       "qid": "Q1806074",
       "name": "Larry Merlo",
@@ -42,8 +71,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Texas Tech University"
@@ -55,140 +84,6 @@
             "end": null
           }
         ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q106086392",
-      "name": "Karen S. Lynch",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q106086392",
-        "name": "Karen S. Lynch",
-        "dateOfBirth": "1963-12-30",
-        "birthPlace": "Ware",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
-        "occupations": [
-          "business executive",
-          "businessperson"
-        ],
-        "education": [
-          "Boston University",
-          "Boston College"
-        ],
-        "employers": [
-          {
-            "company": "CVS Health",
-            "start": "2021-02-01",
-            "end": "2024-10-01"
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q1806074",
-      "name": "Larry Merlo",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1806074",
-        "name": "Larry Merlo",
-        "dateOfBirth": "1956-01-01",
-        "birthPlace": "Pittsburgh",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/White%20House%20Coronavirus%20Update%20Briefing%20%2849829958637%29.jpg",
-        "occupations": [
-          "chief executive officer"
-        ],
-        "education": [
-          "University of Pittsburgh School of Pharmacy",
-          "University of Pittsburgh"
-        ],
-        "employers": [
-          {
-            "company": "CVS Health",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q107994334",
-      "name": "Tony L. White",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q107994334",
-        "name": "Tony L. White",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q107994316",
-      "name": "Jean-Pierre Millon",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q107994316",
-        "name": "Jean-Pierre Millon",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Kellogg School of Management",
-          "\u00c9cole Centrale de Lyon",
-          "University of Lyon"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q107994305",
-      "name": "Edward J. Ludwig",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q107994305",
-        "name": "Edward J. Ludwig",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "College of the Holy Cross",
-          "Columbia University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q107994290",
-      "name": "Roger N. Farah",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q107994290",
-        "name": "Roger N. Farah",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "The Wharton School"
-        ],
-        "employers": [],
         "positions": []
       }
     },
@@ -265,8 +160,8 @@
         "birthPlace": "Ware",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Boston University",
@@ -378,9 +273,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Cornell University",
           "Samuel Curtis Johnson Graduate School of Management",
-          "Wayne State University",
-          "Cornell University"
+          "Wayne State University"
         ],
         "employers": [
           {
@@ -474,6 +369,111 @@
         ],
         "education": [
           "Quinnipiac University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q1806074",
+      "name": "Larry Merlo",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1806074",
+        "name": "Larry Merlo",
+        "dateOfBirth": "1956-01-01",
+        "birthPlace": "Pittsburgh",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/White%20House%20Coronavirus%20Update%20Briefing%20%2849829958637%29.jpg",
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "University of Pittsburgh School of Pharmacy",
+          "University of Pittsburgh"
+        ],
+        "employers": [
+          {
+            "company": "CVS Health",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q107994334",
+      "name": "Tony L. White",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q107994334",
+        "name": "Tony L. White",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q107994316",
+      "name": "Jean-Pierre Millon",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q107994316",
+        "name": "Jean-Pierre Millon",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Kellogg School of Management",
+          "\u00c9cole Centrale de Lyon",
+          "University of Lyon"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q107994305",
+      "name": "Edward J. Ludwig",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q107994305",
+        "name": "Edward J. Ludwig",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "College of the Holy Cross",
+          "Columbia University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q107994290",
+      "name": "Roger N. Farah",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q107994290",
+        "name": "Roger N. Farah",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []

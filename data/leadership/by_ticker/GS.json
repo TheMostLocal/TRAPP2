@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-10-04T18:36:13.442617Z",
+  "fetchedAt": "2026-10-04T21:20:08.969999Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -52,23 +52,23 @@
         "occupations": [
           "academic",
           "investment banker",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Harvard Law School",
-          "Harvard Business School",
           "University of Oxford",
+          "Harvard Business School",
           "King's College, Lagos"
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Credit Suisse First Boston",
             "start": null,
             "end": null
           },
           {
-            "company": "Credit Suisse First Boston",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "director",
           "computer scientist",
-          "businessperson"
+          "businessperson",
+          "director"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -323,8 +323,8 @@
         "education": [
           "Union College",
           "Bronx High School of Science",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -397,14 +397,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Women%20in%20Economic%20Decision-making%20Drew%20Gilpin%20Faust%20%288414040540%29%20%28cropped%29.jpg",
         "occupations": [
-          "historian",
-          "university teacher"
+          "university teacher",
+          "historian"
         ],
         "education": [
-          "Harvard University",
           "Concord Academy",
+          "Bryn Mawr College",
           "University of Pennsylvania",
-          "Bryn Mawr College"
+          "Harvard University"
         ],
         "employers": [
           {

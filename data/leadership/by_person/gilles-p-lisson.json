@@ -17,6 +17,11 @@
   ],
   "employers": [
     {
+      "company": "Groupe TF1",
+      "start": "2016-01-01",
+      "end": "2023-01-01"
+    },
+    {
       "company": "Bouygues Telecom",
       "start": "2001-01-01",
       "end": "2005-01-01"
@@ -30,11 +35,6 @@
       "company": "Suez",
       "start": "2000-01-01",
       "end": "2001-01-01"
-    },
-    {
-      "company": "Groupe TF1",
-      "start": "2016-01-01",
-      "end": "2023-01-01"
     },
     {
       "company": "Accor",
