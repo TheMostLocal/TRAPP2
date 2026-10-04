@@ -1,34 +1,82 @@
 {
   "ticker": "MO",
-  "qid": "Q188740",
-  "fetchedAt": "2026-06-11T05:32:43.436620Z",
+  "qid": "Q445007",
+  "fetchedAt": "2026-10-04T18:06:47.399966Z",
   "source": "wikidata",
-  "name": "Museum of Modern Art",
-  "description": "art museum in Manhattan in New York City, New York, United States",
-  "website": "https://www.moma.org/",
-  "isin": null,
-  "inception": "1929-01-01",
-  "employees": null,
-  "industry": null,
-  "headquarters": "New York City",
+  "name": "Altria",
+  "description": "American multinational company",
+  "website": "http://www.altria.com",
+  "isin": "US02209S1033",
+  "inception": "1985-01-01",
+  "employees": 9900,
+  "industry": "tobacco industry",
+  "headquarters": "Richmond",
   "executives": [
     {
-      "name": "Marie-Jos\u00e9e Kravis",
-      "role": "Chairperson"
+      "name": "William F. Gifford, Jr.",
+      "role": "Chief Executive Officer"
     }
   ],
-  "board": [],
+  "board": [
+    {
+      "name": "M. Max Yzaguirre",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ellen R. Strahlman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Virginia E. Shanks",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kathryn B. McQuade",
+      "role": "Board Member"
+    },
+    {
+      "name": "Debra J. Kelly-Ennis",
+      "role": "Board Member"
+    },
+    {
+      "name": "R. Matt Davis",
+      "role": "Board Member"
+    },
+    {
+      "name": "Marjorie M. Connelly",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ian L.T. Clarke",
+      "role": "Board Member"
+    },
+    {
+      "name": "William F. Gifford, Jr.",
+      "role": "Board Member"
+    },
+    {
+      "name": "George Mu\u00f1oz",
+      "role": "Board Member"
+    }
+  ],
   "founders": [
     {
-      "name": "Mary Quinn Sullivan"
+      "name": "Philip Morris USA"
     },
     {
-      "name": "Lillie P. Bliss"
+      "name": "Nabisco"
     },
     {
-      "name": "Abigail Greene Aldrich"
+      "name": "Kraft Foods Group"
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "name": "tobacco product"
+    },
+    {
+      "name": "tobacco"
+    }
+  ],
   "countries": []
 }

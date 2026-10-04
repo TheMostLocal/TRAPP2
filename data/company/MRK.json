@@ -1,7 +1,7 @@
 {
   "ticker": "MRK",
   "qid": "Q247489",
-  "fetchedAt": "2026-06-11T05:33:44.882926Z",
+  "fetchedAt": "2026-10-04T18:09:18.978210Z",
   "source": "wikidata",
   "name": "Merck & Co.",
   "description": "American multinational pharmaceutical company",
@@ -22,30 +22,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Paul B. Rothman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Risa Lavizzo-Mourey",
-      "role": "Board Member"
-    },
-    {
-      "name": "Douglas M. Baker, Jr",
-      "role": "Board Member"
-    },
-    {
-      "name": "Inge Thulin",
-      "role": "Board Member"
-    },
-    {
-      "name": "Kenneth Frazier",
-      "role": "Board Member"
-    },
-    {
-      "name": "Patricia Russo",
-      "role": "Board Member"
-    },
     {
       "name": "Tom Glocer",
       "role": "Board Member"
@@ -76,6 +52,26 @@
     },
     {
       "name": "Stephen L. Mayo",
+      "role": "Board Member"
+    },
+    {
+      "name": "Paul B. Rothman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Risa Lavizzo-Mourey",
+      "role": "Board Member"
+    },
+    {
+      "name": "Douglas M. Baker, Jr",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kenneth Frazier",
+      "role": "Board Member"
+    },
+    {
+      "name": "Patricia Russo",
       "role": "Board Member"
     }
   ],

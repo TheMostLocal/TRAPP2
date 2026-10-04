@@ -1,7 +1,7 @@
 {
   "ticker": "CRM",
   "qid": "Q941127",
-  "fetchedAt": "2026-06-11T05:23:55.210379Z",
+  "fetchedAt": "2026-10-04T17:47:28.732769Z",
   "source": "wikidata",
   "name": "Salesforce",
   "description": "American cloud-based software company",
@@ -34,13 +34,16 @@
       "name": "customer relationship management software"
     },
     {
-      "name": "Customer data platform"
+      "name": "customer data platform"
     },
     {
       "name": "B2B e-commerce"
     },
     {
       "name": "marketing automation"
+    },
+    {
+      "name": "Headless software"
     },
     {
       "name": "Small business software"
@@ -55,6 +58,12 @@
       "name": "Heroku"
     },
     {
+      "name": "Freemium software"
+    },
+    {
+      "name": "agentic commerce"
+    },
+    {
       "name": "integration platform"
     },
     {
@@ -64,10 +73,7 @@
       "name": "enterprise software"
     },
     {
-      "name": "e-commerce"
-    },
-    {
-      "name": "intelligent agent"
+      "name": "software as a service"
     },
     {
       "name": "automation technology"
@@ -76,16 +82,22 @@
       "name": "analytics"
     },
     {
-      "name": "software as a service"
+      "name": "e-commerce"
     },
     {
       "name": "email marketing"
     },
     {
-      "name": "artificial intelligence"
+      "name": "intelligent agent"
     },
     {
       "name": "cloud computing"
+    },
+    {
+      "name": "data integration"
+    },
+    {
+      "name": "artificial intelligence"
     }
   ],
   "countries": []

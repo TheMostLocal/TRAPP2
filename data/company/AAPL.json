@@ -1,7 +1,7 @@
 {
   "ticker": "AAPL",
   "qid": "Q312",
-  "fetchedAt": "2026-06-11T05:17:35.921003Z",
+  "fetchedAt": "2026-10-04T17:31:17.409300Z",
   "source": "wikidata",
   "name": "Apple Inc.",
   "description": "American multinational technology company based in Cupertino, California",
@@ -13,15 +13,15 @@
   "headquarters": "Cupertino",
   "executives": [
     {
-      "name": "Tim Cook",
-      "role": "Chief Executive Officer"
-    },
-    {
       "name": "Arthur D. Levinson",
       "role": "Chairperson"
     }
   ],
   "board": [
+    {
+      "name": "Al Gore",
+      "role": "Board Member"
+    },
     {
       "name": "Susan Wagner",
       "role": "Board Member"
@@ -32,10 +32,6 @@
     },
     {
       "name": "James A. Bell",
-      "role": "Board Member"
-    },
-    {
-      "name": "Al Gore",
       "role": "Board Member"
     },
     {
@@ -52,30 +48,15 @@
       "name": "Steve Wozniak"
     },
     {
-      "name": "Ronald Wayne"
-    },
-    {
       "name": "Steve Jobs"
     }
   ],
   "products": [
     {
-      "name": "wearable computer"
-    },
-    {
-      "name": "consumer electronics"
-    },
-    {
-      "name": "Apple TV"
-    },
-    {
-      "name": "AirPods"
-    },
-    {
       "name": "Apple Pay"
     },
     {
-      "name": "peripheral"
+      "name": "Mac"
     },
     {
       "name": "Apple Watch"
@@ -84,7 +65,28 @@
       "name": "networking hardware"
     },
     {
+      "name": "smartphone"
+    },
+    {
+      "name": "wearable computer"
+    },
+    {
+      "name": "consumer electronics"
+    },
+    {
       "name": "HomePod"
+    },
+    {
+      "name": "AirPods"
+    },
+    {
+      "name": "personal computer"
+    },
+    {
+      "name": "peripheral"
+    },
+    {
+      "name": "Apple TV"
     },
     {
       "name": "personal digital assistant"
@@ -93,16 +95,10 @@
       "name": "tablet computer"
     },
     {
-      "name": "smartphone"
+      "name": "software"
     },
     {
-      "name": "Mac"
-    },
-    {
-      "name": "personal computer"
-    },
-    {
-      "name": "iPod touch"
+      "name": "iMac"
     },
     {
       "name": "computer hardware"
@@ -112,12 +108,6 @@
     },
     {
       "name": "iPod"
-    },
-    {
-      "name": "iMac"
-    },
-    {
-      "name": "software"
     }
   ],
   "countries": [

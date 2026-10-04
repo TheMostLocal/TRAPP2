@@ -1,19 +1,23 @@
 {
   "ticker": "TEM",
-  "qid": "Q683892",
-  "fetchedAt": "2026-06-11T05:23:08.616492Z",
+  "qid": "Q1420239",
+  "fetchedAt": "2026-10-04T17:45:12.017066Z",
   "source": "wikidata",
-  "name": "Temenos Group",
-  "description": "financial technology company headquartered in Geneva",
-  "website": "https://temenos.com",
-  "isin": "CH0012453913",
-  "inception": "1993-11-01",
-  "employees": null,
-  "industry": "fintech",
-  "headquarters": "Geneva",
+  "name": "Temple University",
+  "description": "public research university in Philadelphia, United States",
+  "website": "https://www.temple.edu/",
+  "isin": null,
+  "inception": "1884-01-01",
+  "employees": 8779,
+  "industry": null,
+  "headquarters": null,
   "executives": [],
   "board": [],
-  "founders": [],
+  "founders": [
+    {
+      "name": "Russell Conwell"
+    }
+  ],
   "products": [],
   "countries": []
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "ADBE",
   "qid": "Q11463",
-  "fetchedAt": "2026-06-11T05:23:58.856572Z",
+  "fetchedAt": "2026-10-04T17:47:35.300642Z",
   "source": "wikidata",
   "name": "Adobe",
   "description": "American multinational computer software company",
@@ -9,7 +9,7 @@
   "isin": "US00724F1012",
   "inception": "1982-02-28",
   "employees": 25988,
-  "industry": "software industry",
+  "industry": "information technology",
   "headquarters": "San Jose",
   "executives": [
     {
@@ -73,7 +73,76 @@
   ],
   "products": [
     {
+      "name": "Adobe Express"
+    },
+    {
+      "name": "Adobe Media Encoder"
+    },
+    {
+      "name": "Adobe XD"
+    },
+    {
+      "name": "Adobe Character Animator"
+    },
+    {
+      "name": "Adobe Fonts"
+    },
+    {
+      "name": "Adobe for Business"
+    },
+    {
+      "name": "Adobe Dimensions"
+    },
+    {
+      "name": "Adobe Sign"
+    },
+    {
+      "name": "Adobe Speedgrade"
+    },
+    {
+      "name": "list of Adobe software"
+    },
+    {
+      "name": "acrobat.com"
+    },
+    {
+      "name": "Adobe Prelude"
+    },
+    {
+      "name": "Adobe Color"
+    },
+    {
+      "name": "Adobe Aero"
+    },
+    {
+      "name": "Adobe Capture"
+    },
+    {
+      "name": "Adobe Audition"
+    },
+    {
+      "name": "Adobe InDesign"
+    },
+    {
+      "name": "Adobe Illustrator"
+    },
+    {
+      "name": "Adobe Premiere Pro"
+    },
+    {
+      "name": "Adobe Photoshop Lightroom"
+    },
+    {
+      "name": "Adobe InCopy"
+    },
+    {
+      "name": "Adobe Encore"
+    },
+    {
       "name": "software"
+    },
+    {
+      "name": "Adobe After Effects"
     }
   ],
   "countries": []

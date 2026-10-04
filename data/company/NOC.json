@@ -1,7 +1,7 @@
 {
   "ticker": "NOC",
   "qid": "Q329953",
-  "fetchedAt": "2026-06-11T05:28:12.075414Z",
+  "fetchedAt": "2026-10-04T17:57:01.675982Z",
   "source": "wikidata",
   "name": "Northrop Grumman Corporation",
   "description": "American aerospace and defense technology corporation",
@@ -18,6 +18,14 @@
     }
   ],
   "board": [
+    {
+      "name": "David Abney",
+      "role": "Board Member"
+    },
+    {
+      "name": "Marianne C. Brown",
+      "role": "Board Member"
+    },
     {
       "name": "Jim Turley",
       "role": "Board Member"
@@ -44,14 +52,6 @@
     },
     {
       "name": "Gary Roughead",
-      "role": "Board Member"
-    },
-    {
-      "name": "David Abney",
-      "role": "Board Member"
-    },
-    {
-      "name": "Marianne C. Brown",
       "role": "Board Member"
     },
     {
