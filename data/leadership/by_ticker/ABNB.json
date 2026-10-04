@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-10-04T17:57:07.914705Z",
+  "fetchedAt": "2026-10-04T18:36:13.419985Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -14,8 +14,8 @@
         "birthPlace": "Niskayuna",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Chesky%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Niskayuna High School",
@@ -163,13 +163,13 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
+          "business executive",
           "businessperson",
-          "computer scientist",
-          "business executive"
+          "computer scientist"
         ],
         "education": [
-          "Harvard University",
-          "Boston Latin Academy"
+          "Boston Latin Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -327,8 +327,8 @@
           "venture capitalist",
           "entrepreneur",
           "businessperson",
-          "lawyer",
-          "chief executive officer"
+          "chief executive officer",
+          "lawyer"
         ],
         "education": [
           "The Waldorf School of Garden City",
@@ -427,13 +427,13 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
+          "business executive",
           "businessperson",
-          "computer scientist",
-          "business executive"
+          "computer scientist"
         ],
         "education": [
-          "Harvard University",
-          "Boston Latin Academy"
+          "Boston Latin Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -464,8 +464,8 @@
         "birthPlace": "Niskayuna",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Chesky%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Niskayuna High School",

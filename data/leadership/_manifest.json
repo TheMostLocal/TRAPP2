@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:57:07.992858Z",
+  "generatedAt": "2026-10-04T18:36:13.586365Z",
   "totalPeople": 952,
   "totalTickers": 136,
   "lastRangeFilter": "A-G",
@@ -3694,7 +3694,8 @@
       "name": "Maria Elena Lagomasino",
       "slug": "maria-elena-lagomasino",
       "tickers": [
-        "DIS"
+        "DIS",
+        "KO"
       ],
       "positionsCount": 0,
       "employersCount": 0

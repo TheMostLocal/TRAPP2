@@ -1,6 +1,6 @@
 {
   "ticker": "XYZ",
-  "fetchedAt": "2026-10-04T17:52:07.768851Z",
+  "fetchedAt": "2026-10-04T18:36:13.475853Z",
   "people": [
     {
       "qid": "Q335552",
@@ -16,12 +16,12 @@
         "occupations": [
           "business executive",
           "billionaire",
-          "tech VIP",
-          "programmer",
-          "blogger",
-          "businessperson",
           "entrepreneur",
-          "computer scientist"
+          "tech VIP",
+          "blogger",
+          "programmer",
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "New York University",
@@ -77,12 +77,12 @@
         "occupations": [
           "business executive",
           "billionaire",
-          "tech VIP",
-          "programmer",
-          "blogger",
-          "businessperson",
           "entrepreneur",
-          "computer scientist"
+          "tech VIP",
+          "blogger",
+          "programmer",
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "New York University",

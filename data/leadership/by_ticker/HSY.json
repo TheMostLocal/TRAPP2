@@ -1,0 +1,37 @@
+{
+  "ticker": "HSY",
+  "fetchedAt": "2026-10-04T18:36:13.444034Z",
+  "people": [
+    {
+      "qid": "Q737720",
+      "name": "Milton S. Hershey",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q737720",
+        "name": "Milton S. Hershey",
+        "dateOfBirth": "1857-09-13",
+        "birthPlace": "Derry Township",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milton%20S.%20Hershey%20c1905.jpg",
+        "occupations": [
+          "confectioner",
+          "entrepreneur"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "The Hershey Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Lancaster Caramel Company",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

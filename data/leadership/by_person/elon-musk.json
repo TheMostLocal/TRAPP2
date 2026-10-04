@@ -9,13 +9,13 @@
     "programmer",
     "financier",
     "investor",
+    "technology entrepreneur",
     "civil servant",
     "philanthropist",
-    "technology entrepreneur",
-    "inventor",
-    "politician",
+    "engineer",
     "entrepreneur",
-    "engineer"
+    "inventor",
+    "politician"
   ],
   "education": [
     "Queen's University",
@@ -24,8 +24,8 @@
     "Bryanston High School",
     "Waterkloof House Preparatory School",
     "Pretoria Boys High School",
-    "University of Pretoria",
     "University of Pennsylvania",
+    "University of Pretoria",
     "Stanford University"
   ],
   "employers": [
@@ -37,6 +37,11 @@
     {
       "company": "Neuralink",
       "start": "2016-07-01",
+      "end": null
+    },
+    {
+      "company": "The Boring Company",
+      "start": "2016-12-17",
       "end": null
     },
     {
@@ -53,11 +58,6 @@
       "company": "OpenAI",
       "start": "2015-12-11",
       "end": "2019-01-01"
-    },
-    {
-      "company": "The Boring Company",
-      "start": "2016-12-17",
-      "end": null
     },
     {
       "company": "SpaceX",

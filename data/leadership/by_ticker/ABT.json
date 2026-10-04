@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-10-04T17:57:07.915193Z",
+  "fetchedAt": "2026-10-04T18:36:13.420477Z",
   "people": [
     {
       "qid": "Q281657",
@@ -509,8 +509,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "banker",
-          "business executive"
+          "business executive",
+          "banker"
         ],
         "education": [],
         "employers": [
