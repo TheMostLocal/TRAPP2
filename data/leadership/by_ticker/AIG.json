@@ -1,6 +1,6 @@
 {
   "ticker": "AIG",
-  "fetchedAt": "2026-10-04T17:57:07.916985Z",
+  "fetchedAt": "2026-10-04T18:36:13.422220Z",
   "people": [
     {
       "qid": "Q20687650",
@@ -215,8 +215,8 @@
           "businessperson"
         ],
         "education": [
-          "Occidental College",
           "Harvard Business School",
+          "Occidental College",
           "Harvard University"
         ],
         "employers": [],

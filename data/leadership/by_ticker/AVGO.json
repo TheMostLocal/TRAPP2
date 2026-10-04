@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-10-04T17:57:07.920145Z",
+  "fetchedAt": "2026-10-04T18:36:13.425417Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -75,8 +75,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
           "entrepreneur",
-          "university teacher",
-          "computer scientist"
+          "computer scientist",
+          "university teacher"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -443,8 +443,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
           "entrepreneur",
-          "university teacher",
-          "computer scientist"
+          "computer scientist",
+          "university teacher"
         ],
         "education": [
           "University of California, Los Angeles",

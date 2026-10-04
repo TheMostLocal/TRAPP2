@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-10-04T17:57:07.929300Z",
+  "fetchedAt": "2026-10-04T18:36:13.434476Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "University of Colorado",
@@ -112,8 +112,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgia Tech",
           "Harvard Business School",
+          "Georgia Tech",
           "Harvard University"
         ],
         "employers": [
@@ -146,9 +146,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
+          "Harvard Business School",
           "Columbia University"
         ],
         "employers": [
@@ -197,8 +197,8 @@
           "academic administrator"
         ],
         "education": [
-          "Princeton University",
-          "University of Southern California"
+          "University of Southern California",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -264,8 +264,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "University of Colorado",
@@ -350,8 +350,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "engineer",
-          "military flight engineer"
+          "military flight engineer",
+          "engineer"
         ],
         "education": [
           "Bronx High School of Science",
@@ -394,18 +394,18 @@
           "Kogod School of Business",
           "St Antony's College",
           "American University",
-          "Harvard University",
+          "John F. Kennedy School of Government",
           "University of Oxford",
-          "John F. Kennedy School of Government"
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           }
@@ -444,11 +444,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "missionary",
           "diplomat",
-          "governor",
           "politician",
-          "ambassador"
+          "missionary",
+          "ambassador",
+          "governor"
         ],
         "education": [
           "National Taiwan Normal University",

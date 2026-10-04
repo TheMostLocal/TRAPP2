@@ -1,6 +1,6 @@
 {
   "ticker": "TMO",
-  "fetchedAt": "2026-10-04T17:52:07.761541Z",
+  "fetchedAt": "2026-10-04T18:36:13.468519Z",
   "people": [
     {
       "qid": "Q114890303",
@@ -254,8 +254,8 @@
         ],
         "education": [
           "Walsh School of Foreign Service",
-          "Georgetown University Law Center",
-          "Harvard University"
+          "Harvard University",
+          "Georgetown University Law Center"
         ],
         "employers": [
           {

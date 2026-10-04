@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-04T17:57:07.918761Z",
+  "fetchedAt": "2026-10-04T18:36:13.423957Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,9 +17,9 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "business oligarch",
           "entrepreneur",
-          "computer scientist",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -119,9 +119,9 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -334,10 +334,10 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
-          "academic",
           "executive",
           "dean",
+          "academic",
+          "university teacher",
           "computer scientist"
         ],
         "education": [
@@ -420,9 +420,9 @@
           "lawyer"
         ],
         "education": [
+          "William A. Shine Great Neck South High School",
           "Radcliffe College",
-          "Harvard Law School",
-          "William A. Shine Great Neck South High School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
@@ -455,9 +455,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "business oligarch",
           "entrepreneur",
-          "computer scientist",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -531,17 +531,17 @@
             "end": "2018-01-01"
           },
           {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
           {
             "company": "ABB Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
@@ -586,9 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "business oligarch",
           "entrepreneur",
-          "computer scientist",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",

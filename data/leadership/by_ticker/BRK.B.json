@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-10-04T17:57:07.922944Z",
+  "fetchedAt": "2026-10-04T18:36:13.428108Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -61,13 +61,13 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
+          "broker-dealer",
           "financier",
           "investor",
-          "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "economist",
-          "entrepreneur"
+          "entrepreneur",
+          "economist"
         ],
         "education": [
           "New York Institute of Finance",
@@ -332,8 +332,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
           "entrepreneur",
-          "writer",
           "farmer",
+          "writer",
           "photographer"
         ],
         "education": [
@@ -434,8 +434,8 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Colgate University",
@@ -520,13 +520,13 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
+          "broker-dealer",
           "financier",
           "investor",
-          "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "economist",
-          "entrepreneur"
+          "entrepreneur",
+          "economist"
         ],
         "education": [
           "New York Institute of Finance",
@@ -562,8 +562,8 @@
           "venture capitalist",
           "entrepreneur",
           "businessperson",
-          "lawyer",
-          "chief executive officer"
+          "chief executive officer",
+          "lawyer"
         ],
         "education": [
           "The Waldorf School of Garden City",

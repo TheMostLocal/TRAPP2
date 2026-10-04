@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-10-04T17:52:07.765057Z",
+  "fetchedAt": "2026-10-04T18:36:13.471956Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -17,6 +17,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -25,11 +30,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [
@@ -288,11 +288,6 @@
         ],
         "employers": [
           {
-            "company": "Chupa Chups",
-            "start": null,
-            "end": "1996-01-01"
-          },
-          {
             "company": "PepsiCo",
             "start": "1996-01-01",
             "end": null
@@ -301,6 +296,11 @@
             "company": "SEAT",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Chupa Chups",
+            "start": null,
+            "end": "1996-01-01"
           }
         ],
         "positions": [
@@ -451,8 +451,8 @@
         "birthPlace": "Long Branch",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20morrison%20campbell%20soup%20company%20by%20bill%20cramer.jpg",
         "occupations": [
-          "chief executive officer",
           "businessperson",
+          "chief executive officer",
           "merchant"
         ],
         "education": [
@@ -597,6 +597,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -605,11 +610,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [
