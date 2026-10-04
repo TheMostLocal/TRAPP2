@@ -8,9 +8,9 @@
     "presenter",
     "manager",
     "chief executive officer",
-    "businessperson",
     "computer scientist",
-    "engineer"
+    "engineer",
+    "businessperson"
   ],
   "education": [
     "Rostrevor College",
@@ -40,7 +40,6 @@
     }
   ],
   "currentTickers": [
-    "AAPL",
     "NKE"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "fetchedAt": "2026-10-04T18:36:13.470388Z",
+  "fetchedAt": "2026-10-04T21:35:14.905471Z",
   "people": [
     {
       "qid": "Q5221979",
@@ -352,8 +352,8 @@
         "education": [
           "Antioch Community High School",
           "Howard University",
-          "Yale University",
           "Harvard Business School",
+          "Yale University",
           "Massachusetts Institute of Technology",
           "Harvard University"
         ],

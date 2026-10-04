@@ -1,6 +1,6 @@
 {
   "ticker": "WM",
-  "fetchedAt": "2026-10-04T18:36:13.474415Z",
+  "fetchedAt": "2026-10-04T21:35:14.911253Z",
   "people": [
     {
       "qid": "Q7608947",
@@ -42,9 +42,9 @@
           "businessperson"
         ],
         "education": [
+          "Phillips Exeter Academy",
           "Harvard Business School",
           "Harvard College",
-          "Phillips Exeter Academy",
           "Harvard University"
         ],
         "employers": [

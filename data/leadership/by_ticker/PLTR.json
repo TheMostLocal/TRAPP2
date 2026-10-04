@@ -1,7 +1,69 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-10-04T18:36:13.461021Z",
+  "fetchedAt": "2026-10-04T21:35:14.890810Z",
   "people": [
+    {
+      "qid": "Q19560940",
+      "name": "Alexander C. Karp",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q19560940",
+        "name": "Alexander C. Karp",
+        "dateOfBirth": "1967-10-02",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
+        "occupations": [
+          "merchant",
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Goethe University Frankfurt",
+          "Haverford College",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Palantir Technologies",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q19560940",
+      "name": "Alexander C. Karp",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q19560940",
+        "name": "Alexander C. Karp",
+        "dateOfBirth": "1967-10-02",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
+        "occupations": [
+          "merchant",
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Goethe University Frankfurt",
+          "Haverford College",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Palantir Technologies",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
     {
       "qid": "Q16204157",
       "name": "Stephen Cohen",
@@ -36,15 +98,15 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "technology entrepreneur",
           "banker",
           "chess player",
+          "technology entrepreneur",
+          "investor",
           "manager",
           "financier",
-          "investor",
-          "entrepreneur",
           "computer scientist",
-          "writer"
+          "writer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford Law School",
@@ -182,15 +244,15 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "technology entrepreneur",
           "banker",
           "chess player",
+          "technology entrepreneur",
+          "investor",
           "manager",
           "financier",
-          "investor",
-          "entrepreneur",
           "computer scientist",
-          "writer"
+          "writer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford Law School",
@@ -218,6 +280,37 @@
             "end": "2022-05-25"
           }
         ]
+      }
+    },
+    {
+      "qid": "Q19560940",
+      "name": "Alexander C. Karp",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q19560940",
+        "name": "Alexander C. Karp",
+        "dateOfBirth": "1967-10-02",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
+        "occupations": [
+          "merchant",
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Goethe University Frankfurt",
+          "Haverford College",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Palantir Technologies",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
       }
     }
   ]
