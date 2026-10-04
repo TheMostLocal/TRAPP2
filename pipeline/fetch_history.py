@@ -31,12 +31,25 @@ USAGE
 """
 import argparse
 import json
+import math
 import sys
 import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import yfinance as yf
+
+
+def _finite(obj):
+    """NaN/±Inf → None (yfinance emits NaN closes on partial/holiday bars; bare
+    NaN tokens make the file unparseable for the browser's JSON.parse)."""
+    if isinstance(obj, float):
+        return obj if math.isfinite(obj) else None
+    if isinstance(obj, dict):
+        return {k: _finite(v) for k, v in obj.items()}
+    if isinstance(obj, (list, tuple)):
+        return [_finite(v) for v in obj]
+    return obj
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -181,7 +194,7 @@ def write_merged(ticker, bars):
     for b in bars:                       # fresh settled history wins per date
         by_date[b["date"]] = b
     merged = [by_date[d] for d in sorted(by_date.keys())]
-    out_path.write_text(json.dumps(merged, separators=(",", ":")))
+    out_path.write_text(json.dumps(_finite(merged), separators=(",", ":")))
     return merged
 
 
@@ -275,11 +288,11 @@ def main():
     # ----- Per-batch manifest fragment (kept for legacy batched mode) -----
     if not full_pass:
         frag = HISTORY_DIR.parent / f"history_manifest.b{args.batch}.json"
-        frag.write_text(json.dumps({
+        frag.write_text(json.dumps(_finite({
             "batch": args.batch, "of": args.of,
             "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             "years": args.years, "by_ticker": spans,
-        }, separators=(",", ":")))
+        }), separators=(",", ":")))
 
     # ----- Rebuild the manifest -----
     # On a full pass the manifest is authoritative = exactly the spans we just
