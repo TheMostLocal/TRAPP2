@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "fetchedAt": "2026-10-04T18:36:13.439417Z",
+  "fetchedAt": "2026-10-04T21:20:08.965665Z",
   "people": [
     {
       "qid": "Q18921712",
@@ -18,8 +18,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgetown University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Georgetown University"
         ],
         "employers": [
           {
@@ -85,6 +85,26 @@
       }
     },
     {
+      "qid": "Q114359175",
+      "name": "John May",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114359175",
+        "name": "John May",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "University of Maine",
+          "University of New Hampshire"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q109566926",
       "name": "John Weinberg",
       "role_at_company": "Board Member",
@@ -119,8 +139,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -227,8 +247,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgetown University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Georgetown University"
         ],
         "employers": [
           {
@@ -347,11 +367,11 @@
           "business executive"
         ],
         "education": [
-          "Harvard College",
-          "University of Oxford",
           "Yale School of Management",
           "Hotchkiss School",
           "Yale Law School",
+          "Harvard College",
+          "University of Oxford",
           "Harvard University"
         ],
         "employers": [
@@ -379,9 +399,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {
@@ -464,17 +484,17 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "diplomat",
           "politician",
-          "missionary",
           "ambassador",
+          "missionary",
+          "diplomat",
           "governor"
         ],
         "education": [
-          "National Taiwan Normal University",
-          "University of Utah",
           "Highland High School",
-          "The Wharton School"
+          "The Wharton School",
+          "National Taiwan Normal University",
+          "University of Utah"
         ],
         "employers": [],
         "positions": [
@@ -503,26 +523,6 @@
             "end": "2019-10-03"
           }
         ]
-      }
-    },
-    {
-      "qid": "Q114359175",
-      "name": "John May",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114359175",
-        "name": "John May",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "University of Maine",
-          "University of New Hampshire"
-        ],
-        "employers": [],
-        "positions": []
       }
     }
   ]

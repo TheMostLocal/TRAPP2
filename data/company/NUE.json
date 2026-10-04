@@ -1,67 +1,19 @@
 {
   "ticker": "NUE",
-  "qid": "Q1645081",
-  "fetchedAt": "2026-06-11T05:49:46.544900Z",
+  "qid": "Q1629024",
+  "fetchedAt": "2026-10-04T21:18:57.676226Z",
   "source": "wikidata",
-  "name": "Nucor",
-  "description": "steel production company",
-  "website": "http://www.nucor.com",
-  "isin": "US6703461052",
-  "inception": "1955-09-01",
-  "employees": 31400,
-  "industry": "iron and steel industry",
-  "headquarters": "Charlotte",
+  "name": "Nara University of Education",
+  "description": "higher education institution in Nara Prefecture, Japan",
+  "website": "https://www.nara-edu.ac.jp/",
+  "isin": null,
+  "inception": "1949-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
   "executives": [],
-  "board": [
-    {
-      "name": "Nadja West",
-      "role": "Board Member"
-    },
-    {
-      "name": "Laurette Koellner",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mike Lamach",
-      "role": "Board Member"
-    },
-    {
-      "name": "Lloyd J. Austin III",
-      "role": "Board Member"
-    },
-    {
-      "name": "John Walker",
-      "role": "Board Member"
-    },
-    {
-      "name": "Joe Rupp",
-      "role": "Board Member"
-    },
-    {
-      "name": "Christopher J. Kearney",
-      "role": "Board Member"
-    },
-    {
-      "name": "Patrick Dempsey",
-      "role": "Board Member"
-    },
-    {
-      "name": "Norma Clayton",
-      "role": "Board Member"
-    },
-    {
-      "name": "Leon Topalian",
-      "role": "Board Member"
-    }
-  ],
+  "board": [],
   "founders": [],
-  "products": [
-    {
-      "name": "reinforcing bar"
-    },
-    {
-      "name": "steel"
-    }
-  ],
+  "products": [],
   "countries": []
 }

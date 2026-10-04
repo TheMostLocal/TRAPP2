@@ -142,9 +142,9 @@
           "financier"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -201,16 +201,6 @@
             "company": "Washington Gas",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Ad Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
           }
         ],
         "positions": [

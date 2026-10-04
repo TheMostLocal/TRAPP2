@@ -16,6 +16,7 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
+          "computer scientist",
           "businessperson",
           "computer scientist",
           "actor"
@@ -276,6 +277,11 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "company": "Claris",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -346,8 +352,8 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "chief financial officer",
           "businessperson",
+          "chief financial officer",
           "banker"
         ],
         "education": [
@@ -653,6 +659,7 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
+          "computer scientist",
           "businessperson",
           "computer scientist",
           "actor"
@@ -716,6 +723,7 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
+          "computer scientist",
           "businessperson",
           "computer scientist",
           "actor"

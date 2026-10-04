@@ -1,7 +1,7 @@
 {
   "ticker": "HES",
   "qid": "Q23565",
-  "fetchedAt": "2026-06-11T05:45:17.831897Z",
+  "fetchedAt": "2026-10-04T21:08:30.783484Z",
   "source": "wikidata",
   "name": "Hessischer Rundfunk",
   "description": "Public institution (state broadcasting corporation) for the state of Hesse, based in Frankfurt am Main. It is a founding member of ARD and operates hr television and radio programmes",
@@ -9,7 +9,7 @@
   "isin": null,
   "inception": "1948-10-02",
   "employees": null,
-  "industry": "media industry",
+  "industry": "online newspaper",
   "headquarters": "Frankfurt",
   "executives": [],
   "board": [],

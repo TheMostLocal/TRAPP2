@@ -1,19 +1,28 @@
 {
   "ticker": "RMD",
-  "qid": "Q15842301",
-  "fetchedAt": "2026-06-11T05:47:40.175593Z",
+  "qid": "Q7314903",
+  "fetchedAt": "2026-10-04T21:14:34.575295Z",
   "source": "wikidata",
-  "name": "RMD",
-  "description": null,
-  "website": "https://www.rmd.de/",
-  "isin": null,
-  "inception": "1921-12-30",
+  "name": "ResMed",
+  "description": "manufacturer of CPAP masks, machines and products that diagnose, treat or help manage respiratory conditions",
+  "website": "http://www.resmed.com/",
+  "isin": "US7611521078",
+  "inception": "1989-01-01",
   "employees": null,
-  "industry": "business service",
-  "headquarters": "Munich",
-  "executives": [],
+  "industry": "medicine",
+  "headquarters": "San Diego",
+  "executives": [
+    {
+      "name": "Michael Farrell",
+      "role": "Chief Executive Officer"
+    }
+  ],
   "board": [],
-  "founders": [],
+  "founders": [
+    {
+      "name": "Peter Farrell"
+    }
+  ],
   "products": [],
   "countries": []
 }

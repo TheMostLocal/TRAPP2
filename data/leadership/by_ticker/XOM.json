@@ -198,8 +198,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "hedge fund manager"
         ],
         "education": [
@@ -355,8 +355,8 @@
         ],
         "education": [
           "Georgetown University",
-          "Clark University",
           "Harvard Business School",
+          "Clark University",
           "Harvard University"
         ],
         "employers": [

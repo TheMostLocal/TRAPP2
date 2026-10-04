@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-10-04T18:36:13.434476Z",
+  "fetchedAt": "2026-10-04T21:20:08.957861Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "University of Colorado",
@@ -29,6 +29,116 @@
           }
         ],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q466993",
+      "name": "Dambisa Moyo, Baroness Moyo",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q466993",
+        "name": "Dambisa Moyo, Baroness Moyo",
+        "dateOfBirth": "1969-02-02",
+        "birthPlace": "Lusaka",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
+        "occupations": [
+          "economist",
+          "writer"
+        ],
+        "education": [
+          "Kogod School of Business",
+          "St Antony's College",
+          "American University",
+          "John F. Kennedy School of Government",
+          "University of Oxford",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "World Bank",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2016-10-01",
+            "end": null
+          },
+          {
+            "title": "member of the House of Lords",
+            "company": null,
+            "start": "2022-11-08",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-08-12",
+            "end": "2023-05-09"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q11607",
+      "name": "Jon Meade Huntsman Jr.",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q11607",
+        "name": "Jon Meade Huntsman Jr.",
+        "dateOfBirth": "1960-03-26",
+        "birthPlace": "Palo Alto",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
+        "occupations": [
+          "politician",
+          "ambassador",
+          "missionary",
+          "diplomat",
+          "governor"
+        ],
+        "education": [
+          "Highland High School",
+          "The Wharton School",
+          "National Taiwan Normal University",
+          "University of Utah"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "United States Ambassador to Singapore",
+            "company": null,
+            "start": "1992-08-11",
+            "end": "1993-06-15"
+          },
+          {
+            "title": "United States Ambassador to China",
+            "company": null,
+            "start": "2009-08-11",
+            "end": "2011-04-30"
+          },
+          {
+            "title": "Governor of Utah",
+            "company": null,
+            "start": "2005-01-03",
+            "end": "2009-08-11"
+          },
+          {
+            "title": "United States Ambassador to the Russian Federation",
+            "company": null,
+            "start": "2017-10-03",
+            "end": "2019-10-03"
+          }
+        ]
       }
     },
     {
@@ -90,8 +200,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Harvard Law School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -112,8 +222,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Georgia Tech",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -146,9 +256,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
           "Columbia University"
         ],
         "employers": [
@@ -192,8 +302,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemical engineer",
           "chemist",
+          "chemical engineer",
           "academic administrator"
         ],
         "education": [
@@ -202,12 +312,12 @@
         ],
         "employers": [
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Imperial College London",
             "start": null,
             "end": null
           },
           {
-            "company": "Imperial College London",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
@@ -264,8 +374,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "University of Colorado",
@@ -373,116 +483,6 @@
           }
         ],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q466993",
-      "name": "Dambisa Moyo, Baroness Moyo",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q466993",
-        "name": "Dambisa Moyo, Baroness Moyo",
-        "dateOfBirth": "1969-02-02",
-        "birthPlace": "Lusaka",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
-        "occupations": [
-          "economist",
-          "writer"
-        ],
-        "education": [
-          "Kogod School of Business",
-          "St Antony's College",
-          "American University",
-          "John F. Kennedy School of Government",
-          "University of Oxford",
-          "Harvard University"
-        ],
-        "employers": [
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "World Bank",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2016-10-01",
-            "end": null
-          },
-          {
-            "title": "member of the House of Lords",
-            "company": null,
-            "start": "2022-11-08",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-08-12",
-            "end": "2023-05-09"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q11607",
-      "name": "Jon Meade Huntsman Jr.",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q11607",
-        "name": "Jon Meade Huntsman Jr.",
-        "dateOfBirth": "1960-03-26",
-        "birthPlace": "Palo Alto",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
-        "occupations": [
-          "diplomat",
-          "politician",
-          "missionary",
-          "ambassador",
-          "governor"
-        ],
-        "education": [
-          "National Taiwan Normal University",
-          "University of Utah",
-          "Highland High School",
-          "The Wharton School"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "United States Ambassador to Singapore",
-            "company": null,
-            "start": "1992-08-11",
-            "end": "1993-06-15"
-          },
-          {
-            "title": "United States Ambassador to China",
-            "company": null,
-            "start": "2009-08-11",
-            "end": "2011-04-30"
-          },
-          {
-            "title": "Governor of Utah",
-            "company": null,
-            "start": "2005-01-03",
-            "end": "2009-08-11"
-          },
-          {
-            "title": "United States Ambassador to the Russian Federation",
-            "company": null,
-            "start": "2017-10-03",
-            "end": "2019-10-03"
-          }
-        ]
       }
     }
   ]

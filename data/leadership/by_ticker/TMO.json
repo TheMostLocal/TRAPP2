@@ -37,13 +37,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "director"
+          "director",
+          "businessperson"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Northwestern University",
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -224,9 +224,9 @@
           "investment banker"
         ],
         "education": [
+          "Harvard University",
           "The Wharton School",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -259,12 +259,12 @@
         ],
         "employers": [
           {
-            "company": "University of Pretoria",
+            "company": "Columbia University",
             "start": null,
             "end": null
           },
           {
-            "company": "Columbia University",
+            "company": "University of Pretoria",
             "start": null,
             "end": null
           },

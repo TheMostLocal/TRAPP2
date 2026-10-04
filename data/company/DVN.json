@@ -1,23 +1,19 @@
 {
   "ticker": "DVN",
-  "qid": "Q42309964",
-  "fetchedAt": "2026-06-11T05:45:29.021143Z",
+  "qid": "Q140503439",
+  "fetchedAt": "2026-10-04T21:08:47.317213Z",
   "source": "wikidata",
-  "name": "Frontier Services Group",
-  "description": "Chinese state-owned security, logistics, insurance company",
-  "website": "http://www.fsgroup.com/",
+  "name": "DVNY",
+  "description": "membership card company in Lebanon",
+  "website": null,
   "isin": null,
   "inception": null,
   "employees": null,
-  "industry": "security",
+  "industry": null,
   "headquarters": null,
   "executives": [],
   "board": [],
-  "founders": [
-    {
-      "name": "Erik Prince"
-    }
-  ],
+  "founders": [],
   "products": [],
   "countries": []
 }

@@ -13,6 +13,7 @@
     "programmer",
     "civil servant",
     "entrepreneur",
+    "engineer",
     "inventor",
     "engineer",
     "politician"
@@ -35,8 +36,8 @@
       "end": null
     },
     {
-      "company": "The Boring Company",
-      "start": "2016-12-17",
+      "company": "Tesla",
+      "start": "2004-04-23",
       "end": null
     },
     {
@@ -60,8 +61,13 @@
       "end": null
     },
     {
-      "company": "Tesla",
-      "start": "2004-04-23",
+      "company": "The Boring Company",
+      "start": "2016-12-17",
+      "end": null
+    },
+    {
+      "company": "SpaceX",
+      "start": "2002-06-01",
       "end": null
     },
     {

@@ -1,19 +1,23 @@
 {
   "ticker": "DOW",
-  "qid": "Q62739842",
-  "fetchedAt": "2026-06-11T05:49:34.916501Z",
+  "qid": "Q5303114",
+  "fetchedAt": "2026-10-04T21:18:53.387600Z",
   "source": "wikidata",
-  "name": "Dow Inc.",
-  "description": "American chemical company",
-  "website": "https://www.dow.com",
-  "isin": "US2605571031",
-  "inception": "2019-01-01",
+  "name": "Downer Group",
+  "description": "integrated services company active in Australia and New Zealand",
+  "website": "http://www.downergroup.com/",
+  "isin": null,
+  "inception": "1933-01-01",
   "employees": null,
-  "industry": "chemical industry",
-  "headquarters": "Midland",
+  "industry": null,
+  "headquarters": "Sydney",
   "executives": [],
   "board": [],
-  "founders": [],
+  "founders": [
+    {
+      "name": "Arnold Fielder Downer"
+    }
+  ],
   "products": [],
   "countries": []
 }

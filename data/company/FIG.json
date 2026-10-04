@@ -1,28 +1,19 @@
 {
   "ticker": "FIG",
-  "qid": "Q138548226",
-  "fetchedAt": "2026-06-11T05:39:02.832895Z",
+  "qid": "Q21189333",
+  "fetchedAt": "2026-10-04T20:55:08.613692Z",
   "source": "wikidata",
-  "name": "Figma Inc",
-  "description": "software company",
-  "website": "https://figma.com",
+  "name": "Fig",
+  "description": "crowdfunding platform for video games",
+  "website": "http://www.fig.co",
   "isin": null,
-  "inception": "2012-01-01",
+  "inception": "2015-01-01",
   "employees": null,
-  "industry": "software industry",
-  "headquarters": "San Francisco",
+  "industry": null,
+  "headquarters": null,
   "executives": [],
-  "board": [
-    {
-      "name": "Terrence Rohan",
-      "role": "Board Member"
-    }
-  ],
-  "founders": [
-    {
-      "name": "Dylan Field"
-    }
-  ],
+  "board": [],
+  "founders": [],
   "products": [],
   "countries": []
 }

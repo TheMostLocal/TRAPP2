@@ -1,7 +1,7 @@
 {
   "ticker": "COR",
   "qid": "Q470156",
-  "fetchedAt": "2026-06-11T05:47:59.554379Z",
+  "fetchedAt": "2026-10-04T21:15:16.165984Z",
   "source": "wikidata",
   "name": "Cencora",
   "description": "US drug wholesale company company",
@@ -52,10 +52,6 @@
     },
     {
       "name": "Ornella Barra",
-      "role": "Board Member"
-    },
-    {
-      "name": "Lon R. Greenberg",
       "role": "Board Member"
     },
     {
