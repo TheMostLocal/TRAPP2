@@ -1,0 +1,81 @@
+name: Mid-Day Refresh (Macro + Regime)
+
+# Runs mid-day every weekday. Pushed 1.5 hours earlier vs the previous schedule
+# (18:00 UTC → 16:30 UTC) to compensate for GitHub Actions queue latency.
+# Target: roughly 11 AM ET (EDT) when the cron is dispatched promptly. With
+# typical queue lag the run lands closer to 12:30-1 PM ET, which is what we want.
+#
+# EDT 11:00 AM = 15:00 UTC, EST 11:00 AM = 16:00 UTC.
+# Use 15:30 UTC as compromise — slightly early in winter, slightly early in summer.
+#
+# Skips fetch_history.py (that's nightly only). Re-runs macro + signal stack.
+
+on:
+  schedule:
+    - cron: '30 15 * * 1-5'
+  workflow_dispatch:
+
+concurrency:
+  group: trapp2-regime
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Fetch FRED macro series
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python pipeline/fetch_macro.py
+
+      - name: Compute signals
+        run: python pipeline/compute_signals.py
+
+      - name: Classify regime + append snapshot
+        run: python pipeline/classify_regime.py
+
+      - name: Compute Markov transitions
+        run: python pipeline/compute_transitions.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/
+          echo "=== git status before commit ==="
+          git status --short
+          echo "=== files staged ==="
+          git diff --staged --name-only
+          if git diff --staged --quiet; then
+            echo "No regime changes to commit"
+          else
+            git commit -m "Mid-day regime refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for i in 1 2 3; do
+              if git push; then
+                echo "Push succeeded on attempt $i"
+                break
+              fi
+              echo "Push attempt $i failed, rebasing and retrying"
+              git fetch origin
+
+              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
+
+              if [ -f .git/MERGE_HEAD ] || [ -d .git/rebase-merge ]; then git checkout --ours -- data/ 2>/dev/null || true; git add -A data/ 2>/dev/null || true; git commit --no-edit 2>/dev/null || true; fi
+              sleep 4
+            done
+          fi
