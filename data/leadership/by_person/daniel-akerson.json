@@ -16,11 +16,6 @@
   ],
   "employers": [
     {
-      "company": "General Motors",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "American Express",
       "start": null,
       "end": null
@@ -29,17 +24,22 @@
       "company": "Carlyle Group",
       "start": null,
       "end": null
+    },
+    {
+      "company": "General Motors",
+      "start": null,
+      "end": null
     }
   ],
   "positions": [
     {
-      "title": "chairperson",
+      "title": "chief executive officer",
       "company": null,
       "start": null,
       "end": null
     },
     {
-      "title": "chief executive officer",
+      "title": "chairperson",
       "company": null,
       "start": null,
       "end": null

@@ -61,9 +61,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan",
           "Ross School of Business",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": []
@@ -178,8 +178,8 @@
           "banker"
         ],
         "education": [
-          "University of Virginia",
-          "Brown University"
+          "Brown University",
+          "University of Virginia"
         ],
         "employers": [
           {

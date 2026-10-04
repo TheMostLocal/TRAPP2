@@ -183,6 +183,16 @@
             "company": "Cisco",
             "start": "2018-04-01",
             "end": null
+          },
+          {
+            "company": "Bell Labs",
+            "start": "1980-01-01",
+            "end": "1991-01-01"
+          },
+          {
+            "company": "Salesforce",
+            "start": "2010-02-01",
+            "end": "2018-04-01"
           }
         ],
         "positions": []
@@ -314,6 +324,7 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20carmona.jpg",
         "occupations": [
           "paramedic",
+          "surgeon",
           "nurse",
           "surgeon",
           "politician"

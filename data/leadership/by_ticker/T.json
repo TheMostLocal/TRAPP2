@@ -18,8 +18,8 @@
           "chief executive officer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Marymount University"
+          "Loyola Marymount University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -92,8 +92,8 @@
         "birthPlace": "Salina",
         "image": null,
         "occupations": [
-          "musician",
-          "artist"
+          "artist",
+          "musician"
         ],
         "education": [
           "Trulaske College of Business",
@@ -121,7 +121,8 @@
           "Harvard Business School",
           "Harvard University",
           "Collegiate School",
-          "Allen-Stevenson School"
+          "Allen-Stevenson School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -142,9 +143,9 @@
           "financier"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -201,16 +202,6 @@
             "company": "Washington Gas",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Ad Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -244,9 +235,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {
@@ -326,8 +317,8 @@
           "chief executive officer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Marymount University"
+          "Loyola Marymount University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {

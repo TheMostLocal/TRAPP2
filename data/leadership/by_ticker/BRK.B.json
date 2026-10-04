@@ -73,9 +73,9 @@
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
@@ -304,9 +304,9 @@
           "businessperson"
         ],
         "education": [
+          "Teachers College",
           "Trinity College",
-          "Harvard Business School",
-          "Teachers College"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
@@ -331,7 +331,6 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "farmer",
           "photographer",
           "writer"
@@ -372,8 +371,8 @@
         ],
         "education": [
           "Indian Institute of Technology Kharagpur",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -434,12 +433,12 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
-          "Colgate University",
           "Harvard Business School",
+          "Colgate University",
           "Harvard University"
         ],
         "employers": [
@@ -532,9 +531,9 @@
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
@@ -559,6 +558,7 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
+          "businessperson",
           "venture capitalist",
           "businessperson",
           "lawyer",
@@ -566,9 +566,9 @@
           "chief executive officer"
         ],
         "education": [
-          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "The Waldorf School of Garden City"
         ],
         "employers": [
           {
@@ -591,12 +591,6 @@
           {
             "title": "board of directors member",
             "company": null,
-            "start": "2018-01-01",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
             "start": "2020-05-02",
             "end": null
           },
@@ -605,6 +599,12 @@
             "company": null,
             "start": "2001-01-01",
             "end": "2018-02-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": null
           }
         ]
       }

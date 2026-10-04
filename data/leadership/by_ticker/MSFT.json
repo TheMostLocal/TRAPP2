@@ -14,6 +14,9 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
+          "engineer",
+          "computer scientist",
+          "entrepreneur",
           "manager",
           "electrotechnician",
           "chief executive officer",
@@ -81,8 +84,8 @@
         "birthPlace": "Sal\u00e9",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20MacGregor%20at%20World%20Economic%20Forum%20Davos%202022.png",
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
           "\u00c9cole Centrale Paris"
@@ -103,9 +106,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
           "business executive",
-          "manager"
+          "manager",
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -133,6 +136,11 @@
             "company": "Dick's Sporting Goods",
             "start": "2015-08-01",
             "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -157,8 +165,8 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
           "Syracuse University",
@@ -166,17 +174,17 @@
         ],
         "employers": [
           {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -310,6 +318,7 @@
           "investor",
           "consultant",
           "entrepreneur",
+          "investor",
           "businessperson",
           "writer"
         ],
@@ -395,6 +404,9 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
+          "engineer",
+          "computer scientist",
+          "entrepreneur",
           "manager",
           "electrotechnician",
           "chief executive officer",

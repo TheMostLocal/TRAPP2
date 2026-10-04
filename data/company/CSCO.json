@@ -1,7 +1,7 @@
 {
   "ticker": "CSCO",
   "qid": "Q173395",
-  "fetchedAt": "2026-06-11T05:38:34.855752Z",
+  "fetchedAt": "2026-10-04T20:54:27.027818Z",
   "source": "wikidata",
   "name": "Cisco",
   "description": "American multinational technology company",
@@ -9,7 +9,7 @@
   "isin": "US17275R1023",
   "inception": "1984-01-01",
   "employees": 66639,
-  "industry": "telecommunications",
+  "industry": "telecommunications industry",
   "headquarters": "San Jose",
   "executives": [
     {
@@ -26,26 +26,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Michael David Capellas",
-      "role": "Board Member"
-    },
-    {
-      "name": "M. Michele Burns",
-      "role": "Board Member"
-    },
-    {
-      "name": "Wesley Bush",
-      "role": "Board Member"
-    },
-    {
-      "name": "Dan Schulman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Kristina M. Johnson",
-      "role": "Board Member"
-    },
     {
       "name": "Marianna Tessel",
       "role": "Board Member"
@@ -77,6 +57,26 @@
     {
       "name": "Lisa Su",
       "role": "Board Member"
+    },
+    {
+      "name": "Michael David Capellas",
+      "role": "Board Member"
+    },
+    {
+      "name": "M. Michele Burns",
+      "role": "Board Member"
+    },
+    {
+      "name": "Wesley Bush",
+      "role": "Board Member"
+    },
+    {
+      "name": "Dan Schulman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kristina M. Johnson",
+      "role": "Board Member"
     }
   ],
   "founders": [
@@ -98,13 +98,13 @@
       "name": "set-top box"
     },
     {
-      "name": "software"
-    },
-    {
       "name": "cable modem"
     },
     {
       "name": "wireless access point"
+    },
+    {
+      "name": "software"
     },
     {
       "name": "gateway"

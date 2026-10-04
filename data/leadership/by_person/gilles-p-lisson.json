@@ -9,13 +9,18 @@
     "business executive"
   ],
   "education": [
+    "Harvard University",
+    "lyc\u00e9e du Parc",
     "ESSEC Business School",
     "Harvard Business School",
-    "\u00c9cole alsacienne",
-    "Harvard University",
-    "lyc\u00e9e du Parc"
+    "\u00c9cole alsacienne"
   ],
   "employers": [
+    {
+      "company": "Groupe TF1",
+      "start": "2016-01-01",
+      "end": "2023-01-01"
+    },
     {
       "company": "Bouygues Telecom",
       "start": "2001-01-01",

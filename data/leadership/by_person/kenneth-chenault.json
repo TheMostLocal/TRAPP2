@@ -5,6 +5,7 @@
   "birthPlace": "Mineola",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
   "occupations": [
+    "businessperson",
     "venture capitalist",
     "businessperson",
     "lawyer",
@@ -12,9 +13,9 @@
     "chief executive officer"
   ],
   "education": [
-    "The Waldorf School of Garden City",
     "Bowdoin College",
-    "Harvard Law School"
+    "Harvard Law School",
+    "The Waldorf School of Garden City"
   ],
   "employers": [
     {
@@ -37,12 +38,6 @@
     {
       "title": "board of directors member",
       "company": null,
-      "start": "2018-01-01",
-      "end": null
-    },
-    {
-      "title": "board of directors member",
-      "company": null,
       "start": "2020-05-02",
       "end": null
     },
@@ -51,6 +46,12 @@
       "company": null,
       "start": "2001-01-01",
       "end": "2018-02-01"
+    },
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2018-01-01",
+      "end": null
     }
   ],
   "currentTickers": [

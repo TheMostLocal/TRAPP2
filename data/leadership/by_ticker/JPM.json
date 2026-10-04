@@ -24,6 +24,16 @@
         ],
         "employers": [
           {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Goldman Sachs",
             "start": null,
             "end": null
@@ -37,16 +47,6 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -208,9 +208,10 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
+          "entrepreneur",
           "business executive",
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -291,9 +292,9 @@
         "education": [
           "Case Western Reserve University",
           "Georgetown University Law Center",
+          "Weatherhead School of Management",
           "Emory University",
-          "Georgetown University",
-          "Weatherhead School of Management"
+          "Georgetown University"
         ],
         "employers": [],
         "positions": [
@@ -378,9 +379,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Princeton University",
           "Princeton School of Public and International Affairs",
-          "St. Ignatius College Prep",
-          "Princeton University"
+          "St. Ignatius College Prep"
         ],
         "employers": [],
         "positions": [
@@ -414,6 +415,11 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -421,11 +427,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -457,12 +458,12 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
-          "Colgate University",
           "Harvard Business School",
+          "Colgate University",
           "Harvard University"
         ],
         "employers": [
@@ -510,6 +511,16 @@
         ],
         "employers": [
           {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Goldman Sachs",
             "start": null,
             "end": null
@@ -523,16 +534,6 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -557,8 +558,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [

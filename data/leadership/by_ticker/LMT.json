@@ -217,8 +217,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "Wisconsin School of Business",
@@ -245,11 +245,11 @@
           "military officer"
         ],
         "education": [
+          "Georgetown University",
+          "Tufts University",
           "Boston College High School",
           "Saint Michael's College",
-          "The Fletcher School of Law and Diplomacy",
-          "Georgetown University",
-          "Tufts University"
+          "The Fletcher School of Law and Diplomacy"
         ],
         "employers": [],
         "positions": [
@@ -370,8 +370,8 @@
         "birthPlace": "Hibbing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Carlson%20NRO.jpg",
         "occupations": [
-          "priest",
-          "military officer"
+          "military officer",
+          "priest"
         ],
         "education": [
           "University of Minnesota Duluth",
@@ -404,11 +404,6 @@
         ],
         "employers": [
           {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "American Express",
             "start": null,
             "end": null
@@ -417,17 +412,22 @@
             "company": "Carlyle Group",
             "start": null,
             "end": null
+          },
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
           {
-            "title": "chairperson",
+            "title": "chief executive officer",
             "company": null,
             "start": null,
             "end": null
           },
           {
-            "title": "chief executive officer",
+            "title": "chairperson",
             "company": null,
             "start": null,
             "end": null

@@ -19,9 +19,9 @@
           "head commissioner"
         ],
         "education": [
+          "Harvard University",
           "Mississippi State University",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -56,8 +56,8 @@
         "birthPlace": "Greenwood",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Abney%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Pillow Academy",
@@ -95,9 +95,9 @@
           "head commissioner"
         ],
         "education": [
+          "Harvard University",
           "Mississippi State University",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -239,11 +239,11 @@
           "chief executive officer"
         ],
         "education": [
-          "Southern Methodist University",
-          "University of Illinois Urbana-Champaign",
           "Hinsdale Central High School",
           "Thunderbird School of Global Management",
-          "Cox School of Business"
+          "Cox School of Business",
+          "Southern Methodist University",
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {

@@ -1,7 +1,7 @@
 {
   "ticker": "WBD",
   "qid": "Q107074885",
-  "fetchedAt": "2026-06-11T05:43:24.690619Z",
+  "fetchedAt": "2026-10-04T21:05:28.061396Z",
   "source": "wikidata",
   "name": "Warner Bros. Discovery",
   "description": "American mass media and entertainment conglomerate",
@@ -9,7 +9,7 @@
   "isin": "US9344231041",
   "inception": "2022-04-08",
   "employees": null,
-  "industry": "media industry",
+  "industry": "mass media",
   "headquarters": "New York City",
   "executives": [
     {

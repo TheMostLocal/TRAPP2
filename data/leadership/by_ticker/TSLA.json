@@ -69,8 +69,8 @@
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           },
           {
@@ -131,8 +131,8 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of New South Wales",
@@ -291,9 +291,9 @@
           "venture capitalist"
         ],
         "education": [
+          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business",
-          "University of California, Los Angeles"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": [
@@ -394,8 +394,8 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of New South Wales",
@@ -580,8 +580,8 @@
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           },
           {
@@ -646,12 +646,13 @@
           "entrepreneur",
           "computer scientist",
           "businessperson",
+          "computer scientist",
           "actor"
         ],
         "education": [
-          "University of Chicago",
           "South Shore High School",
-          "University of Illinois Urbana-Champaign"
+          "University of Illinois Urbana-Champaign",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -666,12 +667,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
-          },
           {
             "title": "chairperson",
             "company": null,
@@ -689,6 +684,12 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
           }
         ]
       }
@@ -742,8 +743,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "York Community High School",

@@ -1,32 +1,19 @@
 {
   "ticker": "PRU",
-  "qid": "Q1374135",
-  "fetchedAt": "2026-06-11T05:45:09.003191Z",
+  "qid": "Q109625753",
+  "fetchedAt": "2026-10-04T21:07:59.980197Z",
   "source": "wikidata",
-  "name": "Prudential plc",
-  "description": "British multinational life insurance and financial services company",
-  "website": "https://www.prudentialplc.com/en",
-  "isin": "GB0007099541",
-  "inception": "1848-05-30",
-  "employees": 22308,
-  "industry": "insurance",
-  "headquarters": "London",
-  "executives": [
-    {
-      "name": "Mike Wells",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Shriti Vadera, Baroness Vadera",
-      "role": "Chairperson"
-    }
-  ],
+  "name": "PERSEUS MINING LIMITED",
+  "description": "Australian public company",
+  "website": "https://perseusmining.com/",
+  "isin": "AU000000PRU3",
+  "inception": null,
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
   "board": [],
   "founders": [],
-  "products": [
-    {
-      "name": "life insurance"
-    }
-  ],
+  "products": [],
   "countries": []
 }

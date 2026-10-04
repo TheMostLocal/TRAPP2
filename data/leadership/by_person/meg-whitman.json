@@ -10,9 +10,9 @@
     "entrepreneur"
   ],
   "education": [
+    "Princeton University",
     "Cold Spring Harbor Jr./Sr. High School",
-    "Harvard Business School",
-    "Princeton University"
+    "Harvard Business School"
   ],
   "employers": [
     {
@@ -21,7 +21,7 @@
       "end": null
     },
     {
-      "company": "The Walt Disney Company",
+      "company": "Bain & Company",
       "start": null,
       "end": null
     },
@@ -31,12 +31,12 @@
       "end": null
     },
     {
-      "company": "Hasbro",
-      "start": null,
+      "company": "Procter & Gamble",
+      "start": "1979-01-01",
       "end": null
     },
     {
-      "company": "Bain & Company",
+      "company": "The Walt Disney Company",
       "start": null,
       "end": null
     },

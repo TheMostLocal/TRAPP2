@@ -139,8 +139,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -159,8 +159,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Dartmouth College",
-          "Harvard University"
+          "Harvard University",
+          "Dartmouth College"
         ],
         "employers": [],
         "positions": []
@@ -399,9 +399,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {

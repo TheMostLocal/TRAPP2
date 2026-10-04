@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
+          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School",
-          "Harvard University"
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
+          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School",
-          "Harvard University"
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -294,14 +294,15 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
+          "intelligence officer",
           "spy",
           "intelligence officer",
           "soldier"
         ],
         "education": [
-          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
+          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -341,8 +342,8 @@
           "dean"
         ],
         "education": [
-          "University of Michigan",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "University of Michigan"
         ],
         "employers": [
           {
@@ -495,11 +496,6 @@
             "end": "2018-01-01"
           },
           {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
@@ -510,13 +506,18 @@
             "end": null
           },
           {
-            "company": "Booz Allen Hamilton",
+            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
           {
             "company": "Amazon",
             "start": "2019-01-01",
+            "end": null
+          },
+          {
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],

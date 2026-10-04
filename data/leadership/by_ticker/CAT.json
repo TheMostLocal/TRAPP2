@@ -111,11 +111,11 @@
           "politician"
         ],
         "education": [
+          "Stanford University",
           "Aiglon College",
           "International School Bangkok",
           "George Washington University",
-          "Williams College",
-          "Stanford University"
+          "Williams College"
         ],
         "employers": [
           {
@@ -141,6 +141,7 @@
         "occupations": [
           "adviser",
           "law clerk",
+          "prosecutor",
           "lawyer",
           "prosecutor",
           "politician"
@@ -205,8 +206,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Kettering University"
+          "Kettering University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []

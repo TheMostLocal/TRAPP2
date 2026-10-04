@@ -19,7 +19,8 @@
           "philanthropist",
           "computer scientist",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -59,9 +60,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
           "economist",
-          "computer scientist",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "computer scientist"
         ],
         "education": [
           "Harvard College",
@@ -246,6 +247,11 @@
         ],
         "employers": [
           {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -267,11 +273,6 @@
           },
           {
             "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -363,8 +364,8 @@
         "birthPlace": "Acton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drew%20Houston.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Massachusetts Institute of Technology",
@@ -449,12 +450,14 @@
           "investor",
           "entrepreneur",
           "computer scientist",
+          "banker",
+          "entrepreneur",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -491,7 +494,6 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "blogger",
           "programmer",
           "software engineer",
           "investor",
@@ -543,7 +545,8 @@
           "philanthropist",
           "computer scientist",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -585,8 +588,8 @@
           "angel investor"
         ],
         "education": [
-          "Harvard Graduate School of Education",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Graduate School of Education"
         ],
         "employers": [
           {
@@ -615,7 +618,8 @@
           "philanthropist",
           "computer scientist",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",

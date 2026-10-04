@@ -268,8 +268,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -310,6 +310,8 @@
           "inventor",
           "teacher",
           "engineer",
+          "computer scientist",
+          "inventor",
           "businessperson",
           "actor"
         ],
@@ -361,6 +363,8 @@
           "technology entrepreneur",
           "film producer",
           "founder",
+          "film producer",
+          "entrepreneur",
           "financier",
           "general manager",
           "executive producer",
@@ -369,11 +373,16 @@
           "computer scientist"
         ],
         "education": [
-          "Homestead High School",
           "Reed College",
-          "De Anza College"
+          "De Anza College",
+          "Homestead High School"
         ],
         "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
           {
             "company": "NeXT",
             "start": null,
@@ -381,11 +390,6 @@
           },
           {
             "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           },

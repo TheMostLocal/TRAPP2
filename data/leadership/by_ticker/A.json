@@ -52,9 +52,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "gastroenterologist",
+          "physician",
           "university teacher",
-          "physician"
+          "gastroenterologist"
         ],
         "education": [
           "Harvard College",
@@ -104,8 +104,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "oncologist",
           "scientist",
+          "oncologist",
           "physician"
         ],
         "education": [
@@ -152,11 +152,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "chairperson"
+          "chairperson",
+          "investor"
         ],
         "education": [
           "Imperial College London",
+          "Harvard Business School",
           "University of London",
           "Harvard Business School",
           "Harvard University"
@@ -465,8 +466,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
