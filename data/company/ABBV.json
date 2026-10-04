@@ -1,7 +1,7 @@
 {
   "ticker": "ABBV",
   "qid": "Q14662364",
-  "fetchedAt": "2026-06-11T05:33:48.378986Z",
+  "fetchedAt": "2026-10-04T18:09:24.697071Z",
   "source": "wikidata",
   "name": "AbbVie",
   "description": "pharmaceutical company",
@@ -85,7 +85,7 @@
       "name": "medication"
     },
     {
-      "name": "medical treatment"
+      "name": "therapy"
     }
   ],
   "countries": []

@@ -1,7 +1,7 @@
 {
   "ticker": "LLY",
   "qid": "Q632240",
-  "fetchedAt": "2026-06-11T05:33:29.419668Z",
+  "fetchedAt": "2026-10-04T18:08:59.727088Z",
   "source": "wikidata",
   "name": "Eli Lilly and Company",
   "description": "American pharmaceutical company",
@@ -14,18 +14,6 @@
   "executives": [
     {
       "name": "David A. Ricks",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Sidney Taurel",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "John C. Lechleiter",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Randall L. Tobias",
       "role": "Chief Executive Officer"
     }
   ],
@@ -64,10 +52,6 @@
     },
     {
       "name": "David A. Ricks",
-      "role": "Board Member"
-    },
-    {
-      "name": "Marschall Stevens Runge",
       "role": "Board Member"
     },
     {

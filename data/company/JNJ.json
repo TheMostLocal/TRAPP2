@@ -1,15 +1,15 @@
 {
   "ticker": "JNJ",
   "qid": "Q333718",
-  "fetchedAt": "2026-06-11T05:33:40.584368Z",
+  "fetchedAt": "2026-10-04T18:09:13.573063Z",
   "source": "wikidata",
   "name": "Johnson & Johnson",
   "description": "U.S multinational medical devices, pharmaceutical and consumer packaged goods manufacturer",
-  "website": "http://www.jjmt.com.tw/",
+  "website": "http://www.jnj.com.cn",
   "isin": "US4781601046",
   "inception": "1886-01-01",
   "employees": 136400,
-  "industry": "medical technology industry",
+  "industry": "pharmaceutical industry",
   "headquarters": "New Brunswick",
   "executives": [
     {
@@ -22,6 +22,42 @@
     }
   ],
   "board": [
+    {
+      "name": "Sir Ian Davis",
+      "role": "Board Member"
+    },
+    {
+      "name": "Anne Mulcahy",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jennifer Doudna",
+      "role": "Board Member"
+    },
+    {
+      "name": "Paula Johnson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Nadja West",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mary Beckerle",
+      "role": "Board Member"
+    },
+    {
+      "name": "Joaquin Duato",
+      "role": "Board Member"
+    },
+    {
+      "name": "Eugene Washington",
+      "role": "Board Member"
+    },
+    {
+      "name": "Darius Adamczyk",
+      "role": "Board Member"
+    },
     {
       "name": "Alex Gorsky",
       "role": "Board Member"
@@ -43,18 +79,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Paula Johnson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Nadja West",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mary Beckerle",
-      "role": "Board Member"
-    },
-    {
       "name": "Mark McClellan",
       "role": "Board Member"
     },
@@ -64,30 +88,6 @@
     },
     {
       "name": "Marillyn Hewson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Sir Ian Davis",
-      "role": "Board Member"
-    },
-    {
-      "name": "Anne Mulcahy",
-      "role": "Board Member"
-    },
-    {
-      "name": "Joaquin Duato",
-      "role": "Board Member"
-    },
-    {
-      "name": "Eugene Washington",
-      "role": "Board Member"
-    },
-    {
-      "name": "Darius Adamczyk",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jennifer Doudna",
       "role": "Board Member"
     }
   ],
@@ -104,10 +104,10 @@
   ],
   "products": [
     {
-      "name": "medical device"
+      "name": "medication"
     },
     {
-      "name": "medication"
+      "name": "medical device"
     }
   ],
   "countries": []

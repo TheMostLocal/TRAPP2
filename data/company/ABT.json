@@ -1,7 +1,7 @@
 {
   "ticker": "ABT",
   "qid": "Q306764",
-  "fetchedAt": "2026-06-11T05:34:05.494113Z",
+  "fetchedAt": "2026-10-04T18:10:03.309747Z",
   "source": "wikidata",
   "name": "Abbott Laboratories",
   "description": "American global health care and medical device products company",
@@ -13,7 +13,7 @@
   "headquarters": "North Chicago",
   "executives": [
     {
-      "name": "Robert B. Ford",
+      "name": "Robert Ford",
       "role": "Chief Executive Officer"
     },
     {
@@ -22,10 +22,6 @@
     }
   ],
   "board": [
-    {
-      "name": "John Stratton",
-      "role": "Board Member"
-    },
     {
       "name": "Daniel Starks",
       "role": "Board Member"
@@ -47,7 +43,7 @@
       "role": "Board Member"
     },
     {
-      "name": "Robert B. Ford",
+      "name": "Robert Ford",
       "role": "Board Member"
     },
     {
@@ -76,6 +72,10 @@
     },
     {
       "name": "Michael G. O'Grady",
+      "role": "Board Member"
+    },
+    {
+      "name": "John Stratton",
       "role": "Board Member"
     }
   ],

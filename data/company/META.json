@@ -1,9 +1,9 @@
 {
   "ticker": "META",
   "qid": "Q380",
-  "fetchedAt": "2026-06-11T05:17:54.463780Z",
+  "fetchedAt": "2026-10-04T17:31:50.202067Z",
   "source": "wikidata",
-  "name": "Meta",
+  "name": "Meta Platforms",
   "description": "American technology company",
   "website": "https://www.meta.com/",
   "isin": "US30303M1027",
@@ -18,6 +18,10 @@
     }
   ],
   "board": [
+    {
+      "name": "Sheryl Sandberg",
+      "role": "Board Member"
+    },
     {
       "name": "Tracey Travis",
       "role": "Board Member"
@@ -55,10 +59,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Sheryl Sandberg",
-      "role": "Board Member"
-    },
-    {
       "name": "Marc Andreessen",
       "role": "Board Member"
     },
@@ -69,13 +69,13 @@
   ],
   "founders": [
     {
-      "name": "\u0628\u0646 \u0645\u0646\u0634\u0644\u064a\u0646"
+      "name": "Dustin Moskovitz"
+    },
+    {
+      "name": "Andrew McCollum"
     },
     {
       "name": "Chris Hughes"
-    },
-    {
-      "name": "Dustin Moskovitz"
     },
     {
       "name": "Eduardo Saverin"
@@ -93,6 +93,9 @@
     },
     {
       "name": "software"
+    },
+    {
+      "name": "Facebook"
     },
     {
       "name": "Messenger"

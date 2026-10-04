@@ -1,96 +1,26 @@
 {
   "ticker": "C",
-  "qid": "Q219508",
-  "fetchedAt": "2026-06-11T05:29:23.306571Z",
+  "qid": "Q565",
+  "fetchedAt": "2026-10-04T17:58:40.529937Z",
   "source": "wikidata",
-  "name": "Citigroup",
-  "description": "American investment bank and financial services corporation",
-  "website": "http://www.citigroup.com/",
-  "isin": "US1729674242",
-  "inception": "1812-06-16",
-  "employees": 219000,
-  "industry": "financial service activities, except insurance and pension funding",
-  "headquarters": "388 Greenwich Street",
-  "executives": [
-    {
-      "name": "Jane Fraser",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "John Dugan",
-      "role": "Chairperson"
-    }
-  ],
-  "board": [
-    {
-      "name": "John Dugan",
-      "role": "Board Member"
-    },
-    {
-      "name": "Diana Taylor",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ellen Costello",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jay Jacobs",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jane Fraser",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jim Turley",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ren\u00e9e James",
-      "role": "Board Member"
-    },
-    {
-      "name": "Peter Henry",
-      "role": "Board Member"
-    },
-    {
-      "name": "Deborah Wright",
-      "role": "Board Member"
-    },
-    {
-      "name": "Barbara Desoer",
-      "role": "Board Member"
-    },
-    {
-      "name": "Anna Lee",
-      "role": "Board Member"
-    },
-    {
-      "name": "Leslie Ireland",
-      "role": "Board Member"
-    },
-    {
-      "name": "Duncan Hennes",
-      "role": "Board Member"
-    },
-    {
-      "name": "Grace Dailey",
-      "role": "Board Member"
-    }
-  ],
+  "name": "Wikimedia Commons",
+  "description": "online repository of free-use image, audio, and other media files",
+  "website": "https://commons.wikimedia.org/",
+  "isin": null,
+  "inception": "2004-09-07",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
   "founders": [
     {
-      "name": "Sanford I. Weill"
-    }
-  ],
-  "products": [
-    {
-      "name": "insurance"
+      "name": "Erik M\u00f6ller"
     },
     {
-      "name": "bank credit"
+      "name": "Jimmy Wales"
     }
   ],
+  "products": [],
   "countries": []
 }

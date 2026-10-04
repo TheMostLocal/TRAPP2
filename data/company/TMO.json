@@ -1,7 +1,7 @@
 {
   "ticker": "TMO",
   "qid": "Q643674",
-  "fetchedAt": "2026-06-11T05:33:52.019926Z",
+  "fetchedAt": "2026-10-04T18:09:31.941138Z",
   "source": "wikidata",
   "name": "Thermo Fisher Scientific Inc.",
   "description": "multinational company providing scientific instrumentation",
@@ -47,10 +47,6 @@
     },
     {
       "name": "Lars Rebien S\u00f8rensen",
-      "role": "Board Member"
-    },
-    {
-      "name": "Tyler Jacks",
       "role": "Board Member"
     },
     {

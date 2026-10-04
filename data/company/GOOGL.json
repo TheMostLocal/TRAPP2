@@ -1,7 +1,7 @@
 {
   "ticker": "GOOGL",
   "qid": "Q95",
-  "fetchedAt": "2026-06-11T05:17:48.539675Z",
+  "fetchedAt": "2026-10-04T17:31:38.312502Z",
   "source": "wikidata",
   "name": "Google",
   "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
@@ -10,7 +10,7 @@
   "inception": "1998-09-04",
   "employees": 187000,
   "industry": "information technology",
-  "headquarters": "Mountain View",
+  "headquarters": "Googleplex",
   "executives": [
     {
       "name": "Sundar Pichai",
@@ -28,19 +28,22 @@
   ],
   "products": [
     {
-      "name": "Google Search"
+      "name": "Google Ads"
+    },
+    {
+      "name": "Google Voice"
     },
     {
       "name": "Gemini"
     },
     {
+      "name": "Google Maps"
+    },
+    {
       "name": "search engine"
     },
     {
-      "name": "Google Ads"
-    },
-    {
-      "name": "Google Voice"
+      "name": "Google Search"
     }
   ],
   "countries": [

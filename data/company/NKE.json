@@ -1,7 +1,7 @@
 {
   "ticker": "NKE",
   "qid": "Q483915",
-  "fetchedAt": "2026-06-11T05:24:51.454237Z",
+  "fetchedAt": "2026-10-04T17:51:00.449112Z",
   "source": "wikidata",
   "name": "Nike",
   "description": "American athletic equipment company",
@@ -80,10 +80,10 @@
       "name": "footwear"
     },
     {
-      "name": "clothing"
+      "name": "sports equipment"
     },
     {
-      "name": "sports equipment"
+      "name": "clothing"
     }
   ],
   "countries": []

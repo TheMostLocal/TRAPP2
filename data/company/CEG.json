@@ -1,23 +1,24 @@
 {
   "ticker": "CEG",
-  "qid": "Q259195",
-  "fetchedAt": "2026-06-11T05:35:24.229124Z",
+  "qid": "Q61660469",
+  "fetchedAt": "2026-10-04T18:15:54.683310Z",
   "source": "wikidata",
-  "name": "Constellation Energy",
-  "description": "energy company headquartered in Baltimore, Maryland, United States",
-  "website": "https://www.constellation.com/",
-  "isin": "US2103711006",
-  "inception": "1999-01-01",
+  "name": "Faculty of Civil Engineering and Geosciences",
+  "description": "faculty of Delft University of Technology, the Netherlands",
+  "website": "https://www.tudelft.nl/citg/",
+  "isin": null,
+  "inception": null,
   "employees": null,
   "industry": null,
-  "headquarters": "Baltimore",
-  "executives": [],
-  "board": [],
-  "founders": [],
-  "products": [
+  "headquarters": null,
+  "executives": [
     {
-      "name": "electricity"
+      "name": "Jan Dirk Jansen",
+      "role": "Chairperson"
     }
   ],
+  "board": [],
+  "founders": [],
+  "products": [],
   "countries": []
 }

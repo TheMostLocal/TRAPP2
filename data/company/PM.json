@@ -1,99 +1,19 @@
 {
   "ticker": "PM",
-  "qid": "Q1852556",
-  "fetchedAt": "2026-06-11T05:32:32.275705Z",
+  "qid": "Q36948990",
+  "fetchedAt": "2026-10-04T18:06:04.307646Z",
   "source": "wikidata",
-  "name": "Philip Morris International",
-  "description": "American global cigarette and tobacco company",
-  "website": "https://www.pmi.com/",
-  "isin": "US7181721090",
-  "inception": "2008-01-01",
-  "employees": 79800,
-  "industry": "fast-moving consumer goods",
-  "headquarters": "Stamford",
-  "executives": [
-    {
-      "name": "Hamish Maxwell",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "George Weissman",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Jacek Olczak",
-      "role": "Chief Executive Officer"
-    }
-  ],
-  "board": [
-    {
-      "name": "Michel Combes",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jacek Olczak",
-      "role": "Board Member"
-    },
-    {
-      "name": "Bonin Bough",
-      "role": "Board Member"
-    },
-    {
-      "name": "Andr\u00e9 Calantzopoulos",
-      "role": "Board Member"
-    },
-    {
-      "name": "Kalpana Morparia",
-      "role": "Board Member"
-    },
-    {
-      "name": "Werner Geissler",
-      "role": "Board Member"
-    },
-    {
-      "name": "Robert Polet",
-      "role": "Board Member"
-    },
-    {
-      "name": "Shlomo Yanai",
-      "role": "Board Member"
-    },
-    {
-      "name": "Lisa Hook",
-      "role": "Board Member"
-    },
-    {
-      "name": "Juan Jos\u00e9 Daboub",
-      "role": "Board Member"
-    }
-  ],
-  "founders": [
-    {
-      "name": "Philip Morris"
-    }
-  ],
-  "products": [
-    {
-      "name": "nicotine pouch"
-    },
-    {
-      "name": "heated tobacco product"
-    },
-    {
-      "name": "smokeless tobacco"
-    },
-    {
-      "name": "art patronage"
-    },
-    {
-      "name": "electronic cigarette"
-    },
-    {
-      "name": "cigarette"
-    },
-    {
-      "name": "cigar"
-    }
-  ],
+  "name": "20th Century Press Archives",
+  "description": "newspaper clippings archive",
+  "website": "https://pm20.zbw.eu",
+  "isin": null,
+  "inception": "1908-01-01",
+  "employees": null,
+  "industry": "information service activities",
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
   "countries": []
 }

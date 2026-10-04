@@ -1,7 +1,7 @@
 {
   "ticker": "AMZN",
   "qid": "Q3884",
-  "fetchedAt": "2026-06-11T05:17:58.629607Z",
+  "fetchedAt": "2026-10-04T17:31:54.494826Z",
   "source": "wikidata",
   "name": "Amazon",
   "description": "American multinational technology company",
@@ -63,15 +63,15 @@
       "role": "Board Member"
     },
     {
-      "name": "Jamie S. Gorelick",
-      "role": "Board Member"
-    },
-    {
       "name": "Jeff Bezos",
       "role": "Board Member"
     },
     {
       "name": "Indra Nooyi",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jamie S. Gorelick",
       "role": "Board Member"
     }
   ],
@@ -109,13 +109,13 @@
       "name": "Amazon Prime"
     },
     {
+      "name": "Alexa Internet"
+    },
+    {
       "name": "Amazon Web Services"
     },
     {
       "name": "Amazon Appstore"
-    },
-    {
-      "name": "Alexa Internet"
     },
     {
       "name": "IMDb"

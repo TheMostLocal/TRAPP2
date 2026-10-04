@@ -1,15 +1,15 @@
 {
   "ticker": "JPM",
   "qid": "Q192314",
-  "fetchedAt": "2026-06-11T05:28:21.167866Z",
+  "fetchedAt": "2026-10-04T17:57:14.844217Z",
   "source": "wikidata",
   "name": "JPMorgan Chase",
   "description": "American multinational banking and financial services holding company",
-  "website": "http://www.jpmorgan.com",
+  "website": "https://www.jpmorganchase.com/",
   "isin": "US46625H1005",
   "inception": "1968-01-01",
   "employees": 271025,
-  "industry": "financial sector",
+  "industry": "financial services",
   "headquarters": "New York City",
   "executives": [
     {
@@ -74,13 +74,13 @@
   "founders": [],
   "products": [
     {
-      "name": "insurance"
-    },
-    {
       "name": "bank credit"
     },
     {
       "name": "asset management"
+    },
+    {
+      "name": "insurance"
     }
   ],
   "countries": []

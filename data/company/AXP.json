@@ -1,7 +1,7 @@
 {
   "ticker": "AXP",
   "qid": "Q194360",
-  "fetchedAt": "2026-06-11T05:29:27.369085Z",
+  "fetchedAt": "2026-10-04T17:58:46.555539Z",
   "source": "wikidata",
   "name": "American Express",
   "description": "American multinational financial services corporation",
@@ -10,7 +10,7 @@
   "inception": "1850-01-01",
   "employees": 64000,
   "industry": "payment card industry",
-  "headquarters": "Brookfield Place",
+  "headquarters": "New York City",
   "executives": [
     {
       "name": "Stephen Squeri",
@@ -19,23 +19,23 @@
   ],
   "board": [
     {
-      "name": "Peter Chernin",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ralph de la Vega",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ted Leonsis",
-      "role": "Board Member"
-    },
-    {
       "name": "John Brennan",
       "role": "Board Member"
     },
     {
       "name": "Charles Phillips",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mike Leavitt",
+      "role": "Board Member"
+    },
+    {
+      "name": "Charlene Barshefsky",
+      "role": "Board Member"
+    },
+    {
+      "name": "Dan Vasella",
       "role": "Board Member"
     },
     {
@@ -67,15 +67,15 @@
       "role": "Board Member"
     },
     {
-      "name": "Mike Leavitt",
+      "name": "Peter Chernin",
       "role": "Board Member"
     },
     {
-      "name": "Charlene Barshefsky",
+      "name": "Ralph de la Vega",
       "role": "Board Member"
     },
     {
-      "name": "Dan Vasella",
+      "name": "Ted Leonsis",
       "role": "Board Member"
     }
   ],
