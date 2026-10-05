@@ -1,6 +1,6 @@
 {
   "ticker": "CRWD",
-  "fetchedAt": "2026-10-04T23:02:59.537927Z",
+  "fetchedAt": "2026-10-05T14:38:15.580230Z",
   "people": [
     {
       "qid": "Q50082669",
@@ -16,6 +16,7 @@
         "occupations": [
           "programmer",
           "businessperson",
+          "venture capitalist",
           "racing driver"
         ],
         "education": [

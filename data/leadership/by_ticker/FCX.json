@@ -1,6 +1,6 @@
 {
   "ticker": "FCX",
-  "fetchedAt": "2026-10-04T23:02:59.547799Z",
+  "fetchedAt": "2026-10-05T14:38:15.591579Z",
   "people": [
     {
       "qid": "Q16501102",
@@ -19,9 +19,9 @@
           "head commissioner"
         ],
         "education": [
-          "Harvard University",
+          "Harvard Business School",
           "Mississippi State University",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -56,8 +56,8 @@
         "birthPlace": "Greenwood",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Abney%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Pillow Academy",
@@ -95,9 +95,9 @@
           "head commissioner"
         ],
         "education": [
-          "Harvard University",
+          "Harvard Business School",
           "Mississippi State University",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -235,15 +235,15 @@
         "birthPlace": "Queens",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Dudley%2C%20January%202011.jpeg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
+          "Southern Methodist University",
+          "University of Illinois Urbana-Champaign",
           "Hinsdale Central High School",
           "Thunderbird School of Global Management",
-          "Cox School of Business",
-          "Southern Methodist University",
-          "University of Illinois Urbana-Champaign"
+          "Cox School of Business"
         ],
         "employers": [
           {

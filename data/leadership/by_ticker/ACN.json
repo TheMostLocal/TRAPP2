@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-10-04T23:02:59.521526Z",
+  "fetchedAt": "2026-10-05T14:38:15.562477Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -138,8 +138,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jope%20%28born%20c.%201963%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -264,36 +264,21 @@
         "birthPlace": "6th arrondissement of Lyon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilles%20P%C3%A9lisson.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Harvard University",
           "lyc\u00e9e du Parc",
+          "\u00c9cole alsacienne",
           "ESSEC Business School",
-          "Harvard Business School",
-          "\u00c9cole alsacienne"
+          "Harvard Business School"
         ],
         "employers": [
           {
             "company": "Groupe TF1",
             "start": "2016-01-01",
             "end": "2023-01-01"
-          },
-          {
-            "company": "Bouygues Telecom",
-            "start": "2001-01-01",
-            "end": "2005-01-01"
-          },
-          {
-            "company": "Euro Disney S.C.A.",
-            "start": "1995-01-01",
-            "end": "2000-01-01"
-          },
-          {
-            "company": "Suez",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
           },
           {
             "company": "Accor",
@@ -311,9 +296,19 @@
             "end": "1983-01-01"
           },
           {
-            "company": "Groupe TF1",
-            "start": "2016-01-01",
-            "end": "2023-01-01"
+            "company": "Bouygues Telecom",
+            "start": "2001-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "company": "Euro Disney S.C.A.",
+            "start": "1995-01-01",
+            "end": "2000-01-01"
+          },
+          {
+            "company": "Suez",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
           }
         ],
         "positions": [
@@ -417,8 +412,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Rhode Island",
@@ -468,6 +463,11 @@
         ],
         "employers": [
           {
+            "company": "Qualcomm",
+            "start": "2004-01-01",
+            "end": "2015-01-01"
+          },
+          {
             "company": "Koninklijke Philips NV",
             "start": "1983-01-01",
             "end": "2000-01-01"
@@ -476,11 +476,6 @@
             "company": "Intel",
             "start": "2015-11-01",
             "end": "2020-08-01"
-          },
-          {
-            "company": "Qualcomm",
-            "start": "2004-01-01",
-            "end": "2015-01-01"
           },
           {
             "company": "Skyworks Solutions",

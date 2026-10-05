@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "fetchedAt": "2026-10-04T23:02:59.547070Z",
+  "fetchedAt": "2026-10-05T14:38:15.590737Z",
   "people": [
     {
       "qid": "Q18921712",
@@ -14,12 +14,12 @@
         "birthPlace": "Argentina",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Georgetown University"
+          "Georgetown University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -51,8 +51,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
         "occupations": [
           "taekwondo athlete",
-          "entrepreneur",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "Hotchkiss School",
@@ -139,8 +139,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -159,8 +159,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Dartmouth College"
+          "Dartmouth College",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -179,8 +179,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Stanford University"
+          "Stanford University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -243,12 +243,12 @@
         "birthPlace": "Argentina",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Georgetown University"
+          "Georgetown University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -367,10 +367,10 @@
           "business executive"
         ],
         "education": [
-          "Harvard College",
           "Yale School of Management",
           "Hotchkiss School",
           "Yale Law School",
+          "Harvard College",
           "University of Oxford",
           "Harvard University"
         ],
@@ -439,8 +439,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
         "occupations": [
           "taekwondo athlete",
-          "entrepreneur",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "Hotchkiss School",
@@ -484,17 +484,17 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "missionary",
           "diplomat",
-          "governor",
+          "missionary",
           "politician",
+          "governor",
           "ambassador"
         ],
         "education": [
-          "Highland High School",
-          "The Wharton School",
           "National Taiwan Normal University",
-          "University of Utah"
+          "University of Utah",
+          "Highland High School",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": [

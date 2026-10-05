@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-10-04T23:02:59.551463Z",
+  "fetchedAt": "2026-10-05T14:38:15.595478Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -57,8 +57,8 @@
         ],
         "education": [
           "Harvard Business School",
-          "University of Oxford",
           "Harvard Law School",
+          "University of Oxford",
           "King's College, Lagos"
         ],
         "employers": [
@@ -89,8 +89,8 @@
         "image": null,
         "occupations": [
           "computer scientist",
-          "director",
-          "businessperson"
+          "businessperson",
+          "director"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -122,11 +122,11 @@
           "business executive"
         ],
         "education": [
-          "Northwestern University",
-          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management"
+          "Kellogg School of Management",
+          "Northwestern University",
+          "Tufts University"
         ],
         "employers": [
           {
@@ -323,8 +323,8 @@
         "education": [
           "Union College",
           "Bronx High School of Science",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -348,8 +348,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
@@ -397,24 +397,24 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Women%20in%20Economic%20Decision-making%20Drew%20Gilpin%20Faust%20%288414040540%29%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "historian"
+          "historian",
+          "university teacher"
         ],
         "education": [
           "Bryn Mawr College",
-          "University of Pennsylvania",
           "Concord Academy",
+          "University of Pennsylvania",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "University of Pennsylvania",
-            "start": "1975-01-01",
+            "company": "Radcliffe College",
+            "start": "2001-01-01",
             "end": null
           },
           {
-            "company": "Radcliffe College",
-            "start": "2001-01-01",
+            "company": "University of Pennsylvania",
+            "start": "1975-01-01",
             "end": null
           },
           {

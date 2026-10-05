@@ -1,6 +1,6 @@
 {
   "ticker": "CVS",
-  "fetchedAt": "2026-10-04T23:02:59.539335Z",
+  "fetchedAt": "2026-10-05T14:38:15.581824Z",
   "people": [
     {
       "qid": "Q106086392",
@@ -14,8 +14,8 @@
         "birthPlace": "Ware",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Boston University",
@@ -269,13 +269,13 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Bertolini%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
-          "Cornell University",
           "Samuel Curtis Johnson Graduate School of Management",
-          "Wayne State University"
+          "Wayne State University",
+          "Cornell University"
         ],
         "employers": [
           {
@@ -334,8 +334,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SchapiroMary.jpg",
         "occupations": [
-          "politician",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
           "George Washington University Law School",

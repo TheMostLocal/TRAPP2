@@ -1,0 +1,41 @@
+{
+  "qid": "Q125716681",
+  "name": "Graeme Liebelt",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Orica",
+      "start": "1989-01-01",
+      "end": "2012-01-01"
+    }
+  ],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2005-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "1997-01-01",
+      "end": "2012-01-01"
+    }
+  ],
+  "currentTickers": [
+    "AMC"
+  ]
+}

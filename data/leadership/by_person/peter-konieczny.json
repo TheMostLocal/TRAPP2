@@ -1,0 +1,29 @@
+{
+  "qid": "Q125717994",
+  "name": "Peter Konieczny",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Amcor",
+      "start": "2010-01-01",
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2024-04-15",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "AMC"
+  ]
+}

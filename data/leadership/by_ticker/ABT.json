@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-10-04T23:02:59.520829Z",
+  "fetchedAt": "2026-10-05T14:38:15.561759Z",
   "people": [
     {
       "qid": "Q95569597",
@@ -129,9 +129,9 @@
           "businessperson"
         ],
         "education": [
+          "Stanford University",
           "Lakeland University",
-          "University of Wisconsin\u2013Oshkosh",
-          "Stanford University"
+          "University of Wisconsin\u2013Oshkosh"
         ],
         "employers": [
           {
@@ -211,9 +211,9 @@
           "researcher"
         ],
         "education": [
-          "Pritzker School of Medicine",
           "University of California, San Francisco",
-          "Northwestern University"
+          "Northwestern University",
+          "Pritzker School of Medicine"
         ],
         "employers": [],
         "positions": [
@@ -332,9 +332,9 @@
           "business executive"
         ],
         "education": [
-          "University of Southern California",
           "University of Wisconsin\u2013Stevens Point",
-          "University of Minnesota"
+          "University of Minnesota",
+          "University of Southern California"
         ],
         "employers": [
           {
@@ -387,11 +387,11 @@
         "education": [
           "National Defense University",
           "Virginia Military Institute",
+          "Hampton High School",
+          "Embry\u2013Riddle Aeronautical University",
           "Syracuse University",
           "George Washington University",
-          "Air University",
-          "Hampton High School",
-          "Embry\u2013Riddle Aeronautical University"
+          "Air University"
         ],
         "employers": [],
         "positions": [
@@ -453,12 +453,12 @@
         ],
         "employers": [
           {
-            "company": "Northwestern University",
+            "company": "New York University",
             "start": null,
             "end": null
           },
           {
-            "company": "New York University",
+            "company": "Northwestern University",
             "start": null,
             "end": null
           },
@@ -530,8 +530,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Rhode Island",

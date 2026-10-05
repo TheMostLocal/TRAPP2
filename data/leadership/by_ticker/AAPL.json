@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-04T23:02:59.519421Z",
+  "fetchedAt": "2026-10-05T14:38:15.560279Z",
   "people": [
     {
       "qid": "Q709063",
@@ -14,9 +14,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
+          "molecular biologist",
           "businessperson",
-          "molecular biologist"
+          "biochemist"
         ],
         "education": [
           "Princeton University",
@@ -51,24 +51,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "orator",
-          "climate activist",
           "blogger",
           "environmentalist",
+          "climate activist",
           "financier",
+          "orator",
+          "farmer",
+          "businessperson",
           "journalist",
           "university teacher",
-          "farmer",
           "politician",
-          "businessperson",
           "writer"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -153,13 +153,13 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
-          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College"
+          "Wellesley College",
+          "Booth School of Business"
         ],
         "employers": [
           {
@@ -231,9 +231,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
+          "molecular biologist",
           "businessperson",
-          "molecular biologist"
+          "biochemist"
         ],
         "education": [
           "Princeton University",
@@ -303,28 +303,26 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
+          "programmer",
+          "engineer",
+          "electronics technician",
+          "inventor",
           "entrepreneur",
           "computer scientist",
-          "electronics technician",
-          "programmer",
-          "inventor",
-          "teacher",
-          "engineer",
-          "computer scientist",
-          "inventor",
           "businessperson",
+          "teacher",
           "actor"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
+          "University of California, Berkeley",
           "Homestead High School"
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -339,7 +337,7 @@
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -359,13 +357,11 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "designer",
           "technology entrepreneur",
+          "designer",
+          "financier",
           "film producer",
           "founder",
-          "film producer",
-          "entrepreneur",
-          "financier",
           "general manager",
           "executive producer",
           "entrepreneur",
@@ -373,9 +369,9 @@
           "computer scientist"
         ],
         "education": [
+          "Homestead High School",
           "Reed College",
-          "De Anza College",
-          "Homestead High School"
+          "De Anza College"
         ],
         "employers": [
           {
@@ -384,12 +380,12 @@
             "end": null
           },
           {
-            "company": "NeXT",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },

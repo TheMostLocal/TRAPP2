@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-10-04T23:02:59.539835Z",
+  "fetchedAt": "2026-10-05T14:38:15.582403Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "University of Colorado",
@@ -100,17 +100,17 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "missionary",
           "diplomat",
-          "governor",
+          "missionary",
           "politician",
+          "governor",
           "ambassador"
         ],
         "education": [
-          "Highland High School",
-          "The Wharton School",
           "National Taiwan Normal University",
-          "University of Utah"
+          "University of Utah",
+          "Highland High School",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": [
@@ -177,9 +177,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University"
+          "Wesleyan University",
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": []
@@ -200,8 +200,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -256,10 +256,10 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Columbia University"
         ],
         "employers": [
           {
@@ -302,13 +302,13 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemist",
           "chemical engineer",
+          "chemist",
           "academic administrator"
         ],
         "education": [
-          "Princeton University",
-          "University of Southern California"
+          "University of Southern California",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -323,11 +323,6 @@
           },
           {
             "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Imperial College London",
             "start": null,
             "end": null
           }
@@ -379,8 +374,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "University of Colorado",
@@ -471,9 +466,9 @@
         "education": [
           "Bronx High School of Science",
           "Franklin & Marshall College",
-          "USC Viterbi School of Engineering",
           "University of Pittsburgh",
-          "University of Southern California"
+          "University of Southern California",
+          "USC Viterbi School of Engineering"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "AXP",
-  "fetchedAt": "2026-10-04T23:02:59.528086Z",
+  "fetchedAt": "2026-10-05T14:38:15.569425Z",
   "people": [
     {
       "qid": "Q52272598",
@@ -83,9 +83,9 @@
         "birthPlace": "Cedar City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Leavitt.jpg",
         "occupations": [
-          "public figure",
-          "blogger",
           "elector",
+          "blogger",
+          "public figure",
           "politician",
           "governor",
           "economist"
@@ -129,9 +129,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlene%20Barshefsky%20official%20portrait.jpg",
         "occupations": [
-          "politician",
           "diplomat",
           "businessperson",
+          "politician",
           "lawyer"
         ],
         "education": [
@@ -180,8 +180,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -202,9 +202,9 @@
           "businessperson"
         ],
         "education": [
+          "Stanford Law School",
           "Vassar College",
-          "The Wharton School",
-          "Stanford Law School"
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -312,9 +312,9 @@
         "education": [
           "Lafayette College",
           "King's College",
+          "University of Pennsylvania",
           "University of Pennsylvania Carey Law School",
-          "Strath Haven High School",
-          "University of Pennsylvania"
+          "Strath Haven High School"
         ],
         "employers": [
           {

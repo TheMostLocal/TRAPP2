@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T23:02:59.790887Z",
-  "totalPeople": 969,
+  "generatedAt": "2026-10-05T14:38:15.691547Z",
+  "totalPeople": 973,
   "totalTickers": 139,
-  "lastRangeFilter": "ALL",
-  "thisRunPeople": 876,
-  "thisRunTickers": 273,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 411,
+  "thisRunTickers": 107,
   "index": [
     {
       "qid": "Q125453309",
@@ -164,8 +164,7 @@
       "slug": "ronald-sugar",
       "tickers": [
         "AAPL",
-        "CVX",
-        "UBER"
+        "CVX"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -257,8 +256,7 @@
       "name": "Rick Waddell",
       "slug": "rick-waddell",
       "tickers": [
-        "ABBV",
-        "IBM"
+        "ABBV"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -269,8 +267,7 @@
       "slug": "glenn-tilton",
       "tickers": [
         "ABBV",
-        "ABT",
-        "PSX"
+        "ABT"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -361,8 +358,7 @@
       "name": "Roxanne Austin",
       "slug": "roxanne-austin",
       "tickers": [
-        "ABBV",
-        "VZ"
+        "ABBV"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -638,8 +634,7 @@
       "name": "Tracey Travis",
       "slug": "tracey-travis",
       "tickers": [
-        "ACN",
-        "META"
+        "ACN"
       ],
       "positionsCount": 3,
       "employersCount": 0
@@ -660,8 +655,7 @@
       "slug": "beth-e-mooney",
       "tickers": [
         "ACN",
-        "F",
-        "T"
+        "F"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -712,8 +706,7 @@
       "slug": "shantanu-narayen",
       "tickers": [
         "ADBE",
-        "ADBE",
-        "PFE"
+        "ADBE"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -773,9 +766,7 @@
       "name": "David A. Ricks",
       "slug": "david-a-ricks",
       "tickers": [
-        "ADBE",
-        "LLY",
-        "LLY"
+        "ADBE"
       ],
       "positionsCount": 3,
       "employersCount": 0
@@ -795,8 +786,7 @@
       "name": "Cristiano Amon",
       "slug": "cristiano-amon",
       "tickers": [
-        "ADBE",
-        "QCOM"
+        "ADBE"
       ],
       "positionsCount": 3,
       "employersCount": 1
@@ -927,8 +917,7 @@
       "name": "W. Don Cornwell",
       "slug": "w-don-cornwell",
       "tickers": [
-        "AIG",
-        "PFE"
+        "AIG"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -1408,8 +1397,7 @@
       "name": "Lisa Davis",
       "slug": "lisa-davis",
       "tickers": [
-        "APD",
-        "PSX"
+        "APD"
       ],
       "positionsCount": 1,
       "employersCount": 1
@@ -1450,8 +1438,7 @@
       "slug": "tan-hock-eng",
       "tickers": [
         "AVGO",
-        "AVGO",
-        "META"
+        "AVGO"
       ],
       "positionsCount": 1,
       "employersCount": 6
@@ -1945,9 +1932,7 @@
       "name": "Denise Ramos",
       "slug": "denise-ramos",
       "tickers": [
-        "BAC",
-        "PSX",
-        "RTX"
+        "BAC"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -2141,8 +2126,7 @@
       "name": "Steve Burke",
       "slug": "steve-burke",
       "tickers": [
-        "BRK.B",
-        "JPM"
+        "BRK.B"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -2409,8 +2393,7 @@
       "slug": "debra-reed",
       "tickers": [
         "CAT",
-        "CVX",
-        "LMT"
+        "CVX"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -2570,8 +2553,7 @@
       "name": "Mark McClellan",
       "slug": "mark-mcclellan",
       "tickers": [
-        "CI",
-        "JNJ"
+        "CI"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -3028,8 +3010,7 @@
       "name": "John W. Stanton",
       "slug": "john-w-stanton",
       "tickers": [
-        "COST",
-        "MSFT"
+        "COST"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -3183,9 +3164,7 @@
       "name": "Dan Schulman",
       "slug": "dan-schulman",
       "tickers": [
-        "CSCO",
-        "PYPL",
-        "VZ"
+        "CSCO"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -3235,8 +3214,7 @@
       "name": "John Harris",
       "slug": "john-harris",
       "tickers": [
-        "CSCO",
-        "XOM"
+        "CSCO"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -3338,8 +3316,7 @@
       "name": "Roger N. Farah",
       "slug": "roger-n-farah",
       "tickers": [
-        "CVS",
-        "PGR"
+        "CVS"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -3419,8 +3396,7 @@
       "name": "Mark T. Bertolini",
       "slug": "mark-t-bertolini",
       "tickers": [
-        "CVS",
-        "VZ"
+        "CVS"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -3430,8 +3406,7 @@
       "name": "Nancy-Ann DeParle",
       "slug": "nancy-ann-deparle",
       "tickers": [
-        "CVS",
-        "HCA"
+        "CVS"
       ],
       "positionsCount": 0,
       "employersCount": 1
@@ -3492,8 +3467,7 @@
       "name": "Charles Moorman",
       "slug": "charles-moorman",
       "tickers": [
-        "CVX",
-        "ORCL"
+        "CVX"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -3503,8 +3477,7 @@
       "name": "Marillyn Hewson",
       "slug": "marillyn-hewson",
       "tickers": [
-        "CVX",
-        "JNJ"
+        "CVX"
       ],
       "positionsCount": 3,
       "employersCount": 1
@@ -3565,8 +3538,7 @@
       "name": "Tony Xu",
       "slug": "tony-xu",
       "tickers": [
-        "DASH",
-        "META"
+        "DASH"
       ],
       "positionsCount": 0,
       "employersCount": 1
@@ -3742,8 +3714,7 @@
       "name": "Mark Parker",
       "slug": "mark-parker",
       "tickers": [
-        "DIS",
-        "NKE"
+        "DIS"
       ],
       "positionsCount": 0,
       "employersCount": 1
@@ -3753,8 +3724,7 @@
       "name": "Safra Catz",
       "slug": "safra-catz",
       "tickers": [
-        "DIS",
-        "ORCL"
+        "DIS"
       ],
       "positionsCount": 6,
       "employersCount": 2
@@ -4138,8 +4108,7 @@
       "name": "William Kennard",
       "slug": "william-kennard",
       "tickers": [
-        "F",
-        "T"
+        "F"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -4180,8 +4149,7 @@
       "name": "David Abney",
       "slug": "david-abney",
       "tickers": [
-        "FCX",
-        "NOC"
+        "FCX"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -4222,8 +4190,7 @@
       "slug": "phebe-novakovic",
       "tickers": [
         "GD",
-        "GD",
-        "JPM"
+        "GD"
       ],
       "positionsCount": 2,
       "employersCount": 3
@@ -4273,8 +4240,7 @@
       "name": "James Crown",
       "slug": "james-crown",
       "tickers": [
-        "GD",
-        "JPM"
+        "GD"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -4516,8 +4482,7 @@
       "name": "Patricia Russo",
       "slug": "patricia-russo",
       "tickers": [
-        "GM",
-        "MRK"
+        "GM"
       ],
       "positionsCount": 2,
       "employersCount": 2
@@ -4567,8 +4532,7 @@
       "name": "Thomas Schoewe",
       "slug": "thomas-schoewe",
       "tickers": [
-        "GM",
-        "NOC"
+        "GM"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -4628,9 +4592,7 @@
       "name": "Aneel Bhusri",
       "slug": "aneel-bhusri",
       "tickers": [
-        "GM",
-        "WDAY",
-        "WDAY"
+        "GM"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -4743,8 +4705,7 @@
       "name": "Jan E. Tighe",
       "slug": "jan-e-tighe",
       "tickers": [
-        "GS",
-        "PGR"
+        "GS"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -9893,6 +9854,47 @@
       ],
       "positionsCount": 0,
       "employersCount": 2
+    },
+    {
+      "qid": "Q125717994",
+      "name": "Peter Konieczny",
+      "slug": "peter-konieczny",
+      "tickers": [
+        "AMC"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q115793241",
+      "name": "Ron Delia",
+      "slug": "ron-delia",
+      "tickers": [
+        "AMC",
+        "AMC"
+      ],
+      "positionsCount": 2,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q125718578",
+      "name": "Achal Agarwal",
+      "slug": "achal-agarwal",
+      "tickers": [
+        "AMC"
+      ],
+      "positionsCount": 1,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q125716681",
+      "name": "Graeme Liebelt",
+      "slug": "graeme-liebelt",
+      "tickers": [
+        "AMC"
+      ],
+      "positionsCount": 3,
+      "employersCount": 1
     }
   ]
 }

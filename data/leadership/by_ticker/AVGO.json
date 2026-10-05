@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-10-04T23:02:59.527552Z",
+  "fetchedAt": "2026-10-05T14:38:15.568795Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -17,15 +17,10 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -48,6 +43,11 @@
           },
           {
             "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -74,14 +74,13 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "entrepreneur",
           "university teacher",
           "computer scientist"
         ],
         "education": [
-          "Fairfax High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Fairfax High School"
         ],
         "employers": [
           {
@@ -314,15 +313,10 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -345,6 +339,11 @@
           },
           {
             "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -443,14 +442,13 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "entrepreneur",
           "university teacher",
           "computer scientist"
         ],
         "education": [
-          "Fairfax High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Fairfax High School"
         ],
         "employers": [
           {

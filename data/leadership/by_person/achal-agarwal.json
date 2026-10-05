@@ -1,0 +1,34 @@
+{
+  "qid": "Q125718578",
+  "name": "Achal Agarwal",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [],
+  "employers": [
+    {
+      "company": "Kimberly-Clark",
+      "start": "2008-01-01",
+      "end": "2021-01-01"
+    },
+    {
+      "company": "PepsiCo",
+      "start": "2002-01-01",
+      "end": "2008-01-01"
+    }
+  ],
+  "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2021-11-10",
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "AMC"
+  ]
+}
