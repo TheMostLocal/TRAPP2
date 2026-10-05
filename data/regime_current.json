@@ -5,7 +5,7 @@
   "scores": {
     "macro": -0.327,
     "liquidity": 0.138,
-    "volatility": 0.726,
+    "volatility": 0.793,
     "valuation": -0.39,
     "trend": 0.841,
     "breadth": -0.636,
@@ -40,9 +40,9 @@
     },
     {
       "signal": "volatility",
-      "score": 0.726,
+      "score": 0.793,
       "confidence": 1.0,
-      "weight": 0.726,
+      "weight": 0.793,
       "direction": "bullish"
     },
     {
@@ -66,8 +66,8 @@
       "hyg_minus_lqd_1m": 0.0056
     },
     "volatility": {
-      "vix_level": 16.39,
-      "vix9d_over_vix": 0.7358
+      "vix_level": 15.31,
+      "vix9d_over_vix": 0.7877
     },
     "valuation": {
       "spy_pe": 24.87,
