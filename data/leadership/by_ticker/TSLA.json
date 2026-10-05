@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-10-04T23:02:59.588639Z",
+  "fetchedAt": "2026-10-05T15:12:27.904365Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,17 +14,17 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "programmer",
           "philanthropist",
-          "technology entrepreneur",
           "dub actor",
+          "programmer",
+          "technology entrepreneur",
           "financier",
           "investor",
           "civil servant",
           "inventor",
           "entrepreneur",
-          "engineer",
-          "politician"
+          "politician",
+          "engineer"
         ],
         "education": [
           "Smith School of Business",
@@ -69,8 +69,8 @@
             "end": null
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
@@ -156,11 +156,6 @@
             "end": "2013-01-01"
           },
           {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -179,6 +174,11 @@
             "company": "Telstra",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           }
         ],
         "positions": [
@@ -291,9 +291,9 @@
           "venture capitalist"
         ],
         "education": [
-          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": [
@@ -419,11 +419,6 @@
             "end": "2013-01-01"
           },
           {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -442,6 +437,11 @@
             "company": "Telstra",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           }
         ],
         "positions": [
@@ -525,17 +525,17 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "programmer",
           "philanthropist",
-          "technology entrepreneur",
           "dub actor",
+          "programmer",
+          "technology entrepreneur",
           "financier",
           "investor",
           "civil servant",
           "inventor",
           "entrepreneur",
-          "engineer",
-          "politician"
+          "politician",
+          "engineer"
         ],
         "education": [
           "Smith School of Business",
@@ -580,8 +580,8 @@
             "end": null
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
@@ -643,16 +643,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "entrepreneur",
-          "computer scientist",
           "businessperson",
+          "entrepreneur",
           "computer scientist",
           "actor"
         ],
         "education": [
+          "University of Chicago",
           "South Shore High School",
-          "University of Illinois Urbana-Champaign",
-          "University of Chicago"
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {
@@ -667,6 +666,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
+          },
           {
             "title": "chairperson",
             "company": null,
@@ -684,12 +689,6 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
           }
         ]
       }
@@ -706,9 +705,9 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "karateka",
-          "publisher"
+          "publisher",
+          "businessperson"
         ],
         "education": [
           "Horace Mann School",
@@ -743,8 +742,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "York Community High School",

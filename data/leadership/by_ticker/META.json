@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-10-04T23:02:59.564622Z",
+  "fetchedAt": "2026-10-05T15:12:27.864345Z",
   "people": [
     {
       "qid": "Q36215",
@@ -14,20 +14,19 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "patron of the arts",
           "philanthropist",
-          "computer scientist",
+          "patron of the arts",
           "entrepreneur",
+          "programmer",
           "chief executive officer",
           "computer scientist"
         ],
         "education": [
+          "Phillips Exeter Academy",
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
           "Harvard University"
         ],
         "employers": [
@@ -60,9 +59,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
           "economist",
-          "businessperson",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "Harvard College",
@@ -242,15 +241,10 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -273,6 +267,11 @@
           },
           {
             "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -442,15 +441,13 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
           "technology entrepreneur",
+          "chess player",
+          "banker",
           "manager",
           "financier",
-          "banker",
           "investor",
-          "entrepreneur",
           "computer scientist",
-          "banker",
           "entrepreneur",
           "writer"
         ],
@@ -494,13 +491,14 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
+          "blogger",
           "programmer",
           "software engineer",
           "investor",
           "inventor",
+          "engineer",
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "computer scientist"
         ],
         "education": [
           "New Lisbon High School",
@@ -540,20 +538,19 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "patron of the arts",
           "philanthropist",
-          "computer scientist",
+          "patron of the arts",
           "entrepreneur",
+          "programmer",
           "chief executive officer",
           "computer scientist"
         ],
         "education": [
+          "Phillips Exeter Academy",
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
           "Harvard University"
         ],
         "employers": [
@@ -588,8 +585,8 @@
           "angel investor"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Graduate School of Education"
+          "Harvard Graduate School of Education",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -613,20 +610,19 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "patron of the arts",
           "philanthropist",
-          "computer scientist",
+          "patron of the arts",
           "entrepreneur",
+          "programmer",
           "chief executive officer",
           "computer scientist"
         ],
         "education": [
+          "Phillips Exeter Academy",
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
           "Harvard University"
         ],
         "employers": [

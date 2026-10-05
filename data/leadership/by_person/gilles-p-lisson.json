@@ -5,22 +5,17 @@
   "birthPlace": "6th arrondissement of Lyon",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilles%20P%C3%A9lisson.jpg",
   "occupations": [
-    "businessperson",
-    "business executive"
+    "business executive",
+    "businessperson"
   ],
   "education": [
-    "Harvard University",
-    "lyc\u00e9e du Parc",
     "ESSEC Business School",
     "Harvard Business School",
-    "\u00c9cole alsacienne"
+    "\u00c9cole alsacienne",
+    "Harvard University",
+    "lyc\u00e9e du Parc"
   ],
   "employers": [
-    {
-      "company": "Groupe TF1",
-      "start": "2016-01-01",
-      "end": "2023-01-01"
-    },
     {
       "company": "Bouygues Telecom",
       "start": "2001-01-01",

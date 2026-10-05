@@ -1,0 +1,26 @@
+{
+  "qid": "Q141620330",
+  "name": "Michael Farrell",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "business executive"
+  ],
+  "education": [
+    "University of New South Wales",
+    "MIT Sloan School of Management",
+    "Massachusetts Institute of Technology"
+  ],
+  "employers": [
+    {
+      "company": "ResMed",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "RMD"
+  ]
+}

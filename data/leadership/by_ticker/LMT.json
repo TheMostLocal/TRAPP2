@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-10-04T23:02:59.560635Z",
+  "fetchedAt": "2026-10-05T15:12:27.857846Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -152,8 +152,8 @@
           "businessperson"
         ],
         "education": [
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -217,8 +217,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "Wisconsin School of Business",
@@ -245,11 +245,11 @@
           "military officer"
         ],
         "education": [
-          "Georgetown University",
-          "Tufts University",
           "Boston College High School",
           "Saint Michael's College",
-          "The Fletcher School of Law and Diplomacy"
+          "The Fletcher School of Law and Diplomacy",
+          "Georgetown University",
+          "Tufts University"
         ],
         "employers": [],
         "positions": [
@@ -296,16 +296,6 @@
         ],
         "employers": [
           {
-            "company": "United States District Court for the Southern District of New York",
-            "start": "1989-01-01",
-            "end": "1992-01-01"
-          },
-          {
-            "company": "Lockheed Martin",
-            "start": "2017-12-01",
-            "end": null
-          },
-          {
             "company": "U.S. Steel",
             "start": "2020-04-01",
             "end": null
@@ -334,6 +324,16 @@
             "company": "Paul, Weiss, Rifkind, Wharton & Garrison",
             "start": "1984-11-01",
             "end": "1989-01-01"
+          },
+          {
+            "company": "United States District Court for the Southern District of New York",
+            "start": "1989-01-01",
+            "end": "1992-01-01"
+          },
+          {
+            "company": "Lockheed Martin",
+            "start": "2017-12-01",
+            "end": null
           }
         ],
         "positions": [
@@ -370,8 +370,8 @@
         "birthPlace": "Hibbing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Carlson%20NRO.jpg",
         "occupations": [
-          "military officer",
-          "priest"
+          "priest",
+          "military officer"
         ],
         "education": [
           "University of Minnesota Duluth",
@@ -390,7 +390,7 @@
         "qid": "Q1159888",
         "name": "Daniel Akerson",
         "dateOfBirth": "1948-10-21",
-        "birthPlace": "Oakland",
+        "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
           "manager",
@@ -404,6 +404,11 @@
         ],
         "employers": [
           {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "American Express",
             "start": null,
             "end": null
@@ -412,22 +417,17 @@
             "company": "Carlyle Group",
             "start": null,
             "end": null
-          },
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
           {
-            "title": "chief executive officer",
+            "title": "chairperson",
             "company": null,
             "start": null,
             "end": null
           },
           {
-            "title": "chairperson",
+            "title": "chief executive officer",
             "company": null,
             "start": null,
             "end": null

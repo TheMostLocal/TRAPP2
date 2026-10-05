@@ -1,6 +1,6 @@
 {
   "ticker": "LOW",
-  "fetchedAt": "2026-10-04T23:02:59.561137Z",
+  "fetchedAt": "2026-10-05T15:12:27.858502Z",
   "people": [
     {
       "qid": "Q22279080",
@@ -76,8 +76,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School"
@@ -208,8 +208,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [],
         "employers": [],

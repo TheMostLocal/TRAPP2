@@ -1,6 +1,6 @@
 {
   "ticker": "PSX",
-  "fetchedAt": "2026-10-04T23:02:59.577902Z",
+  "fetchedAt": "2026-10-05T15:12:27.888072Z",
   "people": [
     {
       "qid": "Q114393056",
@@ -104,8 +104,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Houston",
-          "University of Texas at Austin"
+          "University of Texas at Austin",
+          "University of Houston"
         ],
         "employers": [],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "SNAP",
-  "fetchedAt": "2026-10-04T23:02:59.582041Z",
+  "fetchedAt": "2026-10-05T15:12:27.894935Z",
   "people": [
     {
       "qid": "Q15439301",
@@ -18,10 +18,10 @@
           "computer scientist"
         ],
         "education": [
-          "Stanford University",
           "Otis College of Art and Design",
           "Crossroads School for Arts & Sciences",
-          "Art Center College of Design"
+          "Art Center College of Design",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -50,10 +50,10 @@
           "computer scientist"
         ],
         "education": [
-          "Stanford University",
           "Otis College of Art and Design",
           "Crossroads School for Arts & Sciences",
-          "Art Center College of Design"
+          "Art Center College of Design",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [

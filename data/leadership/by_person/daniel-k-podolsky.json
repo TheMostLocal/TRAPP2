@@ -5,9 +5,9 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "physician",
     "university teacher",
-    "gastroenterologist"
+    "gastroenterologist",
+    "physician"
   ],
   "education": [
     "Harvard College",

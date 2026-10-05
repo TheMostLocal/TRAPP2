@@ -1,6 +1,6 @@
 {
   "ticker": "TMO",
-  "fetchedAt": "2026-10-04T23:02:59.587627Z",
+  "fetchedAt": "2026-10-05T15:12:27.903124Z",
   "people": [
     {
       "qid": "Q114890303",
@@ -17,9 +17,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Perelman School of Medicine at the University of Pennsylvania",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -37,13 +37,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "director",
-          "businessperson"
+          "businessperson",
+          "director"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Northwestern University",
-          "MIT Sloan School of Management"
+          "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -224,9 +224,9 @@
           "investment banker"
         ],
         "education": [
-          "Harvard University",
           "The Wharton School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -259,12 +259,12 @@
         ],
         "employers": [
           {
-            "company": "Columbia University",
+            "company": "University of Pretoria",
             "start": null,
             "end": null
           },
           {
-            "company": "University of Pretoria",
+            "company": "Columbia University",
             "start": null,
             "end": null
           },

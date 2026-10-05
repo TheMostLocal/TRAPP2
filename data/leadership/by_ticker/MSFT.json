@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-10-04T23:02:59.567084Z",
+  "fetchedAt": "2026-10-05T15:12:27.867979Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -14,15 +14,12 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist",
-          "entrepreneur",
           "manager",
           "electrotechnician",
-          "chief executive officer",
-          "engineer",
           "entrepreneur",
-          "computer scientist"
+          "chief executive officer",
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -33,13 +30,13 @@
         ],
         "employers": [
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           },
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           }
         ],
@@ -106,9 +103,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "accountant",
           "business executive",
-          "manager",
-          "accountant"
+          "manager"
         ],
         "education": [],
         "employers": [
@@ -126,11 +123,6 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
           },
           {
             "company": "Dick's Sporting Goods",
@@ -174,17 +166,17 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -204,12 +196,12 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "executive"
+          "executive",
+          "businessperson"
         ],
         "education": [
-          "University of Oxford",
-          "St Swithun's School"
+          "St Swithun's School",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -281,8 +273,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
-          "entrepreneur",
           "politician",
+          "entrepreneur",
           "business executive"
         ],
         "education": [
@@ -315,17 +307,16 @@
         "occupations": [
           "podcaster",
           "financier",
-          "investor",
           "consultant",
-          "entrepreneur",
           "investor",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "The Putney School",
-          "Wolfson College"
+          "Wolfson College",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -362,8 +353,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Cornell University"
+          "Cornell University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -404,15 +395,12 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist",
-          "entrepreneur",
           "manager",
           "electrotechnician",
-          "chief executive officer",
-          "engineer",
           "entrepreneur",
-          "computer scientist"
+          "chief executive officer",
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -423,13 +411,13 @@
         ],
         "employers": [
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           },
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           }
         ],
@@ -455,20 +443,20 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
+          "co-founder",
           "philanthropist",
           "art collector",
-          "co-founder",
-          "film producer",
           "programmer",
-          "musician",
-          "television producer",
           "inventor",
-          "investor",
+          "film producer",
           "record producer",
+          "television producer",
+          "musician",
+          "investor",
           "entrepreneur",
           "computer scientist",
-          "composer",
-          "businessperson"
+          "businessperson",
+          "composer"
         ],
         "education": [
           "Washington State University",

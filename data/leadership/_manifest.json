@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-04T23:02:59.790887Z",
-  "totalPeople": 969,
-  "totalTickers": 139,
+  "generatedAt": "2026-10-05T15:12:28.252435Z",
+  "totalPeople": 975,
+  "totalTickers": 141,
   "lastRangeFilter": "ALL",
-  "thisRunPeople": 876,
+  "thisRunPeople": 848,
   "thisRunTickers": 273,
   "index": [
     {
@@ -989,7 +989,6 @@
       "name": "Kermit Crawford",
       "slug": "kermit-crawford",
       "tickers": [
-        "ALL",
         "V"
       ],
       "positionsCount": 2,
@@ -1020,7 +1019,6 @@
       "name": "Maria Morris",
       "slug": "maria-morris",
       "tickers": [
-        "ALL",
         "WFC"
       ],
       "positionsCount": 1,
@@ -4882,8 +4880,8 @@
     },
     {
       "qid": "Q56248473",
-      "name": "Vladimir Tenev",
-      "slug": "vladimir-tenev",
+      "name": "Vlad Tenev",
+      "slug": "vlad-tenev",
       "tickers": [
         "HOOD"
       ],
@@ -5286,8 +5284,7 @@
       "name": "Nadja West",
       "slug": "nadja-west",
       "tickers": [
-        "JNJ",
-        "NUE"
+        "JNJ"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -9893,6 +9890,68 @@
       ],
       "positionsCount": 0,
       "employersCount": 2
+    },
+    {
+      "qid": "Q125717994",
+      "name": "Peter Konieczny",
+      "slug": "peter-konieczny",
+      "tickers": [
+        "AMC"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q115793241",
+      "name": "Ron Delia",
+      "slug": "ron-delia",
+      "tickers": [
+        "AMC",
+        "AMC"
+      ],
+      "positionsCount": 2,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q125718578",
+      "name": "Achal Agarwal",
+      "slug": "achal-agarwal",
+      "tickers": [
+        "AMC"
+      ],
+      "positionsCount": 1,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q125716681",
+      "name": "Graeme Liebelt",
+      "slug": "graeme-liebelt",
+      "tickers": [
+        "AMC"
+      ],
+      "positionsCount": 3,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q6175884",
+      "name": "Jeffrey Sprecher",
+      "slug": "jeffrey-sprecher",
+      "tickers": [
+        "ICE",
+        "ICE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q141620330",
+      "name": "Michael Farrell",
+      "slug": "michael-farrell",
+      "tickers": [
+        "RMD"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
     }
   ]
 }

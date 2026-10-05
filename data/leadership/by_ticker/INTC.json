@@ -1,7 +1,162 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-10-04T23:02:59.555261Z",
+  "fetchedAt": "2026-10-05T15:12:27.849668Z",
   "people": [
+    {
+      "qid": "Q1148995",
+      "name": "Paul Otellini",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q1148995",
+        "name": "Paul Otellini",
+        "dateOfBirth": "1950-10-12",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Otellini.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "St. Ignatius College Preparatory",
+          "Haas School of Business",
+          "University of San Francisco"
+        ],
+        "employers": [
+          {
+            "company": "Intel",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q432929",
+      "name": "Andrew Grove",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q432929",
+        "name": "Andrew Grove",
+        "dateOfBirth": "1936-09-02",
+        "birthPlace": "Budapest",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
+        "occupations": [
+          "professor",
+          "entrepreneur",
+          "scientist",
+          "engineer",
+          "writer"
+        ],
+        "education": [
+          "University of California, Berkeley",
+          "City University of New York"
+        ],
+        "employers": [
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
+          },
+          {
+            "company": "Intel",
+            "start": "1968-01-01",
+            "end": "2004-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": "1997-01-01",
+            "end": "2004-01-01"
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "1979-01-01",
+            "end": "1987-01-01"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1987-01-01",
+            "end": "1997-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q243969",
+      "name": "Gordon Moore",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q243969",
+        "name": "Gordon Moore",
+        "dateOfBirth": "1929-01-03",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
+        "occupations": [
+          "philanthropist",
+          "chemist",
+          "physicist",
+          "engineer",
+          "entrepreneur"
+        ],
+        "education": [
+          "University of California, Berkeley",
+          "Sequoia High School",
+          "San Jose State University",
+          "California Institute of Technology"
+        ],
+        "employers": [
+          {
+            "company": "University of California, Berkeley",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q241735",
+      "name": "Robert Noyce",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q241735",
+        "name": "Robert Noyce",
+        "dateOfBirth": "1927-12-12",
+        "birthPlace": "Burlington",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
+        "occupations": [
+          "inventor",
+          "computer scientist",
+          "physicist",
+          "businessperson"
+        ],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "Grinnell College"
+        ],
+        "employers": [
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
     {
       "qid": "Q12572999",
       "name": "Brian Krzanich",
@@ -14,10 +169,10 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "businessperson",
           "entrepreneur",
           "chemist",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -50,13 +205,13 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
+          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University",
-          "Stanford University"
+          "Santa Clara University"
         ],
         "employers": [
           {
@@ -115,95 +270,6 @@
       }
     },
     {
-      "qid": "Q1148995",
-      "name": "Paul Otellini",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q1148995",
-        "name": "Paul Otellini",
-        "dateOfBirth": "1950-10-12",
-        "birthPlace": "San Francisco",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Otellini.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "St. Ignatius College Preparatory",
-          "Haas School of Business",
-          "University of San Francisco"
-        ],
-        "employers": [
-          {
-            "company": "Intel",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q432929",
-      "name": "Andrew Grove",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q432929",
-        "name": "Andrew Grove",
-        "dateOfBirth": "1936-09-02",
-        "birthPlace": "United States",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
-        "occupations": [
-          "professor",
-          "entrepreneur",
-          "engineer",
-          "writer"
-        ],
-        "education": [
-          "City University of New York",
-          "University of California, Berkeley"
-        ],
-        "employers": [
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
-          },
-          {
-            "company": "Intel",
-            "start": "1968-01-01",
-            "end": "2004-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": "1997-01-01",
-            "end": "2004-01-01"
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "1979-01-01",
-            "end": "1987-01-01"
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1987-01-01",
-            "end": "1997-01-01"
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q131981722",
       "name": "Michelle Johnston Holthaus",
       "role_at_company": "Chief Executive Officer",
@@ -248,73 +314,6 @@
       }
     },
     {
-      "qid": "Q243969",
-      "name": "Gordon Moore",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q243969",
-        "name": "Gordon Moore",
-        "dateOfBirth": "1929-01-03",
-        "birthPlace": "San Francisco",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
-        "occupations": [
-          "philanthropist",
-          "chemist",
-          "physicist",
-          "entrepreneur",
-          "chemist",
-          "engineer"
-        ],
-        "education": [
-          "University of California, Berkeley",
-          "California Institute of Technology",
-          "Sequoia High School",
-          "San Jose State University"
-        ],
-        "employers": [
-          {
-            "company": "University of California, Berkeley",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q241735",
-      "name": "Robert Noyce",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q241735",
-        "name": "Robert Noyce",
-        "dateOfBirth": "1927-12-12",
-        "birthPlace": "Burlington",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
-        "occupations": [
-          "computer scientist",
-          "inventor",
-          "physicist",
-          "businessperson",
-          "computer scientist"
-        ],
-        "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
-        ],
-        "employers": [
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q26923230",
       "name": "Dion Weisler",
       "role_at_company": "Board Member",
@@ -349,6 +348,7 @@
         "occupations": [
           "university teacher",
           "electrotechnician",
+          "academic",
           "electrical engineer",
           "computer scientist"
         ],
@@ -363,18 +363,13 @@
             "end": null
           },
           {
-            "company": "California Institute of Technology",
+            "company": "Stanford University",
             "start": null,
             "end": null
           },
           {
             "company": "Princeton University",
             "start": "2020-01-01",
-            "end": null
-          },
-          {
-            "company": "Stanford University",
-            "start": null,
             "end": null
           }
         ],
@@ -420,23 +415,18 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "physician",
-          "administrator"
+          "administrator",
+          "physician"
         ],
         "education": [
           "Stony Brook University",
-          "University of Pennsylvania",
           "Harvard Medical School",
-          "Harvard University",
           "The Bush School",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Pennsylvania",
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -446,15 +436,14 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
+          },
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -466,6 +455,12 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -482,13 +477,13 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
+          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University",
-          "Stanford University"
+          "Santa Clara University"
         ],
         "employers": [
           {
@@ -540,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Berkeley"
@@ -562,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -604,9 +599,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
+          "businessperson",
           "chief financial officer",
-          "businessperson"
+          "board member"
         ],
         "education": [],
         "employers": [],
@@ -649,17 +644,18 @@
         "qid": "Q432929",
         "name": "Andrew Grove",
         "dateOfBirth": "1936-09-02",
-        "birthPlace": "United States",
+        "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "professor",
           "entrepreneur",
+          "scientist",
           "engineer",
           "writer"
         ],
         "education": [
-          "City University of New York",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "City University of New York"
         ],
         "employers": [
           {
@@ -715,15 +711,14 @@
           "philanthropist",
           "chemist",
           "physicist",
-          "entrepreneur",
-          "chemist",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "University of California, Berkeley",
-          "California Institute of Technology",
           "Sequoia High School",
-          "San Jose State University"
+          "San Jose State University",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -747,11 +742,10 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "computer scientist",
           "inventor",
+          "computer scientist",
           "physicist",
-          "businessperson",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "Massachusetts Institute of Technology",

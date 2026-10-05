@@ -1,5 +1,34 @@
 {
   "ticker": "HOOD",
-  "fetchedAt": "2026-10-04T23:02:59.553436Z",
-  "people": []
+  "fetchedAt": "2026-10-05T15:12:27.847033Z",
+  "people": [
+    {
+      "qid": "Q56248473",
+      "name": "Vlad Tenev",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q56248473",
+        "name": "Vlad Tenev",
+        "dateOfBirth": "1987-02-13",
+        "birthPlace": "Bulgaria",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%202%20%2826867775421%29%20%282%29.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Stanford University",
+          "Thomas Jefferson High School for Science and Technology"
+        ],
+        "employers": [
+          {
+            "company": "Robinhood",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "fetchedAt": "2026-10-04T23:02:59.532893Z",
+  "fetchedAt": "2026-10-05T15:12:27.818981Z",
   "people": [
     {
       "qid": "Q137168946",
@@ -106,16 +106,16 @@
         "birthPlace": "United States",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Schwab%2C%20USTR%20official%20photo.jpg",
         "occupations": [
-          "university teacher",
           "diplomat",
-          "politician"
+          "politician",
+          "university teacher"
         ],
         "education": [
-          "Stanford University",
+          "Williams College",
           "Aiglon College",
           "International School Bangkok",
           "George Washington University",
-          "Williams College"
+          "Stanford University"
         ],
         "employers": [
           {
@@ -143,7 +143,6 @@
           "law clerk",
           "prosecutor",
           "lawyer",
-          "prosecutor",
           "politician"
         ],
         "education": [
@@ -206,8 +205,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Kettering University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Kettering University"
         ],
         "employers": [],
         "positions": []
@@ -323,13 +322,13 @@
         "birthPlace": "Boston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mauricio%20Macri%20%26%20David%20W.%20MacLennan%20Davos%202018%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
+          "Booth School of Business",
           "University of Chicago",
           "Amherst College",
-          "Booth School of Business",
           "Edina High School"
         ],
         "employers": [],

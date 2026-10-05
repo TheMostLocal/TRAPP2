@@ -1,6 +1,6 @@
 {
   "ticker": "TRV",
-  "fetchedAt": "2026-10-04T23:02:59.588242Z",
+  "fetchedAt": "2026-10-05T15:12:27.903906Z",
   "people": [
     {
       "qid": "Q1405941",
@@ -130,8 +130,8 @@
           "businessperson"
         ],
         "education": [
-          "Williams College",
-          "Columbia University"
+          "Columbia University",
+          "Williams College"
         ],
         "employers": [],
         "positions": []
@@ -259,9 +259,9 @@
           "entrepreneur"
         ],
         "education": [
+          "University of Johannesburg",
           "University of South Africa",
-          "University of the Witwatersrand",
-          "University of Johannesburg"
+          "University of the Witwatersrand"
         ],
         "employers": [
           {

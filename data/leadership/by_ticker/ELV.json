@@ -1,6 +1,6 @@
 {
   "ticker": "ELV",
-  "fetchedAt": "2026-10-04T23:02:59.544686Z",
+  "fetchedAt": "2026-10-05T15:12:27.834953Z",
   "people": [
     {
       "qid": "Q5517112",
@@ -57,8 +57,8 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
-          "Williams College"
+          "Williams College",
+          "Yale University"
         ],
         "employers": [],
         "positions": []

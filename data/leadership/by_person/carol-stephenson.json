@@ -8,10 +8,10 @@
     "businessperson"
   ],
   "education": [
-    "University of Toronto",
-    "Harvard University",
     "University of California, Berkeley",
-    "Harvard Business School"
+    "University of Toronto",
+    "Harvard Business School",
+    "Harvard University"
   ],
   "employers": [
     {

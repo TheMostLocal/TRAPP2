@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-10-04T23:02:59.541681Z",
+  "fetchedAt": "2026-10-05T15:12:27.830473Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -18,10 +18,10 @@
           "business executive"
         ],
         "education": [
-          "Eli Broad College of Business",
-          "Clark High School",
           "Indiana University Bloomington",
-          "Michigan State University"
+          "Michigan State University",
+          "Eli Broad College of Business",
+          "Clark High School"
         ],
         "employers": [
           {
@@ -58,8 +58,8 @@
         "birthPlace": "Medford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20D%27Amaro%20Warrior%20Games%202022%20%28cropped%29.jpg",
         "occupations": [
-          "chairperson",
-          "chief executive officer"
+          "chief executive officer",
+          "chairperson"
         ],
         "education": [
           "Georgetown University"
@@ -105,8 +105,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
-          "architect"
+          "architect",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -123,132 +123,43 @@
       }
     },
     {
-      "qid": "Q727953",
-      "name": "Michael Eisner",
+      "qid": "Q8704",
+      "name": "Walt Disney",
       "role_at_company": "Chief Executive Officer",
       "source_field": "executives",
       "career": {
-        "qid": "Q727953",
-        "name": "Michael Eisner",
-        "dateOfBirth": "1942-03-07",
-        "birthPlace": "New York City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
+        "qid": "Q8704",
+        "name": "Walt Disney",
+        "dateOfBirth": "1901-12-05",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "chief executive officer",
-          "businessperson",
-          "entrepreneur"
-        ],
-        "education": [
-          "Lawrenceville School",
-          "The Center for Early Education",
-          "Allen-Stevenson School",
-          "Denison University"
-        ],
-        "employers": [
-          {
-            "company": "Paramount Pictures",
-            "start": "1976-01-01",
-            "end": "1984-01-01"
-          },
-          {
-            "company": "American Broadcasting Company",
-            "start": "1966-01-01",
-            "end": "1976-01-01"
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": "1984-01-01",
-            "end": "2005-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1984-09-22",
-            "end": "2005-09-30"
-          },
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "1984-09-22",
-            "end": "2004-03-03"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q532423",
-      "name": "Bob Iger",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q532423",
-        "name": "Bob Iger",
-        "dateOfBirth": "1951-02-10",
-        "birthPlace": "Oceanside",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
-        "occupations": [
+          "producer",
+          "draftsperson",
+          "film actor",
+          "designer",
+          "manufacturer",
+          "caricaturist",
+          "director",
           "film producer",
-          "business executive",
-          "television producer",
-          "businessperson",
-          "entrepreneur"
+          "film director",
+          "voice actor",
+          "painter",
+          "television presenter",
+          "comics artist",
+          "illustrator",
+          "animator",
+          "inventor",
+          "writer",
+          "actor"
         ],
         "education": [
-          "The Center for Early Education",
-          "Roy H. Park School of Communications",
-          "Oceanside High School",
-          "Ithaca College"
+          "McKinley High School",
+          "Central High School",
+          "Kansas City Art Institute"
         ],
-        "employers": [
-          {
-            "company": "The Walt Disney Company",
-            "start": "2022-11-20",
-            "end": "2026-12-31"
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": "2022-11-20",
-            "end": "2026-12-31"
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": "1996-01-01",
-            "end": "2021-12-31"
-          },
-          {
-            "company": "American Broadcasting Company",
-            "start": "1974-01-01",
-            "end": "1999-02-25"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2012-01-01",
-            "end": "2021-01-01"
-          },
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": "2000-01-01",
-            "end": "2005-01-01"
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "1989-01-01",
-            "end": "1992-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2022-11-20",
-            "end": "2026-03-17"
-          }
-        ]
+        "employers": [],
+        "positions": []
       }
     },
     {
@@ -311,8 +222,8 @@
         "birthPlace": "Rexburg",
         "image": null,
         "occupations": [
-          "businessperson",
-          "film producer"
+          "film producer",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -339,43 +250,133 @@
       }
     },
     {
-      "qid": "Q8704",
-      "name": "Walt Disney",
+      "qid": "Q727953",
+      "name": "Michael Eisner",
       "role_at_company": "Chief Executive Officer",
       "source_field": "executives",
       "career": {
-        "qid": "Q8704",
-        "name": "Walt Disney",
-        "dateOfBirth": "1901-12-05",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
+        "qid": "Q727953",
+        "name": "Michael Eisner",
+        "dateOfBirth": "1942-03-07",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
-          "producer",
-          "film producer",
-          "draftsperson",
-          "film actor",
-          "film director",
-          "designer",
-          "caricaturist",
-          "manufacturer",
-          "voice actor",
-          "director",
-          "painter",
-          "illustrator",
-          "television presenter",
-          "comics artist",
-          "animator",
-          "inventor",
-          "writer",
-          "actor"
+          "chief executive officer",
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "McKinley High School",
-          "Central High School",
-          "Kansas City Art Institute"
+          "Lawrenceville School",
+          "The Center for Early Education",
+          "Allen-Stevenson School",
+          "Denison University"
         ],
-        "employers": [],
-        "positions": []
+        "employers": [
+          {
+            "company": "The Walt Disney Company",
+            "start": "1984-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "company": "Paramount Pictures",
+            "start": "1976-01-01",
+            "end": "1984-01-01"
+          },
+          {
+            "company": "American Broadcasting Company",
+            "start": "1966-01-01",
+            "end": "1976-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1984-09-22",
+            "end": "2005-09-30"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "1984-09-22",
+            "end": "2004-03-03"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q532423",
+      "name": "Bob Iger",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q532423",
+        "name": "Bob Iger",
+        "dateOfBirth": "1951-02-10",
+        "birthPlace": "Oceanside",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
+        "occupations": [
+          "film producer",
+          "business executive",
+          "television producer",
+          "businessperson",
+          "entrepreneur"
+        ],
+        "education": [
+          "The Center for Early Education",
+          "Roy H. Park School of Communications",
+          "Oceanside High School",
+          "Ithaca College"
+        ],
+        "employers": [
+          {
+            "company": "American Broadcasting Company",
+            "start": "1974-01-01",
+            "end": "1999-02-25"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": "2022-11-20",
+            "end": "2026-12-31"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": "1996-01-01",
+            "end": "2021-12-31"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2021-01-01"
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2000-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2005-10-01",
+            "end": "2020-02-25"
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "1989-01-01",
+            "end": "1992-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2022-11-20",
+            "end": "2026-03-17"
+          }
+        ]
       }
     },
     {
@@ -390,8 +391,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -405,6 +406,184 @@
             "company": null,
             "start": "2021-01-01",
             "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1900344",
+      "name": "Mark Parker",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1900344",
+        "name": "Mark Parker",
+        "dateOfBirth": "1955-10-21",
+        "birthPlace": "Poughkeepsie",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
+        "occupations": [
+          "director",
+          "entrepreneur"
+        ],
+        "education": [
+          "Westhill High School",
+          "Pennsylvania State University"
+        ],
+        "employers": [
+          {
+            "company": "Nike",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q535362",
+      "name": "Susan Arnold",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q535362",
+        "name": "Susan Arnold",
+        "dateOfBirth": "1954-01-01",
+        "birthPlace": "Pittsburgh",
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "manager"
+        ],
+        "education": [
+          "Joseph M. Katz Graduate School of Business",
+          "University of Pittsburgh",
+          "University of Pennsylvania"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": "2021-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q450628",
+      "name": "Safra Catz",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q450628",
+        "name": "Safra Catz",
+        "dateOfBirth": "1961-12-01",
+        "birthPlace": "Holon",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
+        "occupations": [
+          "chief financial officer",
+          "businessperson",
+          "banker"
+        ],
+        "education": [
+          "University of Pennsylvania Carey Law School",
+          "The Wharton School",
+          "Harvard Law School",
+          "Brookline High School"
+        ],
+        "employers": [
+          {
+            "company": "Donaldson, Lufkin & Jenrette",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Oracle Corporation",
+            "start": "1999-04-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "Directrice",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "banker",
+            "company": null,
+            "start": "1986-01-01",
+            "end": null
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "2004-01-01",
+            "end": null
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2011-04-01",
+            "end": "2008-09-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q86408516",
+      "name": "Bob Chapek",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q86408516",
+        "name": "Bob Chapek",
+        "dateOfBirth": "1960-01-01",
+        "birthPlace": "Hammond",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
+        "occupations": [
+          "businessperson",
+          "business executive"
+        ],
+        "education": [
+          "Indiana University Bloomington",
+          "Michigan State University",
+          "Eli Broad College of Business",
+          "Clark High School"
+        ],
+        "employers": [
+          {
+            "company": "The Walt Disney Company",
+            "start": "1993-01-01",
+            "end": "2022-11-20"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-02-25",
+            "end": "2022-11-20"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2015-02-23",
+            "end": "2020-02-25"
           }
         ]
       }
@@ -485,10 +664,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -564,140 +743,6 @@
       }
     },
     {
-      "qid": "Q1900344",
-      "name": "Mark Parker",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1900344",
-        "name": "Mark Parker",
-        "dateOfBirth": "1955-10-21",
-        "birthPlace": "Poughkeepsie",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
-        "occupations": [
-          "entrepreneur",
-          "director"
-        ],
-        "education": [
-          "Westhill High School",
-          "Pennsylvania State University"
-        ],
-        "employers": [
-          {
-            "company": "Nike",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q535362",
-      "name": "Susan Arnold",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q535362",
-        "name": "Susan Arnold",
-        "dateOfBirth": "1954-01-01",
-        "birthPlace": "Pittsburgh",
-        "image": null,
-        "occupations": [
-          "manager",
-          "businessperson"
-        ],
-        "education": [
-          "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh",
-          "University of Pennsylvania"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": "2021-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q450628",
-      "name": "Safra Catz",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q450628",
-        "name": "Safra Catz",
-        "dateOfBirth": "1961-12-01",
-        "birthPlace": "Holon",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
-        "occupations": [
-          "banker",
-          "chief financial officer",
-          "businessperson"
-        ],
-        "education": [
-          "Brookline High School",
-          "University of Pennsylvania Carey Law School",
-          "The Wharton School",
-          "Harvard Law School"
-        ],
-        "employers": [
-          {
-            "company": "Donaldson, Lufkin & Jenrette",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Oracle Corporation",
-            "start": "1999-04-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "Directrice",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "banker",
-            "company": null,
-            "start": "1986-01-01",
-            "end": null
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "2004-01-01",
-            "end": null
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2011-04-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q114564378",
       "name": "Calvin McDonald",
       "role_at_company": "Board Member",
@@ -712,6 +757,29 @@
         "education": [
           "Rotman School of Management",
           "University of Western Ontario"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109743489",
+      "name": "Derica W. Rice",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109743489",
+        "name": "Derica W. Rice",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "board member"
+        ],
+        "education": [
+          "Indiana University",
+          "Kettering University"
         ],
         "employers": [],
         "positions": []
@@ -747,70 +815,43 @@
       }
     },
     {
-      "qid": "Q109743489",
-      "name": "Derica W. Rice",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q8704",
+      "name": "Walt Disney",
+      "role_at_company": "Founder",
+      "source_field": "founders",
       "career": {
-        "qid": "Q109743489",
-        "name": "Derica W. Rice",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
+        "qid": "Q8704",
+        "name": "Walt Disney",
+        "dateOfBirth": "1901-12-05",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "board member",
-          "businessperson"
+          "producer",
+          "draftsperson",
+          "film actor",
+          "designer",
+          "manufacturer",
+          "caricaturist",
+          "director",
+          "film producer",
+          "film director",
+          "voice actor",
+          "painter",
+          "television presenter",
+          "comics artist",
+          "illustrator",
+          "animator",
+          "inventor",
+          "writer",
+          "actor"
         ],
         "education": [
-          "Indiana University",
-          "Kettering University"
+          "McKinley High School",
+          "Central High School",
+          "Kansas City Art Institute"
         ],
         "employers": [],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q86408516",
-      "name": "Bob Chapek",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q86408516",
-        "name": "Bob Chapek",
-        "dateOfBirth": "1960-01-01",
-        "birthPlace": "Hammond",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
-        "occupations": [
-          "businessperson",
-          "business executive"
-        ],
-        "education": [
-          "Eli Broad College of Business",
-          "Clark High School",
-          "Indiana University Bloomington",
-          "Michigan State University"
-        ],
-        "employers": [
-          {
-            "company": "The Walt Disney Company",
-            "start": "1993-01-01",
-            "end": "2022-11-20"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2020-02-25",
-            "end": "2022-11-20"
-          },
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2015-02-23",
-            "end": "2020-02-25"
-          }
-        ]
       }
     },
     {
@@ -830,46 +871,6 @@
           "entrepreneur"
         ],
         "education": [],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q8704",
-      "name": "Walt Disney",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q8704",
-        "name": "Walt Disney",
-        "dateOfBirth": "1901-12-05",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
-        "occupations": [
-          "producer",
-          "film producer",
-          "draftsperson",
-          "film actor",
-          "film director",
-          "designer",
-          "caricaturist",
-          "manufacturer",
-          "voice actor",
-          "director",
-          "painter",
-          "illustrator",
-          "television presenter",
-          "comics artist",
-          "animator",
-          "inventor",
-          "writer",
-          "actor"
-        ],
-        "education": [
-          "McKinley High School",
-          "Central High School",
-          "Kansas City Art Institute"
-        ],
         "employers": [],
         "positions": []
       }

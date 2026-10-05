@@ -1,42 +1,204 @@
 {
   "ticker": "AMC",
-  "fetchedAt": "2026-10-04T23:02:59.524333Z",
+  "fetchedAt": "2026-10-05T15:12:27.807722Z",
   "people": [
     {
-      "qid": "Q358934",
-      "name": "George W. Mason",
-      "role_at_company": "Founder",
-      "source_field": "founders",
+      "qid": "Q125717994",
+      "name": "Peter Konieczny",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
       "career": {
-        "qid": "Q358934",
-        "name": "George W. Mason",
-        "dateOfBirth": "1891-03-12",
-        "birthPlace": "Valley City",
+        "qid": "Q125717994",
+        "name": "Peter Konieczny",
+        "dateOfBirth": null,
+        "birthPlace": null,
         "image": null,
         "occupations": [
-          "industrialist"
+          "business executive"
         ],
-        "education": [
-          "University of Michigan"
-        ],
+        "education": [],
         "employers": [
           {
-            "company": "American Motors Corporation",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Nash-Kelvinator Corporation",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Kelvinator",
-            "start": null,
+            "company": "Amcor",
+            "start": "2010-01-01",
             "end": null
           }
         ],
-        "positions": []
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2024-04-15",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q115793241",
+      "name": "Ron Delia",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q115793241",
+        "name": "Ron Delia",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Amcor",
+            "start": "2005-01-01",
+            "end": "2024-09-30"
+          },
+          {
+            "company": "McKinsey & Company",
+            "start": "2000-01-01",
+            "end": "2005-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2015-01-01",
+            "end": "2024-04-15"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2015-01-01",
+            "end": "2024-04-15"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125718578",
+      "name": "Achal Agarwal",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125718578",
+        "name": "Achal Agarwal",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Kimberly-Clark",
+            "start": "2008-01-01",
+            "end": "2021-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": "2002-01-01",
+            "end": "2008-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-11-10",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125716681",
+      "name": "Graeme Liebelt",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125716681",
+        "name": "Graeme Liebelt",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Orica",
+            "start": "1989-01-01",
+            "end": "2012-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2005-01-01",
+            "end": "2012-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1997-01-01",
+            "end": "2012-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q115793241",
+      "name": "Ron Delia",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q115793241",
+        "name": "Ron Delia",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Amcor",
+            "start": "2005-01-01",
+            "end": "2024-09-30"
+          },
+          {
+            "company": "McKinsey & Company",
+            "start": "2000-01-01",
+            "end": "2005-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2015-01-01",
+            "end": "2024-04-15"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2015-01-01",
+            "end": "2024-04-15"
+          }
+        ]
       }
     }
   ]

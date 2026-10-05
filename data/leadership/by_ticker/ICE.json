@@ -1,5 +1,74 @@
 {
   "ticker": "ICE",
-  "fetchedAt": "2026-10-04T23:02:59.554661Z",
-  "people": []
+  "fetchedAt": "2026-10-05T15:12:27.848674Z",
+  "people": [
+    {
+      "qid": "Q6175884",
+      "name": "Jeffrey Sprecher",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6175884",
+        "name": "Jeffrey Sprecher",
+        "dateOfBirth": "1955-02-23",
+        "birthPlace": "Madison",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeffrey%20Sprecher.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Wisconsin\u2013Madison",
+          "Pepperdine University",
+          "James Madison Memorial High School"
+        ],
+        "employers": [
+          {
+            "company": "New York Stock Exchange",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Intercontinental Exchange",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6175884",
+      "name": "Jeffrey Sprecher",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q6175884",
+        "name": "Jeffrey Sprecher",
+        "dateOfBirth": "1955-02-23",
+        "birthPlace": "Madison",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeffrey%20Sprecher.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Wisconsin\u2013Madison",
+          "Pepperdine University",
+          "James Madison Memorial High School"
+        ],
+        "employers": [
+          {
+            "company": "New York Stock Exchange",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Intercontinental Exchange",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
 }

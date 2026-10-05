@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-10-04T23:02:59.518307Z",
+  "fetchedAt": "2026-10-05T15:12:27.797989Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -35,139 +35,6 @@
             "title": "chief executive officer",
             "company": null,
             "start": "2024-05-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q85748533",
-      "name": "Daniel K. Podolsky",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q85748533",
-        "name": "Daniel K. Podolsky",
-        "dateOfBirth": "1953-05-17",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "physician",
-          "university teacher",
-          "gastroenterologist"
-        ],
-        "education": [
-          "Harvard College",
-          "Harvard Medical School"
-        ],
-        "employers": [
-          {
-            "company": "University of Texas Southwestern Medical Center",
-            "start": "2008-09-01",
-            "end": null
-          },
-          {
-            "company": "Harvard Medical School",
-            "start": "1981-01-01",
-            "end": "2005-01-01"
-          },
-          {
-            "company": "Massachusetts General Hospital",
-            "start": "1981-01-01",
-            "end": "2005-01-01"
-          },
-          {
-            "company": "Partners HealthCare Connected Health",
-            "start": "2005-01-01",
-            "end": "2008-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2015-07-21",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q7108762",
-      "name": "Otis Brawley",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7108762",
-        "name": "Otis Brawley",
-        "dateOfBirth": "1959-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "scientist",
-          "oncologist",
-          "physician"
-        ],
-        "education": [
-          "University of Chicago",
-          "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine"
-        ],
-        "employers": [
-          {
-            "company": "American Cancer Society",
-            "start": "2007-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "company": "Emory University",
-            "start": "2001-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "company": "Johns Hopkins University",
-            "start": "2019-01-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2021-11-17",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q6425854",
-      "name": "Koh Boon Hwee",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6425854",
-        "name": "Koh Boon Hwee",
-        "dateOfBirth": "1950-11-17",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "chairperson",
-          "investor"
-        ],
-        "education": [
-          "Imperial College London",
-          "Harvard Business School",
-          "University of London",
-          "Harvard Business School",
-          "Harvard University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2003-05-21",
             "end": null
           }
         ]
@@ -474,14 +341,14 @@
         ],
         "employers": [
           {
-            "company": "Pfizer",
-            "start": "2009-01-01",
-            "end": null
-          },
-          {
             "company": "Wyeth",
             "start": "2008-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Pfizer",
+            "start": "2009-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -538,6 +405,138 @@
             "company": null,
             "start": "2010-07-01",
             "end": "2016-12-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q85748533",
+      "name": "Daniel K. Podolsky",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q85748533",
+        "name": "Daniel K. Podolsky",
+        "dateOfBirth": "1953-05-17",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "university teacher",
+          "gastroenterologist",
+          "physician"
+        ],
+        "education": [
+          "Harvard College",
+          "Harvard Medical School"
+        ],
+        "employers": [
+          {
+            "company": "University of Texas Southwestern Medical Center",
+            "start": "2008-09-01",
+            "end": null
+          },
+          {
+            "company": "Harvard Medical School",
+            "start": "1981-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "company": "Massachusetts General Hospital",
+            "start": "1981-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "company": "Partners HealthCare Connected Health",
+            "start": "2005-01-01",
+            "end": "2008-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2015-07-21",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7108762",
+      "name": "Otis Brawley",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7108762",
+        "name": "Otis Brawley",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "scientist",
+          "oncologist",
+          "physician"
+        ],
+        "education": [
+          "University of Chicago",
+          "University of Detroit Jesuit High School and Academy",
+          "Pritzker School of Medicine"
+        ],
+        "employers": [
+          {
+            "company": "American Cancer Society",
+            "start": "2007-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "Emory University",
+            "start": "2001-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "Johns Hopkins University",
+            "start": "2019-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-11-17",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6425854",
+      "name": "Koh Boon Hwee",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6425854",
+        "name": "Koh Boon Hwee",
+        "dateOfBirth": "1950-11-17",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "investor",
+          "chairperson"
+        ],
+        "education": [
+          "University of London",
+          "Imperial College London",
+          "Harvard Business School",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2003-05-21",
+            "end": null
           }
         ]
       }

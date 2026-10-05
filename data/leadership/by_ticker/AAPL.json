@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-04T23:02:59.519421Z",
+  "fetchedAt": "2026-10-05T15:12:27.800245Z",
   "people": [
     {
       "qid": "Q709063",
@@ -14,13 +14,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "businessperson",
-          "molecular biologist"
+          "molecular biologist",
+          "biochemist"
         ],
         "education": [
-          "Princeton University",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -51,16 +51,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "orator",
           "climate activist",
+          "orator",
           "blogger",
           "environmentalist",
           "financier",
-          "journalist",
           "university teacher",
+          "journalist",
           "farmer",
-          "politician",
           "businessperson",
+          "politician",
           "writer"
         ],
         "education": [
@@ -231,13 +231,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "businessperson",
-          "molecular biologist"
+          "molecular biologist",
+          "biochemist"
         ],
         "education": [
-          "Princeton University",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -268,8 +268,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -303,28 +303,26 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist",
-          "electronics technician",
           "programmer",
+          "electronics technician",
           "inventor",
-          "teacher",
+          "entrepreneur",
           "engineer",
           "computer scientist",
-          "inventor",
           "businessperson",
+          "teacher",
           "actor"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
+          "University of California, Berkeley",
           "Homestead High School"
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -339,7 +337,7 @@
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -359,13 +357,11 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "designer",
           "technology entrepreneur",
+          "designer",
           "film producer",
-          "founder",
-          "film producer",
-          "entrepreneur",
           "financier",
+          "founder",
           "general manager",
           "executive producer",
           "entrepreneur",

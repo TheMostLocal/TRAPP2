@@ -1,6 +1,6 @@
 {
   "ticker": "INTU",
-  "fetchedAt": "2026-10-04T23:02:59.555922Z",
+  "fetchedAt": "2026-10-05T15:12:27.850400Z",
   "people": [
     {
       "qid": "Q7436159",
@@ -22,17 +22,17 @@
         ],
         "employers": [
           {
-            "company": "Intuit",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Procter & Gamble",
             "start": null,
             "end": null
           },
           {
             "company": "Bain & Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Intuit",
             "start": null,
             "end": null
           }

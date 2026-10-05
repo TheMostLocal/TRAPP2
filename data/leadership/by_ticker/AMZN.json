@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-04T23:02:59.525491Z",
+  "fetchedAt": "2026-10-05T15:12:27.809318Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -57,8 +57,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -294,15 +294,14 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "intelligence officer",
           "spy",
-          "intelligence officer",
-          "soldier"
+          "soldier",
+          "intelligence officer"
         ],
         "education": [
+          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
-          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -335,15 +334,15 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
           "academic",
+          "university teacher",
           "computer scientist",
           "executive",
           "dean"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "University of Michigan"
+          "University of Michigan",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -367,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "computer scientist",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Horace Mann School",
@@ -420,8 +419,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -482,11 +481,11 @@
           "businessperson"
         ],
         "education": [
+          "Indian Institute of Management Calcutta",
+          "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
           "Madras Christian College",
-          "Indian Institute of Management Calcutta",
-          "University of Madras",
           "Yale University"
         ],
         "employers": [
@@ -496,17 +495,17 @@
             "end": "2018-01-01"
           },
           {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
           {
             "company": "ABB Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
@@ -587,8 +586,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [

@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-10-04T23:02:59.534922Z",
+  "fetchedAt": "2026-10-05T15:12:27.821616Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -50,8 +50,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "academic"
+          "academic",
+          "businessperson"
         ],
         "education": [
           "Rice University",
@@ -139,8 +139,8 @@
           "businessperson"
         ],
         "education": [
-          "London School of Economics and Political Science",
           "Harvard Business School",
+          "London School of Economics and Political Science",
           "Stanford University"
         ],
         "employers": [],
@@ -229,8 +229,8 @@
         ],
         "education": [
           "Duke University",
-          "New York University",
-          "Stern School of Business"
+          "Stern School of Business",
+          "New York University"
         ],
         "employers": [
           {

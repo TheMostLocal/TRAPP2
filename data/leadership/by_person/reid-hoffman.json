@@ -7,17 +7,16 @@
   "occupations": [
     "podcaster",
     "financier",
-    "investor",
     "consultant",
-    "entrepreneur",
     "investor",
     "businessperson",
+    "entrepreneur",
     "writer"
   ],
   "education": [
-    "Stanford University",
     "The Putney School",
-    "Wolfson College"
+    "Wolfson College",
+    "Stanford University"
   ],
   "employers": [
     {

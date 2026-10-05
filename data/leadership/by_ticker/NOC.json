@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-10-04T23:02:59.569811Z",
+  "fetchedAt": "2026-10-05T15:12:27.871928Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -23,17 +23,17 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -433,17 +433,17 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
             "start": null,
             "end": null
           }

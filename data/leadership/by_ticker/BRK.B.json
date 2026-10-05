@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-10-04T23:02:59.531530Z",
+  "fetchedAt": "2026-10-05T15:12:27.817315Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -14,9 +14,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -61,21 +61,21 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "chief executive officer",
-          "shareholder",
           "financier",
           "investor",
           "broker-dealer",
-          "economist",
-          "entrepreneur"
+          "chief executive officer",
+          "shareholder",
+          "entrepreneur",
+          "economist"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
-          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School"
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -128,9 +128,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -304,9 +304,9 @@
           "businessperson"
         ],
         "education": [
-          "Teachers College",
           "Trinity College",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Teachers College"
         ],
         "employers": [],
         "positions": [
@@ -331,6 +331,7 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
+          "entrepreneur",
           "farmer",
           "photographer",
           "writer"
@@ -371,8 +372,8 @@
         ],
         "education": [
           "Indian Institute of Technology Kharagpur",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -406,8 +407,8 @@
           "military personnel"
         ],
         "education": [
-          "Cornell University",
           "Harvard Business School",
+          "Cornell University",
           "Harvard University"
         ],
         "employers": [],
@@ -433,12 +434,12 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "Harvard Business School",
           "Colgate University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -519,21 +520,21 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "chief executive officer",
-          "shareholder",
           "financier",
           "investor",
           "broker-dealer",
-          "economist",
-          "entrepreneur"
+          "chief executive officer",
+          "shareholder",
+          "entrepreneur",
+          "economist"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
-          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School"
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -559,16 +560,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
           "businessperson",
-          "venture capitalist",
-          "businessperson",
-          "lawyer",
           "entrepreneur",
+          "venture capitalist",
+          "lawyer",
           "chief executive officer"
         ],
         "education": [
+          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School",
-          "The Waldorf School of Garden City"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -591,6 +591,12 @@
           {
             "title": "board of directors member",
             "company": null,
+            "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
             "start": "2020-05-02",
             "end": null
           },
@@ -599,12 +605,6 @@
             "company": null,
             "start": "2001-01-01",
             "end": "2018-02-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": null
           }
         ]
       }

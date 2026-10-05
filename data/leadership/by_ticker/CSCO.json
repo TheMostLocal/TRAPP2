@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-10-04T23:02:59.538166Z",
+  "fetchedAt": "2026-10-05T15:12:27.825851Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -56,9 +56,7 @@
           "University of Wisconsin\u2013Madison",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business",
-          "Stanford University",
-          "University of Wisconsin\u2013Madison"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -102,15 +100,15 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20T.%20Chambers%20World%20Economic%20Forum%202013.jpg",
         "occupations": [
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
+          "Duke University",
+          "West Virginia University",
           "Indiana University",
           "Indiana University Kelley School of Business",
-          "West Virginia University College of Law",
-          "Duke University",
-          "West Virginia University"
+          "West Virginia University College of Law"
         ],
         "employers": [
           {
@@ -122,135 +120,6 @@
             "company": "Cisco",
             "start": null,
             "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6829086",
-      "name": "Michael David Capellas",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6829086",
-        "name": "Michael David Capellas",
-        "dateOfBirth": "1955-08-19",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "chief executive officer"
-        ],
-        "education": [
-          "Warren G. Harding High School",
-          "U.S. Air Force Test Pilot School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6712901",
-      "name": "M. Michele Burns",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6712901",
-        "name": "M. Michele Burns",
-        "dateOfBirth": "1958-01-01",
-        "birthPlace": "Georgia",
-        "image": null,
-        "occupations": [
-          "entrepreneur"
-        ],
-        "education": [
-          "Terry College of Business",
-          "University of Georgia"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q5590777",
-      "name": "Wesley Bush",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5590777",
-        "name": "Wesley Bush",
-        "dateOfBirth": "1961-01-01",
-        "birthPlace": "United States",
-        "image": null,
-        "occupations": [
-          "entrepreneur"
-        ],
-        "education": [
-          "Massachusetts Institute of Technology",
-          "Morgantown High School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q5214356",
-      "name": "Dan Schulman",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5214356",
-        "name": "Dan Schulman",
-        "dateOfBirth": "1958-01-19",
-        "birthPlace": "Newark",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Schulman.jpg",
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Princeton High School",
-          "Middlebury College",
-          "Stern School of Business"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2025-10-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q41651",
-      "name": "Kristina M. Johnson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q41651",
-        "name": "Kristina M. Johnson",
-        "dateOfBirth": "1957-05-07",
-        "birthPlace": "St. Louis",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristina%20M.%20Johnson%20official%20portrait.jpg",
-        "occupations": [
-          "electrical engineer"
-        ],
-        "education": [
-          "Stanford University",
-          "Thomas Jefferson High School"
-        ],
-        "employers": [
-          {
-            "company": "University of Colorado Boulder",
-            "start": "1985-01-01",
-            "end": "1999-01-01"
-          },
-          {
-            "company": "Duke University",
-            "start": "1999-01-01",
-            "end": "2007-01-01"
           }
         ],
         "positions": []
@@ -499,6 +368,135 @@
             "end": null
           }
         ]
+      }
+    },
+    {
+      "qid": "Q6829086",
+      "name": "Michael David Capellas",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6829086",
+        "name": "Michael David Capellas",
+        "dateOfBirth": "1955-08-19",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "Warren G. Harding High School",
+          "U.S. Air Force Test Pilot School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6712901",
+      "name": "M. Michele Burns",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6712901",
+        "name": "M. Michele Burns",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": "Georgia",
+        "image": null,
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Terry College of Business",
+          "University of Georgia"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5590777",
+      "name": "Wesley Bush",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5590777",
+        "name": "Wesley Bush",
+        "dateOfBirth": "1961-01-01",
+        "birthPlace": "United States",
+        "image": null,
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "Morgantown High School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5214356",
+      "name": "Dan Schulman",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5214356",
+        "name": "Dan Schulman",
+        "dateOfBirth": "1958-01-19",
+        "birthPlace": "Newark",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Schulman.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Princeton High School",
+          "Middlebury College",
+          "Stern School of Business"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2025-10-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q41651",
+      "name": "Kristina M. Johnson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q41651",
+        "name": "Kristina M. Johnson",
+        "dateOfBirth": "1957-05-07",
+        "birthPlace": "St. Louis",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristina%20M.%20Johnson%20official%20portrait.jpg",
+        "occupations": [
+          "electrical engineer"
+        ],
+        "education": [
+          "Stanford University",
+          "Thomas Jefferson High School"
+        ],
+        "employers": [
+          {
+            "company": "University of Colorado Boulder",
+            "start": "1985-01-01",
+            "end": "1999-01-01"
+          },
+          {
+            "company": "Duke University",
+            "start": "1999-01-01",
+            "end": "2007-01-01"
+          }
+        ],
+        "positions": []
       }
     }
   ]

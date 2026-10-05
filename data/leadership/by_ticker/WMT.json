@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-10-04T23:02:59.595674Z",
+  "fetchedAt": "2026-10-05T15:12:27.914360Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -42,8 +42,8 @@
         ],
         "education": [
           "Stanford University",
-          "Georgetown University",
-          "San Marino High School"
+          "San Marino High School",
+          "Georgetown University"
         ],
         "employers": [],
         "positions": []
@@ -61,8 +61,8 @@
         "birthPlace": "Tulsa",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20Robson%20Walton.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Columbia Law School",
@@ -84,7 +84,6 @@
         "birthPlace": "Wausau",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
-          "computer scientist",
           "business executive",
           "computer scientist",
           "engineer"
@@ -162,8 +161,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Cox School of Business",
@@ -189,10 +188,10 @@
           "military officer"
         ],
         "education": [
-          "United States Naval Academy",
-          "University of Virginia",
           "Miami Coral Park High School",
-          "University of Virginia Darden School of Business"
+          "University of Virginia Darden School of Business",
+          "United States Naval Academy",
+          "University of Virginia"
         ],
         "employers": [
           {
@@ -300,8 +299,8 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
-          "St Anne's College"
+          "St Anne's College",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -379,9 +378,9 @@
           "chairperson"
         ],
         "education": [
-          "Georgetown University",
           "Stanford University",
-          "San Marino High School"
+          "San Marino High School",
+          "Georgetown University"
         ],
         "employers": [],
         "positions": []

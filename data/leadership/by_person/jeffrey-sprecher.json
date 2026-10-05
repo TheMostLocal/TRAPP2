@@ -1,0 +1,32 @@
+{
+  "qid": "Q6175884",
+  "name": "Jeffrey Sprecher",
+  "dateOfBirth": "1955-02-23",
+  "birthPlace": "Madison",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeffrey%20Sprecher.jpg",
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [
+    "University of Wisconsin\u2013Madison",
+    "Pepperdine University",
+    "James Madison Memorial High School"
+  ],
+  "employers": [
+    {
+      "company": "New York Stock Exchange",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Intercontinental Exchange",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "ICE",
+    "ICE"
+  ]
+}

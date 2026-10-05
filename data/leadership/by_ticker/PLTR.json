@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-10-04T23:02:59.576401Z",
+  "fetchedAt": "2026-10-05T15:12:27.885622Z",
   "people": [
     {
       "qid": "Q19560940",
@@ -76,8 +76,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -98,22 +98,20 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
           "technology entrepreneur",
+          "chess player",
+          "banker",
           "manager",
           "financier",
-          "banker",
           "investor",
-          "chess player",
           "computer scientist",
-          "banker",
           "entrepreneur",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -150,8 +148,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -172,15 +170,20 @@
         "birthPlace": "Fremont",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
         "occupations": [
-          "venture capitalist",
           "angel investor",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
           "Mission San Jose High School",
           "Stanford University"
         ],
         "employers": [
+          {
+            "company": "Clarium Capital",
+            "start": null,
+            "end": "2004-01-01"
+          },
           {
             "company": "Addepar",
             "start": "2009-01-01",
@@ -205,11 +208,6 @@
             "company": "Palantir Technologies",
             "start": "2004-01-01",
             "end": "2009-01-01"
-          },
-          {
-            "company": "Clarium Capital",
-            "start": null,
-            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -246,22 +244,20 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
           "technology entrepreneur",
+          "chess player",
+          "banker",
           "manager",
           "financier",
-          "banker",
           "investor",
-          "chess player",
           "computer scientist",
-          "banker",
           "entrepreneur",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {

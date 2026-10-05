@@ -1,6 +1,6 @@
 {
   "ticker": "FCX",
-  "fetchedAt": "2026-10-04T23:02:59.547799Z",
+  "fetchedAt": "2026-10-05T15:12:27.839314Z",
   "people": [
     {
       "qid": "Q16501102",
@@ -19,9 +19,9 @@
           "head commissioner"
         ],
         "education": [
-          "Harvard University",
+          "Harvard Business School",
           "Mississippi State University",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -56,8 +56,8 @@
         "birthPlace": "Greenwood",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Abney%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Pillow Academy",
@@ -95,9 +95,9 @@
           "head commissioner"
         ],
         "education": [
-          "Harvard University",
+          "Harvard Business School",
           "Mississippi State University",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -115,8 +115,8 @@
         "birthPlace": "Blytheville",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ConocoPhillips%20CEO%20Ryan%20Lance%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Montana Technological University",
@@ -239,11 +239,11 @@
           "chief executive officer"
         ],
         "education": [
+          "Southern Methodist University",
+          "University of Illinois Urbana-Champaign",
           "Hinsdale Central High School",
           "Thunderbird School of Global Management",
-          "Cox School of Business",
-          "Southern Methodist University",
-          "University of Illinois Urbana-Champaign"
+          "Cox School of Business"
         ],
         "employers": [
           {

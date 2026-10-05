@@ -1,45 +1,5 @@
 {
   "ticker": "DVN",
-  "fetchedAt": "2026-10-04T23:02:59.543389Z",
-  "people": [
-    {
-      "qid": "Q749887",
-      "name": "Erik Prince",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q749887",
-        "name": "Erik Prince",
-        "dateOfBirth": "1969-06-06",
-        "birthPlace": "Holland",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Prince%20by%20Gage%20Skidmore%20%28cropped%29.jpg",
-        "occupations": [
-          "businessperson",
-          "entrepreneur",
-          "aircraft pilot",
-          "financier",
-          "military officer"
-        ],
-        "education": [
-          "Holland Christian Schools",
-          "Hillsdale College",
-          "United States Naval Academy",
-          "Holland Christian High School"
-        ],
-        "employers": [
-          {
-            "company": "Frontier Services Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Academi",
-            "start": "1997-01-01",
-            "end": "2009-03-02"
-          }
-        ],
-        "positions": []
-      }
-    }
-  ]
+  "fetchedAt": "2026-10-05T15:12:27.832953Z",
+  "people": []
 }

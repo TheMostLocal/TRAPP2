@@ -1,6 +1,6 @@
 {
   "ticker": "HCA",
-  "fetchedAt": "2026-10-04T23:02:59.552126Z",
+  "fetchedAt": "2026-10-05T15:12:27.845251Z",
   "people": [
     {
       "qid": "Q80049510",
@@ -23,17 +23,17 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -78,8 +78,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []

@@ -2,7 +2,7 @@
   "qid": "Q1159888",
   "name": "Daniel Akerson",
   "dateOfBirth": "1948-10-21",
-  "birthPlace": "Oakland",
+  "birthPlace": "California",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
   "occupations": [
     "manager",
@@ -16,6 +16,11 @@
   ],
   "employers": [
     {
+      "company": "General Motors",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "American Express",
       "start": null,
       "end": null
@@ -24,22 +29,17 @@
       "company": "Carlyle Group",
       "start": null,
       "end": null
-    },
-    {
-      "company": "General Motors",
-      "start": null,
-      "end": null
     }
   ],
   "positions": [
     {
-      "title": "chief executive officer",
+      "title": "chairperson",
       "company": null,
       "start": null,
       "end": null
     },
     {
-      "title": "chairperson",
+      "title": "chief executive officer",
       "company": null,
       "start": null,
       "end": null

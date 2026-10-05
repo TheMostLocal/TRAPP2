@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-04T23:02:59.559976Z",
+  "fetchedAt": "2026-10-05T15:12:27.856908Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -194,9 +194,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "economist",
           "health economist",
-          "crossword creator"
+          "crossword creator",
+          "economist"
         ],
         "education": [
           "Yale University",
@@ -493,8 +493,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "researcher",
           "oncologist",
+          "researcher",
           "university teacher"
         ],
         "education": [
