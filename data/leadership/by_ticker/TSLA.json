@@ -44,14 +44,14 @@
             "end": null
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
             "company": "Department of Government Efficiency",
             "start": "2025-01-20",
             "end": "2025-05-30"
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
           },
           {
             "company": "SolarCity",
@@ -222,8 +222,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
           "environmentalist",
-          "restaurateur",
-          "entrepreneur"
+          "entrepreneur",
+          "restaurateur"
         ],
         "education": [
           "International Culinary Center",
@@ -251,8 +251,8 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
-          "chief technology officer",
           "inventor",
+          "chief technology officer",
           "businessperson"
         ],
         "education": [
@@ -555,14 +555,14 @@
             "end": null
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
             "company": "Department of Government Efficiency",
             "start": "2025-01-20",
             "end": "2025-05-30"
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
           },
           {
             "company": "SolarCity",

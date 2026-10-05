@@ -14,12 +14,12 @@
         "birthPlace": "Argentina",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Georgetown University"
+          "Georgetown University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -243,12 +243,12 @@
         "birthPlace": "Argentina",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Georgetown University"
+          "Georgetown University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -367,10 +367,10 @@
           "business executive"
         ],
         "education": [
-          "Harvard College",
           "Yale School of Management",
           "Hotchkiss School",
           "Yale Law School",
+          "Harvard College",
           "University of Oxford",
           "Harvard University"
         ],
@@ -484,7 +484,6 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "missionary",
           "diplomat",
           "politician",
           "governor",

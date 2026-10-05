@@ -517,9 +517,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -581,9 +581,30 @@
             "company": "Hasbro",
             "start": null,
             "end": null
+          },
+          {
+            "company": "DreamWorks",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Quibi",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "general manager",
+            "company": null,
+            "start": "1997-01-01",
+            "end": null
+          },
           {
             "title": "chief executive officer",
             "company": null,
@@ -600,12 +621,6 @@
             "title": "founder",
             "company": null,
             "start": null,
-            "end": null
-          },
-          {
-            "title": "general manager",
-            "company": null,
-            "start": "1997-01-01",
             "end": null
           },
           {

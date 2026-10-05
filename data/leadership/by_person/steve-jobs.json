@@ -17,9 +17,9 @@
     "computer scientist"
   ],
   "education": [
+    "Homestead High School",
     "Reed College",
-    "De Anza College",
-    "Homestead High School"
+    "De Anza College"
   ],
   "employers": [
     {
@@ -28,12 +28,12 @@
       "end": null
     },
     {
-      "company": "NeXT",
+      "company": "Atari, Inc.",
       "start": null,
       "end": null
     },
     {
-      "company": "Atari, Inc.",
+      "company": "NeXT",
       "start": null,
       "end": null
     },

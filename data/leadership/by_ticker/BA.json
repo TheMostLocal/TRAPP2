@@ -244,7 +244,7 @@
           "politician",
           "manager",
           "economist",
-          "university teacher"
+          "politician"
         ],
         "education": [
           "University of Glasgow",
@@ -303,8 +303,8 @@
         "birthPlace": "Brentwood",
         "image": null,
         "occupations": [
-          "farmer",
-          "politician"
+          "politician",
+          "farmer"
         ],
         "education": [],
         "employers": [],

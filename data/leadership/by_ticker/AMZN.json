@@ -338,7 +338,10 @@
           "university teacher",
           "computer scientist",
           "executive",
-          "dean"
+          "dean",
+          "academic",
+          "university teacher",
+          "computer scientist"
         ],
         "education": [
           "University of Michigan",
@@ -515,8 +518,8 @@
             "end": null
           },
           {
-            "company": "Booz Allen Hamilton",
-            "start": null,
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           }
         ],

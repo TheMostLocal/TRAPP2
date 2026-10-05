@@ -89,8 +89,8 @@
         "image": null,
         "occupations": [
           "computer scientist",
-          "director",
-          "businessperson"
+          "businessperson",
+          "director"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -348,8 +348,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
@@ -402,8 +402,8 @@
         ],
         "education": [
           "Bryn Mawr College",
-          "University of Pennsylvania",
           "Concord Academy",
+          "University of Pennsylvania",
           "Harvard University"
         ],
         "employers": [

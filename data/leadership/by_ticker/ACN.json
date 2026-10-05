@@ -138,8 +138,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jope%20%28born%20c.%201963%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -306,9 +306,19 @@
             "end": "1983-01-01"
           },
           {
-            "company": "Groupe TF1",
-            "start": "2016-01-01",
-            "end": "2023-01-01"
+            "company": "Bouygues Telecom",
+            "start": "2001-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "company": "Euro Disney S.C.A.",
+            "start": "1995-01-01",
+            "end": "2000-01-01"
+          },
+          {
+            "company": "Suez",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
           }
         ],
         "positions": [
@@ -412,8 +422,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Rhode Island",

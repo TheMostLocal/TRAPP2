@@ -453,7 +453,7 @@
         ],
         "employers": [
           {
-            "company": "Northwestern University",
+            "company": "New York University",
             "start": null,
             "end": null
           },
@@ -530,8 +530,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Rhode Island",
