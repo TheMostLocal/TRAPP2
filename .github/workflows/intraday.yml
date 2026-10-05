@@ -78,6 +78,14 @@ jobs:
       - name: Fetch quotes + fundamentals
         run: python pipeline/fetch_data.py
 
+      # HUMAN CORRECTIONS OUTRANK PULLED DATA. Applies active XTRAPP overrides to
+      # data/master.json right after the pull - before signals, regime, the tape,
+      # and every cross-repo reader (bot, research, Supabase). master.csv stays
+      # pure-pulled; the app layers the same corrections itself. Never blocks.
+      - name: Apply human corrections (XTRAPP)
+        run: python pipeline/human_corrections.py master
+        continue-on-error: true
+
       - name: Recompute signals + regime
         run: |
           python pipeline/compute_signals.py
@@ -112,6 +120,9 @@ jobs:
             echo "No quote changes to commit"
           else
             git commit -m "Quotes + intraday tape $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+            # Park anything this job did NOT stage (e.g. data/.profile_cache.json),
+            # so a retry merge is never blocked by stray working-tree edits.
+            git stash push --include-untracked -q -m leftovers 2>/dev/null || true
             # Generated whole-file JSON never auto-merges. fetch + `merge -X ours`
             # resolves to THIS run's quotes without ever leaving unmerged files
             # (a plain `pull --rebase` is what used to exit 128 here).
