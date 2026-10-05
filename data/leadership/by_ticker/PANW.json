@@ -1,6 +1,6 @@
 {
   "ticker": "PANW",
-  "fetchedAt": "2026-10-04T23:02:59.572970Z",
+  "fetchedAt": "2026-10-05T14:33:01.244428Z",
   "people": [
     {
       "qid": "Q7034852",
@@ -17,11 +17,11 @@
           "scientist"
         ],
         "education": [
+          "Boston College",
+          "Northeastern University",
           "The Air Force School",
           "Indian Institute of Technology (BHU) Varanasi",
-          "Banaras Hindu University",
-          "Boston College",
-          "Northeastern University"
+          "Banaras Hindu University"
         ],
         "employers": [
           {
@@ -55,8 +55,8 @@
         "birthPlace": "Rehovot",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "industrialist"
+          "industrialist",
+          "entrepreneur"
         ],
         "education": [
           "Tel Aviv University"

@@ -1,6 +1,6 @@
 {
   "ticker": "TRV",
-  "fetchedAt": "2026-10-04T23:02:59.588242Z",
+  "fetchedAt": "2026-10-05T14:33:01.261427Z",
   "people": [
     {
       "qid": "Q1405941",
@@ -17,8 +17,8 @@
           "insurance executive",
           "business executive",
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of Pennsylvania",
@@ -212,8 +212,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "University of Pennsylvania",

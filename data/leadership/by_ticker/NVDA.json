@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-10-04T23:02:59.570872Z",
+  "fetchedAt": "2026-10-05T14:33:01.241715Z",
   "people": [
     {
       "qid": "Q305177",
@@ -17,12 +17,12 @@
           "manager",
           "electrical engineer",
           "founder",
-          "tech VIP",
-          "chief executive officer",
-          "engineer",
           "entrepreneur",
+          "tech VIP",
+          "businessperson",
           "computer scientist",
-          "businessperson"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Oneida Baptist Institute",
@@ -264,8 +264,8 @@
         "occupations": [
           "biophysicist",
           "military flight engineer",
-          "university teacher",
-          "engineer"
+          "engineer",
+          "university teacher"
         ],
         "education": [
           "California Institute of Technology",
@@ -308,12 +308,12 @@
           "manager",
           "electrical engineer",
           "founder",
-          "tech VIP",
-          "chief executive officer",
-          "engineer",
           "entrepreneur",
+          "tech VIP",
+          "businessperson",
           "computer scientist",
-          "businessperson"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Oneida Baptist Institute",
@@ -340,12 +340,12 @@
           "manager",
           "electrical engineer",
           "founder",
-          "tech VIP",
-          "chief executive officer",
-          "engineer",
           "entrepreneur",
+          "tech VIP",
+          "businessperson",
           "computer scientist",
-          "businessperson"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Oneida Baptist Institute",

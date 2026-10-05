@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-10-04T23:02:59.595674Z",
+  "fetchedAt": "2026-10-05T14:33:01.270069Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -41,8 +41,8 @@
           "chairperson"
         ],
         "education": [
-          "Stanford University",
           "Georgetown University",
+          "Stanford University",
           "San Marino High School"
         ],
         "employers": [],
@@ -84,21 +84,15 @@
         "birthPlace": "Wausau",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
-          "computer scientist",
           "business executive",
-          "computer scientist",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Stanford University",
           "Wausau West High School"
         ],
         "employers": [
-          {
-            "company": "Lumi Labs",
-            "start": "2017-07-01",
-            "end": null
-          },
           {
             "company": "Yahoo",
             "start": "2012-07-16",
@@ -108,6 +102,11 @@
             "company": "Google",
             "start": "1999-01-01",
             "end": "2012-07-01"
+          },
+          {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
           }
         ],
         "positions": [
@@ -300,8 +299,8 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
-          "St Anne's College"
+          "St Anne's College",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []

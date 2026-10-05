@@ -1,5 +1,35 @@
 {
   "ticker": "RMD",
-  "fetchedAt": "2026-10-04T23:02:59.579596Z",
-  "people": []
+  "fetchedAt": "2026-10-05T14:33:01.251522Z",
+  "people": [
+    {
+      "qid": "Q141620330",
+      "name": "Michael Farrell",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q141620330",
+        "name": "Michael Farrell",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "University of New South Wales",
+          "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology"
+        ],
+        "employers": [
+          {
+            "company": "ResMed",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
 }
