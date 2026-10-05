@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "regime": "neutral",
   "confidence": 0.981,
   "scores": {
     "macro": -0.327,
     "liquidity": 0.138,
-    "volatility": 0.726,
+    "volatility": 0.793,
     "valuation": -0.39,
     "trend": 0.841,
     "breadth": -0.636,
-    "commodity": 0.375,
+    "commodity": 0.356,
     "crypto": 0.296
   },
   "signal_confidences": {
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.3304,
-    "risk_on_melt_up": 0.095,
-    "inflation_shock": 0.0584,
-    "recession_fear": 0.0016,
-    "risk_off": 0.0108,
-    "neutral": 0.5038
+    "expansion": 0.3279,
+    "risk_on_melt_up": 0.0937,
+    "inflation_shock": 0.0569,
+    "recession_fear": 0.0017,
+    "risk_off": 0.0111,
+    "neutral": 0.5087
   },
   "drivers": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "signal": "volatility",
-      "score": 0.726,
+      "score": 0.793,
       "confidence": 1.0,
-      "weight": 0.726,
+      "weight": 0.793,
       "direction": "bullish"
     },
     {
@@ -66,8 +66,8 @@
       "hyg_minus_lqd_1m": 0.0056
     },
     "volatility": {
-      "vix_level": 16.39,
-      "vix9d_over_vix": 0.7358
+      "vix_level": 15.31,
+      "vix9d_over_vix": 0.7877
     },
     "valuation": {
       "spy_pe": 24.87,
@@ -87,7 +87,7 @@
       "n_total": 11
     },
     "commodity": {
-      "copper_60d_return": 0.0054,
+      "copper_60d_return": -0.0034,
       "oil_60d_return": 0.1341,
       "gold_oil_ratio": 45.684,
       "gold_oil_zscore": -1.113,
@@ -100,5 +100,5 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-10-04T20:47:51+00:00"
+  "computed_at": "2026-10-05T14:15:16+00:00"
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "PGR",
-  "fetchedAt": "2026-10-04T23:02:59.574840Z",
+  "fetchedAt": "2026-10-05T14:33:01.246595Z",
   "people": [
     {
       "qid": "Q114795441",
@@ -17,9 +17,9 @@
           "businessperson"
         ],
         "education": [
-          "New York University",
           "Rockefeller College of Public Affairs & Policy",
-          "UCLA Anderson School of Management"
+          "UCLA Anderson School of Management",
+          "New York University"
         ],
         "employers": [],
         "positions": []
@@ -61,9 +61,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Michigan",
           "Ross School of Business",
-          "Fuqua School of Business",
-          "University of Michigan"
+          "Fuqua School of Business"
         ],
         "employers": [],
         "positions": []
@@ -178,8 +178,8 @@
           "banker"
         ],
         "education": [
-          "Brown University",
-          "University of Virginia"
+          "University of Virginia",
+          "Brown University"
         ],
         "employers": [
           {

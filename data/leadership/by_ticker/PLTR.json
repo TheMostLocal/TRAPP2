@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-10-04T23:02:59.576401Z",
+  "fetchedAt": "2026-10-05T14:33:01.247922Z",
   "people": [
     {
       "qid": "Q19560940",
@@ -76,8 +76,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -99,21 +99,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
           "chess player",
-          "technology entrepreneur",
+          "banker",
           "manager",
           "financier",
-          "banker",
           "investor",
-          "chess player",
-          "computer scientist",
-          "banker",
+          "technology entrepreneur",
+          "writer",
           "entrepreneur",
-          "writer"
+          "computer scientist"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -150,8 +148,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -247,21 +245,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
           "chess player",
-          "technology entrepreneur",
+          "banker",
           "manager",
           "financier",
-          "banker",
           "investor",
-          "chess player",
-          "computer scientist",
-          "banker",
+          "technology entrepreneur",
+          "writer",
           "entrepreneur",
-          "writer"
+          "computer scientist"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {

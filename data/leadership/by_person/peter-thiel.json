@@ -6,21 +6,19 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
   "occupations": [
     "chess player",
-    "technology entrepreneur",
+    "banker",
     "manager",
     "financier",
-    "banker",
     "investor",
+    "technology entrepreneur",
+    "writer",
     "entrepreneur",
-    "computer scientist",
-    "banker",
-    "entrepreneur",
-    "writer"
+    "computer scientist"
   ],
   "education": [
-    "Stanford University",
     "Stanford Law School",
-    "San Mateo High School"
+    "San Mateo High School",
+    "Stanford University"
   ],
   "employers": [
     {
@@ -44,7 +42,6 @@
     }
   ],
   "currentTickers": [
-    "META",
     "PLTR",
     "PLTR"
   ]

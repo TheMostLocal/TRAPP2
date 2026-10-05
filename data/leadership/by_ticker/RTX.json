@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-10-04T23:02:59.580212Z",
+  "fetchedAt": "2026-10-05T14:33:01.252227Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,8 +39,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -80,8 +80,8 @@
         "birthPlace": "Dubuque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Iowa"
@@ -240,17 +240,17 @@
         ],
         "employers": [
           {
-            "company": "United States Department of the Navy",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
           {
             "company": "George Washington University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }
