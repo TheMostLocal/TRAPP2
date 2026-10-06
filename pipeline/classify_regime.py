@@ -24,7 +24,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from lib import DATA, log, write_json, read_json, utc_today, utc_now_iso
+from lib import DATA, log, write_json, read_json, utc_today, utc_now_iso, load_macro_series
 from compute_signals import compute_all
 
 # Ideal score profiles per regime.
@@ -139,10 +139,35 @@ def append_history(snapshot):
     return len(history)
 
 
+# History is permanent (Markov input), so a row only goes in when its inputs
+# were complete. A run with FRED macro missing (fresh repo, failed fetch, no
+# FRED_API_KEY) produces a degraded snapshot: still published as
+# regime_current.json (flagged), never appended to history.
+REQUIRED_MACRO = ("INDPRO", "T10Y2Y", "BAMLH0A0HYM2", "VIXCLS", "DGS10", "CPIAUCSL")
+MAX_NULL_SCORES = 2
+
+
+def input_gaps(snap):
+    missing = [s for s in REQUIRED_MACRO if len(load_macro_series(s)) < 2]
+    nulls = [k for k, v in (snap.get("scores") or {}).items() if v is None]
+    return missing, nulls
+
+
 def main():
     snap = build_snapshot()
+    missing, nulls = input_gaps(snap)
+    complete = not missing and len(nulls) <= MAX_NULL_SCORES
+    snap["inputs_complete"] = complete
+    if not complete:
+        snap["inputs_missing"] = {"macro": missing, "null_scores": nulls}
     write_json(DATA / "regime_current.json", snap)
-    n = append_history(snap)
+    if complete:
+        n = append_history(snap)
+    else:
+        n = len(read_json(DATA / "regime_history.json", default=[]) or [])
+        print(f"::warning::regime: inputs incomplete (missing macro: {missing or 'none'}; "
+              f"null scores: {nulls or 'none'}) - regime_current.json written and flagged, "
+              f"history NOT appended. Run the Mid-Day Refresh (fetch_macro.py) to restore data/macro.")
 
     log("")
     log("=" * 60)
@@ -165,7 +190,7 @@ def main():
         log(f"  {d['signal']:12s} {d['score']:+.3f}  weight={d['weight']:.2f}  ({d['direction']})")
     log("")
     log(f"✓ Wrote data/regime_current.json")
-    log(f"✓ Appended to data/regime_history.json ({n} total snapshots)")
+    log(f"✓ {'Appended to' if complete else 'NOT appended to'} data/regime_history.json ({n} total snapshots)")
     return 0
 
 
