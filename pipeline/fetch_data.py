@@ -361,9 +361,14 @@ def fmt_num(v):
     if v is None or v == "" or v == "N/A":
         return ""
     try:
-        return f"{float(v):.6f}".rstrip("0").rstrip(".") if "." in str(v) else str(v)
+        f = float(v)
     except (ValueError, TypeError):
         return str(v)
+    # yfinance returns NaN/inf for halted, pre-market or missing quotes. Write a
+    # blank, never the string "nan" (the app's CSV parse turned it into NaN).
+    if f != f or f in (float("inf"), float("-inf")):
+        return ""
+    return f"{f:.6f}".rstrip("0").rstrip(".") if "." in str(v) else str(v)
 
 
 def fetch_quote(ticker, profile_cache):
