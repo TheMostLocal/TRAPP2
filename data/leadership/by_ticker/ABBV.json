@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "fetchedAt": "2026-10-05T15:12:27.801290Z",
+  "fetchedAt": "2026-10-07T05:42:08.445392Z",
   "people": [
     {
       "qid": "Q125257078",
@@ -509,8 +509,8 @@
         "image": null,
         "occupations": [
           "academic",
-          "researcher",
-          "nephrologist"
+          "nephrologist",
+          "researcher"
         ],
         "education": [
           "Yale School of Medicine"

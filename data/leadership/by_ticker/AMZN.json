@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-05T15:12:27.809318Z",
+  "fetchedAt": "2026-10-07T05:42:08.450834Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -334,14 +334,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "academic",
-          "university teacher",
-          "computer scientist",
           "executive",
           "dean",
+          "computer scientist",
           "academic",
-          "university teacher",
-          "computer scientist"
+          "university teacher"
         ],
         "education": [
           "University of Michigan",
@@ -422,9 +419,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -518,8 +515,8 @@
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],
@@ -589,9 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",

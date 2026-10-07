@@ -1,6 +1,6 @@
 {
   "ticker": "EXC",
-  "fetchedAt": "2026-10-05T15:12:27.837390Z",
+  "fetchedAt": "2026-10-07T05:42:08.472146Z",
   "people": [
     {
       "qid": "Q114959854",
@@ -165,8 +165,8 @@
           "economist"
         ],
         "education": [
-          "Cornell University",
           "Francis Lewis High School",
+          "Cornell University",
           "Yale University"
         ],
         "employers": [

@@ -1,6 +1,6 @@
 {
   "ticker": "COST",
-  "fetchedAt": "2026-10-05T15:12:27.824468Z",
+  "fetchedAt": "2026-10-07T05:42:08.462624Z",
   "people": [
     {
       "qid": "Q114361370",
@@ -123,9 +123,9 @@
           "businessperson"
         ],
         "education": [
+          "Choate Rosemary Hall",
           "Harvard Business School",
-          "Harvard College",
-          "Choate Rosemary Hall"
+          "Harvard College"
         ],
         "employers": [],
         "positions": [
@@ -191,8 +191,8 @@
         "birthPlace": "Neptune Township",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "College of the Holy Cross"
@@ -273,9 +273,9 @@
         "birthPlace": "Nebraska",
         "image": null,
         "occupations": [
-          "computer scientist",
           "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"

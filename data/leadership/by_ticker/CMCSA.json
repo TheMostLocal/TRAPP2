@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-10-05T15:12:27.821616Z",
+  "fetchedAt": "2026-10-07T05:42:08.460345Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -139,9 +139,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "London School of Economics and Political Science",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -163,8 +163,8 @@
           "business executive"
         ],
         "education": [
-          "Villanova University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Villanova University"
         ],
         "employers": [],
         "positions": []
@@ -199,8 +199,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "chief executive officer"
+          "chief executive officer",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -327,8 +327,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Pennsylvania"
         ],
         "employers": [
           {

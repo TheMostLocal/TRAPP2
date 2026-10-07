@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-10-05T15:12:27.827942Z",
+  "fetchedAt": "2026-10-07T05:42:08.465577Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "University of Colorado",
@@ -56,12 +56,12 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           },
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -100,6 +100,7 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
+          "missionary",
           "diplomat",
           "politician",
           "governor",
@@ -176,9 +177,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University",
-          "University of Michigan Law School"
+          "Wesleyan University"
         ],
         "employers": [],
         "positions": []
@@ -255,10 +256,10 @@
           "businessperson"
         ],
         "education": [
+          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
-          "Columbia University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -316,12 +317,12 @@
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Stanford University",
             "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           }
@@ -373,8 +374,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "University of Colorado",
@@ -459,8 +460,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "engineer",
-          "military flight engineer"
+          "military flight engineer",
+          "engineer"
         ],
         "education": [
           "Bronx High School of Science",

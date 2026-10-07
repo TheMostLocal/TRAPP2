@@ -1,6 +1,6 @@
 {
   "ticker": "BA",
-  "fetchedAt": "2026-10-05T15:12:27.813052Z",
+  "fetchedAt": "2026-10-07T05:42:08.454054Z",
   "people": [
     {
       "qid": "Q104862847",
@@ -177,8 +177,8 @@
         "birthPlace": "Dublin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Willie%20Walsh%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "School of Business, Trinity College Dublin",
@@ -243,8 +243,8 @@
         "occupations": [
           "politician",
           "manager",
-          "economist",
-          "politician"
+          "university teacher",
+          "economist"
         ],
         "education": [
           "University of Glasgow",

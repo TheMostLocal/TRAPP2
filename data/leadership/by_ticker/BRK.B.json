@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-10-05T15:12:27.817315Z",
+  "fetchedAt": "2026-10-07T05:42:08.456939Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -61,13 +61,13 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
+          "broker-dealer",
           "financier",
           "investor",
-          "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "entrepreneur",
-          "economist"
+          "economist",
+          "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
@@ -333,8 +333,8 @@
         "occupations": [
           "entrepreneur",
           "farmer",
-          "photographer",
-          "writer"
+          "writer",
+          "photographer"
         ],
         "education": [
           "Harvard University"
@@ -371,8 +371,8 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kharagpur",
           "Harvard Business School",
+          "Indian Institute of Technology Kharagpur",
           "Harvard University"
         ],
         "employers": [
@@ -434,8 +434,8 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Colgate University",
@@ -520,13 +520,13 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
+          "broker-dealer",
           "financier",
           "investor",
-          "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "entrepreneur",
-          "economist"
+          "economist",
+          "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
@@ -559,11 +559,11 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur",
           "venture capitalist",
-          "lawyer",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur",
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "The Waldorf School of Garden City",

@@ -1,6 +1,6 @@
 {
   "ticker": "CRM",
-  "fetchedAt": "2026-10-05T15:12:27.825139Z",
+  "fetchedAt": "2026-10-07T05:42:08.463285Z",
   "people": [
     {
       "qid": "Q1521908",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Benioff.jpg",
         "occupations": [
           "businessperson",
-          "chairperson",
-          "Internet entrepreneur",
           "philanthropist",
+          "Internet entrepreneur",
+          "chairperson",
           "chief executive officer"
         ],
         "education": [
@@ -60,9 +60,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Benioff.jpg",
         "occupations": [
           "businessperson",
-          "chairperson",
-          "Internet entrepreneur",
           "philanthropist",
+          "Internet entrepreneur",
+          "chairperson",
           "chief executive officer"
         ],
         "education": [

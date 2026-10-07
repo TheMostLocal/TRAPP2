@@ -8,13 +8,13 @@
     "technology entrepreneur",
     "designer",
     "film producer",
-    "financier",
     "founder",
+    "financier",
     "general manager",
     "executive producer",
     "entrepreneur",
-    "inventor",
-    "computer scientist"
+    "computer scientist",
+    "inventor"
   ],
   "education": [
     "Homestead High School",
@@ -23,7 +23,7 @@
   ],
   "employers": [
     {
-      "company": "Apple Inc.",
+      "company": "NeXT",
       "start": null,
       "end": null
     },
@@ -33,12 +33,12 @@
       "end": null
     },
     {
-      "company": "NeXT",
+      "company": "Pixar",
       "start": null,
       "end": null
     },
     {
-      "company": "Pixar",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     }

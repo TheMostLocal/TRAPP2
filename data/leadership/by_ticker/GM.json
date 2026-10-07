@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-10-05T15:12:27.842611Z",
+  "fetchedAt": "2026-10-07T05:42:08.476741Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -312,8 +312,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Toronto",
+          "University of California, Berkeley",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -537,16 +537,31 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "entrepreneur",
           "politician",
+          "entrepreneur",
           "business executive"
         ],
         "education": [
+          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "DreamWorks",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hasbro",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Bain & Company",
             "start": null,
@@ -563,37 +578,7 @@
             "end": null
           },
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "DreamWorks",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Hasbro",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "DreamWorks",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Quibi",
             "start": null,
             "end": null
           }
@@ -632,17 +617,17 @@
           {
             "title": "vice president",
             "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "vice president",
-            "company": null,
             "start": "1989-01-01",
             "end": null
           },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "vice president",
             "company": null,
             "start": null,
             "end": null

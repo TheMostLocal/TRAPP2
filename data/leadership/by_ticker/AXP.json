@@ -1,6 +1,6 @@
 {
   "ticker": "AXP",
-  "fetchedAt": "2026-10-05T15:12:27.812468Z",
+  "fetchedAt": "2026-10-07T05:42:08.453528Z",
   "people": [
     {
       "qid": "Q52272598",
@@ -39,8 +39,8 @@
           "businessperson"
         ],
         "education": [
-          "Dartmouth College",
           "Harvard Business School",
+          "Dartmouth College",
           "Harvard University"
         ],
         "employers": [],
@@ -130,8 +130,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlene%20Barshefsky%20official%20portrait.jpg",
         "occupations": [
           "diplomat",
-          "businessperson",
           "politician",
+          "businessperson",
           "lawyer"
         ],
         "education": [
@@ -154,8 +154,8 @@
         "birthPlace": "Fribourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Vasella%20World%20Economic%20Forum%202013.jpg",
         "occupations": [
-          "physician",
-          "businessperson"
+          "businessperson",
+          "physician"
         ],
         "education": [
           "University of Bern",
@@ -180,8 +180,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -202,9 +202,9 @@
           "businessperson"
         ],
         "education": [
-          "Stanford Law School",
           "Vassar College",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford Law School"
         ],
         "employers": [],
         "positions": []

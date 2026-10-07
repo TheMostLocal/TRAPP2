@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-10-05T15:12:27.802842Z",
+  "fetchedAt": "2026-10-07T05:42:08.446247Z",
   "people": [
     {
       "qid": "Q95569597",
@@ -332,9 +332,9 @@
           "business executive"
         ],
         "education": [
+          "University of Southern California",
           "University of Wisconsin\u2013Stevens Point",
-          "University of Minnesota",
-          "University of Southern California"
+          "University of Minnesota"
         ],
         "employers": [
           {
@@ -453,7 +453,7 @@
         ],
         "employers": [
           {
-            "company": "New York University",
+            "company": "Northwestern University",
             "start": null,
             "end": null
           },

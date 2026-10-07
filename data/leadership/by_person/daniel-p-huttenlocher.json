@@ -5,14 +5,11 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "academic",
-    "university teacher",
-    "computer scientist",
     "executive",
     "dean",
+    "computer scientist",
     "academic",
-    "university teacher",
-    "computer scientist"
+    "university teacher"
   ],
   "education": [
     "University of Michigan",
