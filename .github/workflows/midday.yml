@@ -52,30 +52,34 @@ jobs:
       - name: Compute Markov transitions
         run: python pipeline/compute_transitions.py
 
-      - name: Commit & push
+      - name: Commit & push (midday scope only)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A data/
-          echo "=== git status before commit ==="
-          git status --short
+          # SCOPED to what this job writes. A blanket `git add -A data/` plus the
+          # blanket `checkout --ours -- data/` below used to let a mid-day run
+          # overwrite sibling outputs (intraday tape, history, leadership, ...)
+          # whenever a push conflict hit.
+          OWN="data/macro/ data/signals.json data/regime_current.json data/regime_history.json"
+          for p in $OWN; do git add -A "$p" 2>/dev/null || true; done
           echo "=== files staged ==="
           git diff --staged --name-only
           if git diff --staged --quiet; then
             echo "No regime changes to commit"
           else
             git commit -m "Mid-day regime refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            for i in 1 2 3; do
-              if git push; then
-                echo "Push succeeded on attempt $i"
-                break
-              fi
-              echo "Push attempt $i failed, rebasing and retrying"
+            # Park anything this job did NOT stage, so a retry merge is never blocked
+            # by stray working-tree edits (and never commits them).
+            git stash push --include-untracked -q -m midday-leftovers 2>/dev/null || true
+            for i in 1 2 3 4 5; do
+              if git push; then echo "Pushed on attempt $i"; break; fi
+              echo "Push rejected — reconciling (ours wins for OUR files) and retrying."
               git fetch origin
-
-              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
-
-              if [ -f .git/MERGE_HEAD ] || [ -d .git/rebase-merge ]; then git checkout --ours -- data/ 2>/dev/null || true; git add -A data/ 2>/dev/null || true; git commit --no-edit 2>/dev/null || true; fi
-              sleep 4
+              git merge -X ours origin/${{ github.ref_name }} --no-edit 2>/dev/null || true
+              if [ -f .git/MERGE_HEAD ]; then
+                for p in $OWN; do git checkout --ours -- "$p" 2>/dev/null || true; git add -A "$p" 2>/dev/null || true; done
+                git commit --no-edit 2>/dev/null || true
+              fi
+              sleep $((i * 2))
             done
           fi
