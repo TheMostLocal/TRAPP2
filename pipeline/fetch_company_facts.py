@@ -115,6 +115,12 @@ def load_tickers_from_file():
     Returns deduped list of equity tickers.
     """
     if not TICKERS_FILE.exists():
+        # In Actions, a missing tickers.txt means a broken/partial checkout. The
+        # built-in list (US mega-caps) would be written into THIS repo as if it
+        # were its universe - that's how TRAPP2-1 got 106 US company files.
+        if __import__("os").environ.get("GITHUB_ACTIONS"):
+            print(f"::error::[company-facts] {TICKERS_FILE} not found - refusing the built-in fallback in CI")
+            return []
         print(f"[company-facts] WARNING: {TICKERS_FILE} not found, using built-in fallback list")
         return BUILT_IN_TICKERS
 
@@ -501,6 +507,9 @@ def _is_fresh(ticker, max_age_days=30):
 def main():
     import os as _os
     tickers = load_tickers_from_file()
+    if not tickers:
+        log("No tickers to fetch - nothing written")
+        return 1
 
     # Time budget: stop fetching ~10 min before GitHub's 60-min job limit so the
     # commit step always runs and we never lose a half-finished run. The next
@@ -551,10 +560,40 @@ def main():
         fetched_count += 1
         time.sleep(1.5)
 
+    pruned = prune_orphans(tickers)
+    if pruned:
+        for t in pruned:
+            manifest["tickers"].pop(t, None)
+        manifest["prunedOrphans"] = pruned
     manifest["generatedAt"] = datetime.utcnow().isoformat() + "Z"
     MANIFEST_FILE.write_text(json.dumps(manifest, indent=2))
-    log(f"Done: fetched {fetched_count}, {success} successful, {skipped} skipped as fresh")
+    log(f"Done: fetched {fetched_count}, {success} successful, {skipped} skipped as fresh, "
+        f"{len(pruned)} orphan file(s) pruned")
     return 0
+
+
+PRUNE_MIN_UNIVERSE = 20   # a tickers.txt smaller than this looks truncated - don't prune
+
+
+def prune_orphans(universe):
+    """Delete company files whose ticker is no longer in this repo's universe
+    (dropped tickers, or a past fallback run). Universe files - fresh, stale or
+    _noEntity markers - are never touched. Skipped when the universe looks
+    truncated, so a half-uploaded tickers.txt can't empty the folder."""
+    keep = {str(t).upper() for t in universe}
+    if len(keep) < PRUNE_MIN_UNIVERSE:
+        log(f"Prune skipped: universe has only {len(keep)} tickers (< {PRUNE_MIN_UNIVERSE})")
+        return []
+    pruned = []
+    for f in sorted(COMPANY_DIR.glob("*.json")):
+        if f.name.startswith("_"):
+            continue
+        if f.stem.upper() not in keep:
+            f.unlink()
+            pruned.append(f.stem)
+    if pruned:
+        log(f"Pruned {len(pruned)} orphan company file(s): {', '.join(pruned[:12])}{' ...' if len(pruned) > 12 else ''}")
+    return pruned
 
 
 if __name__ == "__main__":
