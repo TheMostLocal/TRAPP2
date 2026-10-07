@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-10-05T15:12:27.882981Z",
+  "fetchedAt": "2026-10-07T05:35:47.201508Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -16,9 +16,9 @@
         "occupations": [
           "business executive",
           "pharmacologist",
+          "entrepreneur",
           "executive",
-          "veterinarian",
-          "entrepreneur"
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -52,12 +52,11 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "university teacher",
           "molecular geneticist",
           "biochemist",
-          "physician",
           "researcher",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "Stanford University"
@@ -214,9 +213,9 @@
         "occupations": [
           "business executive",
           "pharmacologist",
+          "entrepreneur",
           "executive",
-          "veterinarian",
-          "entrepreneur"
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -271,8 +270,8 @@
         "birthPlace": "East Brunswick",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20Gottlieb%20official%20portrait.jpg",
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "Icahn School of Medicine at Mount Sinai",
@@ -458,8 +457,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",

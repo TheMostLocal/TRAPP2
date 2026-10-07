@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-10-05T15:12:27.876381Z",
+  "fetchedAt": "2026-10-07T05:35:47.199852Z",
   "people": [
     {
       "qid": "Q92759",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [
@@ -258,6 +258,16 @@
         ],
         "employers": [
           {
+            "company": "Claris",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
+          },
+          {
             "company": "Adobe",
             "start": null,
             "end": null
@@ -291,10 +301,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
           "academic",
-          "writer",
           "university teacher",
+          "businessperson",
           "economist",
-          "businessperson"
+          "writer"
         ],
         "education": [
           "University of California, Berkeley"
@@ -336,15 +346,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "chief financial officer",
           "businessperson",
+          "chief financial officer",
           "banker"
         ],
         "education": [
-          "University of Pennsylvania Carey Law School",
-          "The Wharton School",
           "Harvard Law School",
-          "Brookline High School"
+          "Brookline High School",
+          "University of Pennsylvania Carey Law School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -410,10 +420,10 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
-          "Oberleutnant",
           "university teacher",
-          "jurist",
+          "Oberleutnant",
           "political scientist",
+          "jurist",
           "lawyer",
           "politician"
         ],
@@ -490,6 +500,12 @@
             "end": "1993-01-03"
           },
           {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
+          },
+          {
             "title": "United States representative",
             "company": null,
             "start": "1977-01-03",
@@ -512,12 +528,6 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
-          },
-          {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
           }
         ]
       }
@@ -642,9 +652,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [
@@ -705,9 +715,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [

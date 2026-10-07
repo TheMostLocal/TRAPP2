@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-10-05T15:12:27.885622Z",
+  "fetchedAt": "2026-10-07T05:35:47.203492Z",
   "people": [
     {
       "qid": "Q19560940",
@@ -14,14 +14,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "entrepreneur",
+          "merchant",
           "businessperson"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Stanford University",
-          "Haverford College"
+          "Haverford College",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -45,14 +45,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "entrepreneur",
+          "merchant",
           "businessperson"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Stanford University",
-          "Haverford College"
+          "Haverford College",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -100,13 +100,13 @@
         "occupations": [
           "technology entrepreneur",
           "chess player",
-          "banker",
           "manager",
           "financier",
+          "banker",
           "investor",
           "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "writer"
         ],
         "education": [
           "Stanford Law School",
@@ -180,11 +180,6 @@
         ],
         "employers": [
           {
-            "company": "Clarium Capital",
-            "start": null,
-            "end": "2004-01-01"
-          },
-          {
             "company": "Addepar",
             "start": "2009-01-01",
             "end": "2013-01-01"
@@ -208,6 +203,11 @@
             "company": "Palantir Technologies",
             "start": "2004-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Clarium Capital",
+            "start": null,
+            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -246,13 +246,13 @@
         "occupations": [
           "technology entrepreneur",
           "chess player",
-          "banker",
           "manager",
           "financier",
+          "banker",
           "investor",
           "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "writer"
         ],
         "education": [
           "Stanford Law School",
@@ -294,14 +294,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "entrepreneur",
+          "merchant",
           "businessperson"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Stanford University",
-          "Haverford College"
+          "Haverford College",
+          "Stanford University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "VZ",
-  "fetchedAt": "2026-10-05T15:12:27.911776Z",
+  "fetchedAt": "2026-10-07T05:35:47.218340Z",
   "people": [
     {
       "qid": "Q1582880",
@@ -14,8 +14,8 @@
         "birthPlace": "Hudiksvall",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Vestberg.jpg",
         "occupations": [
-          "businessperson",
-          "handball player"
+          "handball player",
+          "businessperson"
         ],
         "education": [
           "Uppsala University"
@@ -43,8 +43,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shellye-Archambeau-CEO.jpg",
         "occupations": [
-          "chief executive officer",
           "business executive",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [
@@ -191,8 +191,8 @@
         "birthPlace": "Hudiksvall",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Vestberg.jpg",
         "occupations": [
-          "businessperson",
-          "handball player"
+          "handball player",
+          "businessperson"
         ],
         "education": [
           "Uppsala University"

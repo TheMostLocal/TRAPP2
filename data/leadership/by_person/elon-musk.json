@@ -5,17 +5,17 @@
   "birthPlace": "Pretoria",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
   "occupations": [
+    "technology entrepreneur",
     "philanthropist",
     "dub actor",
     "programmer",
-    "technology entrepreneur",
     "financier",
     "investor",
     "civil servant",
-    "inventor",
     "entrepreneur",
-    "politician",
-    "engineer"
+    "inventor",
+    "engineer",
+    "politician"
   ],
   "education": [
     "Smith School of Business",
@@ -25,8 +25,8 @@
     "Queen's University",
     "The Wharton School",
     "University of Pretoria",
-    "University of Pennsylvania",
-    "Stanford University"
+    "Stanford University",
+    "University of Pennsylvania"
   ],
   "employers": [
     {
@@ -35,14 +35,14 @@
       "end": null
     },
     {
-      "company": "Department of Government Efficiency",
-      "start": "2025-01-20",
-      "end": "2025-05-30"
-    },
-    {
       "company": "The Boring Company",
       "start": "2016-12-17",
       "end": null
+    },
+    {
+      "company": "Department of Government Efficiency",
+      "start": "2025-01-20",
+      "end": "2025-05-30"
     },
     {
       "company": "SolarCity",

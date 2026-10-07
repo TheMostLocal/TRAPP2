@@ -1,6 +1,6 @@
 {
   "ticker": "TEM",
-  "fetchedAt": "2026-10-05T15:12:27.901645Z",
+  "fetchedAt": "2026-10-07T05:35:47.212185Z",
   "people": [
     {
       "qid": "Q7381427",
@@ -21,9 +21,9 @@
           "writer"
         ],
         "education": [
+          "Yale University",
           "Wilbraham & Monson Academy",
-          "Albany Law School",
-          "Yale University"
+          "Albany Law School"
         ],
         "employers": [
           {

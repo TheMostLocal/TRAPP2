@@ -1,6 +1,6 @@
 {
   "ticker": "TRV",
-  "fetchedAt": "2026-10-05T15:12:27.903906Z",
+  "fetchedAt": "2026-10-07T05:35:47.213695Z",
   "people": [
     {
       "qid": "Q1405941",
@@ -17,8 +17,8 @@
           "insurance executive",
           "business executive",
           "chief executive officer",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of Pennsylvania",
@@ -130,8 +130,8 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
-          "Williams College"
+          "Williams College",
+          "Columbia University"
         ],
         "employers": [],
         "positions": []

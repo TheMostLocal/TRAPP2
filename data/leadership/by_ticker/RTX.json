@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-10-05T15:12:27.891655Z",
+  "fetchedAt": "2026-10-07T05:35:47.206765Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,8 +39,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -58,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of Miami"
@@ -80,8 +80,8 @@
         "birthPlace": "Dubuque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of Iowa"
@@ -233,10 +233,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20O.%20Work%20DoD%20photo.jpg",
         "occupations": [],
         "education": [
-          "Naval Postgraduate School",
-          "Paul H. Nitze School of Advanced International Studies",
           "University of Illinois System",
-          "University of Southern California"
+          "University of Southern California",
+          "Naval Postgraduate School",
+          "Paul H. Nitze School of Advanced International Studies"
         ],
         "employers": [
           {
@@ -348,7 +348,7 @@
         "qid": "Q5364921",
         "name": "Ellen M. Pawlikowski",
         "dateOfBirth": "1956-01-01",
-        "birthPlace": "United States",
+        "birthPlace": "East Orange",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gen%20Ellen%20Pawlikowski%202015.JPG",
         "occupations": [
           "military officer"
@@ -396,8 +396,8 @@
         "birthPlace": "Temple",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Anthony%20Harris%20Jr.jpg",
         "occupations": [
-          "astronaut",
-          "physician"
+          "physician",
+          "astronaut"
         ],
         "education": [
           "Texas Tech University Health Sciences Center",

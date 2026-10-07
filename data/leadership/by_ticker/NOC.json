@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-10-05T15:12:27.871928Z",
+  "fetchedAt": "2026-10-07T05:35:47.197770Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -84,8 +84,8 @@
         "birthPlace": "Greenwood",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Abney%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Pillow Academy",
@@ -211,9 +211,9 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Sloan Fellows Program",
-          "MIT Sloan School of Management"
+          "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -234,9 +234,9 @@
           "businessperson"
         ],
         "education": [
-          "Simmons University",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Simmons University"
         ],
         "employers": [],
         "positions": []

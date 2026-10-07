@@ -1,6 +1,6 @@
 {
   "ticker": "XOM",
-  "fetchedAt": "2026-10-05T15:12:27.915859Z",
+  "fetchedAt": "2026-10-07T05:35:47.221028Z",
   "people": [
     {
       "qid": "Q28018191",
@@ -354,7 +354,6 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Georgetown University",
           "Clark University",
           "Harvard Business School",
@@ -395,9 +394,9 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "lawyer",
           "business executive",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Pennsylvania State University",
