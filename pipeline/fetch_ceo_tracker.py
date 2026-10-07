@@ -411,10 +411,55 @@ def main():
         "index": list(merged_index_by_qid.values()),
     }
     manifest_path.write_text(json.dumps(manifest, indent=2))
+    prune_orphans()
 
     log(f"Done: this run = {len(all_people)} people across {len(by_ticker)} tickers; "
         f"manifest total = {len(merged_index_by_qid)} unique people")
     return 0
+
+
+def prune_orphans():
+    """Leadership is derived from data/company/. When a company file is gone
+    (ticker left the universe, or company-facts pruned it), drop its by_ticker
+    file, remove it from every index entry, and delete people left with no
+    current ticker. Range-independent and idempotent."""
+    live = {f.stem.upper() for f in COMPANY_DIR.glob("*.json") if not f.name.startswith("_")}
+    if not live:
+        return  # never wipe leadership because company facts are missing
+    gone_t = []
+    for f in sorted(BY_TICKER_DIR.glob("*.json")):
+        if f.stem.upper() not in live:
+            f.unlink()
+            gone_t.append(f.stem)
+    manifest_path = LEADERSHIP_DIR / "_manifest.json"
+    try:
+        man = json.loads(manifest_path.read_text())
+    except Exception:
+        man = None
+    gone_p = []
+    if man and isinstance(man.get("index"), list):
+        kept = []
+        for e in man["index"]:
+            tks = [t for t in (e.get("tickers") or []) if str(t).upper() in live]
+            if tks:
+                e["tickers"] = tks
+                kept.append(e)
+            else:
+                gone_p.append(e.get("slug"))
+        keep_slugs = {e.get("slug") for e in kept}
+        for slug in gone_p:
+            if slug and slug not in keep_slugs:
+                fp = BY_PERSON_DIR / f"{slug}.json"
+                if fp.exists():
+                    fp.unlink()
+        man["index"] = kept
+        man["totalPeople"] = len(kept)
+        man["totalTickers"] = len({t for e in kept for t in e.get("tickers", [])})
+        if gone_t or gone_p:
+            man["prunedAt"] = datetime.utcnow().isoformat() + "Z"
+        manifest_path.write_text(json.dumps(man, indent=2))
+    if gone_t or gone_p:
+        log(f"Pruned orphans: {len(gone_t)} by_ticker file(s), {len(gone_p)} person(s) with no current ticker")
 
 
 if __name__ == "__main__":
