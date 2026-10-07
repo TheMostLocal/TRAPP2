@@ -1,6 +1,6 @@
 {
   "ticker": "SHOP",
-  "fetchedAt": "2026-10-05T15:12:27.893905Z",
+  "fetchedAt": "2026-10-07T05:35:47.207626Z",
   "people": [
     {
       "qid": "Q20684647",
@@ -19,12 +19,12 @@
         "education": [],
         "employers": [
           {
-            "company": "Amazon",
+            "company": "Shopify",
             "start": null,
             "end": null
           },
           {
-            "company": "Shopify",
+            "company": "Amazon",
             "start": null,
             "end": null
           }

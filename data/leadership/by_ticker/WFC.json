@@ -1,6 +1,6 @@
 {
   "ticker": "WFC",
-  "fetchedAt": "2026-10-05T15:12:27.913259Z",
+  "fetchedAt": "2026-10-07T05:35:47.219448Z",
   "people": [
     {
       "qid": "Q18386868",
@@ -80,8 +80,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -344,8 +344,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "California State University, Fullerton"
