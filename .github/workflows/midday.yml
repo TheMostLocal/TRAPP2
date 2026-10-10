@@ -1,22 +1,38 @@
 name: Mid-Day Refresh (Macro + Regime)
 
-# Runs mid-day every weekday. Pushed 1.5 hours earlier vs the previous schedule
-# (18:00 UTC → 16:30 UTC) to compensate for GitHub Actions queue latency.
-# Target: roughly 11 AM ET (EDT) when the cron is dispatched promptly. With
-# typical queue lag the run lands closer to 12:30-1 PM ET, which is what we want.
-#
-# EDT 11:00 AM = 15:00 UTC, EST 11:00 AM = 16:00 UTC.
-# Use 15:30 UTC as compromise — slightly early in winter, slightly early in summer.
+# Runs mid-day every weekday. Target ~11 AM ET; with GitHub Actions queue lag
+# the run lands closer to midday ET.
 #
 # Skips fetch_history.py (that's nightly only). Re-runs macro + signal stack.
+#
+# ---------------------------------------------------------------------------
+# CONFLICT-PROOF PUSH (the fix for "update rejected" + "unmerged files" in
+# data/worldbank_countries.json and data/macro_trade.json):
+#
+# These data files are MACHINE-GENERATED — every run rewrites the whole file.
+# When two workflows (midday + macro-trade, or a nightly that overlaps) push
+# around the same time, a plain `git push` is rejected because the local branch
+# is behind origin. The old retry did `git pull --rebase`, but rebasing two
+# full-file rewrites of the SAME generated JSON ALWAYS conflicts (both sides
+# replaced the entire file), so the rebase halts with "unmerged files" and the
+# loop retries against a broken state forever.
+#
+# The correct pattern for generated artifacts is "latest run wins": don't merge
+# histories at all. Stash our outputs, hard-reset onto the freshest origin/main,
+# restore our outputs over whatever's there, commit, and push. Retried in a loop
+# so even if another job lands in between, the next iteration re-bases onto the
+# new tip and overwrites cleanly. No merge, no rebase, no conflict is possible.
+# ---------------------------------------------------------------------------
 
 on:
   schedule:
     - cron: '30 15 * * 1-5'
   workflow_dispatch:
 
+# Serialize every job in this repo that writes regime/macro data so two of them
+# can't race to push at the same instant. (Shared with nightly + macro-trade.)
 concurrency:
-  group: trapp2-regime
+  group: trapp2-1-data-push
   cancel-in-progress: false
 
 jobs:
@@ -28,6 +44,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # full history so fetch/reset works cleanly
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,13 +53,18 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
 
-      - name: Install requirements
-        run: pip install -r requirements.txt
+      - name: Install requirements (only what midday uses — no etf-scraper)
+        run: pip install requests pandas fredapi "yfinance>=0.2.50,<0.3"
 
       - name: Fetch FRED macro series
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          FED_API_KEY: ${{ secrets.FED_API_KEY }}
         run: python pipeline/fetch_macro.py
+
+      - name: Fetch World Bank country data (best-effort)
+        run: python pipeline/fetch_worldbank.py
+        continue-on-error: true
 
       - name: Compute signals
         run: python pipeline/compute_signals.py
@@ -52,34 +75,34 @@ jobs:
       - name: Compute Markov transitions
         run: python pipeline/compute_transitions.py
 
+      # z93: is the regime call trustworthy enough to trade on? (margin, stability,
+      # quad agreement, cross-check, 21-session track record). The bot goes
+      # regime-agnostic whenever this says it isn't.
+      - name: Regime certainty
+        run: python pipeline/regime_certainty.py
+
       - name: Commit & push (midday scope only)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # SCOPED to what this job writes. A blanket `git add -A data/` plus the
-          # blanket `checkout --ours -- data/` below used to let a mid-day run
-          # overwrite sibling outputs (intraday tape, history, leadership, ...)
-          # whenever a push conflict hit.
-          OWN="data/macro/ data/signals.json data/regime_current.json data/regime_history.json"
+          # SCOPED to this job's outputs. The old step staged ALL of data/ and, if
+          # a merge failed, copied this run's whole data/ tree over origin -
+          # reverting every other workflow's files (tape, fx, leadership, ...).
+          OWN="data/macro/ data/worldbank_countries.json data/signals.json data/regime_current.json data/regime_history.json data/regime_certainty.json"
           for p in $OWN; do git add -A "$p" 2>/dev/null || true; done
-          echo "=== files staged ==="
-          git diff --staged --name-only
-          if git diff --staged --quiet; then
-            echo "No regime changes to commit"
-          else
-            git commit -m "Mid-day regime refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            # Park anything this job did NOT stage, so a retry merge is never blocked
-            # by stray working-tree edits (and never commits them).
-            git stash push --include-untracked -q -m midday-leftovers 2>/dev/null || true
-            for i in 1 2 3 4 5; do
-              if git push; then echo "Pushed on attempt $i"; break; fi
-              echo "Push rejected — reconciling (ours wins for OUR files) and retrying."
-              git fetch origin
-              git merge -X ours origin/${{ github.ref_name }} --no-edit 2>/dev/null || true
-              if [ -f .git/MERGE_HEAD ]; then
-                for p in $OWN; do git checkout --ours -- "$p" 2>/dev/null || true; git add -A "$p" 2>/dev/null || true; done
-                git commit --no-edit 2>/dev/null || true
-              fi
-              sleep $((i * 2))
-            done
-          fi
+          if git diff --staged --quiet; then echo "No changes."; exit 0; fi
+          echo "=== files staged ==="; git diff --staged --name-only
+          git commit -m "Mid-day regime refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git stash push --include-untracked -q -m leftovers 2>/dev/null || true
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then echo "Pushed on attempt $i"; exit 0; fi
+            echo "Push rejected - merging remote (ours wins for OUR files) and retrying"
+            git fetch origin main
+            git merge -X ours origin/main --no-edit 2>/dev/null || true
+            if [ -f .git/MERGE_HEAD ]; then
+              for p in $OWN; do git checkout --ours -- "$p" 2>/dev/null || true; git add -A "$p" 2>/dev/null || true; done
+              git commit --no-edit 2>/dev/null || true
+            fi
+            sleep $((i * 3))
+          done
+          echo "ERROR: could not push after 5 attempts."; exit 1
