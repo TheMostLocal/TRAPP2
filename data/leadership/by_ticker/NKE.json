@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-10-07T05:35:47.197294Z",
+  "fetchedAt": "2026-10-11T12:22:42.836357Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -138,9 +138,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
           "film director",
-          "film producer",
           "rapper",
-          "animator"
+          "animator",
+          "film producer"
         ],
         "education": [
           "Jesuit High School",
@@ -170,13 +170,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "director"
+          "director",
+          "entrepreneur"
         ],
         "education": [
           "Westhill High School",
@@ -248,16 +248,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
+          "writer",
           "entrepreneur",
-          "businessperson",
-          "writer"
+          "businessperson"
         ],
         "education": [
-          "Oregon State University",
-          "University of Oregon",
           "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Oregon State University",
+          "University of Oregon"
         ],
         "employers": [
           {
@@ -284,9 +284,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Stanford Graduate School of Business",
           "Dartmouth College",
-          "Stanford University",
-          "Stanford Graduate School of Business"
+          "Stanford University"
         ],
         "employers": [
           {
@@ -312,8 +312,8 @@
         "occupations": [
           "presenter",
           "manager",
-          "computer scientist",
           "chief executive officer",
+          "computer scientist",
           "businessperson",
           "engineer"
         ],
@@ -359,16 +359,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
+          "writer",
           "entrepreneur",
-          "businessperson",
-          "writer"
+          "businessperson"
         ],
         "education": [
-          "Oregon State University",
-          "University of Oregon",
           "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Oregon State University",
+          "University of Oregon"
         ],
         "employers": [
           {

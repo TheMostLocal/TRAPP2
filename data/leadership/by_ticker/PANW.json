@@ -1,6 +1,6 @@
 {
   "ticker": "PANW",
-  "fetchedAt": "2026-10-07T05:35:47.200677Z",
+  "fetchedAt": "2026-10-11T12:22:42.840217Z",
   "people": [
     {
       "qid": "Q7034852",
@@ -17,11 +17,11 @@
           "scientist"
         ],
         "education": [
+          "Boston College",
+          "Northeastern University",
           "The Air Force School",
           "Indian Institute of Technology (BHU) Varanasi",
-          "Banaras Hindu University",
-          "Boston College",
-          "Northeastern University"
+          "Banaras Hindu University"
         ],
         "employers": [
           {

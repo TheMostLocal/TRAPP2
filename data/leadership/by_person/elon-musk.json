@@ -5,17 +5,16 @@
   "birthPlace": "Pretoria",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
   "occupations": [
-    "technology entrepreneur",
     "philanthropist",
     "dub actor",
+    "technology entrepreneur",
+    "entrepreneur",
     "programmer",
     "financier",
     "investor",
     "civil servant",
-    "entrepreneur",
-    "inventor",
-    "engineer",
-    "politician"
+    "politician",
+    "engineer"
   ],
   "education": [
     "Smith School of Business",
@@ -25,8 +24,8 @@
     "Queen's University",
     "The Wharton School",
     "University of Pretoria",
-    "Stanford University",
-    "University of Pennsylvania"
+    "University of Pennsylvania",
+    "Stanford University"
   ],
   "employers": [
     {
@@ -55,13 +54,13 @@
       "end": "2019-01-01"
     },
     {
-      "company": "PayPal",
-      "start": "1998-12-01",
+      "company": "Tesla",
+      "start": "2004-04-23",
       "end": null
     },
     {
-      "company": "Tesla",
-      "start": "2004-04-23",
+      "company": "PayPal",
+      "start": "1998-12-01",
       "end": null
     },
     {

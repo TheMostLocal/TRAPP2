@@ -1,6 +1,6 @@
 {
   "ticker": "XYZ",
-  "fetchedAt": "2026-10-07T05:35:47.221484Z",
+  "fetchedAt": "2026-10-11T12:22:42.863102Z",
   "people": [
     {
       "qid": "Q335552",
@@ -16,17 +16,17 @@
         "occupations": [
           "tech VIP",
           "blogger",
+          "programmer",
           "business executive",
           "billionaire",
-          "programmer",
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
+          "New York University",
           "Bishop DuBourg High School",
-          "Missouri University of Science and Technology",
-          "New York University"
+          "Missouri University of Science and Technology"
         ],
         "employers": [
           {
@@ -77,17 +77,17 @@
         "occupations": [
           "tech VIP",
           "blogger",
+          "programmer",
           "business executive",
           "billionaire",
-          "programmer",
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
+          "New York University",
           "Bishop DuBourg High School",
-          "Missouri University of Science and Technology",
-          "New York University"
+          "Missouri University of Science and Technology"
         ],
         "employers": [
           {

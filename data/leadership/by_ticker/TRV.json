@@ -1,6 +1,6 @@
 {
   "ticker": "TRV",
-  "fetchedAt": "2026-10-07T05:35:47.213695Z",
+  "fetchedAt": "2026-10-11T12:22:42.854360Z",
   "people": [
     {
       "qid": "Q1405941",
@@ -14,23 +14,17 @@
         "birthPlace": "New York City",
         "image": null,
         "occupations": [
+          "entrepreneur",
           "insurance executive",
           "business executive",
           "chief executive officer",
-          "entrepreneur",
           "businessperson"
         ],
         "education": [
           "University of Pennsylvania",
           "The Wharton School"
         ],
-        "employers": [
-          {
-            "company": "The Travelers Companies",
-            "start": null,
-            "end": null
-          }
-        ],
+        "employers": [],
         "positions": []
       }
     },
@@ -212,12 +206,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Yale University"
+          "Yale University",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -292,13 +286,7 @@
           "The Wharton School",
           "Columbia Law School"
         ],
-        "employers": [
-          {
-            "company": "The Travelers Companies",
-            "start": null,
-            "end": null
-          }
-        ],
+        "employers": [],
         "positions": []
       }
     },
