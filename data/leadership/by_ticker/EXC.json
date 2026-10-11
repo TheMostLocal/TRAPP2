@@ -1,6 +1,6 @@
 {
   "ticker": "EXC",
-  "fetchedAt": "2026-10-07T05:42:08.472146Z",
+  "fetchedAt": "2026-10-11T12:25:47.882542Z",
   "people": [
     {
       "qid": "Q114959854",
@@ -38,9 +38,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
+          "Stanford Graduate School of Business",
           "Paris Institute of Political Studies",
-          "Stanford Graduate School of Business"
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -204,12 +204,6 @@
             "company": null,
             "start": "2005-02-07",
             "end": "2009-01-20"
-          },
-          {
-            "title": "United States Secretary of Commerce",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }

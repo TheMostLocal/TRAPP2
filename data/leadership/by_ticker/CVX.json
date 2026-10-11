@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-10-07T05:42:08.465577Z",
+  "fetchedAt": "2026-10-11T12:25:47.875711Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -47,12 +47,12 @@
           "writer"
         ],
         "education": [
+          "Harvard University",
+          "John F. Kennedy School of Government",
           "Kogod School of Business",
           "St Antony's College",
           "American University",
-          "John F. Kennedy School of Government",
-          "University of Oxford",
-          "Harvard University"
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -101,9 +101,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
           "missionary",
-          "diplomat",
           "politician",
           "governor",
+          "diplomat",
           "ambassador"
         ],
         "education": [
@@ -177,9 +177,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University"
+          "Wesleyan University",
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": []
@@ -256,9 +256,9 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
+          "Columbia University",
           "Harvard Business School"
         ],
         "employers": [
@@ -307,8 +307,8 @@
           "academic administrator"
         ],
         "education": [
-          "University of Southern California",
-          "Princeton University"
+          "Princeton University",
+          "University of Southern California"
         ],
         "employers": [
           {
@@ -317,12 +317,12 @@
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -460,8 +460,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "military flight engineer",
-          "engineer"
+          "engineer",
+          "military flight engineer"
         ],
         "education": [
           "Bronx High School of Science",

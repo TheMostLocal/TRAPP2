@@ -1,6 +1,6 @@
 {
   "ticker": "COST",
-  "fetchedAt": "2026-10-07T05:42:08.462624Z",
+  "fetchedAt": "2026-10-11T12:25:47.872582Z",
   "people": [
     {
       "qid": "Q114361370",
@@ -119,8 +119,8 @@
         "birthPlace": "Wyandotte",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Choate Rosemary Hall",
@@ -434,9 +434,9 @@
           "investor"
         ],
         "education": [
-          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
+          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [

@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-10-07T05:42:08.446247Z",
+  "fetchedAt": "2026-10-11T12:25:47.855653Z",
   "people": [
     {
       "qid": "Q95569597",
@@ -385,13 +385,13 @@
           "military officer"
         ],
         "education": [
-          "National Defense University",
-          "Virginia Military Institute",
-          "Hampton High School",
-          "Embry\u2013Riddle Aeronautical University",
           "Syracuse University",
           "George Washington University",
-          "Air University"
+          "Air University",
+          "Hampton High School",
+          "Embry\u2013Riddle Aeronautical University",
+          "National Defense University",
+          "Virginia Military Institute"
         ],
         "employers": [],
         "positions": [
@@ -453,12 +453,12 @@
         ],
         "employers": [
           {
-            "company": "Northwestern University",
+            "company": "University of Chicago",
             "start": null,
             "end": null
           },
           {
-            "company": "University of Chicago",
+            "company": "Northwestern University",
             "start": null,
             "end": null
           },

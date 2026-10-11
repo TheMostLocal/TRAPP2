@@ -1,6 +1,6 @@
 {
   "ticker": "DASH",
-  "fetchedAt": "2026-10-07T05:42:08.466329Z",
+  "fetchedAt": "2026-10-11T12:25:47.876526Z",
   "people": [
     {
       "qid": "Q105038817",
@@ -14,12 +14,12 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Lynbrook High School",
-          "Harvard University"
+          "Harvard University",
+          "Lynbrook High School"
         ],
         "employers": [
           {

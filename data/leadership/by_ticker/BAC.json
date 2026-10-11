@@ -1,6 +1,6 @@
 {
   "ticker": "BAC",
-  "fetchedAt": "2026-10-07T05:42:08.454770Z",
+  "fetchedAt": "2026-10-11T12:25:47.864472Z",
   "people": [
     {
       "qid": "Q912811",
@@ -109,8 +109,8 @@
           "astronomer"
         ],
         "education": [
-          "Brown University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Brown University"
         ],
         "employers": [
           {
@@ -139,8 +139,8 @@
         "birthPlace": "Los Angeles",
         "image": null,
         "occupations": [
-          "newspaper editor",
-          "editor"
+          "editor",
+          "newspaper editor"
         ],
         "education": [
           "City College of San Francisco",
@@ -220,8 +220,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynote%20%2826689303657%29.jpg",
         "occupations": [
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "St. Augustine High School",
@@ -466,8 +466,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Pennsylvania",
           "University of Chicago",
+          "University of Pennsylvania",
           "Booth School of Business"
         ],
         "employers": [

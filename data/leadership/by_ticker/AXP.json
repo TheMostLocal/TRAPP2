@@ -1,6 +1,6 @@
 {
   "ticker": "AXP",
-  "fetchedAt": "2026-10-07T05:42:08.453528Z",
+  "fetchedAt": "2026-10-11T12:25:47.863142Z",
   "people": [
     {
       "qid": "Q52272598",
@@ -39,9 +39,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Dartmouth College",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -59,8 +59,8 @@
         "birthPlace": "Little Rock",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Phillips%20makes%20the%20introductions.jpg",
         "occupations": [
-          "military officer",
-          "businessperson"
+          "businessperson",
+          "military officer"
         ],
         "education": [
           "New York Law School",
@@ -86,8 +86,8 @@
           "elector",
           "blogger",
           "public figure",
-          "politician",
           "governor",
+          "politician",
           "economist"
         ],
         "education": [
@@ -129,10 +129,10 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlene%20Barshefsky%20official%20portrait.jpg",
         "occupations": [
-          "diplomat",
           "politician",
-          "businessperson",
-          "lawyer"
+          "diplomat",
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Von Steuben Metropolitan Science Center",
@@ -154,8 +154,8 @@
         "birthPlace": "Fribourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Vasella%20World%20Economic%20Forum%202013.jpg",
         "occupations": [
-          "businessperson",
-          "physician"
+          "physician",
+          "businessperson"
         ],
         "education": [
           "University of Bern",
@@ -180,8 +180,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -202,9 +202,9 @@
           "businessperson"
         ],
         "education": [
+          "Stanford Law School",
           "Vassar College",
-          "The Wharton School",
-          "Stanford Law School"
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -371,8 +371,8 @@
           "film producer",
           "financier",
           "television producer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of California, Berkeley"
@@ -428,13 +428,13 @@
         "birthPlace": "Brooklyn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ted%20Leonsis%20headshot%202013.jpg",
         "occupations": [
-          "journalist",
-          "inventor"
+          "inventor",
+          "journalist"
         ],
         "education": [
+          "Lowell High School",
           "Brooklyn Technical High School",
-          "Georgetown University",
-          "Lowell High School"
+          "Georgetown University"
         ],
         "employers": [],
         "positions": []

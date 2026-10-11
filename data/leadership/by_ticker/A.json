@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-10-07T05:42:08.443600Z",
+  "fetchedAt": "2026-10-11T12:25:47.852924Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -127,6 +127,11 @@
         "education": [],
         "employers": [
           {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -140,11 +145,6 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
-          },
-          {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -284,8 +284,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "computer scientist",
-          "business executive"
+          "business executive",
+          "computer scientist"
         ],
         "education": [],
         "employers": [
@@ -333,8 +333,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
@@ -373,12 +373,12 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "biologist",
-          "business executive"
+          "business executive",
+          "biologist"
         ],
         "education": [
-          "Cornell University",
-          "University of Massachusetts"
+          "University of Massachusetts",
+          "Cornell University"
         ],
         "employers": [],
         "positions": [
@@ -421,9 +421,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "physician",
           "gastroenterologist",
-          "university teacher",
-          "physician"
+          "university teacher"
         ],
         "education": [
           "Harvard College",
@@ -473,8 +473,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "scientist",
           "oncologist",
+          "scientist",
           "physician"
         ],
         "education": [
@@ -525,8 +525,8 @@
           "chairperson"
         ],
         "education": [
-          "Imperial College London",
           "University of London",
+          "Imperial College London",
           "Harvard Business School",
           "Harvard University"
         ],

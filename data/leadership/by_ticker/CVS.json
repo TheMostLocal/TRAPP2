@@ -1,6 +1,6 @@
 {
   "ticker": "CVS",
-  "fetchedAt": "2026-10-07T05:42:08.464980Z",
+  "fetchedAt": "2026-10-11T12:25:47.875097Z",
   "people": [
     {
       "qid": "Q106086392",
@@ -453,8 +453,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Columbia University",
-          "College of the Holy Cross"
+          "College of the Holy Cross",
+          "Columbia University"
         ],
         "employers": [],
         "positions": []

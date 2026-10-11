@@ -6,15 +6,15 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
   "occupations": [
     "technology entrepreneur",
-    "designer",
-    "film producer",
-    "founder",
-    "financier",
     "general manager",
     "executive producer",
+    "designer",
+    "film producer",
+    "financier",
+    "founder",
+    "inventor",
     "entrepreneur",
-    "computer scientist",
-    "inventor"
+    "computer scientist"
   ],
   "education": [
     "Homestead High School",
@@ -23,12 +23,12 @@
   ],
   "employers": [
     {
-      "company": "NeXT",
+      "company": "Atari, Inc.",
       "start": null,
       "end": null
     },
     {
-      "company": "Atari, Inc.",
+      "company": "NeXT",
       "start": null,
       "end": null
     },

@@ -8,9 +8,9 @@
     "investor"
   ],
   "education": [
-    "Omaha Central High School",
     "California Institute of Technology",
     "Harvard Law School",
+    "Omaha Central High School",
     "University of Michigan College of Literature, Science, and the Arts"
   ],
   "employers": [
@@ -35,7 +35,6 @@
     }
   ],
   "currentTickers": [
-    "BRK.B",
     "COST"
   ]
 }

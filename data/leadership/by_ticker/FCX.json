@@ -1,6 +1,6 @@
 {
   "ticker": "FCX",
-  "fetchedAt": "2026-10-07T05:42:08.474412Z",
+  "fetchedAt": "2026-10-11T12:25:47.884656Z",
   "people": [
     {
       "qid": "Q16501102",
@@ -14,9 +14,9 @@
         "birthPlace": "Tennessee",
         "image": null,
         "occupations": [
-          "accountant",
+          "head commissioner",
           "entrepreneur",
-          "head commissioner"
+          "accountant"
         ],
         "education": [
           "Mississippi State University",
@@ -56,8 +56,8 @@
         "birthPlace": "Greenwood",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Abney%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Pillow Academy",
@@ -90,9 +90,9 @@
         "birthPlace": "Tennessee",
         "image": null,
         "occupations": [
-          "accountant",
+          "head commissioner",
           "entrepreneur",
-          "head commissioner"
+          "accountant"
         ],
         "education": [
           "Mississippi State University",

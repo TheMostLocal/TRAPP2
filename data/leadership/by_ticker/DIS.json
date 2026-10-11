@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-10-07T05:42:08.467428Z",
+  "fetchedAt": "2026-10-11T12:25:47.877704Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -58,8 +58,8 @@
         "birthPlace": "Medford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20D%27Amaro%20Warrior%20Games%202022%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "Georgetown University"
@@ -137,21 +137,21 @@
           "film actor",
           "designer",
           "caricaturist",
-          "director",
-          "film producer",
           "producer",
-          "film director",
-          "draftsperson",
           "voice actor",
+          "director",
+          "draftsperson",
           "manufacturer",
-          "illustrator",
+          "film producer",
           "television presenter",
           "comics artist",
-          "painter",
+          "film director",
+          "illustrator",
           "animator",
-          "actor",
+          "painter",
           "inventor",
-          "writer"
+          "writer",
+          "actor"
         ],
         "education": [
           "McKinley High School",
@@ -174,8 +174,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
         "occupations": [
-          "animator",
-          "businessperson"
+          "businessperson",
+          "animator"
         ],
         "education": [],
         "employers": [],
@@ -261,8 +261,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -316,10 +316,10 @@
         "birthPlace": "Oceanside",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
         "occupations": [
-          "television producer",
+          "businessperson",
           "film producer",
           "business executive",
-          "businessperson",
+          "television producer",
           "entrepreneur"
         ],
         "education": [
@@ -330,6 +330,11 @@
         ],
         "employers": [
           {
+            "company": "The Walt Disney Company",
+            "start": "1996-01-01",
+            "end": "2021-12-31"
+          },
+          {
             "company": "American Broadcasting Company",
             "start": "1974-01-01",
             "end": "1999-02-25"
@@ -338,20 +343,9 @@
             "company": "The Walt Disney Company",
             "start": "2022-11-20",
             "end": "2026-12-31"
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": "1996-01-01",
-            "end": "2021-12-31"
           }
         ],
         "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2012-01-01",
-            "end": "2021-01-01"
-          },
           {
             "title": "chief operating officer",
             "company": null,
@@ -369,6 +363,12 @@
             "company": null,
             "start": "1989-01-01",
             "end": "1992-01-01"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2021-01-01"
           },
           {
             "title": "chief executive officer",
@@ -422,8 +422,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "director"
+          "director",
+          "entrepreneur"
         ],
         "education": [
           "Westhill High School",
@@ -482,15 +482,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "banker",
+          "businessperson",
           "chief financial officer"
         ],
         "education": [
+          "Brookline High School",
           "University of Pennsylvania Carey Law School",
           "The Wharton School",
-          "Harvard Law School",
-          "Brookline High School"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -505,18 +505,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "Directrice",
             "company": null,
@@ -540,6 +528,18 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -625,11 +625,11 @@
           "politician"
         ],
         "education": [
+          "Harvard Law School",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
-          "Harvard Law School",
-          "University of Oxford",
           "The Branson School",
+          "University of Oxford",
           "Princeton University"
         ],
         "employers": [],
@@ -774,8 +774,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Indiana University",
@@ -829,21 +829,21 @@
           "film actor",
           "designer",
           "caricaturist",
-          "director",
-          "film producer",
           "producer",
-          "film director",
-          "draftsperson",
           "voice actor",
+          "director",
+          "draftsperson",
           "manufacturer",
-          "illustrator",
+          "film producer",
           "television presenter",
           "comics artist",
-          "painter",
+          "film director",
+          "illustrator",
           "animator",
-          "actor",
+          "painter",
           "inventor",
-          "writer"
+          "writer",
+          "actor"
         ],
         "education": [
           "McKinley High School",
