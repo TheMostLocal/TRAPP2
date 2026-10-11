@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-05T15:12:27.856908Z",
+  "fetchedAt": "2026-10-11T13:03:27.098112Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -209,12 +209,12 @@
             "end": null
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -380,8 +380,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "immunologist"
+          "immunologist",
+          "businessperson"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -493,9 +493,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
+          "university teacher",
           "oncologist",
-          "researcher",
-          "university teacher"
+          "researcher"
         ],
         "education": [
           "Duke University"

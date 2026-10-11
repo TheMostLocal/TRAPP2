@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-10-05T15:12:27.849668Z",
+  "fetchedAt": "2026-10-11T13:03:27.094488Z",
   "people": [
     {
       "qid": "Q1148995",
@@ -43,8 +43,8 @@
         "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
-          "professor",
           "entrepreneur",
+          "professor",
           "scientist",
           "engineer",
           "writer"
@@ -105,15 +105,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "chemist",
           "physicist",
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "chemist",
+          "engineer"
         ],
         "education": [
-          "University of California, Berkeley",
           "Sequoia High School",
           "San Jose State University",
+          "University of California, Berkeley",
           "California Institute of Technology"
         ],
         "employers": [
@@ -169,10 +169,10 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "entrepreneur",
-          "chemist",
           "engineer",
-          "businessperson"
+          "businessperson",
+          "entrepreneur",
+          "chemist"
         ],
         "education": [
           "Lynbrook High School",
@@ -205,13 +205,13 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
-          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University"
+          "Santa Clara University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -346,22 +346,17 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
           "university teacher",
           "electrotechnician",
-          "academic",
           "electrical engineer",
-          "computer scientist"
+          "academic"
         ],
         "education": [
           "University of California, Berkeley",
           "University of California, Berkeley College of Engineering"
         ],
         "employers": [
-          {
-            "company": "California Institute of Technology",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Stanford University",
             "start": null,
@@ -370,6 +365,11 @@
           {
             "company": "Princeton University",
             "start": "2020-01-01",
+            "end": null
+          },
+          {
+            "company": "California Institute of Technology",
+            "start": null,
             "end": null
           }
         ],
@@ -420,9 +420,9 @@
         ],
         "education": [
           "Stony Brook University",
-          "Harvard Medical School",
           "The Bush School",
           "The Wharton School",
+          "Harvard Medical School",
           "University of Pennsylvania",
           "Harvard University"
         ],
@@ -477,13 +477,13 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
-          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University"
+          "Santa Clara University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -535,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -600,8 +600,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "chief financial officer",
-          "board member"
+          "board member",
+          "chief financial officer"
         ],
         "education": [],
         "employers": [],
@@ -647,8 +647,8 @@
         "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
-          "professor",
           "entrepreneur",
+          "professor",
           "scientist",
           "engineer",
           "writer"
@@ -709,15 +709,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "chemist",
           "physicist",
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "chemist",
+          "engineer"
         ],
         "education": [
-          "University of California, Berkeley",
           "Sequoia High School",
           "San Jose State University",
+          "University of California, Berkeley",
           "California Institute of Technology"
         ],
         "employers": [

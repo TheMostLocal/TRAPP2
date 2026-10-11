@@ -5,17 +5,17 @@
   "birthPlace": "Washington, D.C.",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
   "occupations": [
+    "financier",
     "climate activist",
     "university teacher",
-    "orator",
-    "financier",
     "farmer",
     "journalist",
+    "orator",
     "blogger",
     "environmentalist",
     "businessperson",
-    "politician",
-    "writer"
+    "writer",
+    "politician"
   ],
   "education": [
     "Harvard College",
@@ -57,6 +57,24 @@
       "end": "2001-01-20"
     },
     {
+      "title": "board member",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "United States senator",
+      "company": null,
+      "start": "1985-01-03",
+      "end": "1987-01-03"
+    },
+    {
+      "title": "United States representative",
+      "company": null,
+      "start": "1979-01-03",
+      "end": "1981-01-03"
+    },
+    {
       "title": "United States senator",
       "company": null,
       "start": "1991-01-03",
@@ -73,24 +91,6 @@
       "company": null,
       "start": "1981-01-03",
       "end": "1983-01-03"
-    },
-    {
-      "title": "United States senator",
-      "company": null,
-      "start": "1985-01-03",
-      "end": "1987-01-03"
-    },
-    {
-      "title": "United States representative",
-      "company": null,
-      "start": "1979-01-03",
-      "end": "1981-01-03"
-    },
-    {
-      "title": "board member",
-      "company": null,
-      "start": null,
-      "end": null
     }
   ],
   "currentTickers": [

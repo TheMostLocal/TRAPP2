@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-10-05T15:12:27.851686Z",
+  "fetchedAt": "2026-10-11T13:03:27.095666Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -145,8 +145,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -187,10 +187,10 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
+          "chemist",
           "molecular biologist",
           "crystallographer",
           "biochemist",
-          "chemist",
           "university teacher"
         ],
         "education": [
@@ -200,17 +200,17 @@
         ],
         "employers": [
           {
-            "company": "University of California, San Francisco",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "University of California, Berkeley",
             "start": "2002-01-01",
             "end": null
           },
           {
             "company": "Howard Hughes Medical Institute",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of California, San Francisco",
             "start": null,
             "end": null
           },
@@ -282,9 +282,9 @@
           "physician"
         ],
         "education": [
+          "George Washington University Medical School",
           "George Washington University",
-          "United States Military Academy",
-          "George Washington University Medical School"
+          "United States Military Academy"
         ],
         "employers": [],
         "positions": [
@@ -522,10 +522,10 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
+          "chief executive officer",
           "lecturer",
           "executive",
           "business manager",
-          "chief executive officer",
           "merchant",
           "entrepreneur"
         ],
@@ -713,11 +713,11 @@
           "physician"
         ],
         "education": [
-          "Harvard\u2013MIT Division of Health Sciences and Technology",
-          "Austin High School",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
           "Massachusetts Institute of Technology",
+          "Harvard\u2013MIT Division of Health Sciences and Technology",
+          "Austin High School",
           "Harvard University"
         ],
         "employers": [],
@@ -752,10 +752,10 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
-          "University of Southern California",
           "USC Gould School of Law",
-          "Georgetown University Law Center"
+          "Georgetown University Law Center",
+          "Columbia University",
+          "University of Southern California"
         ],
         "employers": [],
         "positions": [

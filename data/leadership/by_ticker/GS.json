@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-10-07T05:42:08.478196Z",
+  "fetchedAt": "2026-10-11T13:03:27.091255Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -58,8 +58,8 @@
         "education": [
           "Harvard Business School",
           "Harvard Law School",
-          "University of Oxford",
-          "King's College, Lagos"
+          "King's College, Lagos",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
+          "director",
           "computer scientist",
-          "businessperson",
-          "director"
+          "businessperson"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -122,11 +122,11 @@
           "business executive"
         ],
         "education": [
+          "Northwestern University",
+          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management",
-          "Northwestern University",
-          "Tufts University"
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -181,8 +181,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Yale Law School"
+          "Yale Law School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -323,8 +323,8 @@
         "education": [
           "Union College",
           "Bronx High School of Science",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -348,8 +348,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
@@ -401,20 +401,20 @@
           "university teacher"
         ],
         "education": [
-          "University of Pennsylvania",
           "Concord Academy",
+          "University of Pennsylvania",
           "Bryn Mawr College",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Radcliffe College",
-            "start": "2001-01-01",
+            "company": "University of Pennsylvania",
+            "start": "1975-01-01",
             "end": null
           },
           {
-            "company": "University of Pennsylvania",
-            "start": "1975-01-01",
+            "company": "Radcliffe College",
+            "start": "2001-01-01",
             "end": null
           },
           {

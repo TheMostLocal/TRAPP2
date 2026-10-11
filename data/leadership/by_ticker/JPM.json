@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-10-05T15:12:27.852534Z",
+  "fetchedAt": "2026-10-11T13:03:27.096227Z",
   "people": [
     {
       "qid": "Q922169",
@@ -17,10 +17,10 @@
           "banker"
         ],
         "education": [
+          "Browning School",
           "Harvard Business School",
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": "2022-01-01"
-          },
-          {
             "company": "General Motors",
             "start": "1994-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": "2022-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -414,6 +414,11 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -421,11 +426,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -457,8 +457,8 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Colgate University",
@@ -503,10 +503,10 @@
           "banker"
         ],
         "education": [
+          "Browning School",
           "Harvard Business School",
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -557,9 +557,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "businessperson",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",

@@ -1,6 +1,6 @@
 {
   "ticker": "BAC",
-  "fetchedAt": "2026-10-07T05:42:08.454770Z",
+  "fetchedAt": "2026-10-11T13:03:27.073606Z",
   "people": [
     {
       "qid": "Q912811",
@@ -109,8 +109,8 @@
           "astronomer"
         ],
         "education": [
-          "Brown University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Brown University"
         ],
         "employers": [
           {
@@ -467,8 +467,8 @@
         "occupations": [],
         "education": [
           "University of Pennsylvania",
-          "University of Chicago",
-          "Booth School of Business"
+          "Booth School of Business",
+          "University of Chicago"
         ],
         "employers": [
           {

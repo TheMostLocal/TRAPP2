@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-10-07T05:35:47.197770Z",
+  "fetchedAt": "2026-10-11T13:03:27.105889Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -235,8 +235,8 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Simmons University"
+          "Simmons University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -294,7 +294,7 @@
             "title": "Chief of Staff of the United States Air Force",
             "company": null,
             "start": null,
-            "end": null
+            "end": "2016-06-24"
           }
         ]
       }
@@ -366,8 +366,8 @@
           "businessperson"
         ],
         "education": [
-          "Yale Law School",
-          "Cornell University"
+          "Cornell University",
+          "Yale Law School"
         ],
         "employers": [],
         "positions": []

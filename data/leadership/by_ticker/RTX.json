@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-10-07T05:35:47.206765Z",
+  "fetchedAt": "2026-10-11T13:03:27.113373Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,8 +39,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -58,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Miami"
@@ -233,12 +233,17 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20O.%20Work%20DoD%20photo.jpg",
         "occupations": [],
         "education": [
-          "University of Illinois System",
-          "University of Southern California",
           "Naval Postgraduate School",
-          "Paul H. Nitze School of Advanced International Studies"
+          "Paul H. Nitze School of Advanced International Studies",
+          "University of Illinois System",
+          "University of Southern California"
         ],
         "employers": [
+          {
+            "company": "United States Department of the Navy",
+            "start": null,
+            "end": null
+          },
           {
             "company": "United States Department of Defense",
             "start": null,
@@ -246,11 +251,6 @@
           },
           {
             "company": "George Washington University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }
@@ -286,9 +286,9 @@
           "civil servant"
         ],
         "education": [
-          "Georgetown University",
           "Saddleback High School",
           "Lexington High School",
+          "Georgetown University",
           "University of Oxford"
         ],
         "employers": [
@@ -320,9 +320,9 @@
         "birthPlace": "Coronado",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
+          "naval air force",
           "admiral",
-          "military officer",
-          "naval air force"
+          "military officer"
         ],
         "education": [
           "Fort Hunt High School",

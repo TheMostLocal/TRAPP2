@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-10-07T05:42:08.476741Z",
+  "fetchedAt": "2026-10-11T13:03:27.090151Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -66,8 +66,8 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Stanford University"
+          "Stanford University",
+          "Brown University"
         ],
         "employers": [],
         "positions": [
@@ -313,8 +313,8 @@
         ],
         "education": [
           "University of Toronto",
-          "University of California, Berkeley",
           "Harvard Business School",
+          "University of California, Berkeley",
           "Harvard University"
         ],
         "employers": [
@@ -491,8 +491,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
           "business executive",
-          "lawyer",
-          "chief executive officer"
+          "chief executive officer",
+          "lawyer"
         ],
         "education": [
           "Union College",
@@ -537,14 +537,14 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "politician",
+          "business executive",
           "entrepreneur",
-          "business executive"
+          "politician"
         ],
         "education": [
-          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -573,12 +573,12 @@
             "end": null
           },
           {
-            "company": "Quibi",
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           },
           {
-            "company": "The Walt Disney Company",
+            "company": "Quibi",
             "start": null,
             "end": null
           }

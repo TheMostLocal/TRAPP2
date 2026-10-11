@@ -1,6 +1,6 @@
 {
   "ticker": "WFC",
-  "fetchedAt": "2026-10-07T05:35:47.219448Z",
+  "fetchedAt": "2026-10-11T13:03:27.124676Z",
   "people": [
     {
       "qid": "Q18386868",
@@ -80,8 +80,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []

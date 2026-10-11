@@ -1,6 +1,6 @@
 {
   "ticker": "HCA",
-  "fetchedAt": "2026-10-05T15:12:27.845251Z",
+  "fetchedAt": "2026-10-11T13:03:27.091821Z",
   "people": [
     {
       "qid": "Q80049510",
@@ -119,8 +119,8 @@
         "birthPlace": "San Diego",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Crofton%20%283694392840%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "president"
+          "president",
+          "businessperson"
         ],
         "education": [
           "Rollins College",
@@ -142,8 +142,8 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nancy-Ann%20DeParle%20official%20portrait.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "University of Tennessee",

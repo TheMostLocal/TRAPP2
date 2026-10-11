@@ -1,6 +1,6 @@
 {
   "ticker": "TEM",
-  "fetchedAt": "2026-10-07T05:35:47.212185Z",
+  "fetchedAt": "2026-10-11T13:03:27.118259Z",
   "people": [
     {
       "qid": "Q7381427",
@@ -16,8 +16,8 @@
         "occupations": [
           "academic administrator",
           "orator",
-          "Christian minister",
           "lawyer",
+          "Christian minister",
           "writer"
         ],
         "education": [

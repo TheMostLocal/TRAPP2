@@ -1,6 +1,6 @@
 {
   "ticker": "MCK",
-  "fetchedAt": "2026-10-05T15:12:27.862267Z",
+  "fetchedAt": "2026-10-11T13:03:27.100678Z",
   "people": [
     {
       "qid": "Q107769686",
@@ -313,10 +313,10 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20carmona.jpg",
         "occupations": [
-          "surgeon",
+          "politician",
           "nurse",
-          "paramedic",
-          "politician"
+          "surgeon",
+          "paramedic"
         ],
         "education": [
           "DeWitt Clinton High School",

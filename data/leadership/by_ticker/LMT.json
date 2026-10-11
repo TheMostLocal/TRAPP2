@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-10-05T15:12:27.857846Z",
+  "fetchedAt": "2026-10-11T13:03:27.098557Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -152,8 +152,8 @@
           "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "MIT Sloan School of Management"
+          "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -217,8 +217,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "Wisconsin School of Business",
@@ -290,9 +290,9 @@
           "politician"
         ],
         "education": [
-          "Columbia Law School",
           "Roy C. Ketcham High School",
-          "Morehouse College"
+          "Morehouse College",
+          "Columbia Law School"
         ],
         "employers": [
           {
@@ -338,12 +338,6 @@
         ],
         "positions": [
           {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "2009-02-10",
-            "end": "2012-12-31"
-          },
-          {
             "title": "General Counsel of the Air Force",
             "company": null,
             "start": "1998-10-15",
@@ -354,6 +348,12 @@
             "company": null,
             "start": "2013-12-23",
             "end": "2017-01-20"
+          },
+          {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "2009-02-10",
+            "end": "2012-12-31"
           }
         ]
       }
@@ -390,12 +390,12 @@
         "qid": "Q1159888",
         "name": "Daniel Akerson",
         "dateOfBirth": "1948-10-21",
-        "birthPlace": "California",
+        "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
+          "military officer",
           "manager",
-          "businessperson",
-          "military officer"
+          "businessperson"
         ],
         "education": [
           "Mankato West High School",
@@ -404,17 +404,17 @@
         ],
         "employers": [
           {
+            "company": "Carlyle Group",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "General Motors",
             "start": null,
             "end": null
           },
           {
             "company": "American Express",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Carlyle Group",
             "start": null,
             "end": null
           }

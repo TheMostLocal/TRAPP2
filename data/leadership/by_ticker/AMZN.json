@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-07T05:42:08.450834Z",
+  "fetchedAt": "2026-10-11T13:03:27.070445Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
           "Scarsdale High School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
           "Scarsdale High School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -336,9 +336,9 @@
         "occupations": [
           "executive",
           "dean",
-          "computer scientist",
           "academic",
-          "university teacher"
+          "university teacher",
+          "computer scientist"
         ],
         "education": [
           "University of Michigan",
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Horace Mann School",
@@ -495,11 +495,6 @@
             "end": "2018-01-01"
           },
           {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
@@ -510,13 +505,18 @@
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
+            "company": "Johnson & Johnson",
+            "start": null,
             "end": null
           },
           {
             "company": "Booz Allen Hamilton",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           }
         ],

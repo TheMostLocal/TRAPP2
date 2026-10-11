@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "fetchedAt": "2026-10-07T05:42:08.477630Z",
+  "fetchedAt": "2026-10-11T13:03:27.090814Z",
   "people": [
     {
       "qid": "Q3503829",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sundar%20Pichai%20-%202023%20%28cropped%29.jpg",
         "occupations": [
           "executive",
-          "chief executive officer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Vanavani Matriculation Higher Secondary School",
@@ -64,15 +64,15 @@
         "birthPlace": "East Lansing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Page%20in%20the%20European%20Parliament%2C%2017.06.2009.jpg",
         "occupations": [
+          "engineer",
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "computer scientist"
         ],
         "education": [
+          "Stanford University",
           "Interlochen Center for the Arts",
           "East Lansing High School",
-          "University of Michigan",
-          "Stanford University"
+          "University of Michigan"
         ],
         "employers": [
           {

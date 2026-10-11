@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-10-07T05:42:08.446247Z",
+  "fetchedAt": "2026-10-11T13:03:27.066883Z",
   "people": [
     {
       "qid": "Q95569597",
@@ -332,9 +332,9 @@
           "business executive"
         ],
         "education": [
-          "University of Southern California",
           "University of Wisconsin\u2013Stevens Point",
-          "University of Minnesota"
+          "University of Minnesota",
+          "University of Southern California"
         ],
         "employers": [
           {
@@ -387,11 +387,11 @@
         "education": [
           "National Defense University",
           "Virginia Military Institute",
-          "Hampton High School",
-          "Embry\u2013Riddle Aeronautical University",
           "Syracuse University",
           "George Washington University",
-          "Air University"
+          "Air University",
+          "Hampton High School",
+          "Embry\u2013Riddle Aeronautical University"
         ],
         "employers": [],
         "positions": [
@@ -453,7 +453,7 @@
         ],
         "employers": [
           {
-            "company": "Northwestern University",
+            "company": "New York University",
             "start": null,
             "end": null
           },
@@ -463,7 +463,7 @@
             "end": null
           },
           {
-            "company": "New York University",
+            "company": "Northwestern University",
             "start": null,
             "end": null
           }

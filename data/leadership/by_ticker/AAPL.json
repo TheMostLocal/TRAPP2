@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-07T05:42:08.444810Z",
+  "fetchedAt": "2026-10-11T13:03:27.065755Z",
   "people": [
     {
       "qid": "Q709063",
@@ -14,13 +14,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
+          "businessperson",
           "biochemist",
-          "businessperson"
+          "molecular biologist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -51,17 +51,17 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
+          "financier",
           "climate activist",
           "university teacher",
-          "orator",
-          "financier",
           "farmer",
           "journalist",
+          "orator",
           "blogger",
           "environmentalist",
           "businessperson",
-          "politician",
-          "writer"
+          "writer",
+          "politician"
         ],
         "education": [
           "Harvard College",
@@ -103,6 +103,24 @@
             "end": "2001-01-20"
           },
           {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1985-01-03",
+            "end": "1987-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1979-01-03",
+            "end": "1981-01-03"
+          },
+          {
             "title": "United States senator",
             "company": null,
             "start": "1991-01-03",
@@ -119,24 +137,6 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1985-01-03",
-            "end": "1987-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1979-01-03",
-            "end": "1981-01-03"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -231,13 +231,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
+          "businessperson",
           "biochemist",
-          "businessperson"
+          "molecular biologist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -268,8 +268,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -303,14 +303,14 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
+          "inventor",
           "entrepreneur",
           "computer scientist",
-          "programmer",
           "engineer",
+          "programmer",
           "electronics technician",
-          "inventor",
-          "businessperson",
           "teacher",
+          "businessperson",
           "actor"
         ],
         "education": [
@@ -327,17 +327,17 @@
             "end": null
           },
           {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -358,15 +358,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
           "technology entrepreneur",
-          "designer",
-          "film producer",
-          "founder",
-          "financier",
           "general manager",
           "executive producer",
+          "designer",
+          "financier",
+          "film producer",
+          "founder",
           "entrepreneur",
-          "computer scientist",
-          "inventor"
+          "inventor",
+          "computer scientist"
         ],
         "education": [
           "Homestead High School",

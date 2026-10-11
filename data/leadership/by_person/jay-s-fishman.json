@@ -5,23 +5,17 @@
   "birthPlace": "New York City",
   "image": null,
   "occupations": [
-    "insurance executive",
-    "business executive",
     "chief executive officer",
     "entrepreneur",
+    "insurance executive",
+    "business executive",
     "businessperson"
   ],
   "education": [
-    "University of Pennsylvania",
-    "The Wharton School"
+    "The Wharton School",
+    "University of Pennsylvania"
   ],
-  "employers": [
-    {
-      "company": "The Travelers Companies",
-      "start": null,
-      "end": null
-    }
-  ],
+  "employers": [],
   "positions": [],
   "currentTickers": [
     "TRV"

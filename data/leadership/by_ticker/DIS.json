@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-10-07T05:42:08.467428Z",
+  "fetchedAt": "2026-10-11T13:03:27.083075Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -134,24 +134,24 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
+          "producer",
+          "manufacturer",
+          "draftsperson",
           "film actor",
           "designer",
           "caricaturist",
           "director",
           "film producer",
-          "producer",
-          "film director",
-          "draftsperson",
-          "voice actor",
-          "manufacturer",
           "illustrator",
           "television presenter",
           "comics artist",
+          "film director",
           "painter",
+          "voice actor",
           "animator",
-          "actor",
+          "writer",
           "inventor",
-          "writer"
+          "actor"
         ],
         "education": [
           "McKinley High School",
@@ -174,8 +174,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
         "occupations": [
-          "animator",
-          "businessperson"
+          "businessperson",
+          "animator"
         ],
         "education": [],
         "employers": [],
@@ -202,8 +202,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
         "occupations": [
           "film producer",
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [],
         "employers": [],
@@ -261,9 +261,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
-          "entrepreneur",
+          "businessperson",
           "chief executive officer",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "Lawrenceville School",
@@ -273,11 +273,6 @@
         ],
         "employers": [
           {
-            "company": "The Walt Disney Company",
-            "start": "1984-01-01",
-            "end": "2005-01-01"
-          },
-          {
             "company": "Paramount Pictures",
             "start": "1976-01-01",
             "end": "1984-01-01"
@@ -286,6 +281,11 @@
             "company": "American Broadcasting Company",
             "start": "1966-01-01",
             "end": "1976-01-01"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": "1984-01-01",
+            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -316,11 +316,11 @@
         "birthPlace": "Oceanside",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
         "occupations": [
-          "television producer",
           "film producer",
           "business executive",
-          "businessperson",
-          "entrepreneur"
+          "television producer",
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "The Center for Early Education",
@@ -395,9 +395,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh",
-          "University of Pennsylvania"
+          "University of Pittsburgh"
         ],
         "employers": [],
         "positions": [
@@ -422,8 +422,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "director"
+          "director",
+          "entrepreneur"
         ],
         "education": [
           "Westhill High School",
@@ -455,9 +455,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh",
-          "University of Pennsylvania"
+          "University of Pittsburgh"
         ],
         "employers": [],
         "positions": [
@@ -482,15 +482,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
+          "chief financial officer",
           "businessperson",
-          "banker",
-          "chief financial officer"
+          "banker"
         ],
         "education": [
-          "University of Pennsylvania Carey Law School",
-          "The Wharton School",
           "Harvard Law School",
-          "Brookline High School"
+          "Brookline High School",
+          "University of Pennsylvania Carey Law School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -625,12 +625,12 @@
           "politician"
         ],
         "education": [
+          "Harvard Law School",
+          "Princeton University",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
-          "Harvard Law School",
           "University of Oxford",
-          "The Branson School",
-          "Princeton University"
+          "The Branson School"
         ],
         "employers": [],
         "positions": [
@@ -797,8 +797,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Stanford University"
@@ -826,24 +826,24 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
+          "producer",
+          "manufacturer",
+          "draftsperson",
           "film actor",
           "designer",
           "caricaturist",
           "director",
           "film producer",
-          "producer",
-          "film director",
-          "draftsperson",
-          "voice actor",
-          "manufacturer",
           "illustrator",
           "television presenter",
           "comics artist",
+          "film director",
           "painter",
+          "voice actor",
           "animator",
-          "actor",
+          "writer",
           "inventor",
-          "writer"
+          "actor"
         ],
         "education": [
           "McKinley High School",
@@ -867,8 +867,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
         "occupations": [
           "film producer",
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [],
         "employers": [],

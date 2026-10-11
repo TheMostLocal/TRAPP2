@@ -1,6 +1,6 @@
 {
   "ticker": "APD",
-  "fetchedAt": "2026-10-07T05:42:08.451735Z",
+  "fetchedAt": "2026-10-11T13:03:27.071302Z",
   "people": [
     {
       "qid": "Q125491129",
@@ -17,8 +17,8 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
-          "Petroleum University of Technology"
+          "Petroleum University of Technology",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -270,8 +270,8 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
-          "Petroleum University of Technology"
+          "Petroleum University of Technology",
+          "Stanford University"
         ],
         "employers": [
           {
