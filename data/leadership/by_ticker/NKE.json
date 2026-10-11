@@ -140,7 +140,8 @@
           "film producer",
           "film director",
           "rapper",
-          "animator"
+          "animator",
+          "film producer"
         ],
         "education": [
           "Jesuit High School",
@@ -170,13 +171,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -253,11 +254,11 @@
           "businessperson"
         ],
         "education": [
-          "Oregon State University",
-          "University of Oregon",
           "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Oregon State University",
+          "University of Oregon"
         ],
         "employers": [
           {
@@ -364,11 +365,11 @@
           "businessperson"
         ],
         "education": [
-          "Oregon State University",
-          "University of Oregon",
           "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Oregon State University",
+          "University of Oregon"
         ],
         "employers": [
           {

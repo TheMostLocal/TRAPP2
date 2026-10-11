@@ -220,8 +220,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
-          "Stanford University"
+          "Stanford University",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -340,8 +340,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
           "politician",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -548,12 +548,7 @@
         ],
         "employers": [
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "DreamWorks",
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           },
@@ -564,6 +559,16 @@
           },
           {
             "company": "Bain & Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "DreamWorks",
             "start": null,
             "end": null
           },
@@ -617,17 +622,17 @@
           {
             "title": "vice president",
             "company": null,
-            "start": "1989-01-01",
-            "end": null
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
             "start": null,
             "end": null
           },
           {
             "title": "vice president",
+            "company": null,
+            "start": "1989-01-01",
+            "end": null
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
             "start": null,
             "end": null

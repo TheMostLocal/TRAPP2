@@ -250,6 +250,11 @@
         ],
         "employers": [
           {
+            "company": "Forest Laboratories",
+            "start": "2010-01-01",
+            "end": "2014-01-01"
+          },
+          {
             "company": "Actavis",
             "start": null,
             "end": null
@@ -268,11 +273,6 @@
             "company": "Bausch & Lomb",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Forest Laboratories",
-            "start": "2010-01-01",
-            "end": "2014-01-01"
           }
         ],
         "positions": []
@@ -486,14 +486,14 @@
         ],
         "employers": [
           {
-            "company": "Duke University",
-            "start": "1999-01-01",
-            "end": "2007-01-01"
-          },
-          {
             "company": "University of Colorado Boulder",
             "start": "1985-01-01",
             "end": "1999-01-01"
+          },
+          {
+            "company": "Duke University",
+            "start": "1999-01-01",
+            "end": "2007-01-01"
           }
         ],
         "positions": []

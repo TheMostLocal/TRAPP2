@@ -59,6 +59,7 @@
           "orator",
           "blogger",
           "environmentalist",
+          "financier",
           "businessperson",
           "writer",
           "politician"
@@ -157,9 +158,9 @@
           "businessperson"
         ],
         "education": [
-          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College"
+          "Wellesley College",
+          "Booth School of Business"
         ],
         "employers": [
           {
@@ -375,12 +376,12 @@
         ],
         "employers": [
           {
-            "company": "NeXT",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },

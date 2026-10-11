@@ -63,13 +63,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -134,25 +134,20 @@
           "entrepreneur"
         ],
         "education": [
-          "University of New South Wales",
           "University of Sydney",
-          "Georges River College"
+          "Georges River College",
+          "University of New South Wales"
         ],
         "employers": [
           {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           },
           {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           },
           {
             "company": "Telstra",
@@ -182,18 +177,6 @@
         ],
         "positions": [
           {
-            "title": "chairperson",
-            "company": null,
-            "start": "2018-11-01",
-            "end": null
-          },
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "title": "board member",
             "company": null,
             "start": "2014-01-01",
@@ -204,6 +187,18 @@
             "company": null,
             "start": "http://www",
             "end": "2016-08-01"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2018-11-01",
+            "end": null
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
           }
         ]
       }
@@ -397,25 +392,20 @@
           "entrepreneur"
         ],
         "education": [
-          "University of New South Wales",
           "University of Sydney",
-          "Georges River College"
+          "Georges River College",
+          "University of New South Wales"
         ],
         "employers": [
           {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           },
           {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           },
           {
             "company": "Telstra",
@@ -445,18 +435,6 @@
         ],
         "positions": [
           {
-            "title": "chairperson",
-            "company": null,
-            "start": "2018-11-01",
-            "end": null
-          },
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "title": "board member",
             "company": null,
             "start": "2014-01-01",
@@ -467,6 +445,18 @@
             "company": null,
             "start": "http://www",
             "end": "2016-08-01"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2018-11-01",
+            "end": null
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
           }
         ]
       }
@@ -573,13 +563,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -641,10 +631,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "entrepreneur",
           "computer scientist",
-          "businessperson",
-          "actor"
+          "actor",
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of Chicago",
@@ -740,8 +730,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "York Community High School",
