@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-10-07T05:35:47.201508Z",
+  "fetchedAt": "2026-10-11T12:22:42.841151Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -16,9 +16,9 @@
         "occupations": [
           "business executive",
           "pharmacologist",
-          "entrepreneur",
           "executive",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -52,8 +52,8 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "molecular geneticist",
           "biochemist",
+          "molecular geneticist",
           "researcher",
           "university teacher",
           "physician"
@@ -213,9 +213,9 @@
         "occupations": [
           "business executive",
           "pharmacologist",
-          "entrepreneur",
           "executive",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -317,9 +317,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "University of Chicago",
           "Booth School of Business",
-          "Knox College",
-          "University of Chicago"
+          "Knox College"
         ],
         "employers": [],
         "positions": [
@@ -380,14 +380,14 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
+          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "University of California, Berkeley",
           "North-Eastern Hill University"
         ],
         "employers": [],
@@ -457,8 +457,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -510,8 +510,8 @@
         "birthPlace": "Ludwigsburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Frederick%20Erhart%20%281821-1891%29%20portrait.jpg",
         "occupations": [
-          "chemist",
-          "businessperson"
+          "businessperson",
+          "chemist"
         ],
         "education": [],
         "employers": [
