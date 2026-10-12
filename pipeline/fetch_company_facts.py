@@ -565,6 +565,17 @@ def main():
         for t in pruned:
             manifest["tickers"].pop(t, None)
         manifest["prunedOrphans"] = pruned
+    # z99: XTRAPP leadership edits are the system override - applied to every
+    # affected company file each run (not only to the few re-fetched tonight).
+    try:
+        from human_corrections import apply_leadership_to_dir
+        human = apply_leadership_to_dir(COMPANY_DIR, tickers)
+        if human:
+            manifest["humanLeadership"] = human
+        log(f"XTRAPP leadership overrides: {sum(human.values())} change(s) across {len(human)} ticker(s)"
+            + (f" — {', '.join(sorted(human))}" if human else ""))
+    except Exception as e:
+        log(f"XTRAPP leadership overrides skipped: {e}")
     manifest["generatedAt"] = datetime.utcnow().isoformat() + "Z"
     MANIFEST_FILE.write_text(json.dumps(manifest, indent=2))
     log(f"Done: fetched {fetched_count}, {success} successful, {skipped} skipped as fresh, "
