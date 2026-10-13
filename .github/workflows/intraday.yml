@@ -75,8 +75,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Fetch quotes + fundamentals
-        run: python pipeline/fetch_data.py
+      # z102: quotes in ONE batched request (fundamentals stay from the nightly full
+      # fetch). The per-ticker full fetch regularly ran past the 12-minute timeout,
+      # so the tape below never got appended - 1-3 points a day instead of ~26.
+      # The full fetch still runs as the fallback if the batch prices < 80%.
+      - name: Fetch quotes (fast batch; full fetch as fallback)
+        run: python pipeline/fetch_quotes_fast.py || python pipeline/fetch_data.py
 
       # HUMAN CORRECTIONS OUTRANK PULLED DATA. Applies active XTRAPP overrides to
       # data/master.json right after the pull - before signals, regime, the tape,
