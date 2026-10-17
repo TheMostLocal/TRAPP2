@@ -42,13 +42,16 @@
 # plus 14:30 / 20:30 UTC fallbacks in case a start is dropped.
 # While a loop runs, a later start just waits (same concurrency group) and picks
 # up where it left off.
+# z117 - HOURLY STARTS 12:00-21:00 UTC. GitHub dropped the 12:00 and 14:30 starts on
+# 2026-10-16 (no tape 08:45-15:58 UTC - through the open). A start that finds the loop
+# running waits as the single pending run (a newer start replaces it); one that finds
+# nothing running restarts the tape within the hour. The loop fast-forwards to the latest
+# main before its first pass, so a long wait can't overwrite newer points.
 name: Intraday Quotes + 15-min Tape
 
 on:
   schedule:
-    - cron: '0 12 * * 1-5'
-    - cron: '0 17 * * 1-5'
-    - cron: '30 14,20 * * 1-5'
+    - cron: '0 12-21 * * 1-5'     # z117: hourly starts (note above)
   workflow_dispatch:
     inputs:
       force_tape:
