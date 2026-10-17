@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T05:15:25.253571Z",
+  "generatedAt": "2026-10-17T02:28:19.833116Z",
   "source": "wikidata",
   "tickers": {
     "INDA": {
@@ -1312,18 +1312,5 @@
       "msg": "QID=Q1044563, 1 execs, 0 board, 1 products",
       "fetchedAt": "2026-10-04T21:22:18.886982Z"
     }
-  },
-  "prunedOrphans": [
-    "BIL",
-    "BLOK",
-    "BRK.B",
-    "K",
-    "PARA",
-    "PXD",
-    "SCHP",
-    "SQ",
-    "UCO",
-    "XLG",
-    "ZSL"
-  ]
+  }
 }
