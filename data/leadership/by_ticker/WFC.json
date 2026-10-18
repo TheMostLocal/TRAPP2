@@ -1,6 +1,6 @@
 {
   "ticker": "WFC",
-  "fetchedAt": "2026-10-11T13:03:27.124676Z",
+  "fetchedAt": "2026-10-18T10:35:29.075448Z",
   "people": [
     {
       "qid": "Q18386868",
@@ -38,9 +38,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Valdosta State University",
           "Yale Law School",
-          "University of Wisconsin\u2013Madison"
+          "University of Wisconsin\u2013Madison",
+          "Valdosta State University"
         ],
         "employers": [],
         "positions": []
@@ -80,8 +80,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -275,8 +275,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []

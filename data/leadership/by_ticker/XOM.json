@@ -1,6 +1,6 @@
 {
   "ticker": "XOM",
-  "fetchedAt": "2026-10-11T13:03:27.126028Z",
+  "fetchedAt": "2026-10-18T10:35:29.077403Z",
   "people": [
     {
       "qid": "Q28018191",
@@ -14,8 +14,8 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darren%20Woods%20%28born%20c.%201965%29%20at%20WEF%20Special%20Meeting%20on%20Global%20Collaboration%2C%20Growth%20and%20Energy%20for%20Development%2C%202024.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Kellogg School of Management",
@@ -156,8 +156,8 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darren%20Woods%20%28born%20c.%201965%29%20at%20WEF%20Special%20Meeting%20on%20Global%20Collaboration%2C%20Growth%20and%20Energy%20for%20Development%2C%202024.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Kellogg School of Management",
@@ -354,9 +354,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Clark University",
           "Georgetown University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -394,15 +394,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "lawyer",
+          "business executive",
           "businessperson",
-          "business executive"
+          "lawyer"
         ],
         "education": [
-          "Northeast High School",
-          "Julia R. Masterman School",
           "Pennsylvania State University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Northeast High School",
+          "Julia R. Masterman School"
         ],
         "employers": [
           {
@@ -482,8 +482,8 @@
         "birthPlace": "Manhattan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula-Burns.jpg",
         "occupations": [
-          "business executive",
-          "engineer"
+          "engineer",
+          "business executive"
         ],
         "education": [
           "Fu Foundation School of Engineering and Applied Science",

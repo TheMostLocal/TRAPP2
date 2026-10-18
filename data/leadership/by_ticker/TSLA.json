@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-10-11T13:03:27.119900Z",
+  "fetchedAt": "2026-10-18T10:35:29.068896Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,43 +14,33 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "philanthropist",
-          "programmer",
           "dub actor",
+          "philanthropist",
           "financier",
           "technology entrepreneur",
+          "programmer",
           "investor",
           "civil servant",
-          "entrepreneur",
           "engineer",
+          "entrepreneur",
           "politician"
         ],
         "education": [
-          "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
+          "Stanford University",
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
           "University of Pennsylvania",
-          "Stanford University"
+          "Smith School of Business"
         ],
         "employers": [
           {
             "company": "Neuralink",
             "start": "2016-07-01",
             "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
           },
           {
             "company": "SolarCity",
@@ -68,8 +58,18 @@
             "end": null
           },
           {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
             "company": "PayPal",
             "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
@@ -134,21 +134,11 @@
           "entrepreneur"
         ],
         "education": [
+          "University of New South Wales",
           "University of Sydney",
-          "Georges River College",
-          "University of New South Wales"
+          "Georges River College"
         ],
         "employers": [
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          },
           {
             "company": "Telstra",
             "start": "2017-01-01",
@@ -170,24 +160,27 @@
             "end": "2017-04-01"
           },
           {
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "http://www",
-            "end": "2016-08-01"
-          },
           {
             "title": "chairperson",
             "company": null,
@@ -199,6 +192,18 @@
             "company": null,
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "http://www",
+            "end": "2016-08-01"
           }
         ]
       }
@@ -285,9 +290,9 @@
           "venture capitalist"
         ],
         "education": [
+          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business",
-          "University of California, Los Angeles"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": [
@@ -392,21 +397,11 @@
           "entrepreneur"
         ],
         "education": [
+          "University of New South Wales",
           "University of Sydney",
-          "Georges River College",
-          "University of New South Wales"
+          "Georges River College"
         ],
         "employers": [
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          },
           {
             "company": "Telstra",
             "start": "2017-01-01",
@@ -428,24 +423,27 @@
             "end": "2017-04-01"
           },
           {
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "http://www",
-            "end": "2016-08-01"
-          },
           {
             "title": "chairperson",
             "company": null,
@@ -457,6 +455,18 @@
             "company": null,
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "http://www",
+            "end": "2016-08-01"
           }
         ]
       }
@@ -514,43 +524,33 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "philanthropist",
-          "programmer",
           "dub actor",
+          "philanthropist",
           "financier",
           "technology entrepreneur",
+          "programmer",
           "investor",
           "civil servant",
-          "entrepreneur",
           "engineer",
+          "entrepreneur",
           "politician"
         ],
         "education": [
-          "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
+          "Stanford University",
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
           "University of Pennsylvania",
-          "Stanford University"
+          "Smith School of Business"
         ],
         "employers": [
           {
             "company": "Neuralink",
             "start": "2016-07-01",
             "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
           },
           {
             "company": "SolarCity",
@@ -568,8 +568,18 @@
             "end": null
           },
           {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
             "company": "PayPal",
             "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
@@ -630,11 +640,11 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
+          "businessperson",
           "aircraft pilot",
-          "computer scientist",
-          "actor",
           "entrepreneur",
-          "businessperson"
+          "computer scientist",
+          "actor"
         ],
         "education": [
           "University of Chicago",
@@ -693,8 +703,8 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
-          "karateka",
           "publisher",
+          "karateka",
           "businessperson"
         ],
         "education": [

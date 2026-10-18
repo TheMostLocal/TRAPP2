@@ -1,6 +1,6 @@
 {
   "ticker": "RBLX",
-  "fetchedAt": "2026-10-11T13:03:27.112345Z",
+  "fetchedAt": "2026-10-18T10:35:29.058617Z",
   "people": [
     {
       "qid": "Q20117554",
@@ -14,8 +14,8 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Baszucki%20in%202021.jpg",
         "occupations": [
-          "programmer",
           "engineer",
+          "programmer",
           "entrepreneur"
         ],
         "education": [
