@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-10-11T13:03:27.080045Z",
+  "fetchedAt": "2026-10-18T10:39:17.947099Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -53,12 +53,17 @@
         ],
         "education": [
           "Stanford University",
-          "University of Wisconsin\u2013Madison",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of Wisconsin\u2013Madison"
         ],
         "employers": [
+          {
+            "company": "Cisco",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Stratus Technologies",
             "start": null,
@@ -71,11 +76,6 @@
           },
           {
             "company": "Honeywell",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Cisco",
             "start": null,
             "end": null
           },
@@ -104,10 +104,10 @@
           "computer scientist"
         ],
         "education": [
-          "Duke University",
-          "West Virginia University",
           "Indiana University",
           "Indiana University Kelley School of Business",
+          "Duke University",
+          "West Virginia University",
           "West Virginia University College of Law"
         ],
         "employers": [
@@ -158,8 +158,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "St. Ignatius College Prep",
-          "Columbia University"
+          "Columbia University",
+          "St. Ignatius College Prep"
         ],
         "employers": [],
         "positions": []
@@ -250,11 +250,6 @@
         ],
         "employers": [
           {
-            "company": "Forest Laboratories",
-            "start": "2010-01-01",
-            "end": "2014-01-01"
-          },
-          {
             "company": "Actavis",
             "start": null,
             "end": null
@@ -273,6 +268,11 @@
             "company": "Bausch & Lomb",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Forest Laboratories",
+            "start": "2010-01-01",
+            "end": "2014-01-01"
           }
         ],
         "positions": []
@@ -325,24 +325,14 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "electrical engineer",
           "entrepreneur",
+          "electrical engineer",
           "chief executive officer"
         ],
         "education": [
           "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "Freescale Semiconductor",
-            "start": "2007-06-01",
-            "end": null
-          },
-          {
-            "company": "Texas Instruments",
-            "start": "1994-01-01",
-            "end": null
-          },
           {
             "company": "AMD",
             "start": "2012-01-01",
@@ -351,6 +341,16 @@
           {
             "company": "IBM Research",
             "start": "1995-01-01",
+            "end": null
+          },
+          {
+            "company": "Freescale Semiconductor",
+            "start": "2007-06-01",
+            "end": null
+          },
+          {
+            "company": "Texas Instruments",
+            "start": "1994-01-01",
             "end": null
           }
         ],
@@ -486,14 +486,14 @@
         ],
         "employers": [
           {
-            "company": "University of Colorado Boulder",
-            "start": "1985-01-01",
-            "end": "1999-01-01"
-          },
-          {
             "company": "Duke University",
             "start": "1999-01-01",
             "end": "2007-01-01"
+          },
+          {
+            "company": "University of Colorado Boulder",
+            "start": "1985-01-01",
+            "end": "1999-01-01"
           }
         ],
         "positions": []

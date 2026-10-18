@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-11T13:03:27.065755Z",
+  "fetchedAt": "2026-10-18T10:39:17.928163Z",
   "people": [
     {
       "qid": "Q709063",
@@ -14,13 +14,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
+          "molecular biologist",
           "biochemist",
-          "molecular biologist"
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -51,18 +51,17 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "financier",
+          "journalist",
           "climate activist",
           "university teacher",
           "farmer",
-          "journalist",
+          "financier",
           "orator",
           "blogger",
           "environmentalist",
-          "financier",
+          "politician",
           "businessperson",
-          "writer",
-          "politician"
+          "writer"
         ],
         "education": [
           "Harvard College",
@@ -158,9 +157,9 @@
           "businessperson"
         ],
         "education": [
+          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College",
-          "Booth School of Business"
+          "Wellesley College"
         ],
         "employers": [
           {
@@ -232,13 +231,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
+          "molecular biologist",
           "biochemist",
-          "molecular biologist"
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -304,31 +303,26 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
+          "programmer",
           "inventor",
+          "electronics technician",
+          "businessperson",
           "entrepreneur",
           "computer scientist",
           "engineer",
-          "programmer",
-          "electronics technician",
           "teacher",
-          "businessperson",
           "actor"
         ],
         "education": [
+          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "University of California, Berkeley",
           "Homestead High School"
         ],
         "employers": [
           {
             "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -339,6 +333,11 @@
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -363,20 +362,20 @@
           "executive producer",
           "designer",
           "financier",
-          "film producer",
-          "founder",
           "entrepreneur",
+          "founder",
+          "film producer",
           "inventor",
           "computer scientist"
         ],
         "education": [
-          "Homestead High School",
           "Reed College",
-          "De Anza College"
+          "De Anza College",
+          "Homestead High School"
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -386,12 +385,12 @@
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           }

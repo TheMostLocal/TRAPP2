@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-10-11T13:03:27.066883Z",
+  "fetchedAt": "2026-10-18T10:39:17.929704Z",
   "people": [
     {
       "qid": "Q95569597",
@@ -247,11 +247,11 @@
           "executive"
         ],
         "education": [
+          "Southern University Law Center",
+          "Kellogg School of Management",
           "University of Louisiana at Lafayette",
           "Dedman School of Law",
-          "Harvard Business School",
-          "Southern University Law Center",
-          "Kellogg School of Management"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -453,17 +453,17 @@
         ],
         "employers": [
           {
+            "company": "Northwestern University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Chicago",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "New York University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Northwestern University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Northwestern University",
             "start": null,
             "end": null
           }
@@ -573,8 +573,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "banker",
-          "business executive"
+          "business executive",
+          "banker"
         ],
         "education": [],
         "employers": [

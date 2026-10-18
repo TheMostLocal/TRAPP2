@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "fetchedAt": "2026-10-11T13:03:27.075685Z",
+  "fetchedAt": "2026-10-18T10:39:17.941206Z",
   "people": [
     {
       "qid": "Q137168946",
@@ -111,8 +111,8 @@
           "diplomat"
         ],
         "education": [
-          "Williams College",
           "Stanford University",
+          "Williams College",
           "Aiglon College",
           "International School Bangkok",
           "George Washington University"
@@ -139,10 +139,10 @@
         "birthPlace": "Nashua",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kelly%20Ayotte%2C%20Official%20Portrait%2C%20112th%20Congress%202.jpg",
         "occupations": [
+          "prosecutor",
           "adviser",
           "law clerk",
           "lawyer",
-          "prosecutor",
           "politician"
         ],
         "education": [
@@ -205,8 +205,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Kettering University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Kettering University"
         ],
         "employers": [],
         "positions": []
@@ -326,9 +326,9 @@
           "businessperson"
         ],
         "education": [
-          "Booth School of Business",
           "University of Chicago",
           "Amherst College",
+          "Booth School of Business",
           "Edina High School"
         ],
         "employers": [],
@@ -347,8 +347,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Calhoun%20%28cropped%29.png",
         "occupations": [
-          "business executive",
-          "manager"
+          "manager",
+          "business executive"
         ],
         "education": [
           "Parkland High School",

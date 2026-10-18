@@ -1,6 +1,6 @@
 {
   "ticker": "EXC",
-  "fetchedAt": "2026-10-11T13:03:27.086851Z",
+  "fetchedAt": "2026-10-18T10:39:17.956068Z",
   "people": [
     {
       "qid": "Q114959854",
@@ -166,8 +166,8 @@
         ],
         "education": [
           "Cornell University",
-          "Yale University",
-          "Francis Lewis High School"
+          "Francis Lewis High School",
+          "Yale University"
         ],
         "employers": [
           {

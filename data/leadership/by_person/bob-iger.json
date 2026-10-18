@@ -5,10 +5,10 @@
   "birthPlace": "Oceanside",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
   "occupations": [
+    "entrepreneur",
+    "television producer",
     "film producer",
     "business executive",
-    "television producer",
-    "entrepreneur",
     "businessperson"
   ],
   "education": [
@@ -20,6 +20,11 @@
   "employers": [
     {
       "company": "The Walt Disney Company",
+      "start": "2022-11-20",
+      "end": "2026-12-31"
+    },
+    {
+      "company": "The Walt Disney Company",
       "start": "1996-01-01",
       "end": "2021-12-31"
     },
@@ -27,14 +32,15 @@
       "company": "American Broadcasting Company",
       "start": "1974-01-01",
       "end": "1999-02-25"
-    },
-    {
-      "company": "The Walt Disney Company",
-      "start": "2022-11-20",
-      "end": "2026-12-31"
     }
   ],
   "positions": [
+    {
+      "title": "chairperson",
+      "company": null,
+      "start": "2012-01-01",
+      "end": "2021-01-01"
+    },
     {
       "title": "chief operating officer",
       "company": null,
@@ -52,12 +58,6 @@
       "company": null,
       "start": "1989-01-01",
       "end": "1992-01-01"
-    },
-    {
-      "title": "chairperson",
-      "company": null,
-      "start": "2012-01-01",
-      "end": "2021-01-01"
     },
     {
       "title": "chief executive officer",

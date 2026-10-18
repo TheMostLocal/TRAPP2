@@ -10,20 +10,20 @@
     "executive producer",
     "designer",
     "financier",
-    "film producer",
-    "founder",
     "entrepreneur",
+    "founder",
+    "film producer",
     "inventor",
     "computer scientist"
   ],
   "education": [
-    "Homestead High School",
     "Reed College",
-    "De Anza College"
+    "De Anza College",
+    "Homestead High School"
   ],
   "employers": [
     {
-      "company": "Atari, Inc.",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     },
@@ -33,12 +33,12 @@
       "end": null
     },
     {
-      "company": "Pixar",
+      "company": "Atari, Inc.",
       "start": null,
       "end": null
     },
     {
-      "company": "Apple Inc.",
+      "company": "Pixar",
       "start": null,
       "end": null
     }
