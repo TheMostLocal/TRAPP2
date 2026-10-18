@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-10-11T13:03:27.077438Z",
+  "fetchedAt": "2026-10-18T11:16:46.389241Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -14,8 +14,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Roberts%20Comcast.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Germantown Academy",
@@ -50,8 +50,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "academic"
+          "academic",
+          "businessperson"
         ],
         "education": [
           "Rice University",
@@ -139,8 +139,8 @@
           "businessperson"
         ],
         "education": [
-          "London School of Economics and Political Science",
           "Harvard Business School",
+          "London School of Economics and Political Science",
           "Stanford University"
         ],
         "employers": [],
@@ -228,9 +228,9 @@
           "chief executive officer"
         ],
         "education": [
-          "New York University",
           "Duke University",
-          "Stern School of Business"
+          "Stern School of Business",
+          "New York University"
         ],
         "employers": [
           {
@@ -288,8 +288,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Roberts%20Comcast.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Germantown Academy",
@@ -327,8 +327,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "The Wharton School"
         ],
         "employers": [
           {

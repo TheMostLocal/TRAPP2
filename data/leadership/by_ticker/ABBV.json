@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "fetchedAt": "2026-10-11T13:03:27.066199Z",
+  "fetchedAt": "2026-10-18T11:16:46.375405Z",
   "people": [
     {
       "qid": "Q125257078",
@@ -138,8 +138,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Kellogg School of Management",
@@ -508,8 +508,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "researcher",
           "academic",
+          "researcher",
           "nephrologist"
         ],
         "education": [

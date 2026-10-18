@@ -1,6 +1,6 @@
 {
   "ticker": "CI",
-  "fetchedAt": "2026-10-11T13:03:27.076938Z",
+  "fetchedAt": "2026-10-18T11:16:46.388595Z",
   "people": [
     {
       "qid": "Q109562106",
@@ -83,8 +83,8 @@
         ],
         "education": [
           "Stanford University",
-          "St. Joseph's Boys' High School, Bangalore",
-          "Princeton University"
+          "Princeton University",
+          "St. Joseph's Boys' High School, Bangalore"
         ],
         "employers": [],
         "positions": []
@@ -240,10 +240,9 @@
         "education": [
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
-          "Harvard University",
-          "Massachusetts Institute of Technology",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
+          "Massachusetts Institute of Technology",
           "Harvard University"
         ],
         "employers": [],

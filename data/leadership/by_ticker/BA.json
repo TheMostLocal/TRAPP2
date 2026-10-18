@@ -1,6 +1,6 @@
 {
   "ticker": "BA",
-  "fetchedAt": "2026-10-11T13:03:27.073055Z",
+  "fetchedAt": "2026-10-18T11:16:46.383935Z",
   "people": [
     {
       "qid": "Q104862847",
@@ -131,9 +131,9 @@
         "image": null,
         "occupations": [
           "cricketer",
+          "merchant",
           "engineer",
-          "businessperson",
-          "merchant"
+          "businessperson"
         ],
         "education": [
           "Christ Church Grammar School",
@@ -177,8 +177,8 @@
         "birthPlace": "Dublin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Willie%20Walsh%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "School of Business, Trinity College Dublin",
@@ -241,14 +241,14 @@
         "birthPlace": "Troon",
         "image": null,
         "occupations": [
-          "university teacher",
           "manager",
+          "university teacher",
           "politician",
           "economist"
         ],
         "education": [
-          "University of Glasgow",
-          "London School of Economics and Political Science"
+          "London School of Economics and Political Science",
+          "University of Glasgow"
         ],
         "employers": [],
         "positions": [
@@ -303,8 +303,8 @@
         "birthPlace": "Brentwood",
         "image": null,
         "occupations": [
-          "farmer",
-          "politician"
+          "politician",
+          "farmer"
         ],
         "education": [],
         "employers": [],

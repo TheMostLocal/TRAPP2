@@ -1,6 +1,6 @@
 {
   "ticker": "XYZ",
-  "fetchedAt": "2026-10-11T13:03:27.126397Z",
+  "fetchedAt": "2026-10-18T11:16:46.453374Z",
   "people": [
     {
       "qid": "Q335552",
@@ -14,15 +14,13 @@
         "birthPlace": "St. Louis",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dorsey%202014.jpg",
         "occupations": [
-          "computer scientist",
-          "tech VIP",
-          "businessperson",
-          "entrepreneur",
           "blogger",
-          "programmer",
           "business executive",
           "billionaire",
-          "programmer"
+          "businessperson",
+          "programmer",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "New York University",
@@ -76,15 +74,13 @@
         "birthPlace": "St. Louis",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dorsey%202014.jpg",
         "occupations": [
-          "computer scientist",
-          "tech VIP",
-          "businessperson",
-          "entrepreneur",
           "blogger",
-          "programmer",
           "business executive",
           "billionaire",
-          "programmer"
+          "businessperson",
+          "programmer",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "New York University",

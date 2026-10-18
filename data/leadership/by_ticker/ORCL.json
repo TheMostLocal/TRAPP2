@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-10-11T13:03:27.107581Z",
+  "fetchedAt": "2026-10-18T11:16:46.428123Z",
   "people": [
     {
       "qid": "Q92759",
@@ -15,10 +15,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "computer scientist",
-          "actor",
           "entrepreneur",
-          "businessperson"
+          "computer scientist",
+          "businessperson",
+          "actor"
         ],
         "education": [
           "University of Chicago",
@@ -220,8 +220,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Georgia Tech",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -258,11 +258,6 @@
         ],
         "employers": [
           {
-            "company": "Claris",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Adobe",
             "start": null,
             "end": null
@@ -271,6 +266,11 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "company": "Claris",
+            "start": null,
+            "end": null
           },
           {
             "company": "Mattel",
@@ -302,24 +302,14 @@
         "occupations": [
           "university teacher",
           "academic",
-          "writer",
+          "businessperson",
           "economist",
-          "businessperson"
+          "writer"
         ],
         "education": [
           "University of California, Berkeley"
         ],
         "employers": [
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Yale University",
             "start": null,
@@ -331,7 +321,12 @@
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -351,15 +346,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "chief financial officer",
           "businessperson",
-          "banker"
+          "banker",
+          "chief financial officer"
         ],
         "education": [
+          "Brookline High School",
           "University of Pennsylvania Carey Law School",
           "The Wharton School",
-          "Harvard Law School",
-          "Brookline High School"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -374,18 +369,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "Directrice",
             "company": null,
@@ -409,6 +392,18 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -429,7 +424,6 @@
           "university teacher",
           "political scientist",
           "jurist",
-          "political scientist",
           "lawyer",
           "politician"
         ],
@@ -490,6 +484,18 @@
           {
             "title": "United States representative",
             "company": null,
+            "start": "1983-01-03",
+            "end": "1985-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
             "start": "1991-01-03",
             "end": "1993-01-03"
           },
@@ -522,18 +528,6 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1983-01-03",
-            "end": "1985-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
           }
         ]
       }
@@ -658,10 +652,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "computer scientist",
-          "actor",
           "entrepreneur",
-          "businessperson"
+          "computer scientist",
+          "businessperson",
+          "actor"
         ],
         "education": [
           "University of Chicago",
@@ -721,10 +715,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "computer scientist",
-          "actor",
           "entrepreneur",
-          "businessperson"
+          "computer scientist",
+          "businessperson",
+          "actor"
         ],
         "education": [
           "University of Chicago",

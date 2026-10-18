@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-10-11T13:03:27.122375Z",
+  "fetchedAt": "2026-10-18T11:16:46.448086Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -272,11 +272,10 @@
       "career": {
         "qid": "Q56042353",
         "name": "Ramon Laguarta",
-        "dateOfBirth": "0019-01-01",
+        "dateOfBirth": "1963-01-01",
         "birthPlace": "Barcelona",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
         "occupations": [
-          "businessperson",
           "chief executive officer",
           "businessperson",
           "chairperson"
@@ -289,6 +288,11 @@
         ],
         "employers": [
           {
+            "company": "Chupa Chups",
+            "start": null,
+            "end": "1996-01-01"
+          },
+          {
             "company": "PepsiCo",
             "start": "1996-01-01",
             "end": null
@@ -297,11 +301,6 @@
             "company": "SEAT",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Chupa Chups",
-            "start": null,
-            "end": "1996-01-01"
           }
         ],
         "positions": [
@@ -452,9 +451,9 @@
         "birthPlace": "Long Branch",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20morrison%20campbell%20soup%20company%20by%20bill%20cramer.jpg",
         "occupations": [
+          "chief executive officer",
           "merchant",
-          "businessperson",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
           "Boston College"
@@ -466,16 +465,6 @@
             "end": "1995-01-01"
           },
           {
-            "company": "Kraft Foods Inc.",
-            "start": "1995-01-01",
-            "end": "2003-01-01"
-          },
-          {
-            "company": "Campbell's",
-            "start": "2003-04-01",
-            "end": "2018-05-01"
-          },
-          {
             "company": "PepsiCo",
             "start": "1982-01-01",
             "end": "1984-01-01"
@@ -484,6 +473,16 @@
             "company": "Procter & Gamble",
             "start": "1975-01-01",
             "end": "1982-01-01"
+          },
+          {
+            "company": "Kraft Foods Inc.",
+            "start": "1995-01-01",
+            "end": "2003-01-01"
+          },
+          {
+            "company": "Campbell's",
+            "start": "2003-04-01",
+            "end": "2018-05-01"
           }
         ],
         "positions": [

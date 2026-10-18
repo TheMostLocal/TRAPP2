@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-10-11T13:03:27.064652Z",
+  "fetchedAt": "2026-10-18T11:16:46.373661Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -127,11 +127,6 @@
         "education": [],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -145,6 +140,11 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -284,8 +284,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "computer scientist"
+          "computer scientist",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -373,8 +373,8 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "business executive",
-          "biologist"
+          "biologist",
+          "business executive"
         ],
         "education": [
           "University of Massachusetts",
@@ -431,11 +431,6 @@
         ],
         "employers": [
           {
-            "company": "Partners HealthCare Connected Health",
-            "start": "2005-01-01",
-            "end": "2008-01-01"
-          },
-          {
             "company": "University of Texas Southwestern Medical Center",
             "start": "2008-09-01",
             "end": null
@@ -449,6 +444,11 @@
             "company": "Massachusetts General Hospital",
             "start": "1981-01-01",
             "end": "2005-01-01"
+          },
+          {
+            "company": "Partners HealthCare Connected Health",
+            "start": "2005-01-01",
+            "end": "2008-01-01"
           }
         ],
         "positions": [
@@ -478,9 +478,9 @@
           "physician"
         ],
         "education": [
-          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine"
+          "Pritzker School of Medicine",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -525,10 +525,10 @@
           "chairperson"
         ],
         "education": [
-          "University of London",
+          "Harvard University",
           "Imperial College London",
-          "Harvard Business School",
-          "Harvard University"
+          "University of London",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [

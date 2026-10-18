@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-10-11T13:03:27.109006Z",
+  "fetchedAt": "2026-10-18T11:16:46.429993Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -16,8 +16,8 @@
         "occupations": [
           "business executive",
           "pharmacologist",
-          "veterinarian",
           "executive",
+          "veterinarian",
           "entrepreneur"
         ],
         "education": [
@@ -52,10 +52,10 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "university teacher",
-          "researcher",
-          "molecular geneticist",
           "biochemist",
+          "molecular geneticist",
+          "researcher",
+          "university teacher",
           "physician"
         ],
         "education": [
@@ -213,8 +213,8 @@
         "occupations": [
           "business executive",
           "pharmacologist",
-          "veterinarian",
           "executive",
+          "veterinarian",
           "entrepreneur"
         ],
         "education": [
@@ -380,14 +380,14 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
+          "University of California, Berkeley",
           "North-Eastern Hill University"
         ],
         "employers": [],
@@ -419,14 +419,14 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "physiologist",
           "neuroscientist",
+          "physiologist",
           "university teacher"
         ],
         "education": [
+          "Horace Greeley High School",
           "Georgetown University",
-          "University of Rochester",
-          "Horace Greeley High School"
+          "University of Rochester"
         ],
         "employers": [
           {
@@ -457,8 +457,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",

@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "fetchedAt": "2026-10-11T13:03:27.075685Z",
+  "fetchedAt": "2026-10-18T11:16:46.387156Z",
   "people": [
     {
       "qid": "Q137168946",
@@ -107,15 +107,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Schwab%2C%20USTR%20official%20photo.jpg",
         "occupations": [
           "university teacher",
-          "politician",
-          "diplomat"
+          "diplomat",
+          "politician"
         ],
         "education": [
           "Williams College",
-          "Stanford University",
           "Aiglon College",
           "International School Bangkok",
-          "George Washington University"
+          "George Washington University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -141,8 +141,8 @@
         "occupations": [
           "adviser",
           "law clerk",
-          "lawyer",
           "prosecutor",
+          "lawyer",
           "politician"
         ],
         "education": [
@@ -205,8 +205,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Kettering University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Kettering University"
         ],
         "employers": [],
         "positions": []
@@ -225,8 +225,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
-          "Duke University"
+          "Duke University",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": []
@@ -347,8 +347,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Calhoun%20%28cropped%29.png",
         "occupations": [
-          "business executive",
-          "manager"
+          "manager",
+          "business executive"
         ],
         "education": [
           "Parkland High School",

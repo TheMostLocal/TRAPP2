@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-10-11T13:03:27.094488Z",
+  "fetchedAt": "2026-10-18T11:16:46.410808Z",
   "people": [
     {
       "qid": "Q1148995",
@@ -45,8 +45,8 @@
         "occupations": [
           "entrepreneur",
           "professor",
-          "scientist",
           "engineer",
+          "scientist",
           "writer"
         ],
         "education": [
@@ -54,11 +54,6 @@
           "City University of New York"
         ],
         "employers": [
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Fairchild Semiconductor",
             "start": null,
@@ -68,9 +63,20 @@
             "company": "Intel",
             "start": "1968-01-01",
             "end": "2004-01-01"
+          },
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1987-01-01",
+            "end": "1997-01-01"
+          },
           {
             "title": "chairperson of the executive board",
             "company": null,
@@ -82,12 +88,6 @@
             "company": null,
             "start": "1979-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1987-01-01",
-            "end": "1997-01-01"
           }
         ]
       }
@@ -106,8 +106,8 @@
         "occupations": [
           "philanthropist",
           "physicist",
-          "entrepreneur",
           "chemist",
+          "entrepreneur",
           "engineer"
         ],
         "education": [
@@ -138,9 +138,9 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
+          "physicist",
           "inventor",
           "computer scientist",
-          "physicist",
           "businessperson"
         ],
         "education": [
@@ -169,10 +169,10 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "engineer",
-          "businessperson",
           "entrepreneur",
-          "chemist"
+          "chemist",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -205,8 +205,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -346,17 +346,22 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
+          "academic",
           "university teacher",
           "electrotechnician",
           "electrical engineer",
-          "academic"
+          "computer scientist"
         ],
         "education": [
           "University of California, Berkeley",
           "University of California, Berkeley College of Engineering"
         ],
         "employers": [
+          {
+            "company": "California Institute of Technology",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Stanford University",
             "start": null,
@@ -365,11 +370,6 @@
           {
             "company": "Princeton University",
             "start": "2020-01-01",
-            "end": null
-          },
-          {
-            "company": "California Institute of Technology",
-            "start": null,
             "end": null
           }
         ],
@@ -477,8 +477,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -557,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -649,8 +649,8 @@
         "occupations": [
           "entrepreneur",
           "professor",
-          "scientist",
           "engineer",
+          "scientist",
           "writer"
         ],
         "education": [
@@ -658,11 +658,6 @@
           "City University of New York"
         ],
         "employers": [
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Fairchild Semiconductor",
             "start": null,
@@ -672,9 +667,20 @@
             "company": "Intel",
             "start": "1968-01-01",
             "end": "2004-01-01"
+          },
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1987-01-01",
+            "end": "1997-01-01"
+          },
           {
             "title": "chairperson of the executive board",
             "company": null,
@@ -686,12 +692,6 @@
             "company": null,
             "start": "1979-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1987-01-01",
-            "end": "1997-01-01"
           }
         ]
       }
@@ -710,8 +710,8 @@
         "occupations": [
           "philanthropist",
           "physicist",
-          "entrepreneur",
           "chemist",
+          "entrepreneur",
           "engineer"
         ],
         "education": [
@@ -742,9 +742,9 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
+          "physicist",
           "inventor",
           "computer scientist",
-          "physicist",
           "businessperson"
         ],
         "education": [

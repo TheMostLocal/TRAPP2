@@ -1,6 +1,6 @@
 {
   "ticker": "BX",
-  "fetchedAt": "2026-10-11T13:03:27.075089Z",
+  "fetchedAt": "2026-10-18T11:16:46.386457Z",
   "people": [
     {
       "qid": "Q552465",
@@ -16,8 +16,8 @@
         "occupations": [
           "patron of the arts",
           "investment banker",
-          "financier",
           "banker",
+          "financier",
           "entrepreneur",
           "chief executive officer"
         ],
@@ -25,8 +25,8 @@
           "Davenport College",
           "Abington Senior High School",
           "Yale College",
-          "Yale University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Yale University"
         ],
         "employers": [
           {
@@ -59,8 +59,8 @@
         "occupations": [
           "patron of the arts",
           "investment banker",
-          "financier",
           "banker",
+          "financier",
           "entrepreneur",
           "chief executive officer"
         ],
@@ -68,8 +68,8 @@
           "Davenport College",
           "Abington Senior High School",
           "Yale College",
-          "Yale University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Yale University"
         ],
         "employers": [
           {

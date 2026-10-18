@@ -7,24 +7,14 @@
   "occupations": [
     "university teacher",
     "academic",
-    "writer",
+    "businessperson",
     "economist",
-    "businessperson"
+    "writer"
   ],
   "education": [
     "University of California, Berkeley"
   ],
   "employers": [
-    {
-      "company": "Harvard University",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Stanford University",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Yale University",
       "start": null,
@@ -36,7 +26,12 @@
       "end": null
     },
     {
-      "company": "University of California, Berkeley",
+      "company": "Stanford University",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Harvard University",
       "start": null,
       "end": null
     }

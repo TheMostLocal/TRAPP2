@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T13:03:27.287187Z",
+  "generatedAt": "2026-10-18T11:16:46.646361Z",
   "totalPeople": 957,
   "totalTickers": 138,
   "lastRangeFilter": "ALL",
@@ -3505,7 +3505,7 @@
         "DIS"
       ],
       "positionsCount": 0,
-      "employersCount": 0
+      "employersCount": 1
     },
     {
       "qid": "Q535362",
@@ -9767,6 +9767,5 @@
       "positionsCount": 2,
       "employersCount": 0
     }
-  ],
-  "prunedAt": "2026-10-11T13:03:27.294592Z"
+  ]
 }

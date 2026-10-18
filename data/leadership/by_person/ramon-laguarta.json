@@ -1,11 +1,10 @@
 {
   "qid": "Q56042353",
   "name": "Ramon Laguarta",
-  "dateOfBirth": "0019-01-01",
+  "dateOfBirth": "1963-01-01",
   "birthPlace": "Barcelona",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
   "occupations": [
-    "businessperson",
     "chief executive officer",
     "businessperson",
     "chairperson"
@@ -18,6 +17,11 @@
   ],
   "employers": [
     {
+      "company": "Chupa Chups",
+      "start": null,
+      "end": "1996-01-01"
+    },
+    {
       "company": "PepsiCo",
       "start": "1996-01-01",
       "end": null
@@ -26,11 +30,6 @@
       "company": "SEAT",
       "start": null,
       "end": null
-    },
-    {
-      "company": "Chupa Chups",
-      "start": null,
-      "end": "1996-01-01"
     }
   ],
   "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "CVS",
-  "fetchedAt": "2026-10-11T13:03:27.081084Z",
+  "fetchedAt": "2026-10-18T11:16:46.393879Z",
   "people": [
     {
       "qid": "Q106086392",
@@ -14,8 +14,8 @@
         "birthPlace": "Ware",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Boston University",
@@ -71,8 +71,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Texas Tech University"
@@ -160,8 +160,8 @@
         "birthPlace": "Ware",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Boston University",
@@ -308,9 +308,9 @@
           "lawyer"
         ],
         "education": [
-          "University of Tennessee",
           "Balliol College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Tennessee"
         ],
         "employers": [
           {
@@ -453,8 +453,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "College of the Holy Cross",
-          "Columbia University"
+          "Columbia University",
+          "College of the Holy Cross"
         ],
         "employers": [],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-10-11T13:03:27.117719Z",
+  "fetchedAt": "2026-10-18T11:16:46.441574Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -18,8 +18,8 @@
           "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Marymount University"
+          "Loyola Marymount University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -49,8 +49,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
-          "Princeton University"
+          "Princeton University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -91,8 +91,8 @@
           "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Marymount University"
+          "Loyola Marymount University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -183,8 +183,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "entrepreneur",
-          "film producer"
+          "film producer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford University"
@@ -255,8 +255,8 @@
         "birthPlace": "Salina",
         "image": null,
         "occupations": [
-          "artist",
-          "musician"
+          "musician",
+          "artist"
         ],
         "education": [
           "Trulaske College of Business",
@@ -305,9 +305,9 @@
           "financier"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -329,24 +329,14 @@
           "lawyer"
         ],
         "education": [
-          "John F. Kennedy School of Government",
           "Harvard Law School",
+          "Brown University",
           "James B. Dudley High School",
-          "Brown University"
+          "John F. Kennedy School of Government"
         ],
         "employers": [
           {
-            "company": "Revlon",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Washington Gas",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Ad Council",
+            "company": "BET",
             "start": null,
             "end": null
           },
@@ -366,28 +356,38 @@
             "end": null
           },
           {
-            "company": "BET",
+            "company": "Revlon",
             "start": null,
             "end": null
           },
           {
-            "company": "Marriott International",
+            "company": "Washington Gas",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Ad Council",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-01-01",
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "2006-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-01-01",
+            "end": null
           }
         ]
       }
@@ -407,9 +407,9 @@
           "diplomat"
         ],
         "education": [
-          "Stanford University",
           "Hollywood High School",
-          "Yale Law School"
+          "Yale Law School",
+          "Stanford University"
         ],
         "employers": [
           {

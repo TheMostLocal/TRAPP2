@@ -5,25 +5,25 @@
   "birthPlace": "Pretoria",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
   "occupations": [
-    "philanthropist",
-    "programmer",
+    "investor",
     "dub actor",
     "financier",
     "technology entrepreneur",
-    "investor",
     "civil servant",
+    "philanthropist",
+    "programmer",
     "entrepreneur",
-    "engineer",
-    "politician"
+    "politician",
+    "engineer"
   ],
   "education": [
     "Smith School of Business",
     "Bryanston High School",
     "Waterkloof House Preparatory School",
     "Pretoria Boys High School",
+    "University of Pretoria",
     "Queen's University",
     "The Wharton School",
-    "University of Pretoria",
     "University of Pennsylvania",
     "Stanford University"
   ],
@@ -34,16 +34,6 @@
       "end": null
     },
     {
-      "company": "The Boring Company",
-      "start": "2016-12-17",
-      "end": null
-    },
-    {
-      "company": "Department of Government Efficiency",
-      "start": "2025-01-20",
-      "end": "2025-05-30"
-    },
-    {
       "company": "SolarCity",
       "start": null,
       "end": null
@@ -52,6 +42,16 @@
       "company": "OpenAI",
       "start": "2015-12-11",
       "end": "2019-01-01"
+    },
+    {
+      "company": "Department of Government Efficiency",
+      "start": "2025-01-20",
+      "end": "2025-05-30"
+    },
+    {
+      "company": "The Boring Company",
+      "start": "2016-12-17",
+      "end": null
     },
     {
       "company": "Tesla",

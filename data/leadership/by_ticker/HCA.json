@@ -1,6 +1,6 @@
 {
   "ticker": "HCA",
-  "fetchedAt": "2026-10-11T13:03:27.091821Z",
+  "fetchedAt": "2026-10-18T11:16:46.407403Z",
   "people": [
     {
       "qid": "Q80049510",
@@ -14,8 +14,8 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "manager"
+          "manager",
+          "entrepreneur"
         ],
         "education": [
           "Syracuse University",
@@ -119,8 +119,8 @@
         "birthPlace": "San Diego",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Crofton%20%283694392840%29%20%28cropped%29.jpg",
         "occupations": [
-          "president",
-          "businessperson"
+          "businessperson",
+          "president"
         ],
         "education": [
           "Rollins College",
@@ -146,9 +146,9 @@
           "lawyer"
         ],
         "education": [
-          "University of Tennessee",
           "Balliol College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Tennessee"
         ],
         "employers": [
           {

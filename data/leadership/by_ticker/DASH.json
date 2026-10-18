@@ -1,6 +1,6 @@
 {
   "ticker": "DASH",
-  "fetchedAt": "2026-10-11T13:03:27.082044Z",
+  "fetchedAt": "2026-10-18T11:16:46.395132Z",
   "people": [
     {
       "qid": "Q105038817",
@@ -18,8 +18,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Lynbrook High School"
+          "Lynbrook High School",
+          "Harvard University"
         ],
         "employers": [
           {

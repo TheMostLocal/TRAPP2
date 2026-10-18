@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-11T13:03:27.098112Z",
+  "fetchedAt": "2026-10-18T11:16:46.415669Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -458,8 +458,8 @@
         "image": null,
         "occupations": [
           "basketball player",
-          "businessperson",
-          "accountant"
+          "accountant",
+          "businessperson"
         ],
         "education": [
           "University of Notre Dame"
@@ -493,9 +493,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "university teacher",
           "oncologist",
-          "researcher"
+          "researcher",
+          "university teacher"
         ],
         "education": [
           "Duke University"

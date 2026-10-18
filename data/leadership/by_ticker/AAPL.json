@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-11T13:03:27.065755Z",
+  "fetchedAt": "2026-10-18T11:16:46.374874Z",
   "people": [
     {
       "qid": "Q709063",
@@ -15,12 +15,12 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "biochemist",
-          "molecular biologist"
+          "molecular biologist",
+          "biochemist"
         ],
         "education": [
-          "Princeton University",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -51,25 +51,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "financier",
-          "climate activist",
+          "environmentalist",
           "university teacher",
           "farmer",
-          "journalist",
           "orator",
           "blogger",
-          "environmentalist",
           "financier",
-          "businessperson",
+          "climate activist",
+          "politician",
           "writer",
-          "politician"
+          "businessperson",
+          "journalist"
         ],
         "education": [
+          "Defense Information School",
           "Harvard College",
           "Vanderbilt University",
           "Vanderbilt University Divinity School",
-          "St. Albans School",
-          "Defense Information School"
+          "St. Albans School"
         ],
         "employers": [
           {
@@ -79,12 +78,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
           {
             "title": "United States representative",
             "company": null,
@@ -102,6 +95,12 @@
             "company": null,
             "start": "1993-01-20",
             "end": "2001-01-20"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
           },
           {
             "title": "board member",
@@ -158,9 +157,9 @@
           "businessperson"
         ],
         "education": [
+          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College",
-          "Booth School of Business"
+          "Wellesley College"
         ],
         "employers": [
           {
@@ -233,12 +232,12 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "biochemist",
-          "molecular biologist"
+          "molecular biologist",
+          "biochemist"
         ],
         "education": [
-          "Princeton University",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -304,12 +303,12 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
+          "electronics technician",
+          "programmer",
           "inventor",
           "entrepreneur",
           "computer scientist",
           "engineer",
-          "programmer",
-          "electronics technician",
           "teacher",
           "businessperson",
           "actor"
@@ -318,20 +317,10 @@
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "University of California, Berkeley",
-          "Homestead High School"
+          "Homestead High School",
+          "University of California, Berkeley"
         ],
         "employers": [
-          {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Hewlett-Packard",
             "start": null,
@@ -339,6 +328,16 @@
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -359,15 +358,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
           "technology entrepreneur",
-          "general manager",
-          "executive producer",
           "designer",
           "financier",
-          "film producer",
           "founder",
+          "film producer",
+          "general manager",
+          "executive producer",
+          "computer scientist",
           "entrepreneur",
-          "inventor",
-          "computer scientist"
+          "inventor"
         ],
         "education": [
           "Homestead High School",
@@ -376,12 +375,12 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },
           {
-            "company": "NeXT",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },

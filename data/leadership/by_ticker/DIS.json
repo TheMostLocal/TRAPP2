@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-10-11T13:03:27.083075Z",
+  "fetchedAt": "2026-10-18T11:16:46.396344Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -105,8 +105,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
-          "architect"
+          "architect",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -135,22 +135,22 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
           "producer",
-          "manufacturer",
+          "director",
+          "designer",
           "draftsperson",
           "film actor",
-          "designer",
           "caricaturist",
-          "director",
+          "manufacturer",
+          "voice actor",
           "film producer",
-          "illustrator",
-          "television presenter",
-          "comics artist",
           "film director",
           "painter",
-          "voice actor",
+          "television presenter",
+          "comics artist",
+          "illustrator",
           "animator",
-          "writer",
           "inventor",
+          "writer",
           "actor"
         ],
         "education": [
@@ -158,7 +158,13 @@
           "Central High School",
           "Kansas City Art Institute"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Screen Gems",
+            "start": "1923-01-01",
+            "end": "1928-01-01"
+          }
+        ],
         "positions": []
       }
     },
@@ -174,8 +180,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
         "occupations": [
-          "businessperson",
-          "animator"
+          "animator",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -202,8 +208,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
         "occupations": [
           "film producer",
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [],
@@ -222,8 +228,8 @@
         "birthPlace": "Rexburg",
         "image": null,
         "occupations": [
-          "businessperson",
-          "film producer"
+          "film producer",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -261,9 +267,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
-          "businessperson",
           "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Lawrenceville School",
@@ -330,11 +336,6 @@
         ],
         "employers": [
           {
-            "company": "The Walt Disney Company",
-            "start": "1996-01-01",
-            "end": "2021-12-31"
-          },
-          {
             "company": "American Broadcasting Company",
             "start": "1974-01-01",
             "end": "1999-02-25"
@@ -343,9 +344,20 @@
             "company": "The Walt Disney Company",
             "start": "2022-11-20",
             "end": "2026-12-31"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": "1996-01-01",
+            "end": "2021-12-31"
           }
         ],
         "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2021-01-01"
+          },
           {
             "title": "chief operating officer",
             "company": null,
@@ -363,12 +375,6 @@
             "company": null,
             "start": "1989-01-01",
             "end": "1992-01-01"
-          },
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2012-01-01",
-            "end": "2021-01-01"
           },
           {
             "title": "chief executive officer",
@@ -395,9 +401,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh"
+          "University of Pittsburgh",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -455,9 +461,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh"
+          "University of Pittsburgh",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -482,15 +488,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "chief financial officer",
           "businessperson",
-          "banker"
+          "banker",
+          "chief financial officer"
         ],
         "education": [
-          "Harvard Law School",
           "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -625,12 +631,12 @@
           "politician"
         ],
         "education": [
-          "Harvard Law School",
-          "Princeton University",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
+          "The Branson School",
+          "Harvard Law School",
           "University of Oxford",
-          "The Branson School"
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -827,22 +833,22 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
           "producer",
-          "manufacturer",
+          "director",
+          "designer",
           "draftsperson",
           "film actor",
-          "designer",
           "caricaturist",
-          "director",
+          "manufacturer",
+          "voice actor",
           "film producer",
-          "illustrator",
-          "television presenter",
-          "comics artist",
           "film director",
           "painter",
-          "voice actor",
+          "television presenter",
+          "comics artist",
+          "illustrator",
           "animator",
-          "writer",
           "inventor",
+          "writer",
           "actor"
         ],
         "education": [
@@ -850,7 +856,13 @@
           "Central High School",
           "Kansas City Art Institute"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Screen Gems",
+            "start": "1923-01-01",
+            "end": "1928-01-01"
+          }
+        ],
         "positions": []
       }
     },
@@ -867,8 +879,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
         "occupations": [
           "film producer",
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [],

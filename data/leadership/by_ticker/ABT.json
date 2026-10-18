@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-10-11T13:03:27.066883Z",
+  "fetchedAt": "2026-10-18T11:16:46.376237Z",
   "people": [
     {
       "qid": "Q95569597",
@@ -247,11 +247,11 @@
           "executive"
         ],
         "education": [
+          "Southern University Law Center",
+          "Kellogg School of Management",
           "University of Louisiana at Lafayette",
           "Dedman School of Law",
-          "Harvard Business School",
-          "Southern University Law Center",
-          "Kellogg School of Management"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -332,9 +332,9 @@
           "business executive"
         ],
         "education": [
+          "University of Southern California",
           "University of Wisconsin\u2013Stevens Point",
-          "University of Minnesota",
-          "University of Southern California"
+          "University of Minnesota"
         ],
         "employers": [
           {
@@ -387,11 +387,11 @@
         "education": [
           "National Defense University",
           "Virginia Military Institute",
+          "Hampton High School",
+          "Embry\u2013Riddle Aeronautical University",
           "Syracuse University",
           "George Washington University",
-          "Air University",
-          "Hampton High School",
-          "Embry\u2013Riddle Aeronautical University"
+          "Air University"
         ],
         "employers": [],
         "positions": [
@@ -448,22 +448,22 @@
           "academic"
         ],
         "education": [
-          "Princeton University",
-          "Princeton School of Public and International Affairs"
+          "Princeton School of Public and International Affairs",
+          "Princeton University"
         ],
         "employers": [
           {
+            "company": "Northwestern University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Chicago",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "New York University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Northwestern University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Northwestern University",
             "start": null,
             "end": null
           }

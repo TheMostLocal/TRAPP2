@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-10-11T13:03:27.095666Z",
+  "fetchedAt": "2026-10-18T11:16:46.412466Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -187,11 +187,11 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
-          "chemist",
           "molecular biologist",
           "crystallographer",
-          "biochemist",
-          "university teacher"
+          "chemist",
+          "university teacher",
+          "biochemist"
         ],
         "education": [
           "Pomona College",
@@ -200,24 +200,24 @@
         ],
         "employers": [
           {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "University of California, San Francisco",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
             "end": null
           },
           {
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -242,13 +242,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "cardiologist",
-          "university teacher"
+          "university teacher",
+          "cardiologist"
         ],
         "education": [
-          "Harvard T.H. Chan School of Public Health",
           "Radcliffe College",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "Harvard T.H. Chan School of Public Health"
         ],
         "employers": [
           {
@@ -431,8 +431,8 @@
         "birthPlace": "Poland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darius%20Adamczyk.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Syracuse University",
@@ -522,10 +522,10 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "chief executive officer",
-          "lecturer",
           "executive",
           "business manager",
+          "lecturer",
+          "chief executive officer",
           "merchant",
           "entrepreneur"
         ],
@@ -715,9 +715,9 @@
         "education": [
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
-          "Massachusetts Institute of Technology",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
+          "Massachusetts Institute of Technology",
           "Harvard University"
         ],
         "employers": [],
@@ -785,8 +785,8 @@
         "education": [
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
-          "Columbia University"
+          "Columbia University",
+          "Harvard Business School"
         ],
         "employers": [
           {
