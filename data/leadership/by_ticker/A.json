@@ -341,14 +341,14 @@
         ],
         "employers": [
           {
-            "company": "Pfizer",
-            "start": "2009-01-01",
-            "end": null
-          },
-          {
             "company": "Wyeth",
             "start": "2008-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Pfizer",
+            "start": "2009-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -377,8 +377,8 @@
           "business executive"
         ],
         "education": [
-          "University of Massachusetts",
-          "Cornell University"
+          "Cornell University",
+          "University of Massachusetts"
         ],
         "employers": [],
         "positions": [
@@ -421,9 +421,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
           "gastroenterologist",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "Harvard College",
@@ -473,8 +473,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "oncologist",
           "scientist",
+          "oncologist",
           "physician"
         ],
         "education": [

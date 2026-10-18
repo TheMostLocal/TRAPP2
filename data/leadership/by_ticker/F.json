@@ -55,7 +55,6 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Hotchkiss School",
           "MIT Sloan School of Management",
           "Princeton University",
@@ -117,8 +116,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -372,6 +371,7 @@
           "Hotchkiss School",
           "Yale Law School",
           "University of Oxford",
+          "Harvard College",
           "Harvard University"
         ],
         "employers": [
@@ -399,9 +399,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {
@@ -443,7 +443,6 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Hotchkiss School",
           "MIT Sloan School of Management",
           "Princeton University",

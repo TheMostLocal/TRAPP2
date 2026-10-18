@@ -89,8 +89,8 @@
         "image": null,
         "occupations": [
           "director",
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -321,6 +321,7 @@
           "chief financial officer"
         ],
         "education": [
+          "Harvard University",
           "Union College",
           "Bronx High School of Science",
           "Harvard Business School",

@@ -130,6 +130,7 @@
         "birthPlace": "Perth",
         "image": null,
         "occupations": [
+          "merchant",
           "cricketer",
           "merchant",
           "engineer",
@@ -244,7 +245,7 @@
           "manager",
           "university teacher",
           "politician",
-          "economist"
+          "university teacher"
         ],
         "education": [
           "London School of Economics and Political Science",
@@ -330,8 +331,8 @@
         "birthPlace": "London",
         "image": null,
         "occupations": [
-          "businessperson",
-          "association football player"
+          "association football player",
+          "businessperson"
         ],
         "education": [
           "Westminster City School"

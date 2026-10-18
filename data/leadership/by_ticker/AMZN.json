@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -299,9 +299,9 @@
           "soldier"
         ],
         "education": [
-          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
+          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -341,8 +341,8 @@
           "computer scientist"
         ],
         "education": [
-          "University of Michigan",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "University of Michigan"
         ],
         "employers": [
           {
@@ -483,12 +483,17 @@
         "education": [
           "Indian Institute of Management Calcutta",
           "University of Madras",
+          "Yale University",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College",
-          "Yale University"
+          "Madras Christian College"
         ],
         "employers": [
+          {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
           {
             "company": "PepsiCo",
             "start": "1994-01-01",

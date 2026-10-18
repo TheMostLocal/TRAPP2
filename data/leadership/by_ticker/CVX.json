@@ -43,8 +43,8 @@
         "birthPlace": "Lusaka",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
         "occupations": [
-          "economist",
-          "writer"
+          "writer",
+          "economist"
         ],
         "education": [
           "Kogod School of Business",
@@ -177,9 +177,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University",
-          "University of Michigan Law School"
+          "Wesleyan University"
         ],
         "employers": [],
         "positions": []
@@ -256,6 +256,7 @@
           "businessperson"
         ],
         "education": [
+          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
           "Columbia University",
@@ -307,10 +308,15 @@
           "academic administrator"
         ],
         "education": [
-          "Princeton University",
-          "University of Southern California"
+          "University of Southern California",
+          "Princeton University"
         ],
         "employers": [
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Imperial College London",
             "start": null,
@@ -318,11 +324,6 @@
           },
           {
             "company": "Massachusetts Institute of Technology",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Stanford University",
             "start": null,
             "end": null
           }

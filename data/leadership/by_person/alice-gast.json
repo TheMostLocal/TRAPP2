@@ -10,10 +10,15 @@
     "academic administrator"
   ],
   "education": [
-    "Princeton University",
-    "University of Southern California"
+    "University of Southern California",
+    "Princeton University"
   ],
   "employers": [
+    {
+      "company": "Stanford University",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Imperial College London",
       "start": null,
@@ -21,11 +26,6 @@
     },
     {
       "company": "Massachusetts Institute of Technology",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Stanford University",
       "start": null,
       "end": null
     }

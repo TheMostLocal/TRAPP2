@@ -17,9 +17,9 @@
     "inventor"
   ],
   "education": [
-    "Homestead High School",
     "Reed College",
-    "De Anza College"
+    "De Anza College",
+    "Homestead High School"
   ],
   "employers": [
     {
@@ -33,12 +33,12 @@
       "end": null
     },
     {
-      "company": "Pixar",
+      "company": "Atari, Inc.",
       "start": null,
       "end": null
     },
     {
-      "company": "Apple Inc.",
+      "company": "Pixar",
       "start": null,
       "end": null
     }

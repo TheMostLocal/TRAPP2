@@ -8,17 +8,18 @@
     "founder",
     "manager",
     "electrical engineer",
+    "founder",
     "entrepreneur",
     "computer scientist",
     "chief executive officer",
-    "engineer",
-    "businessperson"
+    "businessperson",
+    "engineer"
   ],
   "education": [
+    "Stanford University",
     "Oneida Baptist Institute",
     "Aloha High School",
-    "Oregon State University",
-    "Stanford University"
+    "Oregon State University"
   ],
   "employers": [],
   "positions": [],

@@ -76,8 +76,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -98,6 +98,8 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
+          "investor",
+          "banker",
           "technology entrepreneur",
           "chess player",
           "banker",
@@ -107,7 +109,9 @@
           "entrepreneur",
           "businessperson",
           "computer scientist",
-          "writer"
+          "writer",
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Stanford Law School",
@@ -149,8 +153,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -245,6 +249,8 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
+          "investor",
+          "banker",
           "technology entrepreneur",
           "chess player",
           "banker",
@@ -254,7 +260,9 @@
           "entrepreneur",
           "businessperson",
           "computer scientist",
-          "writer"
+          "writer",
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Stanford Law School",

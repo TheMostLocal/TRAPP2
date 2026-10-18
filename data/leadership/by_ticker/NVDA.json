@@ -17,17 +17,18 @@
           "founder",
           "manager",
           "electrical engineer",
+          "founder",
           "entrepreneur",
           "computer scientist",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []
@@ -233,9 +234,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
         "occupations": [],
         "education": [
-          "Harvard Business School",
           "Harvard University",
           "University of Southern California",
+          "Harvard Business School",
           "USC Viterbi School of Engineering"
         ],
         "employers": [],
@@ -307,17 +308,18 @@
           "founder",
           "manager",
           "electrical engineer",
+          "founder",
           "entrepreneur",
           "computer scientist",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []
@@ -338,17 +340,18 @@
           "founder",
           "manager",
           "electrical engineer",
+          "founder",
           "entrepreneur",
           "computer scientist",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []

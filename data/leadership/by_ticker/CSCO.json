@@ -60,6 +60,11 @@
         ],
         "employers": [
           {
+            "company": "Cisco",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Stratus Technologies",
             "start": null,
             "end": null
@@ -71,11 +76,6 @@
           },
           {
             "company": "Honeywell",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Cisco",
             "start": null,
             "end": null
           },
@@ -334,16 +334,6 @@
         ],
         "employers": [
           {
-            "company": "Freescale Semiconductor",
-            "start": "2007-06-01",
-            "end": null
-          },
-          {
-            "company": "Texas Instruments",
-            "start": "1994-01-01",
-            "end": null
-          },
-          {
             "company": "AMD",
             "start": "2012-01-01",
             "end": null
@@ -351,6 +341,16 @@
           {
             "company": "IBM Research",
             "start": "1995-01-01",
+            "end": null
+          },
+          {
+            "company": "Freescale Semiconductor",
+            "start": "2007-06-01",
+            "end": null
+          },
+          {
+            "company": "Texas Instruments",
+            "start": "1994-01-01",
             "end": null
           }
         ],

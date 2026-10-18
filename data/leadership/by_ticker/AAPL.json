@@ -306,14 +306,16 @@
           "electronics technician",
           "programmer",
           "inventor",
+          "electronics technician",
+          "businessperson",
           "entrepreneur",
           "computer scientist",
           "engineer",
           "teacher",
-          "businessperson",
           "actor"
         ],
         "education": [
+          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
@@ -369,9 +371,9 @@
           "inventor"
         ],
         "education": [
-          "Homestead High School",
           "Reed College",
-          "De Anza College"
+          "De Anza College",
+          "Homestead High School"
         ],
         "employers": [
           {
@@ -385,12 +387,12 @@
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           }
