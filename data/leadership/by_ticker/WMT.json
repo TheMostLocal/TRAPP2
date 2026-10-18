@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-10-11T13:03:27.125340Z",
+  "fetchedAt": "2026-10-18T10:35:29.076453Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -14,8 +14,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -42,8 +42,8 @@
         ],
         "education": [
           "Georgetown University",
-          "San Marino High School",
-          "Stanford University"
+          "Stanford University",
+          "San Marino High School"
         ],
         "employers": [],
         "positions": []
@@ -61,8 +61,8 @@
         "birthPlace": "Tulsa",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20Robson%20Walton.jpg",
         "occupations": [
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Columbia Law School",
@@ -84,8 +84,8 @@
         "birthPlace": "Wausau",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
-          "engineer",
           "business executive",
+          "engineer",
           "computer scientist"
         ],
         "education": [
@@ -137,8 +137,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -161,8 +161,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Cox School of Business",
@@ -188,10 +188,10 @@
           "military officer"
         ],
         "education": [
-          "Miami Coral Park High School",
-          "University of Virginia Darden School of Business",
           "United States Naval Academy",
-          "University of Virginia"
+          "University of Virginia",
+          "Miami Coral Park High School",
+          "University of Virginia Darden School of Business"
         ],
         "employers": [
           {
@@ -216,8 +216,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Conde%2C%20Univision%20President%20%28cropped%29.jpg",
         "occupations": [],
         "education": [
-          "Harvard University",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -352,8 +352,8 @@
         "birthPlace": "Bentonville",
         "image": null,
         "occupations": [
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -379,8 +379,8 @@
         ],
         "education": [
           "Georgetown University",
-          "San Marino High School",
-          "Stanford University"
+          "Stanford University",
+          "San Marino High School"
         ],
         "employers": [],
         "positions": []

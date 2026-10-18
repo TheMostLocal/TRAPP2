@@ -1,6 +1,6 @@
 {
   "ticker": "TMO",
-  "fetchedAt": "2026-10-11T13:03:27.119129Z",
+  "fetchedAt": "2026-10-18T10:35:29.067690Z",
   "people": [
     {
       "qid": "Q114890303",
@@ -41,9 +41,9 @@
           "director"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Northwestern University",
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -253,8 +253,8 @@
           "writer"
         ],
         "education": [
-          "Harvard University",
           "Walsh School of Foreign Service",
+          "Harvard University",
           "Georgetown University Law Center"
         ],
         "employers": [

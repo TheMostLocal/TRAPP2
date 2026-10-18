@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T13:03:27.287187Z",
+  "generatedAt": "2026-10-18T10:35:29.149438Z",
   "totalPeople": 957,
   "totalTickers": 138,
-  "lastRangeFilter": "ALL",
-  "thisRunPeople": 831,
-  "thisRunTickers": 262,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 284,
+  "thisRunTickers": 105,
   "index": [
     {
       "qid": "Q125453309",
@@ -163,8 +163,6 @@
       "name": "Ronald Sugar",
       "slug": "ronald-sugar",
       "tickers": [
-        "AAPL",
-        "CVX",
         "UBER"
       ],
       "positionsCount": 0,
@@ -268,8 +266,6 @@
       "name": "Glenn Tilton",
       "slug": "glenn-tilton",
       "tickers": [
-        "ABBV",
-        "ABT",
         "PSX"
       ],
       "positionsCount": 2,
@@ -361,7 +357,6 @@
       "name": "Roxanne Austin",
       "slug": "roxanne-austin",
       "tickers": [
-        "ABBV",
         "VZ"
       ],
       "positionsCount": 1,
@@ -649,8 +644,6 @@
       "name": "Beth E. Mooney",
       "slug": "beth-e-mooney",
       "tickers": [
-        "ACN",
-        "F",
         "T"
       ],
       "positionsCount": 2,
@@ -701,8 +694,6 @@
       "name": "Shantanu Narayen",
       "slug": "shantanu-narayen",
       "tickers": [
-        "ADBE",
-        "ADBE",
         "PFE"
       ],
       "positionsCount": 2,
@@ -785,7 +776,6 @@
       "name": "Cristiano Amon",
       "slug": "cristiano-amon",
       "tickers": [
-        "ADBE",
         "QCOM"
       ],
       "positionsCount": 3,
@@ -917,7 +907,6 @@
       "name": "W. Don Cornwell",
       "slug": "w-don-cornwell",
       "tickers": [
-        "AIG",
         "PFE"
       ],
       "positionsCount": 0,
@@ -1396,7 +1385,6 @@
       "name": "Lisa Davis",
       "slug": "lisa-davis",
       "tickers": [
-        "APD",
         "PSX"
       ],
       "positionsCount": 1,
@@ -1933,7 +1921,6 @@
       "name": "Denise Ramos",
       "slug": "denise-ramos",
       "tickers": [
-        "BAC",
         "PSX",
         "RTX"
       ],
@@ -3016,7 +3003,6 @@
       "name": "Dan Schulman",
       "slug": "dan-schulman",
       "tickers": [
-        "CSCO",
         "PYPL",
         "VZ"
       ],
@@ -3068,7 +3054,6 @@
       "name": "John Harris",
       "slug": "john-harris",
       "tickers": [
-        "CSCO",
         "XOM"
       ],
       "positionsCount": 1,
@@ -3171,7 +3156,6 @@
       "name": "Roger N. Farah",
       "slug": "roger-n-farah",
       "tickers": [
-        "CVS",
         "PGR"
       ],
       "positionsCount": 0,
@@ -3252,7 +3236,6 @@
       "name": "Mark T. Bertolini",
       "slug": "mark-t-bertolini",
       "tickers": [
-        "CVS",
         "VZ"
       ],
       "positionsCount": 0,
@@ -3325,7 +3308,6 @@
       "name": "Charles Moorman",
       "slug": "charles-moorman",
       "tickers": [
-        "CVX",
         "ORCL"
       ],
       "positionsCount": 0,
@@ -3575,7 +3557,6 @@
       "name": "Mark Parker",
       "slug": "mark-parker",
       "tickers": [
-        "DIS",
         "NKE"
       ],
       "positionsCount": 0,
@@ -3586,7 +3567,6 @@
       "name": "Safra Catz",
       "slug": "safra-catz",
       "tickers": [
-        "DIS",
         "ORCL"
       ],
       "positionsCount": 6,
@@ -3971,7 +3951,6 @@
       "name": "William Kennard",
       "slug": "william-kennard",
       "tickers": [
-        "F",
         "T"
       ],
       "positionsCount": 2,
@@ -4013,7 +3992,6 @@
       "name": "David Abney",
       "slug": "david-abney",
       "tickers": [
-        "FCX",
         "NOC"
       ],
       "positionsCount": 0,
@@ -4400,7 +4378,6 @@
       "name": "Thomas Schoewe",
       "slug": "thomas-schoewe",
       "tickers": [
-        "GM",
         "NOC"
       ],
       "positionsCount": 0,
@@ -4461,7 +4438,6 @@
       "name": "Aneel Bhusri",
       "slug": "aneel-bhusri",
       "tickers": [
-        "GM",
         "WDAY",
         "WDAY"
       ],
@@ -4576,7 +4552,6 @@
       "name": "Jan E. Tighe",
       "slug": "jan-e-tighe",
       "tickers": [
-        "GS",
         "PGR"
       ],
       "positionsCount": 0,
@@ -4997,7 +4972,6 @@
       "name": "Dion Weisler",
       "slug": "dion-weisler",
       "tickers": [
-        "INTC",
         "TMO"
       ],
       "positionsCount": 0,
@@ -5261,7 +5235,6 @@
       "name": "Timothy P. Flynn",
       "slug": "timothy-p-flynn",
       "tickers": [
-        "JPM",
         "WMT"
       ],
       "positionsCount": 2,
@@ -5806,7 +5779,6 @@
       "name": "Brian Rogers",
       "slug": "brian-rogers",
       "tickers": [
-        "LOW",
         "RTX"
       ],
       "positionsCount": 0,
@@ -5920,7 +5892,6 @@
       "name": "Richard K. Davis",
       "slug": "richard-k-davis",
       "tickers": [
-        "MA",
         "WFC"
       ],
       "positionsCount": 1,
@@ -6062,7 +6033,6 @@
       "name": "Kathleen Wilson-Thompson",
       "slug": "kathleen-wilson-thompson",
       "tickers": [
-        "MCK",
         "TSLA"
       ],
       "positionsCount": 1,
@@ -6186,7 +6156,6 @@
       "name": "Peter Thiel",
       "slug": "peter-thiel",
       "tickers": [
-        "META",
         "PLTR",
         "PLTR"
       ],
@@ -6268,8 +6237,6 @@
       "name": "Kenneth Frazier",
       "slug": "kenneth-frazier",
       "tickers": [
-        "MRK",
-        "MRK",
         "XOM"
       ],
       "positionsCount": 2,
@@ -6311,7 +6278,6 @@
       "name": "Pamela Craig",
       "slug": "pamela-craig",
       "tickers": [
-        "MRK",
         "PGR"
       ],
       "positionsCount": 2,
@@ -6332,7 +6298,6 @@
       "name": "Kathy J. Warden",
       "slug": "kathy-j-warden",
       "tickers": [
-        "MRK",
         "NOC",
         "NOC"
       ],
@@ -6425,7 +6390,6 @@
       "name": "Teri List",
       "slug": "teri-list",
       "tickers": [
-        "MSFT",
         "V"
       ],
       "positionsCount": 1,
@@ -6476,7 +6440,6 @@
       "name": "Charlie Scharf",
       "slug": "charlie-scharf",
       "tickers": [
-        "MSFT",
         "WFC",
         "WFC"
       ],
@@ -9767,6 +9730,5 @@
       "positionsCount": 2,
       "employersCount": 0
     }
-  ],
-  "prunedAt": "2026-10-11T13:03:27.294592Z"
+  ]
 }
