@@ -232,19 +232,28 @@ def fetch_one(ticker: str) -> bool:
         if not income and not balance and not cashflow and not income_q and not balance_q and not cashflow_q:
             log(f"  ⚠ {ticker}: no statement data (may be an ETF/FX/index)")
             return False
-        # Currency, best-effort.
-        currency = "USD"
+        # z123: statements are in the REPORTING currency (Yahoo info.financialCurrency). It
+        # differs from the trading currency for ADRs (TSM: listed in USD, reports in TWD) and
+        # some cross-listings (Glencore: GBp listing, reports in USD). "currency" = the statements'.
+        trade_ccy, fin_ccy = None, None
         try:
             fc = t.fast_info.get("currency") if hasattr(t, "fast_info") else None
             if fc:
-                currency = str(fc)
+                trade_ccy = str(fc)
         except Exception:
             pass
+        try:
+            fin_ccy = (t.info or {}).get("financialCurrency") or None
+        except Exception:
+            fin_ccy = None
+        currency = str(fin_ccy or trade_ccy or "USD")
         payload = {
             "ticker": ticker,
             "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
             "source": "yahoo",
             "currency": currency,
+            "financialCurrency": fin_ccy,
+            "tradingCurrency": trade_ccy,
             "income": income,
             "balance": balance,
             "cashflow": cashflow,
