@@ -62,6 +62,7 @@ COLUMNS = [
     # NEW — expense ratio (fund fee) + extra grading ratios
     "expenseRatio", "currentRatio", "quickRatio", "debtToEquity", "payoutRatio",
     "pegRatio", "heldPctInsiders", "heldPctInstitutions", "shortPctFloat",
+    "financialCurrency",  # z123: the statements' (reporting) currency - Yahoo info.financialCurrency
 ]
 
 
@@ -459,6 +460,7 @@ def fetch_quote(ticker, profile_cache):
         "web_url": safe(info, "website"),
         "image": "",  # yfinance dropped logo_url. App synthesizes via Clearbit using web_url.
         "currency": safe(info, "currency"),
+        "financialCurrency": safe(info, "financialCurrency"),   # z123: TSM trades in USD, reports in TWD
         "employees": fmt_num(safe(info, "fullTimeEmployees")),
         "city": safe(info, "city"),
         "state": safe(info, "state"),
