@@ -1,78 +1,63 @@
-# ============================================================
-#  >>> DESTINATION: TheMostLocal/TRAPP2
-#  >>> FILE PATH:   .github/workflows/intraday.yml
-#  >>> FULL PATH:   TheMostLocal/TRAPP2/.github/workflows/intraday.yml
-#
-#  Edit/paste directly on GitHub here:
-#  https://github.com/TheMostLocal/TRAPP2/edit/main/.github/workflows/intraday.yml
-#
-#  WHAT CHANGED IN THIS FILE
-#  -------------------------
-#  1. 15-MINUTE CADENCE (session loop since z115), STAGGERED ACROSS REPOS. This repo fires at :0,15,30,45
-#     past the hour. TRAPP2 :0,15,30,45 · TRAPP2-2 :5,20,35,50 ·
-#     TRAPP2-3 :10,25,40,55 · TRAPP2-1 :3,18,33,48. The fleet therefore pushes
-#     fresh prices to the frontend roughly every ~4 minutes, and no two repos
-#     ever queue for a runner in the same minute.
-#
-#  2. NEW STEP: "Append 15-minute intraday tape" runs
-#     pipeline/append_intraday_snapshot.py immediately after the quote fetch. It
-#     writes data/intraday/<today>.json (the session tape), data/intraday/
-#     latest.json (the frontend's one-request fast path) and index.json. This is
-#     what gives the app a GOOGLEFINANCE-style refreshing price series for
-#     today's trading day even when nobody has the app open.
-#
-#  3. SCOPED COMMITS. `git add -A data/` staged EVERY file under data/, including
-#     output owned by other workflows in this repo (macro/quad.json, history/,
-#     leadership/, 13f/ ...). Combined with the `merge -X ours` retry, a quote
-#     run that started before a sibling pushed would REVERT that sibling's work.
-#     This job now stages only the files it actually produces.
-#
-#  4. SCOPED CONFLICT RECOVERY. `git checkout --ours -- data/` had the same
-#     blast radius on the conflict path. Now scoped to this job's own files.
-# ============================================================
+#  >>> DESTINATION: TheMostLocal/TRAPP2  (.github/workflows/options.yml — NEW FILE)
+name: Options Chains
 
-
-# z115 — SESSION LOOP. GitHub's scheduler delayed / dropped most of the
-# "every 15 minutes" crons (2026-10-15 live tape: 4 points — 13:09, 17:36, 20:33,
-# 23:19 UTC). Each run now LOOPS inside one job (pipeline/intraday_loop.sh):
-# quotes -> corrections -> signals/regime -> tape point -> commit, then sleeps to
-# the next 15-minute mark (+0 min for this repo), until 22:30 UTC or the job's
-# 5h40m budget. GitHub only has to START the job a couple of times a day.
-# Starts: 12:00 UTC (pre-market) and 17:00 UTC (continues past the close),
-# plus 14:30 / 20:30 UTC fallbacks in case a start is dropped.
-# While a loop runs, a later start just waits (same concurrency group) and picks
-# up where it left off.
-# z117 - HOURLY STARTS 12:00-21:00 UTC. GitHub dropped the 12:00 and 14:30 starts on
-# 2026-10-16 (no tape 08:45-15:58 UTC - through the open). A start that finds the loop
-# running waits as the single pending run (a newer start replaces it); one that finds
-# nothing running restarts the tape within the hour. The loop fast-forwards to the latest
-# main before its first pass, so a long wait can't overwrite newer points.
-name: Intraday Quotes + 15-min Tape
+# Pulls live options chains + computes Greeks for the main tickers, writing
+# data/options/<TICKER>.json (+ a manifest). Expired contracts are dropped on
+# each run, so the app only ever sees live options. The bot keeps whatever it
+# traded in its own data, independent of these files.
+#
+# Options data moves fast and is only meaningful during/after market hours, so
+# this runs a few times each trading day plus a post-close snapshot. Adjust the
+# universe via data/options_universe.txt (a curated list of liquid names) — you
+# do NOT want all ~260 tickers here; many have no/illiquid options and it wastes
+# the run. Start with the 30-60 most liquid (mega-caps + high-volume ETFs).
 
 on:
   schedule:
-    - cron: '0 8-23 * * 1-5'     # z131: hourly starts 08-23 UTC - pre-market (04:00 ET) to after hours (20:00 EDT)
+    # Weekdays: 10:00, 13:00, 15:45 ET. z134: cron is UTC, so each is listed for EDT (UTC-4) and EST
+    # (UTC-5) and the gate job keeps the one that lands on the ET time.
+    - cron: '0 14 * * 1-5'     # 10:00 EDT
+    - cron: '0 15 * * 1-5'     # 10:00 EST
+    - cron: '0 17 * * 1-5'     # 13:00 EDT
+    - cron: '0 18 * * 1-5'     # 13:00 EST
+    - cron: '45 19 * * 1-5'    # 15:45 EDT
+    - cron: '45 20 * * 1-5'    # 15:45 EST
   workflow_dispatch:
-    inputs:
-      force_tape:
-        description: 'Write an intraday tape point even outside session hours'
-        type: boolean
-        required: false
-        default: false
-      single:
-        description: 'One pass only (no loop)'
-        type: boolean
-        required: false
-        default: false
 
 concurrency:
-  group: trapp2-quote-push
-  cancel-in-progress: false     # never kill a run mid-write
+  group: trapp2-options
+  cancel-in-progress: false
 
 jobs:
-  quotes:
+  gate:
+    # z134: GitHub cron runs on UTC. Every run is scheduled at BOTH offsets (EDT = UTC-4, EST =
+    # UTC-5); this gate turns the cron's UTC hour into today's Eastern hour and keeps only the
+    # run that lands on the intended ET time - so "after the close" stays after the close all year.
     runs-on: ubuntu-latest
-    timeout-minutes: 360          # GitHub's per-job maximum; the loop stops itself at 5h40m
+    outputs:
+      run: ${{ steps.g.outputs.run }}
+      tier: ${{ steps.g.outputs.tier }}
+    steps:
+      - id: g
+        name: Eastern-time gate
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; echo "tier=" >> "$GITHUB_OUTPUT"; exit 0; fi
+          S="${{ github.event.schedule }}"
+          OFF=$(TZ=America/New_York date +%z)                 # -0400 (EDT) or -0500 (EST)
+          OFFH=$((10#${OFF:1:2}))
+          UM=$(echo "$S" | awk '{print $1}'); UH=$(echo "$S" | awk '{print $2}')
+          ETH=$(( (10#$UH - OFFH + 24) % 24 )); ETM=$(printf '%02d' "$UM")
+          case "${ETH}:${ETM}" in
+            10:00|13:00|15:45) RUN=true; T= ;;
+            *) RUN=false; T= ;;
+          esac
+          echo "schedule '$S' = ${ETH}:${ETM} ET today (UTC${OFF}) -> run=${RUN} tier=${T:-default}"
+          echo "run=${RUN}" >> "$GITHUB_OUTPUT"; echo "tier=${T}" >> "$GITHUB_OUTPUT"
+  options:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
     permissions:
       contents: write
     steps:
@@ -85,20 +70,42 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+      - name: Install requirements
+        run: pip install "yfinance>=0.2.50,<0.3" pandas
 
-      - name: Session loop (quotes + tape every 15 min, committed each pass)
+      - name: Fetch options chains + Greeks
         env:
-          INTRADAY_FORCE: ${{ github.event.inputs.force_tape == 'true' && '1' || '' }}
-          LOOP_MAX_ITERS: ${{ github.event.inputs.single == 'true' && '1' || '1000' }}
-          LOOP_OFFSET_SEC: '0'
-          LOOP_START_UTC: '0800'      # z131: 04:00 EDT / 03:00 EST - the bars step skips anything outside 04:00-20:15 ET
-          LOOP_STOP_UTC: '2400'       # z131: through 20:00 EDT (19:00 EST)
-          GITHUB_REPOSITORY: ${{ github.repository }}
+          # Expiry LADDER (near weeklies + monthlies + LEAPS) instead of nearest-N.
+          MAX_EXPIRIES: '10'        # total cap per ticker across the whole ladder
+          NEAR_COUNT: '3'           # nearest weeklies always included
+          NEAR_MAX_DTE: '45'        # "near" window
+          MONTHLY_MAX_DTE: '120'    # monthlies out to ~4 months
+          LEAP_MIN_DTE: '180'       # LEAPS = 6 months+
+          LEAP_COUNT: '3'           # how many long-dated expiries to include (e.g. 6mo/1yr/2yr)
+          STRIKE_PCT: '0.25'        # ± 25% strikes around spot (near the money)
+          TIME_BUDGET_SEC: '3000'   # more expiries → a bit more budget (still < timeout)
+        run: python pipeline/fetch_options.py
+
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          bash pipeline/intraday_loop.sh
+          git add -A data/options/
+          if git diff --staged --quiet; then
+            echo "No options changes to commit"
+            exit 0
+          fi
+          git commit -m "Options chains $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # Generated JSON — OURS wins on a race with a parallel run.
+          for i in 1 2 3 4 5; do
+            if git push; then echo "pushed on attempt $i"; break; fi
+            echo "push $i failed — merging remote OURS"
+            git fetch origin
+            git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
+            if [ -f .git/MERGE_HEAD ]; then
+              git checkout --ours -- data/options/ 2>/dev/null || true
+              git add -A data/options/ 2>/dev/null || true
+              git commit --no-edit 2>/dev/null || true
+            fi
+            sleep 4
+          done
