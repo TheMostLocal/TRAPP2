@@ -42,7 +42,7 @@ FORCE = os.environ.get("BARS_FORCE", "").strip() not in ("", "0", "false", "Fals
 PRE_OPEN, REG_OPEN, REG_CLOSE, POST_CLOSE = 4 * 60, 9 * 60 + 30, 16 * 60, 20 * 60
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from append_intraday_snapshot import _et_now, session_for  # noqa: E402  (the tape's own calendar)
+from append_intraday_snapshot import _et_now, session_for, _parse_iso  # noqa: E402  (the tape's own calendar)
 
 FOREIGN = re.compile(r"\.[A-Z]{1,3}$")
 NOT_US_EXT = re.compile(r"^\^|=X$|=F$|-USD$")              # indices, FX, futures, crypto: no US pre / after hours
@@ -72,6 +72,10 @@ def num(v):
 def et_minute(ts_sec):
     et = _et_now(datetime.fromtimestamp(ts_sec, tz=timezone.utc))
     return et.hour * 60 + et.minute, et.date().isoformat()
+
+
+def et_minute_dt(ts_sec):
+    return _et_now(datetime.fromtimestamp(ts_sec, tz=timezone.utc))
 
 
 def frame_rows(frame):
@@ -124,13 +128,14 @@ def main():
         return 0
     rows = json.loads(MASTER.read_text())
     rows = rows if isinstance(rows, list) else (rows.get("rows") or [])
-    prev = {}
+    prev, quote = {}, {}
     tickers = []
     for r in rows:
         t = str(r.get("ticker") or "").upper().strip()
         if eligible(t) and t not in prev:
             tickers.append(t)
             prev[t] = num(r.get("closeyest"))
+            quote[t] = r                                   # z134: Yahoo's daily bar (official open / close)
     log(f"{len(tickers)} tickers")
     bars = download(tickers)
     if not bars:
@@ -148,7 +153,25 @@ def main():
         if not b:
             continue
         pc = prev.get(t)
-        (ddir / f"{t}.json").write_text(json.dumps({"date": day, "interval": "5m", "updatedAt": stamp, "pc": pc, "b": b}, separators=(",", ":")))
+        # z134: the official open / close (Yahoo's daily bar, same as the tape) trump the 5-minute bars
+        # at 09:30 and 16:00 - the first regular bar opens at the official open, the last regular bar
+        # closes at the official close (its high / low widened if the print lies outside them)
+        oo = oc = None
+        q = quote.get(t) or {}
+        if str(q.get("date") or "")[:10] == day:
+            oo = num(q.get("priceopen"))
+            fa = _parse_iso(q.get("fetched_at"))
+            tr, cmin, _ = session_for(et_minute_dt(b[-1][0]))
+            if fa is not None and cmin is not None:
+                fe = _et_now(fa)
+                if fe.strftime("%Y-%m-%d") == day and fe.hour * 60 + fe.minute >= cmin + 5:
+                    oc = num(q.get("price"))
+            reg = [k for k, x in enumerate(b) if REG_OPEN <= et_minute(x[0])[0] < (cmin or REG_CLOSE)]
+            if reg and oo and oo > 0 and et_minute(b[reg[0]][0])[0] == REG_OPEN:
+                x = b[reg[0]]; x[1] = round(oo, 6); x[2] = max(x[2], x[1]); x[3] = min(x[3], x[1])
+            if reg and oc and oc > 0:
+                x = b[reg[-1]]; x[4] = round(oc, 6); x[2] = max(x[2], x[4]); x[3] = min(x[3], x[4])
+        (ddir / f"{t}.json").write_text(json.dumps({"date": day, "interval": "5m", "updatedAt": stamp, "pc": pc, "oo": oo, "oc": oc, "b": b}, separators=(",", ":")))
         wrote += 1
         nbars += len(b)
         if NOT_US_EXT.search(t):                                       # no US pre-market / after hours to quote
