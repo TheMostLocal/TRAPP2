@@ -274,6 +274,7 @@ def main():
     now_iso = now_utc.isoformat(timespec="seconds")
 
     pmap, prev, ccy, vol = {}, {}, {}, {}
+    opens, closes = {}, {}              # z134: Yahoo's OFFICIAL open / close for today (the daily bar)
     stale = 0
     for r in rows:
         if not isinstance(r, dict):
@@ -300,6 +301,18 @@ def main():
         v = _num(r.get("volume"))
         if v and v > 0:
             vol[t] = int(v)
+        # z134: the daily bar fetch_quotes_fast just wrote is TODAY's only once the session has
+        # opened (row date == today, ET). Its Open is the official opening print - the chart's
+        # 09:30 point. Once the quote was fetched >= 5 min after the close, its Close is the
+        # official close - the 16:00 point. Both trump the 15-minute pulls at those two times.
+        if str(r.get("date") or "")[:10] == day and et_min >= REGULAR_OPEN_MIN:
+            po = _num(r.get("priceopen"))
+            if po and po > 0:
+                opens[t] = _px(po)
+            if close_min is not None and fa is not None:
+                fe = _et_now(fa)
+                if fe.strftime("%Y-%m-%d") == day and fe.hour * 60 + fe.minute >= close_min + 5:
+                    closes[t] = _px(px)
 
     if not pmap:
         print("no fresh prices in master.json — skipping", file=sys.stderr)
@@ -347,12 +360,19 @@ def main():
     prev_all.update(prev)
     ccy_all = dict(doc.get("currency") or {})
     ccy_all.update(ccy)
+    open_all = dict(doc.get("open") or {})      # z134: later passes may refine Yahoo's values
+    open_all.update(opens)
+    close_all = dict(doc.get("close") or {})
+    close_all.update(closes)
 
     doc.update({
         "date": day,
         "snapshots": snaps,
         "prevClose": prev_all,
         "currency": ccy_all,
+        "open": open_all,
+        "close": close_all,
+        "openCloseNote": "official open / close from Yahoo's daily bar (open: from 09:30 ET; close: fetched >= 5 min after the close)",
         "bucketMinutes": BUCKET_MIN,
         "session": label,
         "openMinuteET": REGULAR_OPEN_MIN,
@@ -383,6 +403,8 @@ def main():
         "p": pmap,
         "prevClose": prev_all,
         "currency": ccy_all,
+        "open": open_all,
+        "close": close_all,
     }
     _atomic_write(INTRADAY_DIR / "latest.json", json.dumps(latest, separators=(",", ":")))
 
