@@ -14,10 +14,14 @@ name: Options Chains
 
 on:
   schedule:
-    # Weekdays: 10:00, 13:00, 15:45 ET (14:00, 17:00, 19:45 UTC during EDT).
-    - cron: '0 14 * * 1-5'
-    - cron: '0 17 * * 1-5'
-    - cron: '45 19 * * 1-5'
+    # Weekdays: 10:00, 13:00, 15:45 ET. z134: cron is UTC, so each is listed for EDT (UTC-4) and EST
+    # (UTC-5) and the gate job keeps the one that lands on the ET time.
+    - cron: '0 14 * * 1-5'     # 10:00 EDT
+    - cron: '0 15 * * 1-5'     # 10:00 EST
+    - cron: '0 17 * * 1-5'     # 13:00 EDT
+    - cron: '0 18 * * 1-5'     # 13:00 EST
+    - cron: '45 19 * * 1-5'    # 15:45 EDT
+    - cron: '45 20 * * 1-5'    # 15:45 EST
   workflow_dispatch:
 
 concurrency:
@@ -25,7 +29,33 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  gate:
+    # z134: GitHub cron runs on UTC. Every run is scheduled at BOTH offsets (EDT = UTC-4, EST =
+    # UTC-5); this gate turns the cron's UTC hour into today's Eastern hour and keeps only the
+    # run that lands on the intended ET time - so "after the close" stays after the close all year.
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.g.outputs.run }}
+      tier: ${{ steps.g.outputs.tier }}
+    steps:
+      - id: g
+        name: Eastern-time gate
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; echo "tier=" >> "$GITHUB_OUTPUT"; exit 0; fi
+          S="${{ github.event.schedule }}"
+          OFF=$(TZ=America/New_York date +%z)                 # -0400 (EDT) or -0500 (EST)
+          OFFH=$((10#${OFF:1:2}))
+          UM=$(echo "$S" | awk '{print $1}'); UH=$(echo "$S" | awk '{print $2}')
+          ETH=$(( (10#$UH - OFFH + 24) % 24 )); ETM=$(printf '%02d' "$UM")
+          case "${ETH}:${ETM}" in
+            10:00|13:00|15:45) RUN=true; T= ;;
+            *) RUN=false; T= ;;
+          esac
+          echo "schedule '$S' = ${ETH}:${ETM} ET today (UTC${OFF}) -> run=${RUN} tier=${T:-default}"
+          echo "run=${RUN}" >> "$GITHUB_OUTPUT"; echo "tier=${T}" >> "$GITHUB_OUTPUT"
   options:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 55
     permissions:
