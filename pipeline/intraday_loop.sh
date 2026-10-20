@@ -51,7 +51,8 @@ one_pass() {
   python pipeline/compute_signals.py || true
   python pipeline/classify_regime.py || true
   python pipeline/append_intraday_snapshot.py || true
-  OWN="data/master.csv data/master.json data/intraday data/signals.json data/regime_current.json data/regime_history.json"
+  python pipeline/fetch_intraday_bars.py || true          # z131: 5-min OHLCV incl. pre-market / after hours
+  OWN="data/master.csv data/master.json data/intraday data/bars data/signals.json data/regime_current.json data/regime_history.json"
   for f in $OWN; do [ -e "$f" ] && git add -A "$f"; done          # one missing path must not block the rest
   if git diff --staged --quiet; then echo "no quote changes"; return 0; fi
   git commit -q -m "Quotes + intraday tape $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
