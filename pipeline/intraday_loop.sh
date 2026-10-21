@@ -45,6 +45,29 @@ SINGLE=""
 in_window || SINGLE="started outside the session window (${START}Z-${STOP}Z)"
 echo "intraday loop: day=$DAY interval=${INTERVAL}s budget=${BUDGET}s window=${START}Z-${STOP}Z max=$MAX${SINGLE:+ · $SINGLE}"
 
+# z135: the official OPEN (0930 ET) and CLOSE (1600 ET) are captured the moment Yahoo has them, not at the
+# next 15-minute mark: event passes at 0930:40 / 0932:30 and 1600:40 / 1602:30 ET (+ a few seconds'
+# stagger per book). ET from the tz database (DST-correct), never a fixed UTC offset.
+EVENT_STAGGER=$(( OFFSET / 20 ))                # 0 / 9 / 15 / 30 s across the four books
+et_epoch() { date -d "TZ=\"America/New_York\" $(TZ=America/New_York date +%F) $1" +%s 2>/dev/null; }
+next_event() {   # seconds until the next open / close capture, or nothing
+  local now=$1 best="" e d
+  for hm in 09:30:40 09:32:30 16:00:40 16:02:30; do
+    e=$(et_epoch "$hm"); [ -z "$e" ] && continue
+    e=$(( e + EVENT_STAGGER )); d=$(( e - now ))
+    if [ "$d" -gt 5 ] && { [ -z "$best" ] || [ "$d" -lt "$best" ]; }; then best=$d; fi
+  done
+  echo "$best"
+}
+
+# event pass: only what the open / close needs (quotes → tape), committed at once (~40 s)
+event_pass() {
+  python pipeline/fetch_quotes_fast.py || echo "::warning::quote fetch failed (event pass)"
+  python pipeline/human_corrections.py master || true
+  python pipeline/append_intraday_snapshot.py || true
+  commit_push "Official open / close $(TZ=America/New_York date +%H%M) ET [skip ci]"
+}
+
 one_pass() {
   python pipeline/fetch_quotes_fast.py || python pipeline/fetch_data.py || echo "::warning::quote fetch failed this pass"
   python pipeline/human_corrections.py master || true
@@ -52,10 +75,14 @@ one_pass() {
   python pipeline/classify_regime.py || true
   python pipeline/append_intraday_snapshot.py || true
   python pipeline/fetch_intraday_bars.py || true          # z131: 5-min OHLCV incl. pre-market / after hours
+  commit_push "Quotes + intraday tape $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+}
+
+commit_push() {
   OWN="data/master.csv data/master.json data/intraday data/bars data/signals.json data/regime_current.json data/regime_history.json"
   for f in $OWN; do [ -e "$f" ] && git add -A "$f"; done          # one missing path must not block the rest
   if git diff --staged --quiet; then echo "no quote changes"; return 0; fi
-  git commit -q -m "Quotes + intraday tape $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+  git commit -q -m "$1"
   for k in 1 2 3 4 5; do
     if git push -q origin "HEAD:$BRANCH"; then echo "pushed (attempt $k)"; return 0; fi
     echo "push rejected - reconciling (ours wins for OUR files)"
@@ -72,10 +99,12 @@ one_pass() {
 }
 
 i=0
+EVENT=""
 while :; do
   i=$((i + 1))
-  echo "── pass $i · $(date -u +%H:%M:%S)Z"
-  one_pass
+  echo "── pass $i · $(date -u +%H:%M:%S)Z · $(TZ=America/New_York date +%H%M) ET${EVENT:+ · official ${EVENT} capture}"
+  if [ -n "$EVENT" ]; then event_pass; else one_pass; fi
+  EVENT=""
   # keep the checkout current so the next pass builds on what's on GitHub
   git pull -q --no-rebase -X ours origin "$BRANCH" 2>/dev/null || true
   now=$(date +%s)
@@ -86,6 +115,10 @@ while :; do
   wait=$(( INTERVAL - (now % INTERVAL) + OFFSET ))
   [ "$wait" -gt "$INTERVAL" ] && wait=$(( wait - INTERVAL ))
   [ "$wait" -lt 30 ] && wait=$(( wait + INTERVAL ))
+  ev=$(next_event "$now")                                     # z135: an open / close capture comes first
+  if [ -n "$ev" ] && [ "$ev" -lt "$wait" ]; then
+    wait=$ev; EVENT=$( [ "$(TZ=America/New_York date -d "@$(( now + ev ))" +%H)" -lt 12 ] && echo open || echo close )
+  fi
   if [ $(( now - start + wait + 120 )) -gt "$BUDGET" ]; then echo "time budget reached - the next scheduled start continues"; break; fi
   echo "sleeping ${wait}s"
   sleep "$wait"
