@@ -301,17 +301,19 @@ def main():
         v = _num(r.get("volume"))
         if v and v > 0:
             vol[t] = int(v)
-        # z134: the daily bar fetch_quotes_fast just wrote is TODAY's only once the session has
-        # opened (row date == today, ET). Its Open is the official opening print - the chart's
-        # 09:30 point. Once the quote was fetched >= 5 min after the close, its Close is the
-        # official close - the 16:00 point. Both trump the 15-minute pulls at those two times.
+        # z134 / z135: the daily bar fetch_quotes_fast just wrote is TODAY's only once the session has
+        # opened (row date == today, ET). Its Open is the official opening print - the chart's 0930
+        # point. A quote fetched at or after the close (1600 ET; 1300 on early closes) carries the
+        # official close - the 1600 point. The loop runs extra passes at 0930:40 / 0932:30 and
+        # 1600:40 / 1602:30 ET to take them the moment Yahoo has them; every later pass re-reads
+        # them, so a value Yahoo revises is corrected. Both trump the 15-minute pulls.
         if str(r.get("date") or "")[:10] == day and et_min >= REGULAR_OPEN_MIN:
             po = _num(r.get("priceopen"))
             if po and po > 0:
                 opens[t] = _px(po)
             if close_min is not None and fa is not None:
                 fe = _et_now(fa)
-                if fe.strftime("%Y-%m-%d") == day and fe.hour * 60 + fe.minute >= close_min + 5:
+                if fe.strftime("%Y-%m-%d") == day and fe.hour * 60 + fe.minute >= close_min:
                     closes[t] = _px(px)
 
     if not pmap:
@@ -372,7 +374,7 @@ def main():
         "currency": ccy_all,
         "open": open_all,
         "close": close_all,
-        "openCloseNote": "official open / close from Yahoo's daily bar (open: from 09:30 ET; close: fetched >= 5 min after the close)",
+        "openCloseNote": "official open / close from Yahoo's daily bar (open: from 0930 ET; close: from a quote fetched at or after the close, 1600 ET)",
         "bucketMinutes": BUCKET_MIN,
         "session": label,
         "openMinuteET": REGULAR_OPEN_MIN,
