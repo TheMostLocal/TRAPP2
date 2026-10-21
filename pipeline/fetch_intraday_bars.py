@@ -164,7 +164,7 @@ def main():
             tr, cmin, _ = session_for(et_minute_dt(b[-1][0]))
             if fa is not None and cmin is not None:
                 fe = _et_now(fa)
-                if fe.strftime("%Y-%m-%d") == day and fe.hour * 60 + fe.minute >= cmin + 5:
+                if fe.strftime("%Y-%m-%d") == day and fe.hour * 60 + fe.minute >= cmin:      # z135: from 1600 ET, not 1605
                     oc = num(q.get("price"))
             reg = [k for k, x in enumerate(b) if REG_OPEN <= et_minute(x[0])[0] < (cmin or REG_CLOSE)]
             if reg and oo and oo > 0 and et_minute(b[reg[0]][0])[0] == REG_OPEN:
