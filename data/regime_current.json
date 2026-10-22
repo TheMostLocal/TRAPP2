@@ -4,9 +4,9 @@
   "confidence": 0.981,
   "scores": {
     "macro": 0.404,
-    "liquidity": -0.067,
-    "volatility": 0.597,
-    "valuation": -0.325,
+    "liquidity": -0.072,
+    "volatility": 0.564,
+    "valuation": -0.328,
     "trend": 0.822,
     "breadth": 0.091,
     "commodity": 0.343,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.4948,
-    "risk_on_melt_up": 0.2005,
-    "inflation_shock": 0.0164,
-    "recession_fear": 0.0002,
-    "risk_off": 0.0048,
-    "neutral": 0.2833
+    "expansion": 0.4916,
+    "risk_on_melt_up": 0.1935,
+    "inflation_shock": 0.0177,
+    "recession_fear": 0.0003,
+    "risk_off": 0.0052,
+    "neutral": 0.2917
   },
   "drivers": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "signal": "volatility",
-      "score": 0.597,
+      "score": 0.564,
       "confidence": 1.0,
-      "weight": 0.597,
+      "weight": 0.564,
       "direction": "bullish"
     },
     {
@@ -60,20 +60,20 @@
       "indpro_yoy": 0.0225
     },
     "liquidity": {
-      "t10y2y": 0.38,
-      "hy_spread": 3.29,
-      "hy_spread_z": 0.55,
+      "t10y2y": 0.32,
+      "hy_spread": 3.27,
+      "hy_spread_z": 0.5,
       "hyg_minus_lqd_1m": -0.0037
     },
     "volatility": {
-      "vix_level": 18.44,
-      "vix9d_over_vix": 0.84
+      "vix_level": 16.68,
+      "vix9d_over_vix": 0.9287
     },
     "valuation": {
       "spy_pe": 24.54,
       "earnings_yield": 0.0407,
-      "real_10y": 0.0107,
-      "fed_model_spread": 0.0301
+      "real_10y": 0.011,
+      "fed_model_spread": 0.0298
     },
     "trend": {
       "spy_price": 773.09,
