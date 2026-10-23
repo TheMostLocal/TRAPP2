@@ -13,15 +13,9 @@ name: Options Chains
 # the run. Start with the 30-60 most liquid (mega-caps + high-volume ETFs).
 
 on:
-  schedule:
-    # Weekdays: 10:00, 13:00, 15:45 ET. z134: cron is UTC, so each is listed for EDT (UTC-4) and EST
-    # (UTC-5) and the gate job keeps the one that lands on the ET time.
-    - cron: '0 14 * * 1-5'     # 10:00 EDT
-    - cron: '0 15 * * 1-5'     # 10:00 EST
-    - cron: '0 17 * * 1-5'     # 13:00 EDT
-    - cron: '0 18 * * 1-5'     # 13:00 EST
-    - cron: '45 19 * * 1-5'    # 15:45 EDT
-    - cron: '45 20 * * 1-5'    # 15:45 EST
+  # z148: retired from the schedule. TRAPP2-OPTIONS is the one options repo (core chains every 15 min in
+  # the session, the books' top 400 after the close); the app and the bot read it first. Kept for a
+  # manual run only - these legacy chains are a fallback and age out of the bot's 3-day freshness check.
   workflow_dispatch:
 
 concurrency:
