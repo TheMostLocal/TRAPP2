@@ -26,7 +26,12 @@ name: Mid-Day Refresh (Macro + Regime)
 
 on:
   schedule:
-    - cron: '30 15 * * 1-5'
+    # z148: twice a weekday - 0807 ET (before the open, so the bot's first passes see fresh macro, signals
+    # and regime) and 1132 ET. Was 1130 EDT only, which slid to 1030 in winter.
+    - cron: '7 12 * * 1-5'     # 0807 EDT
+    - cron: '7 13 * * 1-5'     # 0807 EST
+    - cron: '32 15 * * 1-5'    # 1132 EDT
+    - cron: '32 16 * * 1-5'    # 1132 EST
   workflow_dispatch:
 
 # Serialize every job in this repo that writes regime/macro data so two of them
@@ -36,7 +41,28 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  gate:
+    # z147: GitHub cron runs on UTC. Each Eastern time is listed for EDT (UTC-4) and EST (UTC-5);
+    # this job keeps only the run that lands on the intended ET time (the other one skips in seconds).
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.g.outputs.run }}
+    steps:
+      - id: g
+        name: Eastern-time gate
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          S="${{ github.event.schedule }}"
+          OFF=$(TZ=America/New_York date +%z); OFFH=$((10#${OFF:1:2}))
+          UM=$(echo "$S" | awk '{print $1}'); UH=$(echo "$S" | awk '{print $2}')
+          ETH=$(( (10#$UH - OFFH + 24) % 24 )); ETM=$(printf '%02d' "$UM")
+          case " 8:07 11:32 " in *" ${ETH}:${ETM} "*) RUN=true ;; *) RUN=false ;; esac
+          echo "schedule '$S' = ${ETH}:${ETM} ET today (UTC${OFF}) -> run=${RUN}"
+          echo "run=${RUN}" >> "$GITHUB_OUTPUT"
+
   refresh:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     permissions:
@@ -62,9 +88,8 @@ jobs:
           FED_API_KEY: ${{ secrets.FED_API_KEY }}
         run: python pipeline/fetch_macro.py
 
-      - name: Fetch World Bank country data (best-effort)
-        run: python pipeline/fetch_worldbank.py
-        continue-on-error: true
+      # z148: the World Bank step is gone from this book - pipeline/fetch_worldbank.py lives only in TRAPP2-1
+      # (which refreshes it in its own Mid-Day and Macro Trade runs); here it failed on every run.
 
       - name: Compute signals
         run: python pipeline/compute_signals.py
