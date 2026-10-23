@@ -100,7 +100,7 @@ jobs:
           if [ "$INC_LEAD" = "true" ]; then
             fire "leadership-historyA-G.yml"
             sleep 90
-            fire "leadership-history H-M.yml"
+            fire "leadership-historyH-M.yml"      # z148: the file has no space - this dispatch always failed
             sleep 90
             fire "leadership-historyN-Z.yml"
             sleep 90
@@ -114,14 +114,15 @@ jobs:
           fire "financials-refresh.yml"
           sleep 60
 
-          # ---- Group 3: company-facts — ONLY on the 1st of the month. ----
+          # ---- Group 3: company-facts — monthly, on the FIRST SUNDAY. ----
+          # z148: this job only runs on Sundays, so "the 1st" matched about one month in seven.
           DOM="$(date -u +%d)"
-          if [ "$DOM" = "01" ]; then
-            echo "First of the month → refreshing company facts."
+          if [ "$((10#$DOM))" -le 7 ]; then
+            echo "First Sunday of the month → refreshing company facts."
             fire "company-facts.yml"
             sleep 60
           else
-            echo "Not the 1st (day=$DOM) → skipping monthly company-facts."
+            echo "Not the first Sunday (day=$DOM) → skipping monthly company-facts."
           fi
 
           # NOTE: history-20y.yml is NOT dispatched here — it runs on its OWN
