@@ -76,6 +76,25 @@ def bars_for(frame, ticker, single):
 
 
 def download(tickers):
+    """z158: Alpaca first (official, hundreds of symbols per call) for US stocks / ETFs; Yahoo for the rest
+    and for anything Alpaca didn't return."""
+    frames = {}
+    try:
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import alpaca_data
+        if alpaca_data.enabled():
+            frames = alpaca_data.daily(tickers)
+            log(f"  Alpaca: {len(frames)} of {sum(1 for t in tickers if alpaca_data.eligible(t))} US symbols")
+    except Exception as e:
+        log(f"  Alpaca unavailable ({type(e).__name__}: {str(e)[:120]}) - Yahoo for everything")
+        frames = {}
+    rest = [t for t in tickers if t not in frames]
+    if rest:
+        frames.update(_yahoo_download(rest))
+    return frames
+
+
+def _yahoo_download(tickers):
     import yfinance as yf
     frames = {}
     for i in range(0, len(tickers), CHUNK):
