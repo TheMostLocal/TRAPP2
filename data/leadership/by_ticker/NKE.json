@@ -34,8 +34,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Oxford"
+          "University of Oxford",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -139,6 +139,7 @@
         "occupations": [
           "film director",
           "film producer",
+          "film director",
           "rapper",
           "animator"
         ],
@@ -310,7 +311,6 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
           "manager",
           "chief executive officer",
           "engineer",

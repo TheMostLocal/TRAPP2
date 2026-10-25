@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Yale University"
@@ -86,6 +86,7 @@
           "elector",
           "politician",
           "blogger",
+          "elector",
           "public figure",
           "economist",
           "governor"
@@ -285,8 +286,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Yale University"

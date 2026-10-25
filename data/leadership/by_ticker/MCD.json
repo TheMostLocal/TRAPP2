@@ -22,6 +22,11 @@
         ],
         "employers": [
           {
+            "company": "McDonald's",
+            "start": "2015-01-01",
+            "end": null
+          },
+          {
             "company": "Kraft Foods Inc.",
             "start": "2008-01-01",
             "end": "2012-01-01"
@@ -30,11 +35,6 @@
             "company": "Kraft Foods Group",
             "start": "2012-01-01",
             "end": "2015-01-01"
-          },
-          {
-            "company": "McDonald's",
-            "start": "2015-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -67,8 +67,8 @@
         "occupations": [
           "restaurateur",
           "salesperson",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [

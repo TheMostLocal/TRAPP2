@@ -124,8 +124,8 @@
           "businessperson"
         ],
         "education": [
-          "Williams College",
-          "Columbia University"
+          "Columbia University",
+          "Williams College"
         ],
         "employers": [],
         "positions": []
@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "University of Pennsylvania",
@@ -253,9 +253,9 @@
           "entrepreneur"
         ],
         "education": [
-          "University of Johannesburg",
           "University of South Africa",
-          "University of the Witwatersrand"
+          "University of the Witwatersrand",
+          "University of Johannesburg"
         ],
         "employers": [
           {

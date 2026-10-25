@@ -50,8 +50,8 @@
           "writer"
         ],
         "education": [
-          "University of California, Berkeley",
-          "City University of New York"
+          "City University of New York",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -138,9 +138,9 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "physicist",
           "inventor",
           "computer scientist",
+          "physicist",
           "businessperson"
         ],
         "education": [
@@ -368,7 +368,7 @@
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "California Institute of Technology",
             "start": null,
             "end": null
           }
@@ -419,12 +419,12 @@
           "administrator"
         ],
         "education": [
+          "University of Pennsylvania",
           "Stony Brook University",
+          "Harvard University",
           "The Bush School",
           "The Wharton School",
-          "Harvard Medical School",
-          "University of Pennsylvania",
-          "Harvard University"
+          "Harvard Medical School"
         ],
         "employers": [
           {
@@ -515,9 +515,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Stanford University",
           "Strongsville High School",
-          "University of Cincinnati",
-          "Stanford University"
+          "University of Cincinnati"
         ],
         "employers": [],
         "positions": []
@@ -654,8 +654,8 @@
           "writer"
         ],
         "education": [
-          "University of California, Berkeley",
-          "City University of New York"
+          "City University of New York",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -742,9 +742,9 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "physicist",
           "inventor",
           "computer scientist",
+          "physicist",
           "businessperson"
         ],
         "education": [

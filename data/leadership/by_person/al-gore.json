@@ -18,11 +18,11 @@
     "journalist"
   ],
   "education": [
-    "Defense Information School",
     "Harvard College",
     "Vanderbilt University",
     "Vanderbilt University Divinity School",
-    "St. Albans School"
+    "St. Albans School",
+    "Defense Information School"
   ],
   "employers": [
     {
@@ -32,6 +32,12 @@
     }
   ],
   "positions": [
+    {
+      "title": "United States senator",
+      "company": null,
+      "start": "1989-01-03",
+      "end": "1991-01-03"
+    },
     {
       "title": "United States representative",
       "company": null,
@@ -49,12 +55,6 @@
       "company": null,
       "start": "1993-01-20",
       "end": "2001-01-20"
-    },
-    {
-      "title": "United States senator",
-      "company": null,
-      "start": "1989-01-03",
-      "end": "1991-01-03"
     },
     {
       "title": "board member",
@@ -83,14 +83,14 @@
     {
       "title": "United States representative",
       "company": null,
-      "start": "1977-01-03",
-      "end": "1979-01-03"
+      "start": "1981-01-03",
+      "end": "1983-01-03"
     },
     {
       "title": "United States representative",
       "company": null,
-      "start": "1981-01-03",
-      "end": "1983-01-03"
+      "start": "1977-01-03",
+      "end": "1979-01-03"
     }
   ],
   "currentTickers": [

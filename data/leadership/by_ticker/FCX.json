@@ -19,8 +19,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Mississippi State University",
           "Harvard Business School",
+          "Mississippi State University",
           "Harvard University"
         ],
         "employers": [],
@@ -95,8 +95,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Mississippi State University",
           "Harvard Business School",
+          "Mississippi State University",
           "Harvard University"
         ],
         "employers": [],
@@ -235,8 +235,8 @@
         "birthPlace": "Queens",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Dudley%2C%20January%202011.jpeg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Southern Methodist University",

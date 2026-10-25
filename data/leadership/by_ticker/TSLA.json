@@ -18,6 +18,11 @@
           "philanthropist",
           "financier",
           "programmer",
+          "financier",
+          "engineer",
+          "technology entrepreneur",
+          "investor",
+          "civil servant",
           "entrepreneur",
           "dub actor",
           "investor",
@@ -63,8 +68,8 @@
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
@@ -134,9 +139,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Georges River College",
           "University of New South Wales",
-          "University of Sydney",
-          "Georges River College"
+          "University of Sydney"
         ],
         "employers": [
           {
@@ -290,9 +295,9 @@
           "venture capitalist"
         ],
         "education": [
-          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": [
@@ -397,9 +402,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Georges River College",
           "University of New South Wales",
-          "University of Sydney",
-          "Georges River College"
+          "University of Sydney"
         ],
         "employers": [
           {
@@ -528,6 +533,11 @@
           "philanthropist",
           "financier",
           "programmer",
+          "financier",
+          "engineer",
+          "technology entrepreneur",
+          "investor",
+          "civil servant",
           "entrepreneur",
           "dub actor",
           "investor",
@@ -573,8 +583,8 @@
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {

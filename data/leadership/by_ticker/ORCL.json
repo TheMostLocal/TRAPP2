@@ -149,10 +149,10 @@
           "chief executive officer"
         ],
         "education": [
-          "Syracuse University",
-          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda"
+          "Maharaja Sayajirao University of Baroda",
+          "Syracuse University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -198,8 +198,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Santa Barbara",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "University of California, Santa Barbara"
         ],
         "employers": [],
         "positions": []
@@ -220,8 +220,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgia Tech",
           "Harvard Business School",
+          "Georgia Tech",
           "Harvard University"
         ],
         "employers": [
@@ -311,7 +311,7 @@
         ],
         "employers": [
           {
-            "company": "Yale University",
+            "company": "Stanford University",
             "start": null,
             "end": null
           },
@@ -321,7 +321,7 @@
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "Yale University",
             "start": null,
             "end": null
           },
@@ -422,6 +422,7 @@
         "occupations": [
           "Oberleutnant",
           "university teacher",
+          "political scientist",
           "jurist",
           "political scientist",
           "lawyer",
@@ -434,12 +435,12 @@
         ],
         "employers": [
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           },
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           }
@@ -482,16 +483,10 @@
             "end": "1987-01-03"
           },
           {
-            "title": "United States representative",
+            "title": "White House Chief of Staff",
             "company": null,
-            "start": "1983-01-03",
-            "end": "1985-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
+            "start": "1994-07-17",
+            "end": "1997-01-20"
           },
           {
             "title": "United States representative",
@@ -528,6 +523,18 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1983-01-03",
+            "end": "1985-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
           }
         ]
       }
@@ -586,9 +593,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Chicago",
           "Booth School of Business",
-          "Ohio Wesleyan University",
-          "University of Chicago"
+          "Ohio Wesleyan University"
         ],
         "employers": [],
         "positions": []

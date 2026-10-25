@@ -7,8 +7,8 @@
   "occupations": [
     "academic",
     "investment banker",
-    "businessperson",
-    "lawyer"
+    "lawyer",
+    "businessperson"
   ],
   "education": [
     "Harvard Business School",
@@ -18,12 +18,12 @@
   ],
   "employers": [
     {
-      "company": "Credit Suisse First Boston",
+      "company": "Harvard University",
       "start": null,
       "end": null
     },
     {
-      "company": "Harvard University",
+      "company": "Credit Suisse First Boston",
       "start": null,
       "end": null
     }

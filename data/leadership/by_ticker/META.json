@@ -14,8 +14,8 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
+          "entrepreneur",
           "patron of the arts",
-          "philanthropist",
           "programmer",
           "entrepreneur",
           "chief executive officer",
@@ -441,7 +441,6 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "technology entrepreneur",
           "chess player",
           "manager",
           "banker",
@@ -499,6 +498,7 @@
           "investor",
           "entrepreneur",
           "engineer",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -539,8 +539,8 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
+          "entrepreneur",
           "patron of the arts",
-          "philanthropist",
           "programmer",
           "entrepreneur",
           "chief executive officer",
@@ -611,8 +611,8 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
+          "entrepreneur",
           "patron of the arts",
-          "philanthropist",
           "programmer",
           "entrepreneur",
           "chief executive officer",
