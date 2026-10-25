@@ -1,6 +1,6 @@
 {
   "ticker": "LOW",
-  "fetchedAt": "2026-10-18T11:16:46.416920Z",
+  "fetchedAt": "2026-10-25T10:49:26.115960Z",
   "people": [
     {
       "qid": "Q22279080",
@@ -144,8 +144,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Rockhurst University"
@@ -188,8 +188,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [],
         "employers": [],
@@ -228,8 +228,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
