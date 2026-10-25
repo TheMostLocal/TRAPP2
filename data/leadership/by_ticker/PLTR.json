@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-10-18T11:16:46.432133Z",
+  "fetchedAt": "2026-10-25T11:34:12.398159Z",
   "people": [
     {
       "qid": "Q19560940",
@@ -15,13 +15,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
           "merchant",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Haverford College",
-          "Stanford University"
+          "Stanford University",
+          "Haverford College"
         ],
         "employers": [
           {
@@ -46,13 +46,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
           "merchant",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Haverford College",
-          "Stanford University"
+          "Stanford University",
+          "Haverford College"
         ],
         "employers": [
           {
@@ -76,8 +76,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -98,20 +98,16 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "investor",
-          "banker",
           "technology entrepreneur",
           "chess player",
-          "banker",
           "manager",
-          "investor",
-          "financier",
+          "banker",
           "entrepreneur",
           "businessperson",
-          "computer scientist",
           "writer",
-          "entrepreneur",
-          "businessperson"
+          "financier",
+          "investor",
+          "computer scientist"
         ],
         "education": [
           "Stanford Law School",
@@ -153,8 +149,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -249,20 +245,16 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "investor",
-          "banker",
           "technology entrepreneur",
           "chess player",
-          "banker",
           "manager",
-          "investor",
-          "financier",
+          "banker",
           "entrepreneur",
           "businessperson",
-          "computer scientist",
           "writer",
-          "entrepreneur",
-          "businessperson"
+          "financier",
+          "investor",
+          "computer scientist"
         ],
         "education": [
           "Stanford Law School",
@@ -305,13 +297,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
           "merchant",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Haverford College",
-          "Stanford University"
+          "Stanford University",
+          "Haverford College"
         ],
         "employers": [
           {

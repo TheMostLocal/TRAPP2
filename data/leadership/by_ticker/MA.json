@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-10-18T11:16:46.418040Z",
+  "fetchedAt": "2026-10-25T11:34:12.383812Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -69,8 +69,8 @@
           "university teacher"
         ],
         "education": [
-          "University of Michigan",
-          "Columbia Law School"
+          "Columbia Law School",
+          "University of Michigan"
         ],
         "employers": [
           {
@@ -389,8 +389,8 @@
           "university teacher"
         ],
         "education": [
-          "University of Michigan",
-          "Columbia Law School"
+          "Columbia Law School",
+          "University of Michigan"
         ],
         "employers": [
           {

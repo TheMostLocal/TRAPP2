@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-10-18T11:16:46.425922Z",
+  "fetchedAt": "2026-10-25T11:34:12.391877Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -211,9 +211,9 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Sloan Fellows Program",
-          "MIT Sloan School of Management"
+          "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -234,9 +234,9 @@
           "businessperson"
         ],
         "education": [
+          "Simmons University",
           "Harvard Business School",
-          "Harvard University",
-          "Simmons University"
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -366,8 +366,8 @@
           "businessperson"
         ],
         "education": [
-          "Yale Law School",
-          "Cornell University"
+          "Cornell University",
+          "Yale Law School"
         ],
         "employers": [],
         "positions": []

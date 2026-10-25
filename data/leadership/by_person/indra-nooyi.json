@@ -10,21 +10,21 @@
   "education": [
     "Indian Institute of Management Calcutta",
     "University of Madras",
-    "Yale University",
     "Yale School of Management",
     "Holy Angels Anglo Indian Higher Secondary School",
-    "Madras Christian College"
+    "Madras Christian College",
+    "Yale University"
   ],
   "employers": [
-    {
-      "company": "Johnson & Johnson",
-      "start": null,
-      "end": null
-    },
     {
       "company": "PepsiCo",
       "start": "1994-01-01",
       "end": "2018-01-01"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "start": null,
+      "end": null
     },
     {
       "company": "Boston Consulting Group",
@@ -33,11 +33,6 @@
     },
     {
       "company": "ABB Group",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Johnson & Johnson",
       "start": null,
       "end": null
     },

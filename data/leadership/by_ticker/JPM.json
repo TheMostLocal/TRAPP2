@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-10-18T11:16:46.413238Z",
+  "fetchedAt": "2026-10-25T11:34:12.379041Z",
   "people": [
     {
       "qid": "Q922169",
@@ -19,10 +19,20 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -35,16 +45,6 @@
           },
           {
             "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }
@@ -378,9 +378,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Princeton University",
           "Princeton School of Public and International Affairs",
-          "St. Ignatius College Prep",
-          "Princeton University"
+          "St. Ignatius College Prep"
         ],
         "employers": [],
         "positions": [
@@ -414,11 +414,6 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -426,6 +421,11 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -505,10 +505,20 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -521,16 +531,6 @@
           },
           {
             "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }

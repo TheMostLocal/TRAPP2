@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-10-18T11:16:46.405269Z",
+  "fetchedAt": "2026-10-25T11:34:12.371010Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -101,9 +101,9 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Yale School of Management",
-          "Yale College"
+          "Yale College",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -215,9 +215,9 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "chief executive officer",
           "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "University of California, Berkeley",
@@ -312,7 +312,6 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Toronto",
           "University of California, Berkeley",
           "Harvard Business School",
@@ -538,8 +537,8 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "entrepreneur",
           "politician",
+          "entrepreneur",
           "business executive"
         ],
         "education": [
@@ -548,6 +547,16 @@
           "Princeton University"
         ],
         "employers": [
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "DreamWorks",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Procter & Gamble",
             "start": "1979-01-01",
@@ -564,32 +573,17 @@
             "end": null
           },
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "DreamWorks",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Quibi",
             "start": null,
             "end": null
           },
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
+            "company": "eBay",
+            "start": "1998-01-01",
+            "end": "2008-01-01"
           },
           {
-            "company": "DreamWorks",
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           }

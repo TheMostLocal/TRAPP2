@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-10-18T11:16:46.425435Z",
+  "fetchedAt": "2026-10-25T11:34:12.391385Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -137,10 +137,10 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
+          "film director",
           "film producer",
           "rapper",
-          "animator",
-          "film director"
+          "animator"
         ],
         "education": [
           "Jesuit High School",
@@ -165,18 +165,18 @@
           "economist"
         ],
         "education": [
-          "St Catherine's College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "St Catherine's College"
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "director"
+          "director",
+          "entrepreneur"
         ],
         "education": [
           "Westhill High School",
@@ -227,7 +227,7 @@
         ],
         "employers": [
           {
-            "company": "Nike",
+            "company": "Nike, Inc.",
             "start": null,
             "end": null
           }
@@ -248,8 +248,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -285,8 +285,8 @@
         ],
         "education": [
           "Dartmouth College",
-          "Stanford University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -313,27 +313,27 @@
           "presenter",
           "manager",
           "chief executive officer",
+          "engineer",
           "computer scientist",
-          "businessperson",
-          "engineer"
+          "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
           {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -359,8 +359,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [

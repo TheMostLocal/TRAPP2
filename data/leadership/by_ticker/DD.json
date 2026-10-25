@@ -1,6 +1,6 @@
 {
   "ticker": "DD",
-  "fetchedAt": "2026-10-18T11:16:46.395450Z",
+  "fetchedAt": "2026-10-25T11:34:12.361513Z",
   "people": [
     {
       "qid": "Q19868373",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "business executive"
+          "business executive",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [

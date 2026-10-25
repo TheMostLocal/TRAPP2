@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-10-18T11:16:46.376908Z",
+  "fetchedAt": "2026-10-25T11:34:12.342675Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -270,21 +270,11 @@
         "education": [
           "ESSEC Business School",
           "Harvard Business School",
-          "\u00c9cole alsacienne",
           "Harvard University",
-          "lyc\u00e9e du Parc"
+          "lyc\u00e9e du Parc",
+          "\u00c9cole alsacienne"
         ],
         "employers": [
-          {
-            "company": "Bouygues Telecom",
-            "start": "2001-01-01",
-            "end": "2005-01-01"
-          },
-          {
-            "company": "Euro Disney S.C.A.",
-            "start": "1995-01-01",
-            "end": "2000-01-01"
-          },
           {
             "company": "Suez",
             "start": "2000-01-01",
@@ -309,15 +299,19 @@
             "company": "Groupe TF1",
             "start": "2016-01-01",
             "end": "2023-01-01"
+          },
+          {
+            "company": "Bouygues Telecom",
+            "start": "2001-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "company": "Euro Disney S.C.A.",
+            "start": "1995-01-01",
+            "end": "2000-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1997-02-01",
-            "end": "2000-01-01"
-          },
           {
             "title": "board of directors member",
             "company": null,
@@ -353,6 +347,12 @@
             "company": null,
             "start": "2006-01-09",
             "end": "2009-02-01"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1997-02-01",
+            "end": "2000-01-01"
           }
         ]
       }
@@ -372,10 +372,10 @@
           "business executive"
         ],
         "education": [
+          "University of California, Berkeley",
           "Bangalore Military School",
           "Haas School of Business",
-          "Indian Institute of Technology Kharagpur",
-          "University of California, Berkeley"
+          "Indian Institute of Technology Kharagpur"
         ],
         "employers": [
           {
@@ -468,11 +468,6 @@
             "end": "2015-01-01"
           },
           {
-            "company": "Skyworks Solutions",
-            "start": "2000-01-01",
-            "end": "2004-01-01"
-          },
-          {
             "company": "Koninklijke Philips NV",
             "start": "1983-01-01",
             "end": "2000-01-01"
@@ -481,6 +476,11 @@
             "company": "Intel",
             "start": "2015-11-01",
             "end": "2020-08-01"
+          },
+          {
+            "company": "Skyworks Solutions",
+            "start": "2000-01-01",
+            "end": "2004-01-01"
           }
         ],
         "positions": [

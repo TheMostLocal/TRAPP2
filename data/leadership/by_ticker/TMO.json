@@ -1,6 +1,6 @@
 {
   "ticker": "TMO",
-  "fetchedAt": "2026-10-18T11:16:46.443332Z",
+  "fetchedAt": "2026-10-25T11:34:12.409831Z",
   "people": [
     {
       "qid": "Q114890303",
@@ -41,9 +41,9 @@
           "director"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Northwestern University",
-          "MIT Sloan School of Management"
+          "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -224,8 +224,8 @@
           "investment banker"
         ],
         "education": [
-          "Harvard Business School",
           "The Wharton School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -254,8 +254,8 @@
         ],
         "education": [
           "Walsh School of Foreign Service",
-          "Harvard University",
-          "Georgetown University Law Center"
+          "Georgetown University Law Center",
+          "Harvard University"
         ],
         "employers": [
           {

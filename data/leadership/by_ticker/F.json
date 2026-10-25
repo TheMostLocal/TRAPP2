@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "fetchedAt": "2026-10-18T11:16:46.402085Z",
+  "fetchedAt": "2026-10-25T11:34:12.367826Z",
   "people": [
     {
       "qid": "Q18921712",
@@ -57,6 +57,7 @@
         "education": [
           "Hotchkiss School",
           "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology",
           "Princeton University",
           "Sloan Fellows Program"
         ],
@@ -158,8 +159,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Dartmouth College",
-          "Harvard University"
+          "Harvard University",
+          "Dartmouth College"
         ],
         "employers": [],
         "positions": []
@@ -366,12 +367,11 @@
           "business executive"
         ],
         "education": [
-          "Harvard College",
           "Yale School of Management",
           "Hotchkiss School",
           "Yale Law School",
-          "University of Oxford",
           "Harvard College",
+          "University of Oxford",
           "Harvard University"
         ],
         "employers": [
@@ -399,9 +399,9 @@
           "diplomat"
         ],
         "education": [
-          "Stanford University",
           "Hollywood High School",
-          "Yale Law School"
+          "Yale Law School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -445,6 +445,7 @@
         "education": [
           "Hotchkiss School",
           "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology",
           "Princeton University",
           "Sloan Fellows Program"
         ],
@@ -484,9 +485,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
           "governor",
-          "missionary",
           "diplomat",
           "politician",
+          "missionary",
           "ambassador"
         ],
         "education": [

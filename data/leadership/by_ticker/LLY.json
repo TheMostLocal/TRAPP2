@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-18T11:16:46.415669Z",
+  "fetchedAt": "2026-10-25T11:34:12.381509Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -209,12 +209,12 @@
             "end": null
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -269,6 +269,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
+          },
+          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -277,11 +282,6 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
           }
         ],
         "positions": [
@@ -380,8 +380,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "immunologist",
-          "businessperson"
+          "businessperson",
+          "immunologist"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",

@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-10-18T11:16:46.420417Z",
+  "fetchedAt": "2026-10-25T11:34:12.386312Z",
   "people": [
     {
       "qid": "Q36215",
@@ -17,17 +17,17 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "computer scientist",
+          "entrepreneur",
           "chief executive officer",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
-          "Harvard University",
-          "Phillips Exeter Academy",
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
-          "New York Medical College"
+          "New York Medical College",
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -58,15 +58,15 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
-          "economist",
           "entrepreneur",
-          "computer scientist",
-          "businessperson"
+          "economist",
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "North Miami Beach High School",
-          "Harvard Business School"
+          "North Miami Beach High School"
         ],
         "employers": [
           {
@@ -76,12 +76,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "vice president",
             "company": null,
@@ -115,6 +109,12 @@
           {
             "title": "board member",
             "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
             "start": "2012-01-01",
             "end": null
           },
@@ -139,8 +139,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -209,8 +209,8 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Lynbrook High School",
@@ -367,8 +367,8 @@
           "computer scientist"
         ],
         "education": [
-          "Acton-Boxborough Regional High School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Acton-Boxborough Regional High School"
         ],
         "employers": [],
         "positions": [
@@ -443,14 +443,14 @@
         "occupations": [
           "technology entrepreneur",
           "chess player",
-          "banker",
           "manager",
-          "investor",
-          "financier",
+          "banker",
           "entrepreneur",
           "businessperson",
-          "computer scientist",
-          "writer"
+          "writer",
+          "financier",
+          "investor",
+          "computer scientist"
         ],
         "education": [
           "Stanford Law School",
@@ -492,11 +492,11 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "blogger",
           "programmer",
+          "blogger",
           "software engineer",
-          "investor",
           "inventor",
+          "investor",
           "entrepreneur",
           "engineer",
           "computer scientist"
@@ -542,17 +542,17 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "computer scientist",
+          "entrepreneur",
           "chief executive officer",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
-          "Harvard University",
-          "Phillips Exeter Academy",
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
-          "New York Medical College"
+          "New York Medical College",
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -586,8 +586,8 @@
           "angel investor"
         ],
         "education": [
-          "Harvard Graduate School of Education",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Graduate School of Education"
         ],
         "employers": [
           {
@@ -614,17 +614,17 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "computer scientist",
+          "entrepreneur",
           "chief executive officer",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
-          "Harvard University",
-          "Phillips Exeter Academy",
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
-          "New York Medical College"
+          "New York Medical College",
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {

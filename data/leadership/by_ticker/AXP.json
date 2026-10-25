@@ -1,6 +1,6 @@
 {
   "ticker": "AXP",
-  "fetchedAt": "2026-10-18T11:16:46.383431Z",
+  "fetchedAt": "2026-10-25T11:34:12.349291Z",
   "people": [
     {
       "qid": "Q52272598",
@@ -40,8 +40,8 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Dartmouth College"
+          "Dartmouth College",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -84,9 +84,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Leavitt.jpg",
         "occupations": [
           "elector",
+          "politician",
           "blogger",
           "public figure",
-          "politician",
           "economist",
           "governor"
         ],
@@ -129,9 +129,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlene%20Barshefsky%20official%20portrait.jpg",
         "occupations": [
-          "businessperson",
           "diplomat",
           "politician",
+          "businessperson",
           "lawyer"
         ],
         "education": [
@@ -368,13 +368,11 @@
         "birthPlace": "Harrison",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Chernin%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202009.jpg",
         "occupations": [
-          "entrepreneur",
-          "television producer",
           "film producer",
           "financier",
           "television producer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of California, Berkeley"

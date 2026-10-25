@@ -8,7 +8,6 @@
     "businessperson"
   ],
   "education": [
-    "Columbia University",
     "Columbia Business School",
     "University of Alabama",
     "Columbia University",
@@ -42,6 +41,7 @@
     }
   ],
   "currentTickers": [
-    "CVX"
+    "CVX",
+    "JNJ"
   ]
 }

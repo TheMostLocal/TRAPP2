@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-10-18T11:16:46.423024Z",
+  "fetchedAt": "2026-10-25T11:34:12.389053Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -16,17 +16,17 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "chief executive officer",
-          "entrepreneur",
           "engineer",
-          "computer scientist"
+          "chief executive officer",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
+          "Manipal Institute of Technology",
           "Manipal Academy of Higher Education",
           "Mangalore University",
           "Booth School of Business",
-          "University of Wisconsin\u2013Milwaukee",
-          "Manipal Institute of Technology"
+          "University of Wisconsin\u2013Milwaukee"
         ],
         "employers": [
           {
@@ -125,14 +125,14 @@
             "end": "2015-05-01"
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Dick's Sporting Goods",
             "start": "2015-08-01",
             "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -305,9 +305,9 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
+          "consultant",
           "podcaster",
           "financier",
-          "consultant",
           "investor",
           "businessperson",
           "entrepreneur",
@@ -353,8 +353,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Cornell University"
+          "Cornell University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -397,17 +397,17 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "chief executive officer",
-          "entrepreneur",
           "engineer",
-          "computer scientist"
+          "chief executive officer",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
+          "Manipal Institute of Technology",
           "Manipal Academy of Higher Education",
           "Mangalore University",
           "Booth School of Business",
-          "University of Wisconsin\u2013Milwaukee",
-          "Manipal Institute of Technology"
+          "University of Wisconsin\u2013Milwaukee"
         ],
         "employers": [
           {
@@ -443,20 +443,20 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "film producer",
           "co-founder",
-          "programmer",
-          "television producer",
           "philanthropist",
           "art collector",
+          "film producer",
+          "programmer",
           "musician",
-          "inventor",
+          "television producer",
           "investor",
+          "inventor",
           "record producer",
           "entrepreneur",
           "computer scientist",
-          "composer",
-          "businessperson"
+          "businessperson",
+          "composer"
         ],
         "education": [
           "Washington State University",

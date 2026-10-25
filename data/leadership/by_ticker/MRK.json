@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-10-18T11:16:46.422180Z",
+  "fetchedAt": "2026-10-25T11:34:12.388151Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
           "business executive",
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Pennsylvania State University",
@@ -107,8 +107,8 @@
           "businessperson"
         ],
         "education": [
-          "Yale Law School",
-          "Columbia University"
+          "Columbia University",
+          "Yale Law School"
         ],
         "employers": [],
         "positions": [
@@ -398,8 +398,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Yale University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Yale University"
         ],
         "employers": [
           {
@@ -441,8 +441,8 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
           "Stony Brook University",
@@ -532,8 +532,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
           "business executive",
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Pennsylvania State University",

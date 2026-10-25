@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "fetchedAt": "2026-10-18T11:16:46.446326Z",
+  "fetchedAt": "2026-10-25T11:34:12.412572Z",
   "people": [
     {
       "qid": "Q5221979",
@@ -14,8 +14,8 @@
         "birthPlace": "Tehran",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Brown University",
@@ -84,8 +84,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasir%20Al-Rumayyan%20Argentina%20v%20Spain%2019%20July%202026-285.jpg",
         "occupations": [
           "sports executive",
-          "chairperson",
-          "businessperson"
+          "businessperson",
+          "chairperson"
         ],
         "education": [
           "King Faisal University"
@@ -107,8 +107,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
-          "Yale University"
+          "Yale University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -244,8 +244,8 @@
           "investment banker"
         ],
         "education": [
-          "Harvard Business School",
           "The Wharton School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -302,8 +302,8 @@
         "birthPlace": "Tehran",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Brown University",
@@ -352,10 +352,10 @@
         "education": [
           "Antioch Community High School",
           "Howard University",
-          "Yale University",
-          "Harvard University",
           "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Yale University",
+          "Massachusetts Institute of Technology",
+          "Harvard University"
         ],
         "employers": [
           {

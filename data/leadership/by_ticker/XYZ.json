@@ -1,6 +1,6 @@
 {
   "ticker": "XYZ",
-  "fetchedAt": "2026-10-18T11:16:46.453374Z",
+  "fetchedAt": "2026-10-25T11:34:12.419870Z",
   "people": [
     {
       "qid": "Q335552",
@@ -15,11 +15,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dorsey%202014.jpg",
         "occupations": [
           "blogger",
-          "business executive",
-          "billionaire",
           "businessperson",
           "programmer",
           "entrepreneur",
+          "business executive",
+          "billionaire",
           "computer scientist"
         ],
         "education": [
@@ -75,11 +75,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dorsey%202014.jpg",
         "occupations": [
           "blogger",
-          "business executive",
-          "billionaire",
           "businessperson",
           "programmer",
           "entrepreneur",
+          "business executive",
+          "billionaire",
           "computer scientist"
         ],
         "education": [

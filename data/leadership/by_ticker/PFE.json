@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-10-18T11:16:46.429993Z",
+  "fetchedAt": "2026-10-25T11:34:12.396014Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -53,9 +53,9 @@
         "image": null,
         "occupations": [
           "biochemist",
-          "molecular geneticist",
-          "researcher",
           "university teacher",
+          "researcher",
+          "molecular geneticist",
           "physician"
         ],
         "education": [

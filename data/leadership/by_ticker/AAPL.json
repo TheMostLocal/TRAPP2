@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-18T11:16:46.374874Z",
+  "fetchedAt": "2026-10-25T11:34:12.340479Z",
   "people": [
     {
       "qid": "Q709063",
@@ -14,9 +14,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
@@ -51,16 +51,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "environmentalist",
-          "university teacher",
-          "farmer",
           "orator",
           "blogger",
-          "financier",
           "climate activist",
-          "politician",
+          "environmentalist",
+          "financier",
+          "university teacher",
+          "farmer",
           "writer",
           "businessperson",
+          "politician",
           "journalist"
         ],
         "education": [
@@ -231,9 +231,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
@@ -268,8 +268,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -303,19 +303,17 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "electronics technician",
           "programmer",
-          "inventor",
-          "electronics technician",
-          "businessperson",
-          "entrepreneur",
           "computer scientist",
+          "inventor",
           "engineer",
-          "teacher",
-          "actor"
+          "electronics technician",
+          "entrepreneur",
+          "businessperson",
+          "actor",
+          "teacher"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
@@ -324,22 +322,22 @@
         ],
         "employers": [
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Technology Sydney",
             "start": null,
             "end": null
           }
@@ -359,40 +357,40 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
           "designer",
-          "financier",
-          "founder",
           "film producer",
+          "financier",
+          "technology entrepreneur",
+          "founder",
           "general manager",
           "executive producer",
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "inventor"
         ],
         "education": [
+          "Homestead High School",
           "Reed College",
-          "De Anza College",
-          "Homestead High School"
+          "De Anza College"
         ],
         "employers": [
+          {
+            "company": "Pixar",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
           {
             "company": "NeXT",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Pixar",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }

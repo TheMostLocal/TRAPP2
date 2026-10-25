@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-10-18T11:16:46.416261Z",
+  "fetchedAt": "2026-10-25T11:34:12.382163Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -198,8 +198,8 @@
         "education": [
           "Georgia Tech",
           "University of West Florida",
-          "United States Naval Academy",
-          "Harvard University"
+          "Harvard University",
+          "United States Naval Academy"
         ],
         "employers": [],
         "positions": []
@@ -394,15 +394,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
           "businessperson",
-          "manager",
-          "military officer"
+          "military officer",
+          "manager"
         ],
         "education": [
+          "Mankato West High School",
           "United States Naval Academy",
-          "London School of Economics and Political Science",
-          "Mankato West High School"
+          "London School of Economics and Political Science"
         ],
         "employers": [
+          {
+            "company": "Carlyle Group",
+            "start": null,
+            "end": null
+          },
           {
             "company": "General Motors",
             "start": null,
@@ -410,11 +415,6 @@
           },
           {
             "company": "American Express",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Carlyle Group",
             "start": null,
             "end": null
           }

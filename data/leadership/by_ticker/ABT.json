@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-10-18T11:16:46.376237Z",
+  "fetchedAt": "2026-10-25T11:34:12.341912Z",
   "people": [
     {
       "qid": "Q95569597",
@@ -247,11 +247,11 @@
           "executive"
         ],
         "education": [
-          "Southern University Law Center",
-          "Kellogg School of Management",
           "University of Louisiana at Lafayette",
           "Dedman School of Law",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Southern University Law Center",
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -387,11 +387,11 @@
         "education": [
           "National Defense University",
           "Virginia Military Institute",
-          "Hampton High School",
-          "Embry\u2013Riddle Aeronautical University",
           "Syracuse University",
           "George Washington University",
-          "Air University"
+          "Air University",
+          "Hampton High School",
+          "Embry\u2013Riddle Aeronautical University"
         ],
         "employers": [],
         "positions": [
@@ -573,8 +573,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "banker"
+          "banker",
+          "business executive"
         ],
         "education": [],
         "employers": [

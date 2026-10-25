@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-10-18T11:16:46.406689Z",
+  "fetchedAt": "2026-10-25T11:34:12.372472Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -57,8 +57,8 @@
         ],
         "education": [
           "Harvard Business School",
-          "University of Oxford",
           "Harvard Law School",
+          "University of Oxford",
           "King's College, Lagos"
         ],
         "employers": [
@@ -321,7 +321,6 @@
           "chief financial officer"
         ],
         "education": [
-          "Harvard University",
           "Union College",
           "Bronx High School of Science",
           "Harvard Business School",

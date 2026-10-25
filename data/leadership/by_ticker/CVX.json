@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-10-18T11:16:46.394403Z",
+  "fetchedAt": "2026-10-25T11:34:12.360386Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -43,8 +43,8 @@
         "birthPlace": "Lusaka",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
         "occupations": [
-          "writer",
-          "economist"
+          "economist",
+          "writer"
         ],
         "education": [
           "Kogod School of Business",
@@ -56,12 +56,12 @@
         ],
         "employers": [
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           }
@@ -101,9 +101,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
           "governor",
-          "missionary",
           "diplomat",
           "politician",
+          "missionary",
           "ambassador"
         ],
         "education": [
@@ -256,7 +256,6 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
           "Columbia University",
@@ -308,8 +307,8 @@
           "academic administrator"
         ],
         "education": [
-          "University of Southern California",
-          "Princeton University"
+          "Princeton University",
+          "University of Southern California"
         ],
         "employers": [
           {
@@ -461,8 +460,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "military flight engineer",
-          "engineer"
+          "engineer",
+          "military flight engineer"
         ],
         "education": [
           "University of Pittsburgh",

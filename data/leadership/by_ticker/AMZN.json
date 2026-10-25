@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-18T11:16:46.380878Z",
+  "fetchedAt": "2026-10-25T11:34:12.346642Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,9 +17,9 @@
           "business executive"
         ],
         "education": [
+          "Scarsdale High School",
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -62,11 +62,16 @@
           "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -81,11 +86,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -119,9 +119,9 @@
           "business executive"
         ],
         "education": [
+          "Scarsdale High School",
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -295,13 +295,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "intelligence officer",
-          "soldier"
+          "soldier",
+          "intelligence officer"
         ],
         "education": [
+          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
-          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -335,14 +335,14 @@
         "image": null,
         "occupations": [
           "university teacher",
-          "academic",
           "executive",
           "dean",
+          "academic",
           "computer scientist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "University of Michigan"
+          "University of Michigan",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -424,11 +424,16 @@
           "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -443,11 +448,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -483,21 +483,21 @@
         "education": [
           "Indian Institute of Management Calcutta",
           "University of Madras",
-          "Yale University",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College"
+          "Madras Christian College",
+          "Yale University"
         ],
         "employers": [
-          {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
           {
             "company": "PepsiCo",
             "start": "1994-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
           },
           {
             "company": "Boston Consulting Group",
@@ -506,11 +506,6 @@
           },
           {
             "company": "ABB Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
@@ -596,11 +591,16 @@
           "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -615,11 +615,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

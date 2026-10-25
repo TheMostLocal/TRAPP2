@@ -1,6 +1,6 @@
 {
   "ticker": "TEM",
-  "fetchedAt": "2026-10-18T11:16:46.442291Z",
+  "fetchedAt": "2026-10-25T11:34:12.408735Z",
   "people": [
     {
       "qid": "Q7381427",
@@ -16,9 +16,9 @@
         "occupations": [
           "academic administrator",
           "orator",
-          "writer",
           "Christian minister",
-          "lawyer"
+          "lawyer",
+          "writer"
         ],
         "education": [
           "Wilbraham & Monson Academy",
