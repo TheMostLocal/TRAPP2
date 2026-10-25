@@ -5,17 +5,16 @@
   "birthPlace": "London",
   "image": null,
   "occupations": [
-    "investment banker",
     "chief executive officer",
-    "businessperson",
-    "entrepreneur"
+    "investment banker",
+    "entrepreneur",
+    "businessperson"
   ],
   "education": [
-    "Phillips Exeter Academy",
     "Harvard Business School",
     "Harvard College",
-    "Harvard University",
-    "Phillips Exeter Academy"
+    "Phillips Exeter Academy",
+    "Harvard University"
   ],
   "employers": [
     {

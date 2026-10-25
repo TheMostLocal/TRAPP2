@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-10-18T11:16:46.432133Z",
+  "fetchedAt": "2026-10-25T11:11:01.492455Z",
   "people": [
     {
       "qid": "Q19560940",
@@ -14,14 +14,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "businessperson",
+          "merchant",
           "entrepreneur"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Haverford College",
-          "Stanford University"
+          "Stanford University",
+          "Haverford College"
         ],
         "employers": [
           {
@@ -45,14 +45,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "businessperson",
+          "merchant",
           "entrepreneur"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Haverford College",
-          "Stanford University"
+          "Stanford University",
+          "Haverford College"
         ],
         "employers": [
           {
@@ -98,25 +98,21 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "investor",
-          "banker",
-          "technology entrepreneur",
-          "chess player",
-          "banker",
           "manager",
-          "investor",
           "financier",
-          "entrepreneur",
+          "banker",
+          "chess player",
           "businessperson",
+          "investor",
           "computer scientist",
-          "writer",
+          "technology entrepreneur",
           "entrepreneur",
-          "businessperson"
+          "writer"
         ],
         "education": [
+          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School",
-          "Stanford University"
+          "San Mateo High School"
         ],
         "employers": [
           {
@@ -175,15 +171,20 @@
         "birthPlace": "Fremont",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
         "occupations": [
+          "venture capitalist",
           "angel investor",
-          "businessperson",
-          "venture capitalist"
+          "businessperson"
         ],
         "education": [
           "Mission San Jose High School",
           "Stanford University"
         ],
         "employers": [
+          {
+            "company": "Clarium Capital",
+            "start": null,
+            "end": "2004-01-01"
+          },
           {
             "company": "Addepar",
             "start": "2009-01-01",
@@ -208,11 +209,6 @@
             "company": "Palantir Technologies",
             "start": "2004-01-01",
             "end": "2009-01-01"
-          },
-          {
-            "company": "Clarium Capital",
-            "start": null,
-            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -249,25 +245,21 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "investor",
-          "banker",
-          "technology entrepreneur",
-          "chess player",
-          "banker",
           "manager",
-          "investor",
           "financier",
-          "entrepreneur",
+          "banker",
+          "chess player",
           "businessperson",
+          "investor",
           "computer scientist",
-          "writer",
+          "technology entrepreneur",
           "entrepreneur",
-          "businessperson"
+          "writer"
         ],
         "education": [
+          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School",
-          "Stanford University"
+          "San Mateo High School"
         ],
         "employers": [
           {
@@ -304,14 +296,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "businessperson",
+          "merchant",
           "entrepreneur"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Haverford College",
-          "Stanford University"
+          "Stanford University",
+          "Haverford College"
         ],
         "employers": [
           {

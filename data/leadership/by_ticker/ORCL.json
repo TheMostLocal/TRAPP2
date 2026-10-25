@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-10-18T11:16:46.428123Z",
+  "fetchedAt": "2026-10-25T11:11:01.488208Z",
   "people": [
     {
       "qid": "Q92759",
@@ -14,7 +14,6 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "businessperson",
           "aircraft pilot",
           "entrepreneur",
           "computer scientist",
@@ -150,10 +149,10 @@
           "chief executive officer"
         ],
         "education": [
-          "Syracuse University",
-          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda"
+          "Maharaja Sayajirao University of Baroda",
+          "Syracuse University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -199,8 +198,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Santa Barbara",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "University of California, Santa Barbara"
         ],
         "employers": [],
         "positions": []
@@ -221,8 +220,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgia Tech",
           "Harvard Business School",
+          "Georgia Tech",
           "Harvard University"
         ],
         "employers": [
@@ -259,21 +258,6 @@
         ],
         "employers": [
           {
-            "company": "Adobe",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Microsoft",
-            "start": "1983-01-01",
-            "end": "1987-01-01"
-          },
-          {
-            "company": "Claris",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Mattel",
             "start": "1980-01-01",
             "end": "1983-01-01"
@@ -282,6 +266,16 @@
             "company": "Claris",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Microsoft",
+            "start": "1983-01-01",
+            "end": "1987-01-01"
           }
         ],
         "positions": [
@@ -307,16 +301,17 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
           "academic",
-          "businessperson",
+          "university teacher",
+          "writer",
           "economist",
-          "writer"
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
         ],
         "employers": [
           {
-            "company": "Yale University",
+            "company": "Stanford University",
             "start": null,
             "end": null
           },
@@ -326,7 +321,7 @@
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "Yale University",
             "start": null,
             "end": null
           },
@@ -351,9 +346,9 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "banker",
-          "chief financial officer"
+          "chief financial officer",
+          "businessperson"
         ],
         "education": [
           "Brookline High School",
@@ -427,6 +422,7 @@
         "occupations": [
           "Oberleutnant",
           "university teacher",
+          "political scientist",
           "jurist",
           "lawyer",
           "politician"
@@ -438,12 +434,12 @@
         ],
         "employers": [
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           },
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           }
@@ -486,28 +482,16 @@
             "end": "1987-01-03"
           },
           {
-            "title": "United States representative",
+            "title": "White House Chief of Staff",
             "company": null,
-            "start": "1983-01-03",
-            "end": "1985-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
+            "start": "1994-07-17",
+            "end": "1997-01-20"
           },
           {
             "title": "United States representative",
             "company": null,
             "start": "1991-01-03",
             "end": "1993-01-03"
-          },
-          {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
           },
           {
             "title": "United States representative",
@@ -532,6 +516,18 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1983-01-03",
+            "end": "1985-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
           }
         ]
       }
@@ -590,9 +586,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Chicago",
           "Booth School of Business",
-          "Ohio Wesleyan University",
-          "University of Chicago"
+          "Ohio Wesleyan University"
         ],
         "employers": [],
         "positions": []
@@ -655,7 +651,6 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "businessperson",
           "aircraft pilot",
           "entrepreneur",
           "computer scientist",
@@ -719,7 +714,6 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "businessperson",
           "aircraft pilot",
           "entrepreneur",
           "computer scientist",

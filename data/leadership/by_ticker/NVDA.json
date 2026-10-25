@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-10-18T11:16:46.426858Z",
+  "fetchedAt": "2026-10-25T11:11:01.486679Z",
   "people": [
     {
       "qid": "Q305177",
@@ -17,12 +17,11 @@
           "founder",
           "manager",
           "electrical engineer",
-          "founder",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -234,9 +233,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
         "occupations": [],
         "education": [
+          "Harvard Business School",
           "Harvard University",
           "University of Southern California",
-          "Harvard Business School",
           "USC Viterbi School of Engineering"
         ],
         "employers": [],
@@ -264,8 +263,8 @@
         "occupations": [
           "biophysicist",
           "military flight engineer",
-          "engineer",
-          "university teacher"
+          "university teacher",
+          "engineer"
         ],
         "education": [
           "California Institute of Technology",
@@ -308,12 +307,11 @@
           "founder",
           "manager",
           "electrical engineer",
-          "founder",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -340,12 +338,11 @@
           "founder",
           "manager",
           "electrical engineer",
-          "founder",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Stanford University",

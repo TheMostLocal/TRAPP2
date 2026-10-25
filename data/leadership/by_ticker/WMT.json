@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-10-18T11:16:46.451959Z",
+  "fetchedAt": "2026-10-25T11:11:01.515895Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -14,8 +14,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -61,8 +61,8 @@
         "birthPlace": "Tulsa",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20Robson%20Walton.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Columbia Law School",
@@ -84,9 +84,9 @@
         "birthPlace": "Wausau",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
+          "computer scientist",
           "business executive",
-          "engineer",
-          "computer scientist"
+          "engineer"
         ],
         "education": [
           "Stanford University",
@@ -137,8 +137,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -299,8 +299,8 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
-          "St Anne's College"
+          "St Anne's College",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []

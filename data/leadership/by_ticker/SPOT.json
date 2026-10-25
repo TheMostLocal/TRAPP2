@@ -1,6 +1,6 @@
 {
   "ticker": "SPOT",
-  "fetchedAt": "2026-10-18T11:16:46.439789Z",
+  "fetchedAt": "2026-10-25T11:11:01.503446Z",
   "people": [
     {
       "qid": "Q901670",
@@ -14,9 +14,9 @@
         "birthPlace": "Vant\u00f6rs parish",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Ek%20EC%202025%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
           "manager",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [],
         "employers": [],
@@ -60,9 +60,9 @@
         "birthPlace": "Vant\u00f6rs parish",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Ek%20EC%202025%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
           "manager",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [],
         "employers": [],
@@ -106,9 +106,9 @@
         "birthPlace": "Vant\u00f6rs parish",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Ek%20EC%202025%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
           "manager",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [],
         "employers": [],

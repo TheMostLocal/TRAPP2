@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-10-18T11:16:46.425922Z",
+  "fetchedAt": "2026-10-25T11:11:01.485595Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -211,9 +211,9 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Sloan Fellows Program",
-          "MIT Sloan School of Management"
+          "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -343,9 +343,9 @@
           "businessperson"
         ],
         "education": [
+          "Cornell University",
           "The Wharton School",
-          "New York University Tandon School of Engineering",
-          "Cornell University"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [],
         "positions": []

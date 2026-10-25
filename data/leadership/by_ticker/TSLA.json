@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-10-18T11:16:46.444862Z",
+  "fetchedAt": "2026-10-25T11:11:01.508363Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,17 +14,16 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "investor",
+          "philanthropist",
           "dub actor",
-          "philanthropist",
-          "financier",
-          "technology entrepreneur",
-          "civil servant",
-          "philanthropist",
           "programmer",
+          "financier",
+          "engineer",
+          "technology entrepreneur",
+          "investor",
+          "civil servant",
           "entrepreneur",
-          "politician",
-          "engineer"
+          "politician"
         ],
         "education": [
           "Bryanston High School",
@@ -34,14 +33,10 @@
           "Queen's University",
           "The Wharton School",
           "University of Pennsylvania",
+          "Stanford University",
           "Smith School of Business"
         ],
         "employers": [
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
           {
             "company": "SolarCity",
             "start": null,
@@ -53,18 +48,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
@@ -144,11 +134,16 @@
           "businessperson"
         ],
         "education": [
+          "Georges River College",
           "University of New South Wales",
-          "University of Sydney",
-          "Georges River College"
+          "University of Sydney"
         ],
         "employers": [
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
           {
             "company": "Toyota Australia",
             "start": "1989-01-01",
@@ -178,11 +173,6 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -260,9 +250,9 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
+          "businessperson",
           "chief technology officer",
-          "inventor",
-          "businessperson"
+          "inventor"
         ],
         "education": [
           "Stanford University",
@@ -300,9 +290,9 @@
           "venture capitalist"
         ],
         "education": [
-          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": [
@@ -407,11 +397,16 @@
           "businessperson"
         ],
         "education": [
+          "Georges River College",
           "University of New South Wales",
-          "University of Sydney",
-          "Georges River College"
+          "University of Sydney"
         ],
         "employers": [
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
           {
             "company": "Toyota Australia",
             "start": "1989-01-01",
@@ -441,11 +436,6 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -534,17 +524,16 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "investor",
+          "philanthropist",
           "dub actor",
-          "philanthropist",
-          "financier",
-          "technology entrepreneur",
-          "civil servant",
-          "philanthropist",
           "programmer",
+          "financier",
+          "engineer",
+          "technology entrepreneur",
+          "investor",
+          "civil servant",
           "entrepreneur",
-          "politician",
-          "engineer"
+          "politician"
         ],
         "education": [
           "Bryanston High School",
@@ -554,14 +543,10 @@
           "Queen's University",
           "The Wharton School",
           "University of Pennsylvania",
+          "Stanford University",
           "Smith School of Business"
         ],
         "employers": [
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
           {
             "company": "SolarCity",
             "start": null,
@@ -573,18 +558,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
@@ -660,7 +640,6 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "businessperson",
           "aircraft pilot",
           "entrepreneur",
           "computer scientist",
@@ -725,8 +704,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
           "karateka",
-          "businessperson",
-          "publisher"
+          "publisher",
+          "businessperson"
         ],
         "education": [
           "Horace Mann School",

@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-10-18T11:16:46.435874Z",
+  "fetchedAt": "2026-10-25T11:11:01.496336Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -58,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Miami"
@@ -286,9 +286,9 @@
           "civil servant"
         ],
         "education": [
+          "University of Oxford",
           "Saddleback High School",
           "Lexington High School",
-          "University of Oxford",
           "Georgetown University"
         ],
         "employers": [
@@ -320,8 +320,8 @@
         "birthPlace": "Coronado",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
-          "admiral",
           "military officer",
+          "admiral",
           "naval air force"
         ],
         "education": [

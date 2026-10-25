@@ -1,6 +1,6 @@
 {
   "ticker": "PANW",
-  "fetchedAt": "2026-10-18T11:16:46.429059Z",
+  "fetchedAt": "2026-10-25T11:11:01.489262Z",
   "people": [
     {
       "qid": "Q7034852",
@@ -55,8 +55,8 @@
         "birthPlace": "Rehovot",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "industrialist"
+          "industrialist",
+          "entrepreneur"
         ],
         "education": [
           "Tel Aviv University"

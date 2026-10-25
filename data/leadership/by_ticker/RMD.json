@@ -1,6 +1,6 @@
 {
   "ticker": "RMD",
-  "fetchedAt": "2026-10-18T11:16:46.435212Z",
+  "fetchedAt": "2026-10-25T11:11:01.495672Z",
   "people": [
     {
       "qid": "Q141620330",
@@ -17,9 +17,9 @@
           "business executive"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "University of New South Wales",
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "MIT Sloan School of Management"
         ],
         "employers": [
           {
