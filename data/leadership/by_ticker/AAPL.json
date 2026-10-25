@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-18T11:16:46.374874Z",
+  "fetchedAt": "2026-10-25T11:01:01.344470Z",
   "people": [
     {
       "qid": "Q709063",
@@ -14,9 +14,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
@@ -51,24 +51,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
+          "orator",
+          "blogger",
+          "climate activist",
+          "journalist",
+          "financier",
           "environmentalist",
           "university teacher",
           "farmer",
-          "orator",
-          "blogger",
-          "financier",
-          "climate activist",
-          "politician",
-          "writer",
           "businessperson",
-          "journalist"
+          "politician",
+          "writer"
         ],
         "education": [
-          "Defense Information School",
           "Harvard College",
           "Vanderbilt University",
           "Vanderbilt University Divinity School",
-          "St. Albans School"
+          "St. Albans School",
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -78,6 +78,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
           {
             "title": "United States representative",
             "company": null,
@@ -95,12 +101,6 @@
             "company": null,
             "start": "1993-01-20",
             "end": "2001-01-20"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
           },
           {
             "title": "board member",
@@ -129,14 +129,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -153,8 +153,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -231,9 +231,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
@@ -268,8 +268,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -303,26 +303,29 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "electronics technician",
           "programmer",
-          "inventor",
           "electronics technician",
-          "businessperson",
+          "inventor",
           "entrepreneur",
+          "businessperson",
           "computer scientist",
           "engineer",
           "teacher",
           "actor"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Homestead High School"
         ],
         "employers": [
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Hewlett-Packard",
             "start": null,
@@ -330,11 +333,6 @@
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -361,19 +359,19 @@
         "occupations": [
           "technology entrepreneur",
           "designer",
-          "financier",
           "founder",
           "film producer",
+          "financier",
           "general manager",
           "executive producer",
-          "computer scientist",
+          "inventor",
           "entrepreneur",
-          "inventor"
+          "computer scientist"
         ],
         "education": [
+          "Homestead High School",
           "Reed College",
-          "De Anza College",
-          "Homestead High School"
+          "De Anza College"
         ],
         "employers": [
           {
@@ -387,7 +385,7 @@
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },

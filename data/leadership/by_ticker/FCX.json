@@ -1,6 +1,6 @@
 {
   "ticker": "FCX",
-  "fetchedAt": "2026-10-18T11:16:46.402840Z",
+  "fetchedAt": "2026-10-25T11:01:01.374268Z",
   "people": [
     {
       "qid": "Q16501102",
@@ -14,14 +14,13 @@
         "birthPlace": "Tennessee",
         "image": null,
         "occupations": [
-          "accountant",
           "head commissioner",
           "accountant",
           "entrepreneur"
         ],
         "education": [
-          "Mississippi State University",
           "Harvard Business School",
+          "Mississippi State University",
           "Harvard University"
         ],
         "employers": [],
@@ -91,14 +90,13 @@
         "birthPlace": "Tennessee",
         "image": null,
         "occupations": [
-          "accountant",
           "head commissioner",
           "accountant",
           "entrepreneur"
         ],
         "education": [
-          "Mississippi State University",
           "Harvard Business School",
+          "Mississippi State University",
           "Harvard University"
         ],
         "employers": [],
@@ -237,8 +235,8 @@
         "birthPlace": "Queens",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Dudley%2C%20January%202011.jpeg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Southern Methodist University",

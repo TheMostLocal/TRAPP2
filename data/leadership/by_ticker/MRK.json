@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-10-18T11:16:46.422180Z",
+  "fetchedAt": "2026-10-25T10:49:26.119982Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -338,8 +338,8 @@
           "researcher"
         ],
         "education": [
-          "George Washington University Medical School",
-          "Harvard University"
+          "Harvard University",
+          "George Washington University Medical School"
         ],
         "employers": [],
         "positions": [
@@ -398,8 +398,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Yale University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Yale University"
         ],
         "employers": [
           {
@@ -445,12 +445,12 @@
           "physician"
         ],
         "education": [
+          "University of Pennsylvania",
           "Stony Brook University",
+          "Harvard University",
           "The Bush School",
           "The Wharton School",
-          "Harvard Medical School",
-          "University of Pennsylvania",
-          "Harvard University"
+          "Harvard Medical School"
         ],
         "employers": [
           {

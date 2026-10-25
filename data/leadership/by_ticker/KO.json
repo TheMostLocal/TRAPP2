@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-10-18T11:16:46.414719Z",
+  "fetchedAt": "2026-10-25T10:49:26.114487Z",
   "people": [
     {
       "qid": "Q5398061",
@@ -14,8 +14,8 @@
         "birthPlace": "Gentofte",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eske%20Willerslev%20%28cropped%29.png",
         "occupations": [
-          "biologist",
-          "university teacher"
+          "university teacher",
+          "biologist"
         ],
         "education": [
           "University of Copenhagen"

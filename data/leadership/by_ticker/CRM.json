@@ -1,6 +1,6 @@
 {
   "ticker": "CRM",
-  "fetchedAt": "2026-10-18T11:16:46.392152Z",
+  "fetchedAt": "2026-10-25T11:01:01.363169Z",
   "people": [
     {
       "qid": "Q1521908",
@@ -14,11 +14,11 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Benioff.jpg",
         "occupations": [
+          "chief executive officer",
+          "businessperson",
           "Internet entrepreneur",
           "philanthropist",
-          "chief executive officer",
-          "chairperson",
-          "businessperson"
+          "chairperson"
         ],
         "education": [
           "USC Marshall School of Business",
@@ -59,11 +59,11 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Benioff.jpg",
         "occupations": [
+          "chief executive officer",
+          "businessperson",
           "Internet entrepreneur",
           "philanthropist",
-          "chief executive officer",
-          "chairperson",
-          "businessperson"
+          "chairperson"
         ],
         "education": [
           "USC Marshall School of Business",

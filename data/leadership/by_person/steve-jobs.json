@@ -7,19 +7,19 @@
   "occupations": [
     "technology entrepreneur",
     "designer",
-    "financier",
     "founder",
     "film producer",
+    "financier",
     "general manager",
     "executive producer",
-    "computer scientist",
+    "inventor",
     "entrepreneur",
-    "inventor"
+    "computer scientist"
   ],
   "education": [
+    "Homestead High School",
     "Reed College",
-    "De Anza College",
-    "Homestead High School"
+    "De Anza College"
   ],
   "employers": [
     {
@@ -33,7 +33,7 @@
       "end": null
     },
     {
-      "company": "Atari, Inc.",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     },

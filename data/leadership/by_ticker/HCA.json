@@ -1,6 +1,6 @@
 {
   "ticker": "HCA",
-  "fetchedAt": "2026-10-18T11:16:46.407403Z",
+  "fetchedAt": "2026-10-25T10:49:26.108541Z",
   "people": [
     {
       "qid": "Q80049510",
@@ -23,17 +23,17 @@
         ],
         "employers": [
           {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -78,8 +78,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -119,8 +119,8 @@
         "birthPlace": "San Diego",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Crofton%20%283694392840%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "president"
+          "president",
+          "businessperson"
         ],
         "education": [
           "Rollins College",
@@ -142,13 +142,13 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nancy-Ann%20DeParle%20official%20portrait.jpg",
         "occupations": [
-          "politician",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
+          "University of Tennessee",
           "Balliol College",
-          "Harvard Law School",
-          "University of Tennessee"
+          "Harvard Law School"
         ],
         "employers": [
           {
