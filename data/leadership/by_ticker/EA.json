@@ -1,6 +1,6 @@
 {
   "ticker": "EA",
-  "fetchedAt": "2026-10-18T11:16:46.398595Z",
+  "fetchedAt": "2026-10-25T11:01:01.369941Z",
   "people": [
     {
       "qid": "Q15064277",
@@ -14,8 +14,8 @@
         "birthPlace": "Gold Coast",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [
@@ -78,9 +78,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford Graduate School of Business",
+          "La Jolla High School",
           "Harvard University",
-          "La Jolla High School"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -119,9 +119,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford Graduate School of Business",
+          "La Jolla High School",
           "Harvard University",
-          "La Jolla High School"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {

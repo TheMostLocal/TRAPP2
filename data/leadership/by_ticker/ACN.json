@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-10-18T11:16:46.376908Z",
+  "fetchedAt": "2026-10-25T11:01:01.346898Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -264,15 +264,15 @@
         "birthPlace": "6th arrondissement of Lyon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilles%20P%C3%A9lisson.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
+          "Harvard University",
+          "lyc\u00e9e du Parc",
           "ESSEC Business School",
           "Harvard Business School",
-          "\u00c9cole alsacienne",
-          "Harvard University",
-          "lyc\u00e9e du Parc"
+          "\u00c9cole alsacienne"
         ],
         "employers": [
           {
@@ -468,11 +468,6 @@
             "end": "2015-01-01"
           },
           {
-            "company": "Skyworks Solutions",
-            "start": "2000-01-01",
-            "end": "2004-01-01"
-          },
-          {
             "company": "Koninklijke Philips NV",
             "start": "1983-01-01",
             "end": "2000-01-01"
@@ -481,6 +476,11 @@
             "company": "Intel",
             "start": "2015-11-01",
             "end": "2020-08-01"
+          },
+          {
+            "company": "Skyworks Solutions",
+            "start": "2000-01-01",
+            "end": "2004-01-01"
           }
         ],
         "positions": [

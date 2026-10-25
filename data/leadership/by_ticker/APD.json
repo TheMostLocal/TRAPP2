@@ -1,6 +1,6 @@
 {
   "ticker": "APD",
-  "fetchedAt": "2026-10-18T11:16:46.381724Z",
+  "fetchedAt": "2026-10-25T11:01:01.352010Z",
   "people": [
     {
       "qid": "Q125491129",
@@ -234,8 +234,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "lawyer"
+          "lawyer",
+          "business executive"
         ],
         "education": [],
         "employers": [
