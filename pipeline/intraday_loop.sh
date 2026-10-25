@@ -33,6 +33,17 @@ start=$(date +%s)
 hhmm() { echo $((10#$(date -u +%H%M))); }
 in_window() { local n; n=$(hhmm); [ "$n" -ge $((10#$START)) ] && [ "$n" -lt $((10#$STOP)) ]; }
 
+# z158: the shared scripts come from TRAPP2-CORE (checked out at $CORE_DIR by the workflow). A sync can put
+# this repo's own copies back (a reset, a pull), so they are re-applied after every sync - all but this
+# running script itself, which bash is still reading.
+core_overlay() {
+  [ -n "${CORE_DIR:-}" ] && [ -d "$CORE_DIR/pipeline" ] || return 0
+  for f in "$CORE_DIR"/pipeline/*; do
+    [ "$(basename "$f")" = "intraday_loop.sh" ] && continue
+    cp -r "$f" pipeline/
+  done
+}
+
 # nothing is local yet, so this is a plain fast-forward (reset to the fetched tip as a fallback)
 if git fetch -q origin "$BRANCH" 2>/dev/null; then
   git merge -q --ff-only FETCH_HEAD 2>/dev/null || git reset -q --hard FETCH_HEAD
@@ -40,6 +51,8 @@ if git fetch -q origin "$BRANCH" 2>/dev/null; then
 else
   echo "::warning::could not fetch origin/$BRANCH - continuing from the checked-out commit"
 fi
+core_overlay
+[ -n "${CORE_DIR:-}" ] && echo "shared pipeline: TRAPP2-CORE${ALPACA_KEY_ID:+ · Alpaca on}"
 DAY=$(python pipeline/intraday_session.py 2>/dev/null || echo trading)
 SINGLE=""
 in_window || SINGLE="started outside the session window (${START}Z-${STOP}Z)"
@@ -107,6 +120,7 @@ while :; do
   EVENT=""
   # keep the checkout current so the next pass builds on what's on GitHub
   git pull -q --no-rebase -X ours origin "$BRANCH" 2>/dev/null || true
+  core_overlay
   now=$(date +%s)
   if [ -n "$SINGLE" ]; then echo "$SINGLE - one pass only"; break; fi
   if [ "$DAY" != "trading" ] && [ -z "${INTRADAY_FORCE:-}" ]; then echo "not a trading day ($DAY) - one pass only"; break; fi
