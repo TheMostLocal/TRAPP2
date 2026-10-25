@@ -93,6 +93,29 @@ def frame_rows(frame):
 
 
 def download(tickers):
+    """z158: Alpaca first (official SIP bars to 16 min ago + IEX since, hundreds of symbols per call) for US
+    stocks / ETFs; Yahoo for everything else and for anything Alpaca didn't return."""
+    out = {}
+    try:
+        import alpaca_data
+        if alpaca_data.enabled():
+            now = datetime.now(timezone.utc)
+            day0 = _et_now(now).replace(hour=4, minute=0, second=0, microsecond=0).astimezone(timezone.utc)
+            got = alpaca_data.intraday(tickers, day0, now)
+            out = {t: [[r[0], round(r[1], 6), round(r[2], 6), round(r[3], 6), round(r[4], 6), int(r[5])] for r in rows if r[4] > 0]
+                   for t, rows in got.items() if rows}
+            out = {t: rows for t, rows in out.items() if rows}          # a symbol with no usable bar goes to Yahoo
+            log(f"Alpaca: 5-min bars for {len(out)} of {sum(1 for t in tickers if alpaca_data.eligible(t))} US symbols")
+    except Exception as e:
+        log(f"Alpaca unavailable ({type(e).__name__}: {str(e)[:120]}) - Yahoo for everything")
+        out = {}
+    rest = [t for t in tickers if t not in out]
+    if rest:
+        out.update(_yahoo_download(rest))
+    return out
+
+
+def _yahoo_download(tickers):
     import pandas as pd
     import yfinance as yf
     out = {}
