@@ -10,7 +10,7 @@
     "trend": 0.727,
     "breadth": -0.091,
     "commodity": 0.434,
-    "crypto": -0.213
+    "crypto": -0.252
   },
   "signal_confidences": {
     "macro": 1.0,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.3207,
-    "risk_on_melt_up": 0.0555,
-    "inflation_shock": 0.0908,
-    "recession_fear": 0.0022,
-    "risk_off": 0.0312,
-    "neutral": 0.4996
+    "expansion": 0.3133,
+    "risk_on_melt_up": 0.0518,
+    "inflation_shock": 0.094,
+    "recession_fear": 0.0023,
+    "risk_off": 0.0334,
+    "neutral": 0.5052
   },
   "drivers": [
     {
@@ -94,12 +94,12 @@
       "n_components": 3
     },
     "crypto": {
-      "btc_30d_return": -0.0425,
-      "btc_pct_from_50dma": -0.0123,
-      "eth_30d_return": -0.1233,
+      "btc_30d_return": -0.0477,
+      "btc_pct_from_50dma": -0.0218,
+      "eth_30d_return": -0.1351,
       "n_components": 3
     }
   },
-  "computed_at": "2026-10-26T14:00:11+00:00",
+  "computed_at": "2026-10-26T14:15:08+00:00",
   "inputs_complete": true
 }
