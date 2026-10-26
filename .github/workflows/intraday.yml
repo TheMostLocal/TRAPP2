@@ -79,6 +79,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Shared pipeline (TRAPP2-CORE, z158)
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          repository: TheMostLocal/TRAPP2-CORE
+          path: _core
+      - name: Use the shared scripts (+ Alpaca / Supabase live keys when set)
+        env:
+          AK: ${{ secrets.ALPACA_KEY_ID }}
+          AS: ${{ secrets.ALPACA_SECRET_KEY }}
+          LU: ${{ secrets.SUPABASE_LIVE_URL }}
+          LK: ${{ secrets.SUPABASE_LIVE_KEY }}
+        run: |
+          if [ -d _core/pipeline ]; then cp -r _core/pipeline/. pipeline/; echo "CORE_DIR=_core" >> "$GITHUB_ENV"; echo "shared pipeline: TRAPP2-CORE @ $(git -C _core rev-parse --short HEAD)"; else echo "::notice::TRAPP2-CORE not available - this repo's own scripts"; fi
+          if [ -n "$AK" ] && [ -n "$AS" ]; then echo "ALPACA_KEY_ID=$AK" >> "$GITHUB_ENV"; echo "ALPACA_SECRET_KEY=$AS" >> "$GITHUB_ENV"; echo "Alpaca: on"; else echo "Alpaca: keys not set - Yahoo"; fi
+          if [ -n "$LU" ] && [ -n "$LK" ]; then echo "SUPABASE_LIVE_URL=$LU" >> "$GITHUB_ENV"; echo "SUPABASE_LIVE_KEY=$LK" >> "$GITHUB_ENV"; echo "Supabase live: on"; else echo "Supabase live: not set - GitHub only"; fi
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
