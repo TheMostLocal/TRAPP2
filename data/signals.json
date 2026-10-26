@@ -34,14 +34,14 @@
       }
     },
     "valuation": {
-      "raw": -0.27798918253024657,
+      "raw": -0.2811891825302466,
       "confidence": 0.85,
       "tier": "LIVE",
       "note": {
         "spy_pe": 24.13,
         "earnings_yield": 0.0414,
-        "real_10y": 0.0094,
-        "fed_model_spread": 0.0321
+        "real_10y": 0.0098,
+        "fed_model_spread": 0.0317
       }
     },
     "trend": {
