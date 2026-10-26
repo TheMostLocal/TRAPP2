@@ -51,7 +51,7 @@ name: Intraday Quotes + 15-min Tape
 
 on:
   schedule:
-    - cron: '0 8-23 * * 1-5'     # z131: hourly starts 08-23 UTC - pre-market (04:00 ET) to after hours (20:00 EDT)
+    - cron: '1 8-23 * * 1-5'     # z131: hourly starts 08-23 UTC - pre-market (04:00 ET) to after hours (20:00 EDT)
   workflow_dispatch:
     inputs:
       force_tape:
@@ -75,6 +75,7 @@ jobs:
     timeout-minutes: 360          # GitHub's per-job maximum; the loop stops itself at 5h40m
     permissions:
       contents: write
+      actions: write                # z161: the loop queues its own next run (GitHub's scheduler can go hours silent)
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -111,6 +112,7 @@ jobs:
           INTRADAY_FORCE: ${{ github.event.inputs.force_tape == 'true' && '1' || '' }}
           LOOP_MAX_ITERS: ${{ github.event.inputs.single == 'true' && '1' || '1000' }}
           LOOP_OFFSET_SEC: '0'
+          GH_TOKEN: ${{ github.token }}          # z161: for chain_next (gh workflow run)
           LOOP_START_UTC: '0800'      # z131: 04:00 EDT / 03:00 EST - the bars step skips anything outside 04:00-20:15 ET
           LOOP_STOP_UTC: '2400'       # z131: through 20:00 EDT (19:00 EST)
           GITHUB_REPOSITORY: ${{ github.repository }}
