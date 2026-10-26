@@ -79,6 +79,7 @@ event_pass() {
   python pipeline/human_corrections.py master || true
   python pipeline/append_intraday_snapshot.py || true
   commit_push "Official open / close $(TZ=America/New_York date +%H%M) ET [skip ci]"
+  live_push
 }
 
 one_pass() {
@@ -89,6 +90,16 @@ one_pass() {
   python pipeline/append_intraday_snapshot.py || true
   python pipeline/fetch_intraday_bars.py || true          # z131: 5-min OHLCV incl. pre-market / after hours
   commit_push "Quotes + intraday tape $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+  live_push
+}
+
+# z159: after GitHub has the pass, the same quotes and bars go to Supabase (when SUPABASE_LIVE_* are set) -
+# best-effort, never blocks the loop; the first pass of the job also prunes old bar days
+LIVE_FIRST=1
+live_push() {
+  [ -n "${SUPABASE_LIVE_URL:-}" ] || return 0
+  if [ -n "$LIVE_FIRST" ]; then python pipeline/supabase_live.py --prune || true; LIVE_FIRST=""
+  else python pipeline/supabase_live.py || true; fi
 }
 
 commit_push() {
