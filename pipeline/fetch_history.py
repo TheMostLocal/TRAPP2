@@ -119,9 +119,34 @@ def existing_last_date(ticker):
     return None
 
 
+def _split_like(r):
+    """z166 - a day-to-day close ratio that looks like a split (x2, x10, x0.1 ... within 15 %), not a move."""
+    if not r or r <= 0 or 0.55 < r < 1.8:
+        return False
+    big = r if r >= 1 else 1 / r
+    return any(abs(big - f) / f <= 0.15 for f in (2, 3, 4, 5, 6, 7, 8, 10, 12, 15, 20, 25, 30, 40, 50, 100, 200))
+
+
+def needs_refetch(ticker):
+    """z166 - the stored file's newest bars are broken: a bar with no close, or a split-like jump between the
+    last closes (stored history on two share bases - PARA 10-26/27 after its 1-for-10). Re-fetch regardless of age."""
+    p = HISTORY_DIR / f"{ticker}.json"
+    try:
+        data = json.loads(p.read_text())
+    except Exception:
+        return False
+    tail = [b for b in data[-6:] if isinstance(b, dict)]
+    if any(b.get("close") in (None, "", 0) for b in tail):
+        return True
+    cl = [float(b["close"]) for b in tail if b.get("close")]
+    return any(_split_like(cl[i] / cl[i - 1]) for i in range(1, len(cl)) if cl[i - 1] > 0)
+
+
 def is_fresh(ticker, max_age_days):
     last = existing_last_date(ticker)
     if not last:
+        return False
+    if needs_refetch(ticker):
         return False
     try:
         last_dt = datetime.strptime(last, "%Y-%m-%d").date()
@@ -186,10 +211,28 @@ def write_merged(ticker, bars):
                 existing = prev
         except Exception:
             existing = []
+    # z166: Yahoo's closes are split-adjusted, so after a split every stored bar is on the old basis. If the
+    # fresh bars and the stored ones disagree by one consistent factor on the dates both have, that factor is the
+    # split: rescale the stored bars the fresh fetch doesn't cover (older than its window) so the file has ONE basis.
+    old = {b.get("date"): b for b in existing if isinstance(b, dict) and b.get("date")}
+    ratios = sorted(float(b["close"]) / float(old[b["date"]]["close"]) for b in bars
+                    if b.get("date") in old and old[b["date"]].get("close") and b.get("close"))
+    if len(ratios) >= 5:
+        k = ratios[len(ratios) // 2]
+        agree = sum(1 for r in ratios if abs(r / k - 1) < 0.01) / len(ratios)
+        if abs(k - 1) >= 0.03 and agree >= 0.8:
+            n = 0
+            for b in existing:
+                if b.get("close"):
+                    b["close"] = round(float(b["close"]) * k, 6)
+                    if b.get("volume"):
+                        b["volume"] = int(round(float(b["volume"]) / k))
+                    n += 1
+            log(f"  ↺ {ticker}: stored history was on another share basis (x{k:.4f} - a split); rescaled {n} bars")
     by_date = {}
     for b in existing:
         d = b.get("date")
-        if d:
+        if d and b.get("close") not in (None, ""):          # a bar without a close is never kept over a real one
             by_date[d] = b
     for b in bars:                       # fresh settled history wins per date
         by_date[b["date"]] = b
