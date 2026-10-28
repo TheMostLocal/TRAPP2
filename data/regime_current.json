@@ -24,11 +24,11 @@
   },
   "current_probabilities": {
     "expansion": 0.4612,
-    "risk_on_melt_up": 0.1347,
+    "risk_on_melt_up": 0.1346,
     "inflation_shock": 0.0382,
     "recession_fear": 0.0005,
     "risk_off": 0.0101,
-    "neutral": 0.3553
+    "neutral": 0.3554
   },
   "drivers": [
     {
@@ -72,8 +72,8 @@
     "valuation": {
       "spy_pe": 24.44,
       "earnings_yield": 0.0409,
-      "real_10y": 0.0098,
-      "fed_model_spread": 0.0312
+      "real_10y": 0.0097,
+      "fed_model_spread": 0.0313
     },
     "trend": {
       "spy_price": 769.66,
