@@ -4,8 +4,8 @@
   "confidence": 0.981,
   "scores": {
     "macro": 0.493,
-    "liquidity": -0.261,
-    "volatility": 0.574,
+    "liquidity": -0.215,
+    "volatility": 0.403,
     "valuation": -0.308,
     "trend": 0.788,
     "breadth": 0.091,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.4726,
-    "risk_on_melt_up": 0.1587,
-    "inflation_shock": 0.0306,
-    "recession_fear": 0.0004,
-    "risk_off": 0.0077,
-    "neutral": 0.3301
+    "expansion": 0.4612,
+    "risk_on_melt_up": 0.1347,
+    "inflation_shock": 0.0382,
+    "recession_fear": 0.0005,
+    "risk_off": 0.0101,
+    "neutral": 0.3553
   },
   "drivers": [
     {
@@ -39,17 +39,17 @@
       "direction": "bullish"
     },
     {
-      "signal": "volatility",
-      "score": 0.574,
-      "confidence": 1.0,
-      "weight": 0.574,
-      "direction": "bullish"
-    },
-    {
       "signal": "macro",
       "score": 0.493,
       "confidence": 1.0,
       "weight": 0.493,
+      "direction": "bullish"
+    },
+    {
+      "signal": "commodity",
+      "score": 0.466,
+      "confidence": 1.0,
+      "weight": 0.466,
       "direction": "bullish"
     }
   ],
@@ -60,14 +60,14 @@
       "indpro_yoy": 0.0225
     },
     "liquidity": {
-      "t10y2y": 0.32,
-      "hy_spread": 3.3,
-      "hy_spread_z": 0.62,
+      "t10y2y": 0.29,
+      "hy_spread": 3.18,
+      "hy_spread_z": 0.29,
       "hyg_minus_lqd_1m": -0.0139
     },
     "volatility": {
-      "vix_level": 18.39,
-      "vix9d_over_vix": 0.9054
+      "vix_level": 17.52,
+      "vix9d_over_vix": 0.9503
     },
     "valuation": {
       "spy_pe": 24.44,
