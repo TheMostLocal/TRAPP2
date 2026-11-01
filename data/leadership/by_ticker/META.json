@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-10-25T11:34:12.386312Z",
+  "fetchedAt": "2026-11-01T12:57:13.249954Z",
   "people": [
     {
       "qid": "Q36215",
@@ -14,20 +14,20 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
+          "philanthropist",
           "patron of the arts",
           "programmer",
           "entrepreneur",
-          "chief executive officer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
@@ -58,10 +58,10 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "economist",
+          "computer scientist",
           "businessperson",
-          "computer scientist"
+          "economist",
+          "entrepreneur"
         ],
         "education": [
           "Harvard Business School",
@@ -139,8 +139,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School",
@@ -367,8 +367,8 @@
           "computer scientist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Acton-Boxborough Regional High School"
+          "Acton-Boxborough Regional High School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": [
@@ -441,20 +441,21 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
           "manager",
-          "banker",
-          "entrepreneur",
-          "businessperson",
-          "writer",
           "financier",
+          "technology entrepreneur",
+          "banker",
           "investor",
-          "computer scientist"
+          "chess player",
+          "entrepreneur",
+          "computer scientist",
+          "businessperson",
+          "writer"
         ],
         "education": [
+          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School",
-          "Stanford University"
+          "San Mateo High School"
         ],
         "employers": [
           {
@@ -491,15 +492,14 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
           "blogger",
           "software engineer",
           "inventor",
-          "investor",
-          "entrepreneur",
+          "programmer",
           "engineer",
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "investor",
+          "entrepreneur"
         ],
         "education": [
           "New Lisbon High School",
@@ -539,20 +539,20 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
+          "philanthropist",
           "patron of the arts",
           "programmer",
           "entrepreneur",
-          "chief executive officer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
@@ -586,8 +586,8 @@
           "angel investor"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Graduate School of Education"
+          "Harvard Graduate School of Education",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -611,20 +611,20 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
+          "philanthropist",
           "patron of the arts",
           "programmer",
           "entrepreneur",
-          "chief executive officer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {

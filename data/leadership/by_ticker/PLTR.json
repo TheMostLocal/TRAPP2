@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-10-25T11:34:12.398159Z",
+  "fetchedAt": "2026-11-01T13:02:08.168949Z",
   "people": [
     {
       "qid": "Q19560940",
@@ -14,8 +14,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "entrepreneur",
+          "merchant",
           "businessperson"
         ],
         "education": [
@@ -45,8 +45,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "entrepreneur",
+          "merchant",
           "businessperson"
         ],
         "education": [
@@ -76,8 +76,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -98,21 +98,21 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "technology entrepreneur",
           "chess player",
+          "technology entrepreneur",
           "manager",
+          "financier",
           "banker",
+          "investor",
           "entrepreneur",
           "businessperson",
-          "writer",
-          "financier",
-          "investor",
-          "computer scientist"
+          "computer scientist",
+          "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -149,8 +149,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -181,11 +181,6 @@
         ],
         "employers": [
           {
-            "company": "Clarium Capital",
-            "start": null,
-            "end": "2004-01-01"
-          },
-          {
             "company": "Addepar",
             "start": "2009-01-01",
             "end": "2013-01-01"
@@ -209,6 +204,11 @@
             "company": "Palantir Technologies",
             "start": "2004-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Clarium Capital",
+            "start": null,
+            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -245,21 +245,21 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "technology entrepreneur",
           "chess player",
+          "technology entrepreneur",
           "manager",
+          "financier",
           "banker",
+          "investor",
           "entrepreneur",
           "businessperson",
-          "writer",
-          "financier",
-          "investor",
-          "computer scientist"
+          "computer scientist",
+          "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -296,8 +296,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "entrepreneur",
+          "merchant",
           "businessperson"
         ],
         "education": [

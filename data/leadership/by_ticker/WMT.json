@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-10-25T11:34:12.418357Z",
+  "fetchedAt": "2026-11-01T13:02:08.193893Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -14,8 +14,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -137,8 +137,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -188,10 +188,10 @@
           "military officer"
         ],
         "education": [
-          "United States Naval Academy",
-          "University of Virginia",
           "Miami Coral Park High School",
-          "University of Virginia Darden School of Business"
+          "University of Virginia Darden School of Business",
+          "United States Naval Academy",
+          "University of Virginia"
         ],
         "employers": [
           {
@@ -299,8 +299,8 @@
           "business executive"
         ],
         "education": [
-          "St Anne's College",
-          "Stanford University"
+          "Stanford University",
+          "St Anne's College"
         ],
         "employers": [],
         "positions": []

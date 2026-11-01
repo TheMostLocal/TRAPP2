@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-10-25T11:34:12.401894Z",
+  "fetchedAt": "2026-11-01T13:02:08.174159Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -58,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of Miami"
@@ -233,10 +233,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20O.%20Work%20DoD%20photo.jpg",
         "occupations": [],
         "education": [
-          "Naval Postgraduate School",
-          "Paul H. Nitze School of Advanced International Studies",
           "University of Illinois System",
-          "University of Southern California"
+          "University of Southern California",
+          "Naval Postgraduate School",
+          "Paul H. Nitze School of Advanced International Studies"
         ],
         "employers": [
           {
@@ -372,8 +372,8 @@
         "birthPlace": "Agra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DPaliwal%20Sep009.JPG",
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Dr. Hari Singh Gour University",
@@ -396,8 +396,8 @@
         "birthPlace": "Temple",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Anthony%20Harris%20Jr.jpg",
         "occupations": [
-          "physician",
-          "astronaut"
+          "astronaut",
+          "physician"
         ],
         "education": [
           "Texas Tech University Health Sciences Center",

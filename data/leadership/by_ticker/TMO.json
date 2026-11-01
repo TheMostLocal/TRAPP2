@@ -1,6 +1,6 @@
 {
   "ticker": "TMO",
-  "fetchedAt": "2026-10-25T11:34:12.409831Z",
+  "fetchedAt": "2026-11-01T13:02:08.183669Z",
   "people": [
     {
       "qid": "Q114890303",
@@ -41,9 +41,9 @@
           "director"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Northwestern University",
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -254,17 +254,17 @@
         ],
         "education": [
           "Walsh School of Foreign Service",
-          "Georgetown University Law Center",
-          "Harvard University"
+          "Harvard University",
+          "Georgetown University Law Center"
         ],
         "employers": [
           {
-            "company": "University of Pretoria",
+            "company": "Columbia University",
             "start": null,
             "end": null
           },
           {
-            "company": "Columbia University",
+            "company": "University of Pretoria",
             "start": null,
             "end": null
           },
