@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "fetchedAt": "2026-10-25T11:34:12.412572Z",
+  "fetchedAt": "2026-11-01T14:03:24.022262Z",
   "people": [
     {
       "qid": "Q5221979",
@@ -18,8 +18,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Brown University",
-          "Hackley School"
+          "Hackley School",
+          "Brown University"
         ],
         "employers": [
           {
@@ -107,8 +107,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Yale University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -244,9 +244,9 @@
           "investment banker"
         ],
         "education": [
-          "The Wharton School",
+          "Harvard University",
           "Harvard Business School",
-          "Harvard University"
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -306,8 +306,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Brown University",
-          "Hackley School"
+          "Hackley School",
+          "Brown University"
         ],
         "employers": [
           {
@@ -346,16 +346,16 @@
         "birthPlace": "Antioch",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Thain%20briefing.jpg",
         "occupations": [
-          "entrepreneur",
-          "investment banker"
+          "investment banker",
+          "entrepreneur"
         ],
         "education": [
           "Antioch Community High School",
           "Howard University",
-          "Harvard Business School",
+          "Harvard University",
           "Yale University",
-          "Massachusetts Institute of Technology",
-          "Harvard University"
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -383,10 +383,10 @@
           "engineer"
         ],
         "education": [
+          "Columbia University",
           "Fu Foundation School of Engineering and Applied Science",
           "Cathedral High School",
-          "New York University Tandon School of Engineering",
-          "Columbia University"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [
           {

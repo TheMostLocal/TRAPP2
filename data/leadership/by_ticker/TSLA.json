@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-10-25T11:34:12.410984Z",
+  "fetchedAt": "2026-11-01T14:03:24.020970Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,58 +14,43 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "philanthropist",
-          "financier",
-          "programmer",
-          "financier",
-          "engineer",
-          "technology entrepreneur",
-          "investor",
-          "civil servant",
-          "entrepreneur",
           "dub actor",
-          "investor",
+          "programmer",
+          "philanthropist",
+          "technology entrepreneur",
+          "financier",
           "civil servant",
-          "politician",
-          "engineer"
+          "engineer",
+          "investor",
+          "entrepreneur",
+          "politician"
         ],
         "education": [
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
+          "Stanford University",
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
-          "University of Pennsylvania",
-          "Stanford University"
+          "University of Pennsylvania"
         ],
         "employers": [
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "SolarCity",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "OpenAI",
-            "start": "2015-12-11",
-            "end": "2019-01-01"
-          },
           {
             "company": "PayPal",
             "start": "1998-12-01",
             "end": null
           },
           {
-            "company": "Neuralink",
-            "start": "2016-07-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "Neuralink",
@@ -76,6 +61,16 @@
             "company": "The Boring Company",
             "start": "2016-12-17",
             "end": null
+          },
+          {
+            "company": "SolarCity",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "OpenAI",
+            "start": "2015-12-11",
+            "end": "2019-01-01"
           },
           {
             "company": "SpaceX",
@@ -135,13 +130,13 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Georges River College",
           "University of New South Wales",
-          "University of Sydney"
+          "University of Sydney",
+          "Georges River College"
         ],
         "employers": [
           {
@@ -165,6 +160,11 @@
             "end": "2013-01-01"
           },
           {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
+          },
+          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -178,11 +178,6 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
-          },
-          {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
           }
         ],
         "positions": [
@@ -226,8 +221,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
           "environmentalist",
-          "restaurateur",
-          "entrepreneur"
+          "entrepreneur",
+          "restaurateur"
         ],
         "education": [
           "International Culinary Center",
@@ -260,8 +255,8 @@
           "businessperson"
         ],
         "education": [
-          "Edgewood High School of the Sacred Heart",
-          "Stanford University"
+          "Stanford University",
+          "Edgewood High School of the Sacred Heart"
         ],
         "employers": [
           {
@@ -398,13 +393,13 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Georges River College",
           "University of New South Wales",
-          "University of Sydney"
+          "University of Sydney",
+          "Georges River College"
         ],
         "employers": [
           {
@@ -428,6 +423,11 @@
             "end": "2013-01-01"
           },
           {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
+          },
+          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -441,11 +441,6 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
-          },
-          {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
           }
         ],
         "positions": [
@@ -529,58 +524,43 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "philanthropist",
-          "financier",
-          "programmer",
-          "financier",
-          "engineer",
-          "technology entrepreneur",
-          "investor",
-          "civil servant",
-          "entrepreneur",
           "dub actor",
-          "investor",
+          "programmer",
+          "philanthropist",
+          "technology entrepreneur",
+          "financier",
           "civil servant",
-          "politician",
-          "engineer"
+          "engineer",
+          "investor",
+          "entrepreneur",
+          "politician"
         ],
         "education": [
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
+          "Stanford University",
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
-          "University of Pennsylvania",
-          "Stanford University"
+          "University of Pennsylvania"
         ],
         "employers": [
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "SolarCity",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "OpenAI",
-            "start": "2015-12-11",
-            "end": "2019-01-01"
-          },
           {
             "company": "PayPal",
             "start": "1998-12-01",
             "end": null
           },
           {
-            "company": "Neuralink",
-            "start": "2016-07-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "Neuralink",
@@ -591,6 +571,16 @@
             "company": "The Boring Company",
             "start": "2016-12-17",
             "end": null
+          },
+          {
+            "company": "SolarCity",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "OpenAI",
+            "start": "2015-12-11",
+            "end": "2019-01-01"
           },
           {
             "company": "SpaceX",
@@ -650,11 +640,11 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "aircraft pilot",
           "entrepreneur",
+          "aircraft pilot",
           "computer scientist",
-          "businessperson",
-          "actor"
+          "actor",
+          "businessperson"
         ],
         "education": [
           "University of Chicago",
@@ -675,12 +665,6 @@
         ],
         "positions": [
           {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
-          },
-          {
             "title": "chairperson",
             "company": null,
             "start": null,
@@ -697,6 +681,12 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
           }
         ]
       }
@@ -714,8 +704,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
           "karateka",
-          "publisher",
-          "businessperson"
+          "businessperson",
+          "publisher"
         ],
         "education": [
           "Horace Mann School",
@@ -750,8 +740,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "York Community High School",

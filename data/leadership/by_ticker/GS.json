@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-10-25T11:34:12.372472Z",
+  "fetchedAt": "2026-11-01T14:03:23.985370Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -52,13 +52,13 @@
         "occupations": [
           "academic",
           "investment banker",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Harvard Business School",
-          "Harvard Law School",
           "University of Oxford",
+          "Harvard Law School",
           "King's College, Lagos"
         ],
         "employers": [
@@ -88,8 +88,8 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "director",
           "computer scientist",
+          "director",
           "businessperson"
         ],
         "education": [
@@ -402,8 +402,8 @@
         ],
         "education": [
           "Bryn Mawr College",
-          "Concord Academy",
           "University of Pennsylvania",
+          "Concord Academy",
           "Harvard University"
         ],
         "employers": [

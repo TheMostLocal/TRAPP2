@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-10-25T11:34:12.379041Z",
+  "fetchedAt": "2026-11-01T14:03:23.991304Z",
   "people": [
     {
       "qid": "Q922169",
@@ -18,8 +18,9 @@
         ],
         "education": [
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Harvard Business School",
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -101,8 +102,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "University of Michigan"
+          "University of Michigan",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -207,9 +208,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
+          "merchant",
           "business executive",
-          "entrepreneur",
-          "merchant"
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -284,8 +285,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
           "Case Western Reserve University",
@@ -456,13 +457,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Colgate University",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -503,8 +504,9 @@
         ],
         "education": [
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Harvard Business School",
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
           {

@@ -8,16 +8,15 @@
     "consultant",
     "podcaster",
     "financier",
-    "investor",
     "businessperson",
-    "entrepreneur",
     "investor",
-    "writer"
+    "writer",
+    "entrepreneur"
   ],
   "education": [
-    "Stanford University",
     "The Putney School",
-    "Wolfson College"
+    "Wolfson College",
+    "Stanford University"
   ],
   "employers": [
     {

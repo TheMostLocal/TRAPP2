@@ -35,19 +35,14 @@
       "end": null
     },
     {
-      "company": "University of California, Los Angeles",
-      "start": "2005-01-01",
-      "end": "2007-01-01"
+      "company": "Harvard University",
+      "start": "2007-01-01",
+      "end": "2017-01-01"
     },
     {
       "company": "Dartmouth College",
       "start": "1998-01-01",
       "end": "2005-01-01"
-    },
-    {
-      "company": "Harvard University",
-      "start": "2007-01-01",
-      "end": "2017-01-01"
     }
   ],
   "positions": [

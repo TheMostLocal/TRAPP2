@@ -5,16 +5,16 @@
   "birthPlace": "Frankfurt",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
   "occupations": [
-    "technology entrepreneur",
     "chess player",
     "manager",
-    "banker",
-    "entrepreneur",
-    "businessperson",
-    "writer",
     "financier",
     "investor",
-    "computer scientist"
+    "banker",
+    "computer scientist",
+    "businessperson",
+    "technology entrepreneur",
+    "writer",
+    "entrepreneur"
   ],
   "education": [
     "Stanford University",

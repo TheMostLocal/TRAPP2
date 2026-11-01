@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-10-25T11:34:12.358555Z",
+  "fetchedAt": "2026-11-01T14:03:23.972536Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -53,10 +53,10 @@
         ],
         "education": [
           "University of Wisconsin\u2013Madison",
+          "Stanford University",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -100,8 +100,8 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20T.%20Chambers%20World%20Economic%20Forum%202013.jpg",
         "occupations": [
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Indiana University",
@@ -250,11 +250,6 @@
         ],
         "employers": [
           {
-            "company": "Forest Laboratories",
-            "start": "2010-01-01",
-            "end": "2014-01-01"
-          },
-          {
             "company": "Actavis",
             "start": null,
             "end": null
@@ -273,6 +268,11 @@
             "company": "Bausch & Lomb",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Forest Laboratories",
+            "start": "2010-01-01",
+            "end": "2014-01-01"
           }
         ],
         "positions": []
@@ -325,19 +325,14 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "entrepreneur",
           "electrical engineer",
+          "entrepreneur",
           "chief executive officer"
         ],
         "education": [
           "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "IBM Research",
-            "start": "1995-01-01",
-            "end": null
-          },
           {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
@@ -351,6 +346,11 @@
           {
             "company": "AMD",
             "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "company": "IBM Research",
+            "start": "1995-01-01",
             "end": null
           }
         ],
@@ -429,8 +429,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Morgantown High School"
+          "Morgantown High School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -481,8 +481,8 @@
           "electrical engineer"
         ],
         "education": [
-          "Stanford University",
-          "Thomas Jefferson High School"
+          "Thomas Jefferson High School",
+          "Stanford University"
         ],
         "employers": [
           {

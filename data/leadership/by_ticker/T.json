@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-10-25T11:34:12.408011Z",
+  "fetchedAt": "2026-11-01T14:03:24.018316Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -14,12 +14,12 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stankey%20%2854598693935%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "chief executive officer"
+          "chief executive officer",
+          "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Marymount University"
+          "Loyola Marymount University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -87,12 +87,12 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stankey%20%2854598693935%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "chief executive officer"
+          "chief executive officer",
+          "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Marymount University"
+          "Loyola Marymount University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -281,9 +281,9 @@
           "manager"
         ],
         "education": [
+          "Harvard Business School",
           "Collegiate School",
           "Allen-Stevenson School",
-          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -305,9 +305,9 @@
           "financier"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -329,12 +329,22 @@
           "lawyer"
         ],
         "education": [
-          "James B. Dudley High School",
-          "Brown University",
           "John F. Kennedy School of Government",
-          "Harvard Law School"
+          "Harvard Law School",
+          "James B. Dudley High School",
+          "Brown University"
         ],
         "employers": [
+          {
+            "company": "Revlon",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Washington Gas",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Ad Council",
             "start": null,
@@ -362,26 +372,6 @@
           },
           {
             "company": "Kodak",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Revlon",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Washington Gas",
             "start": null,
             "end": null
           }

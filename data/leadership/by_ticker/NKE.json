@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-10-25T11:34:12.391385Z",
+  "fetchedAt": "2026-11-01T14:03:24.002974Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -34,8 +34,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Oxford",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Oxford"
         ],
         "employers": [],
         "positions": []
@@ -139,7 +139,6 @@
         "occupations": [
           "film director",
           "film producer",
-          "film director",
           "rapper",
           "animator"
         ],
@@ -171,13 +170,13 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -228,7 +227,7 @@
         ],
         "employers": [
           {
-            "company": "Nike, Inc.",
+            "company": "Nike",
             "start": null,
             "end": null
           }
@@ -248,17 +247,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "philanthropist",
           "businessperson",
-          "entrepreneur",
-          "writer"
+          "philanthropist",
+          "writer",
+          "entrepreneur"
         ],
         "education": [
           "Oregon State University",
           "University of Oregon",
+          "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School",
-          "Stanford University"
+          "Cleveland High School"
         ],
         "employers": [
           {
@@ -311,9 +310,10 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
+          "presenter",
+          "engineer",
           "manager",
           "chief executive officer",
-          "engineer",
           "computer scientist",
           "businessperson"
         ],
@@ -358,17 +358,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "philanthropist",
           "businessperson",
-          "entrepreneur",
-          "writer"
+          "philanthropist",
+          "writer",
+          "entrepreneur"
         ],
         "education": [
           "Oregon State University",
           "University of Oregon",
+          "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School",
-          "Stanford University"
+          "Cleveland High School"
         ],
         "employers": [
           {

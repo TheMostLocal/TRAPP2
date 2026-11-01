@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-10-25T11:34:12.360386Z",
+  "fetchedAt": "2026-11-01T14:03:23.974182Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "University of Colorado",
@@ -43,8 +43,8 @@
         "birthPlace": "Lusaka",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
         "occupations": [
-          "economist",
-          "writer"
+          "writer",
+          "economist"
         ],
         "education": [
           "Kogod School of Business",
@@ -56,12 +56,12 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           },
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -100,11 +100,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
+          "ambassador",
+          "missionary",
           "governor",
           "diplomat",
-          "politician",
-          "missionary",
-          "ambassador"
+          "politician"
         ],
         "education": [
           "National Taiwan Normal University",
@@ -223,8 +223,8 @@
         ],
         "education": [
           "Georgia Tech",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -302,15 +302,20 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemist",
           "chemical engineer",
+          "chemist",
           "academic administrator"
         ],
         "education": [
-          "Princeton University",
-          "University of Southern California"
+          "University of Southern California",
+          "Princeton University"
         ],
         "employers": [
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Imperial College London",
             "start": null,
@@ -318,11 +323,6 @@
           },
           {
             "company": "Massachusetts Institute of Technology",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -374,8 +374,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "University of Colorado",

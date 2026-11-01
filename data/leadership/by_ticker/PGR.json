@@ -1,6 +1,6 @@
 {
   "ticker": "PGR",
-  "fetchedAt": "2026-10-25T11:34:12.396836Z",
+  "fetchedAt": "2026-11-01T14:03:24.008130Z",
   "people": [
     {
       "qid": "Q114795441",
@@ -17,9 +17,9 @@
           "businessperson"
         ],
         "education": [
+          "New York University",
           "Rockefeller College of Public Affairs & Policy",
-          "UCLA Anderson School of Management",
-          "New York University"
+          "UCLA Anderson School of Management"
         ],
         "employers": [],
         "positions": []
@@ -178,8 +178,8 @@
           "banker"
         ],
         "education": [
-          "University of Virginia",
-          "Brown University"
+          "Brown University",
+          "University of Virginia"
         ],
         "employers": [
           {

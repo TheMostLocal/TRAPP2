@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "fetchedAt": "2026-10-25T11:34:12.341044Z",
+  "fetchedAt": "2026-11-01T14:03:23.956286Z",
   "people": [
     {
       "qid": "Q125257078",
@@ -364,8 +364,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Michigan",
-          "University of Chicago Law School"
+          "University of Chicago Law School",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [

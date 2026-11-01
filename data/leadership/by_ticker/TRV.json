@@ -1,6 +1,6 @@
 {
   "ticker": "TRV",
-  "fetchedAt": "2026-10-25T11:34:12.410556Z",
+  "fetchedAt": "2026-11-01T14:03:24.020594Z",
   "people": [
     {
       "qid": "Q1405941",
@@ -15,14 +15,14 @@
         "image": null,
         "occupations": [
           "chief executive officer",
+          "entrepreneur",
           "insurance executive",
           "business executive",
-          "entrepreneur",
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -210,8 +210,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Yale University"
+          "Yale University",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -253,9 +253,9 @@
           "entrepreneur"
         ],
         "education": [
+          "University of Johannesburg",
           "University of South Africa",
-          "University of the Witwatersrand",
-          "University of Johannesburg"
+          "University of the Witwatersrand"
         ],
         "employers": [
           {

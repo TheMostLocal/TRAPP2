@@ -1,6 +1,6 @@
 {
   "ticker": "COP",
-  "fetchedAt": "2026-10-25T11:34:12.356419Z",
+  "fetchedAt": "2026-11-01T14:03:23.970577Z",
   "people": [
     {
       "qid": "Q7384237",
@@ -14,8 +14,8 @@
         "birthPlace": "Blytheville",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ConocoPhillips%20CEO%20Ryan%20Lance%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Montana Technological University",
@@ -181,8 +181,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -219,8 +219,8 @@
         "birthPlace": "Blytheville",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ConocoPhillips%20CEO%20Ryan%20Lance%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Montana Technological University",
@@ -242,12 +242,12 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jody%20Freeman%20at%20Metcalf%20Institute.jpg",
         "occupations": [
-          "lawyer",
-          "jurist"
+          "jurist",
+          "lawyer"
         ],
         "education": [
-          "University of Toronto",
           "Harvard Law School",
+          "University of Toronto",
           "Stanford University"
         ],
         "employers": [

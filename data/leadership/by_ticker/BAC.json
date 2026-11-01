@@ -1,6 +1,6 @@
 {
   "ticker": "BAC",
-  "fetchedAt": "2026-10-25T11:34:12.350568Z",
+  "fetchedAt": "2026-11-01T14:03:23.964958Z",
   "people": [
     {
       "qid": "Q912811",
@@ -14,8 +14,8 @@
         "birthPlace": "Marietta",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Moynihan%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
         "occupations": [
-          "banker",
-          "chief executive officer"
+          "chief executive officer",
+          "banker"
         ],
         "education": [
           "Brown University",
@@ -109,8 +109,8 @@
           "astronomer"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Brown University"
+          "Brown University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -139,8 +139,8 @@
         "birthPlace": "Los Angeles",
         "image": null,
         "occupations": [
-          "editor",
-          "newspaper editor"
+          "newspaper editor",
+          "editor"
         ],
         "education": [
           "City College of San Francisco",
@@ -169,8 +169,8 @@
         "birthPlace": "Marietta",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Moynihan%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
         "occupations": [
-          "banker",
-          "chief executive officer"
+          "chief executive officer",
+          "banker"
         ],
         "education": [
           "Brown University",
@@ -220,8 +220,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynote%20%2826689303657%29.jpg",
         "occupations": [
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "St. Augustine High School",

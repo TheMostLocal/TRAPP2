@@ -5,24 +5,24 @@
   "birthPlace": "Washington, D.C.",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
   "occupations": [
-    "orator",
-    "blogger",
-    "climate activist",
-    "environmentalist",
     "financier",
+    "businessperson",
+    "blogger",
+    "environmentalist",
+    "journalist",
     "university teacher",
     "farmer",
-    "writer",
-    "businessperson",
     "politician",
-    "journalist"
+    "writer",
+    "climate activist",
+    "orator"
   ],
   "education": [
+    "St. Albans School",
+    "Defense Information School",
     "Harvard College",
     "Vanderbilt University",
-    "Vanderbilt University Divinity School",
-    "St. Albans School",
-    "Defense Information School"
+    "Vanderbilt University Divinity School"
   ],
   "employers": [
     {
@@ -32,24 +32,6 @@
     }
   ],
   "positions": [
-    {
-      "title": "United States senator",
-      "company": null,
-      "start": "1989-01-03",
-      "end": "1991-01-03"
-    },
-    {
-      "title": "United States representative",
-      "company": null,
-      "start": "1983-01-03",
-      "end": "1985-01-03"
-    },
-    {
-      "title": "United States senator",
-      "company": null,
-      "start": "1987-01-03",
-      "end": "1989-01-03"
-    },
     {
       "title": "Vice President of the United States",
       "company": null,
@@ -67,6 +49,24 @@
       "company": null,
       "start": "1985-01-03",
       "end": "1987-01-03"
+    },
+    {
+      "title": "United States representative",
+      "company": null,
+      "start": "1983-01-03",
+      "end": "1985-01-03"
+    },
+    {
+      "title": "United States senator",
+      "company": null,
+      "start": "1987-01-03",
+      "end": "1989-01-03"
+    },
+    {
+      "title": "United States senator",
+      "company": null,
+      "start": "1989-01-03",
+      "end": "1991-01-03"
     },
     {
       "title": "United States representative",

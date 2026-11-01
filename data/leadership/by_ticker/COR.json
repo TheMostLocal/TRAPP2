@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-10-25T11:34:12.356842Z",
+  "fetchedAt": "2026-11-01T14:03:23.971034Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -14,8 +14,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -181,8 +181,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -283,8 +283,8 @@
         "birthPlace": "Woodburn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20E.%20Henney.jpg",
         "occupations": [
-          "oncologist",
-          "physician"
+          "physician",
+          "oncologist"
         ],
         "education": [
           "Manchester University",

@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-10-25T11:34:12.388151Z",
+  "fetchedAt": "2026-11-01T14:03:23.999977Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -14,15 +14,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "business executive",
           "lawyer",
+          "business executive",
           "businessperson"
         ],
         "education": [
-          "Pennsylvania State University",
-          "Harvard Law School",
           "Northeast High School",
-          "Julia R. Masterman School"
+          "Julia R. Masterman School",
+          "Pennsylvania State University",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -140,8 +140,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard University"
+          "Harvard University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -274,17 +274,17 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -338,8 +338,8 @@
           "researcher"
         ],
         "education": [
-          "Harvard University",
-          "George Washington University Medical School"
+          "George Washington University Medical School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -438,19 +438,19 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Seattle",
+        "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "physician",
           "administrator"
         ],
         "education": [
-          "University of Pennsylvania",
           "Stony Brook University",
-          "Harvard University",
           "The Bush School",
           "The Wharton School",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "University of Pennsylvania",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -531,15 +531,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "business executive",
           "lawyer",
+          "business executive",
           "businessperson"
         ],
         "education": [
-          "Pennsylvania State University",
-          "Harvard Law School",
           "Northeast High School",
-          "Julia R. Masterman School"
+          "Julia R. Masterman School",
+          "Pennsylvania State University",
+          "Harvard Law School"
         ],
         "employers": [
           {

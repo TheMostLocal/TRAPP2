@@ -8,18 +8,13 @@
     "scientist"
   ],
   "education": [
-    "Boston College",
-    "Northeastern University",
     "The Air Force School",
     "Indian Institute of Technology (BHU) Varanasi",
-    "Banaras Hindu University"
+    "Banaras Hindu University",
+    "Boston College",
+    "Northeastern University"
   ],
   "employers": [
-    {
-      "company": "Google",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Palo Alto Networks",
       "start": null,
@@ -27,6 +22,11 @@
     },
     {
       "company": "SoftBank Mobile",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Google",
       "start": null,
       "end": null
     }

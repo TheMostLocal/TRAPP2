@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T11:34:12.616512Z",
+  "generatedAt": "2026-11-01T14:03:24.222740Z",
   "totalPeople": 957,
   "totalTickers": 138,
   "lastRangeFilter": "ALL",
-  "thisRunPeople": 831,
+  "thisRunPeople": 825,
   "thisRunTickers": 262,
   "index": [
     {
@@ -2834,7 +2834,7 @@
         "COST"
       ],
       "positionsCount": 4,
-      "employersCount": 3
+      "employersCount": 5
     },
     {
       "qid": "Q16149081",

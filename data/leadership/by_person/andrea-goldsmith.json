@@ -7,9 +7,9 @@
   "occupations": [
     "academic",
     "electrical engineer",
-    "computer scientist",
     "university teacher",
-    "electrotechnician"
+    "electrotechnician",
+    "computer scientist"
   ],
   "education": [
     "University of California, Berkeley",
@@ -27,7 +27,7 @@
       "end": null
     },
     {
-      "company": "California Institute of Technology",
+      "company": "Stanford University",
       "start": null,
       "end": null
     }

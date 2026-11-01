@@ -8,16 +8,16 @@
     "manager",
     "electrotechnician",
     "engineer",
-    "chief executive officer",
     "computer scientist",
-    "entrepreneur"
+    "entrepreneur",
+    "chief executive officer"
   ],
   "education": [
-    "Manipal Institute of Technology",
     "Manipal Academy of Higher Education",
     "Mangalore University",
     "Booth School of Business",
-    "University of Wisconsin\u2013Milwaukee"
+    "University of Wisconsin\u2013Milwaukee",
+    "Manipal Institute of Technology"
   ],
   "employers": [
     {

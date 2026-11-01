@@ -1,6 +1,6 @@
 {
   "ticker": "GD",
-  "fetchedAt": "2026-10-25T11:34:12.369823Z",
+  "fetchedAt": "2026-11-01T14:03:23.982955Z",
   "people": [
     {
       "qid": "Q4970379",
@@ -208,9 +208,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rudy%20de%20Leon%2C%20official%20military%20photo%2C%201997.jpg",
         "occupations": [],
         "education": [
-          "El Camino College",
           "Loyola Marymount University",
-          "John F. Kennedy School of Government"
+          "John F. Kennedy School of Government",
+          "El Camino College"
         ],
         "employers": [
           {
@@ -250,8 +250,8 @@
           "businessperson"
         ],
         "education": [
-          "Duke University",
           "Booth School of Business",
+          "Duke University",
           "University of Chicago"
         ],
         "employers": [],
@@ -376,9 +376,9 @@
         "birthPlace": "Pullman",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Mattis%20official%20photo.jpg",
         "occupations": [
-          "military officer",
           "army officer",
-          "politician"
+          "politician",
+          "military officer"
         ],
         "education": [
           "Richland High School",

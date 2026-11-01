@@ -1,6 +1,6 @@
 {
   "ticker": "HCA",
-  "fetchedAt": "2026-10-25T11:34:12.373229Z",
+  "fetchedAt": "2026-11-01T14:03:23.986059Z",
   "people": [
     {
       "qid": "Q80049510",
@@ -23,17 +23,17 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -78,8 +78,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -119,8 +119,8 @@
         "birthPlace": "San Diego",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Crofton%20%283694392840%29%20%28cropped%29.jpg",
         "occupations": [
-          "president",
-          "businessperson"
+          "businessperson",
+          "president"
         ],
         "education": [
           "Rollins College",

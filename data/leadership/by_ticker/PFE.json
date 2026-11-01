@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-10-25T11:34:12.396014Z",
+  "fetchedAt": "2026-11-01T14:03:24.007385Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -17,8 +17,8 @@
           "business executive",
           "pharmacologist",
           "executive",
-          "veterinarian",
-          "entrepreneur"
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -52,10 +52,10 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "biochemist",
-          "university teacher",
           "researcher",
           "molecular geneticist",
+          "biochemist",
+          "university teacher",
           "physician"
         ],
         "education": [
@@ -96,8 +96,8 @@
           "businessperson"
         ],
         "education": [
-          "Occidental College",
           "Harvard Business School",
+          "Occidental College",
           "Harvard University"
         ],
         "employers": [],
@@ -214,8 +214,8 @@
           "business executive",
           "pharmacologist",
           "executive",
-          "veterinarian",
-          "entrepreneur"
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -344,12 +344,12 @@
         "birthPlace": "Bucharest",
         "image": null,
         "occupations": [
-          "researcher",
-          "immunologist"
+          "immunologist",
+          "researcher"
         ],
         "education": [
-          "Washington University in St.\u00a0Louis",
           "Columbia University",
+          "Washington University in St.\u00a0Louis",
           "Princeton University",
           "Washington University School of Medicine"
         ],
@@ -380,15 +380,15 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "University of California, Berkeley",
-          "North-Eastern Hill University"
+          "North-Eastern Hill University",
+          "University of California, Berkeley"
         ],
         "employers": [],
         "positions": [
@@ -419,9 +419,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "physiologist",
           "neuroscientist",
-          "university teacher"
+          "university teacher",
+          "physiologist"
         ],
         "education": [
           "Georgetown University",
@@ -457,8 +457,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",

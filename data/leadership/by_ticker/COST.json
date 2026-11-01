@@ -1,6 +1,6 @@
 {
   "ticker": "COST",
-  "fetchedAt": "2026-10-25T11:34:12.357333Z",
+  "fetchedAt": "2026-11-01T14:03:23.971436Z",
   "people": [
     {
       "qid": "Q114361370",
@@ -55,8 +55,8 @@
         "birthPlace": "Providence",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HelenaFoulkes%20CROP.jpg",
         "occupations": [
-          "politician",
-          "businessperson"
+          "businessperson",
+          "politician"
         ],
         "education": [
           "Harvard Business School",
@@ -64,14 +64,24 @@
         ],
         "employers": [
           {
-            "company": "Hudson's Bay Company",
-            "start": "2018-02-19",
-            "end": "2020-03-13"
+            "company": "Tiffany & Co.",
+            "start": null,
+            "end": null
           },
           {
             "company": "CVS Health",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hudson's Bay Company",
+            "start": "2018-02-19",
+            "end": "2020-03-13"
           },
           {
             "company": "CVS Pharmacy",
@@ -123,9 +133,9 @@
           "businessperson"
         ],
         "education": [
-          "Choate Rosemary Hall",
           "Harvard Business School",
-          "Harvard College"
+          "Harvard College",
+          "Choate Rosemary Hall"
         ],
         "employers": [],
         "positions": [
@@ -273,9 +283,9 @@
         "birthPlace": "Nebraska",
         "image": null,
         "occupations": [
-          "computer scientist",
           "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -434,9 +444,9 @@
           "investor"
         ],
         "education": [
+          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
-          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [

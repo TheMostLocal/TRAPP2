@@ -1,6 +1,6 @@
 {
   "ticker": "WM",
-  "fetchedAt": "2026-10-25T11:34:12.417898Z",
+  "fetchedAt": "2026-11-01T14:03:24.027084Z",
   "people": [
     {
       "qid": "Q7608947",
@@ -36,13 +36,15 @@
         "birthPlace": "London",
         "image": null,
         "occupations": [
-          "chief executive officer",
           "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "investment banker",
+          "chief executive officer"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard College",
+          "Phillips Exeter Academy",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [

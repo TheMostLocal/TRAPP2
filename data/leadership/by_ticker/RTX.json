@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-10-25T11:34:12.401894Z",
+  "fetchedAt": "2026-11-01T14:03:24.013203Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -80,8 +80,8 @@
         "birthPlace": "Dubuque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Iowa"
@@ -233,10 +233,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20O.%20Work%20DoD%20photo.jpg",
         "occupations": [],
         "education": [
-          "Naval Postgraduate School",
-          "Paul H. Nitze School of Advanced International Studies",
           "University of Illinois System",
-          "University of Southern California"
+          "University of Southern California",
+          "Naval Postgraduate School",
+          "Paul H. Nitze School of Advanced International Studies"
         ],
         "employers": [
           {
@@ -286,10 +286,10 @@
           "civil servant"
         ],
         "education": [
-          "Georgetown University",
+          "University of Oxford",
           "Saddleback High School",
           "Lexington High School",
-          "University of Oxford"
+          "Georgetown University"
         ],
         "employers": [
           {
@@ -372,8 +372,8 @@
         "birthPlace": "Agra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DPaliwal%20Sep009.JPG",
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Dr. Hari Singh Gour University",

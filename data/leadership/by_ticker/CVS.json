@@ -1,6 +1,6 @@
 {
   "ticker": "CVS",
-  "fetchedAt": "2026-10-25T11:34:12.359779Z",
+  "fetchedAt": "2026-11-01T14:03:23.973676Z",
   "people": [
     {
       "qid": "Q106086392",
@@ -18,8 +18,8 @@
           "businessperson"
         ],
         "education": [
-          "Boston College",
-          "Boston University"
+          "Boston University",
+          "Boston College"
         ],
         "employers": [
           {
@@ -164,8 +164,8 @@
           "businessperson"
         ],
         "education": [
-          "Boston College",
-          "Boston University"
+          "Boston University",
+          "Boston College"
         ],
         "employers": [
           {
@@ -273,9 +273,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Cornell University",
           "Samuel Curtis Johnson Graduate School of Management",
-          "Wayne State University",
-          "Cornell University"
+          "Wayne State University"
         ],
         "employers": [
           {
@@ -334,8 +334,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SchapiroMary.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "George Washington University Law School",
@@ -364,8 +364,8 @@
         "birthPlace": "Brooklyn",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Quinnipiac University"
@@ -453,8 +453,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "College of the Holy Cross",
-          "Columbia University"
+          "Columbia University",
+          "College of the Holy Cross"
         ],
         "employers": [],
         "positions": []

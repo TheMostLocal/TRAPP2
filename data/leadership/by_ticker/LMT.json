@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-10-25T11:34:12.382163Z",
+  "fetchedAt": "2026-11-01T14:03:23.994454Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -152,8 +152,8 @@
           "businessperson"
         ],
         "education": [
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -196,9 +196,9 @@
           "military officer"
         ],
         "education": [
+          "Harvard University",
           "Georgia Tech",
           "University of West Florida",
-          "Harvard University",
           "United States Naval Academy"
         ],
         "employers": [],
@@ -217,8 +217,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "Wisconsin School of Business",
@@ -394,8 +394,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
           "businessperson",
-          "military officer",
-          "manager"
+          "manager",
+          "military officer"
         ],
         "education": [
           "Mankato West High School",
@@ -403,6 +403,11 @@
           "London School of Economics and Political Science"
         ],
         "employers": [
+          {
+            "company": "American Express",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Carlyle Group",
             "start": null,
@@ -412,22 +417,17 @@
             "company": "General Motors",
             "start": null,
             "end": null
-          },
-          {
-            "company": "American Express",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
           {
-            "title": "chairperson",
+            "title": "chief executive officer",
             "company": null,
             "start": null,
             "end": null
           },
           {
-            "title": "chief executive officer",
+            "title": "chairperson",
             "company": null,
             "start": null,
             "end": null

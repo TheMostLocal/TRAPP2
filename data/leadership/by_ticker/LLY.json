@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-25T11:34:12.381509Z",
+  "fetchedAt": "2026-11-01T14:03:23.993935Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -224,19 +224,14 @@
             "end": null
           },
           {
-            "company": "University of California, Los Angeles",
-            "start": "2005-01-01",
-            "end": "2007-01-01"
+            "company": "Harvard University",
+            "start": "2007-01-01",
+            "end": "2017-01-01"
           },
           {
             "company": "Dartmouth College",
             "start": "1998-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "Harvard University",
-            "start": "2007-01-01",
-            "end": "2017-01-01"
           }
         ],
         "positions": [
@@ -274,11 +269,6 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
-          },
-          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -287,6 +277,11 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
           }
         ],
         "positions": [
@@ -314,9 +309,9 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
+          "Harvard Business School",
           "Harvard Law School",
-          "Harvard Business School"
+          "Princeton University"
         ],
         "employers": [
           {
@@ -462,9 +457,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "businessperson",
           "basketball player",
-          "accountant",
-          "businessperson"
+          "accountant"
         ],
         "education": [
           "University of Notre Dame"
