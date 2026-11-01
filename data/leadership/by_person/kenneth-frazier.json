@@ -5,8 +5,8 @@
   "birthPlace": "Philadelphia",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
   "occupations": [
-    "business executive",
     "lawyer",
+    "business executive",
     "businessperson"
   ],
   "education": [
@@ -43,7 +43,6 @@
   ],
   "currentTickers": [
     "MRK",
-    "MRK",
-    "XOM"
+    "MRK"
   ]
 }

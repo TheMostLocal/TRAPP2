@@ -7,17 +7,17 @@
   "occupations": [
     "manager",
     "electrotechnician",
-    "engineer",
     "chief executive officer",
+    "entrepreneur",
     "computer scientist",
-    "entrepreneur"
+    "engineer"
   ],
   "education": [
-    "Manipal Institute of Technology",
     "Manipal Academy of Higher Education",
     "Mangalore University",
     "Booth School of Business",
-    "University of Wisconsin\u2013Milwaukee"
+    "University of Wisconsin\u2013Milwaukee",
+    "Manipal Institute of Technology"
   ],
   "employers": [
     {
