@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-10-25T11:34:12.396014Z",
+  "fetchedAt": "2026-11-01T13:02:08.166027Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -14,11 +14,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
+          "entrepreneur",
           "business executive",
           "pharmacologist",
           "executive",
-          "veterinarian",
-          "entrepreneur"
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -52,11 +52,11 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "biochemist",
           "university teacher",
-          "researcher",
           "molecular geneticist",
-          "physician"
+          "biochemist",
+          "physician",
+          "researcher"
         ],
         "education": [
           "Stanford University"
@@ -96,8 +96,8 @@
           "businessperson"
         ],
         "education": [
-          "Occidental College",
           "Harvard Business School",
+          "Occidental College",
           "Harvard University"
         ],
         "employers": [],
@@ -147,9 +147,9 @@
           "chief executive officer"
         ],
         "education": [
+          "University of California, Berkeley",
           "University of Nevada, Reno",
           "University of California, San Francisco",
-          "University of California, Berkeley",
           "Bishop Manogue High School"
         ],
         "employers": [
@@ -211,11 +211,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
+          "entrepreneur",
           "business executive",
           "pharmacologist",
           "executive",
-          "veterinarian",
-          "entrepreneur"
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -317,9 +317,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "University of Chicago",
           "Booth School of Business",
-          "Knox College",
-          "University of Chicago"
+          "Knox College"
         ],
         "employers": [],
         "positions": [
@@ -344,13 +344,13 @@
         "birthPlace": "Bucharest",
         "image": null,
         "occupations": [
-          "researcher",
-          "immunologist"
+          "immunologist",
+          "researcher"
         ],
         "education": [
-          "Washington University in St.\u00a0Louis",
           "Columbia University",
           "Princeton University",
+          "Washington University in St.\u00a0Louis",
           "Washington University School of Medicine"
         ],
         "employers": [
@@ -419,9 +419,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "physiologist",
           "neuroscientist",
-          "university teacher"
+          "university teacher",
+          "physiologist"
         ],
         "education": [
           "Georgetown University",

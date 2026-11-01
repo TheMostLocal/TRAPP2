@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-10-25T11:34:12.391877Z",
+  "fetchedAt": "2026-11-01T13:02:08.160250Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -84,8 +84,8 @@
         "birthPlace": "Greenwood",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Abney%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Pillow Academy",
@@ -211,9 +211,9 @@
           "business executive"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Sloan Fellows Program",
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -251,7 +251,7 @@
         "qid": "Q4391764",
         "name": "Mark Welsh",
         "dateOfBirth": "1953-01-26",
-        "birthPlace": "San Antonio",
+        "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gen%20Mark%20A.%20Welsh%20III%20CSAF.jpg",
         "occupations": [
           "military officer"
@@ -343,9 +343,9 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
           "The Wharton School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []

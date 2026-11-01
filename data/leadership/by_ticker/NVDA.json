@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-10-25T11:34:12.392876Z",
+  "fetchedAt": "2026-11-01T13:02:08.161626Z",
   "people": [
     {
       "qid": "Q305177",
@@ -15,19 +15,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
           "founder",
+          "chief executive officer",
           "manager",
           "electrical engineer",
           "computer scientist",
           "entrepreneur",
-          "chief executive officer",
           "engineer",
           "businessperson"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []
@@ -233,10 +233,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
         "occupations": [],
         "education": [
-          "Harvard Business School",
-          "USC Viterbi School of Engineering",
           "Harvard University",
-          "University of Southern California"
+          "University of Southern California",
+          "USC Viterbi School of Engineering",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
@@ -261,14 +261,14 @@
         "birthPlace": "Toledo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20O.%20Dabiri%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
+          "university teacher",
           "biophysicist",
           "military flight engineer",
-          "university teacher",
           "engineer"
         ],
         "education": [
-          "California Institute of Technology",
-          "Princeton University"
+          "Princeton University",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -305,19 +305,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
           "founder",
+          "chief executive officer",
           "manager",
           "electrical engineer",
           "computer scientist",
           "entrepreneur",
-          "chief executive officer",
           "engineer",
           "businessperson"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []
@@ -336,19 +336,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
           "founder",
+          "chief executive officer",
           "manager",
           "electrical engineer",
           "computer scientist",
           "entrepreneur",
-          "chief executive officer",
           "engineer",
           "businessperson"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []
