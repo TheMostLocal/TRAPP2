@@ -66,8 +66,8 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Bertolini%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Cornell University",
@@ -134,9 +134,9 @@
           "businessperson"
         ],
         "education": [
+          "Stanford University",
           "Jordan High School",
-          "Williams College",
-          "Stanford University"
+          "Williams College"
         ],
         "employers": [],
         "positions": []

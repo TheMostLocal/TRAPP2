@@ -58,8 +58,8 @@
         "birthPlace": "Medford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20D%27Amaro%20Warrior%20Games%202022%20%28cropped%29.jpg",
         "occupations": [
-          "chairperson",
-          "chief executive officer"
+          "chief executive officer",
+          "chairperson"
         ],
         "education": [
           "Georgetown University"
@@ -160,6 +160,7 @@
         "birthPlace": "Oceanside",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
         "occupations": [
+          "television producer",
           "film producer",
           "business executive",
           "businessperson",
@@ -235,13 +236,13 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
+          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh",
-          "University of Pennsylvania"
+          "University of Pittsburgh"
         ],
         "employers": [],
         "positions": [
@@ -295,13 +296,13 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
+          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh",
-          "University of Pennsylvania"
+          "University of Pittsburgh"
         ],
         "employers": [],
         "positions": [
@@ -469,6 +470,8 @@
           "politician"
         ],
         "education": [
+          "Harvard Law School",
+          "University of Oxford",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
           "Harvard Law School",
@@ -508,10 +511,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {

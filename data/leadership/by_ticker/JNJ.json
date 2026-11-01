@@ -242,8 +242,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "cardiologist",
-          "university teacher"
+          "university teacher",
+          "cardiologist"
         ],
         "education": [
           "Radcliffe College",
@@ -522,6 +522,7 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
+          "chief executive officer",
           "lecturer",
           "merchant",
           "executive",
@@ -530,9 +531,9 @@
           "chief executive officer"
         ],
         "education": [
-          "HEC Paris",
           "Paris Institute of Political Studies",
-          "Lyc\u00e9e Louis-le-Grand"
+          "Lyc\u00e9e Louis-le-Grand",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -620,8 +621,8 @@
         "birthPlace": "Medford",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "manager"
+          "manager",
+          "chief executive officer"
         ],
         "education": [
           "Portland State University"
@@ -713,6 +714,7 @@
           "physician"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
           "Harvard\u2013MIT Division of Health Sciences and Technology",

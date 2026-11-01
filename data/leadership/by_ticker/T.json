@@ -183,8 +183,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "film producer",
-          "entrepreneur"
+          "entrepreneur",
+          "film producer"
         ],
         "education": [
           "Stanford University"
@@ -255,8 +255,8 @@
         "birthPlace": "Salina",
         "image": null,
         "occupations": [
-          "artist",
-          "musician"
+          "musician",
+          "artist"
         ],
         "education": [
           "Trulaske College of Business",
@@ -354,16 +354,6 @@
             "company": "BET Media Group",
             "start": "1986-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
           },
           {
             "company": "Monsanto",

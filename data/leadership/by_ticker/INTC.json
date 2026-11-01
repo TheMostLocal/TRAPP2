@@ -50,8 +50,8 @@
           "writer"
         ],
         "education": [
-          "City University of New York",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "City University of New York"
         ],
         "employers": [
           {
@@ -205,8 +205,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Stanford University",
@@ -243,8 +243,8 @@
           "engineer"
         ],
         "education": [
-          "Stanford University",
-          "Carlmont High School"
+          "Carlmont High School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -300,8 +300,8 @@
         "birthPlace": "Syracuse",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Binghamton University",
@@ -357,6 +357,16 @@
           "University of California, Berkeley College of Engineering"
         ],
         "employers": [
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "California Institute of Technology",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Princeton University",
             "start": "2020-01-01",
@@ -428,6 +438,11 @@
         ],
         "employers": [
           {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
@@ -436,14 +451,15 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
-          },
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -455,12 +471,6 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
           }
         ]
       }
@@ -477,8 +487,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Stanford University",
@@ -535,8 +545,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -654,8 +664,8 @@
           "writer"
         ],
         "education": [
-          "City University of New York",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "City University of New York"
         ],
         "employers": [
           {

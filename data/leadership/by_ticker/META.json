@@ -26,8 +26,8 @@
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
@@ -139,8 +139,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School",
@@ -367,8 +367,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Acton-Boxborough Regional High School"
+          "Acton-Boxborough Regional High School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": [
@@ -441,9 +441,10 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
           "manager",
           "financier",
+          "technology entrepreneur",
+          "banker",
           "investor",
           "banker",
           "computer scientist",
@@ -551,8 +552,8 @@
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
@@ -623,8 +624,8 @@
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {

@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Yale University",
@@ -305,9 +305,9 @@
           "businessperson"
         ],
         "education": [
+          "Stanford University",
           "Jordan High School",
-          "Williams College",
-          "Stanford University"
+          "Williams College"
         ],
         "employers": [],
         "positions": []
