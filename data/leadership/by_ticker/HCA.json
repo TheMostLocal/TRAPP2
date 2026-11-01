@@ -1,6 +1,6 @@
 {
   "ticker": "HCA",
-  "fetchedAt": "2026-10-25T11:34:12.373229Z",
+  "fetchedAt": "2026-11-01T12:57:13.237037Z",
   "people": [
     {
       "qid": "Q80049510",
@@ -18,8 +18,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Syracuse University",
-          "University of Chicago"
+          "University of Chicago",
+          "Syracuse University"
         ],
         "employers": [
           {
@@ -146,9 +146,9 @@
           "politician"
         ],
         "education": [
-          "University of Tennessee",
           "Balliol College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Tennessee"
         ],
         "employers": [
           {

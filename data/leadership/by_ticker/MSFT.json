@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-10-25T11:34:12.389053Z",
+  "fetchedAt": "2026-11-01T12:57:13.252575Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -16,17 +16,17 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "engineer",
           "chief executive officer",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "engineer"
         ],
         "education": [
-          "Manipal Institute of Technology",
           "Manipal Academy of Higher Education",
           "Mangalore University",
           "Booth School of Business",
-          "University of Wisconsin\u2013Milwaukee"
+          "University of Wisconsin\u2013Milwaukee",
+          "Manipal Institute of Technology"
         ],
         "employers": [
           {
@@ -81,8 +81,8 @@
         "birthPlace": "Sal\u00e9",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20MacGregor%20at%20World%20Economic%20Forum%20Davos%202022.png",
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
           "\u00c9cole Centrale Paris"
@@ -110,6 +110,16 @@
         "education": [],
         "employers": [
           {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "2017-01-01",
             "end": "2020-06-01"
@@ -123,16 +133,6 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
-          },
-          {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -161,8 +161,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Syracuse University",
-          "University of Chicago"
+          "University of Chicago",
+          "Syracuse University"
         ],
         "employers": [
           {
@@ -308,10 +308,9 @@
           "consultant",
           "podcaster",
           "financier",
-          "investor",
           "businessperson",
-          "entrepreneur",
           "investor",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -373,8 +372,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Scharf%20in%202020.png",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Johns Hopkins University",
@@ -398,17 +397,17 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "engineer",
           "chief executive officer",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "engineer"
         ],
         "education": [
-          "Manipal Institute of Technology",
           "Manipal Academy of Higher Education",
           "Mangalore University",
           "Booth School of Business",
-          "University of Wisconsin\u2013Milwaukee"
+          "University of Wisconsin\u2013Milwaukee",
+          "Manipal Institute of Technology"
         ],
         "employers": [
           {
@@ -447,16 +446,17 @@
           "co-founder",
           "philanthropist",
           "art collector",
-          "film producer",
+          "inventor",
           "programmer",
           "musician",
+          "film producer",
+          "computer scientist",
+          "record producer",
           "television producer",
           "investor",
-          "inventor",
-          "record producer",
-          "computer scientist",
-          "businessperson",
-          "composer"
+          "composer",
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Washington State University",
