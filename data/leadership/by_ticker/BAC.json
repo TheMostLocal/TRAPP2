@@ -1,6 +1,6 @@
 {
   "ticker": "BAC",
-  "fetchedAt": "2026-10-25T11:34:12.350568Z",
+  "fetchedAt": "2026-11-01T13:16:04.641645Z",
   "people": [
     {
       "qid": "Q912811",
@@ -114,12 +114,12 @@
         ],
         "employers": [
           {
-            "company": "Johns Hopkins University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Johns Hopkins University",
             "start": null,
             "end": null
           }
@@ -139,8 +139,8 @@
         "birthPlace": "Los Angeles",
         "image": null,
         "occupations": [
-          "editor",
-          "newspaper editor"
+          "newspaper editor",
+          "editor"
         ],
         "education": [
           "City College of San Francisco",
@@ -220,8 +220,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynote%20%2826689303657%29.jpg",
         "occupations": [
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "St. Augustine High School",
@@ -466,9 +466,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Pennsylvania",
           "University of Chicago",
-          "Booth School of Business"
+          "Booth School of Business",
+          "University of Pennsylvania"
         ],
         "employers": [
           {

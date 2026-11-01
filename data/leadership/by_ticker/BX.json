@@ -1,6 +1,6 @@
 {
   "ticker": "BX",
-  "fetchedAt": "2026-10-25T11:34:12.352390Z",
+  "fetchedAt": "2026-11-01T13:16:04.643104Z",
   "people": [
     {
       "qid": "Q552465",
@@ -25,8 +25,8 @@
           "Davenport College",
           "Abington Senior High School",
           "Yale College",
-          "Harvard Business School",
-          "Yale University"
+          "Yale University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -68,8 +68,8 @@
           "Davenport College",
           "Abington Senior High School",
           "Yale College",
-          "Harvard Business School",
-          "Yale University"
+          "Yale University",
+          "Harvard Business School"
         ],
         "employers": [
           {

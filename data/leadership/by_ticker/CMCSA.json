@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-10-25T11:34:12.355103Z",
+  "fetchedAt": "2026-11-01T13:16:04.645129Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -50,8 +50,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "academic"
+          "academic",
+          "businessperson"
         ],
         "education": [
           "Rice University",
@@ -101,6 +101,11 @@
         ],
         "employers": [
           {
+            "company": "Bright House Networks",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Advance Publications",
             "start": null,
             "end": null
@@ -112,11 +117,6 @@
           },
           {
             "company": "Syracuse University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bright House Networks",
             "start": null,
             "end": null
           }
@@ -140,8 +140,8 @@
         ],
         "education": [
           "London School of Economics and Political Science",
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -163,8 +163,8 @@
           "nurse"
         ],
         "education": [
-          "Villanova University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Villanova University"
         ],
         "employers": [],
         "positions": []
@@ -229,8 +229,8 @@
         ],
         "education": [
           "Duke University",
-          "New York University",
-          "Stern School of Business"
+          "Stern School of Business",
+          "New York University"
         ],
         "employers": [
           {
@@ -327,8 +327,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Pennsylvania"
         ],
         "employers": [
           {

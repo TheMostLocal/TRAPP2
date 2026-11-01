@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-10-25T11:34:12.372472Z",
+  "fetchedAt": "2026-11-01T13:16:04.665038Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -50,16 +50,16 @@
         "birthPlace": "Nigeria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adebayo%20Ogunlesi.jpg",
         "occupations": [
-          "academic",
-          "investment banker",
+          "businessperson",
           "lawyer",
-          "businessperson"
+          "academic",
+          "investment banker"
         ],
         "education": [
-          "Harvard Business School",
-          "Harvard Law School",
           "University of Oxford",
-          "King's College, Lagos"
+          "King's College, Lagos",
+          "Harvard Law School",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "director",
           "computer scientist",
-          "businessperson"
+          "businessperson",
+          "director"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -323,8 +323,8 @@
         "education": [
           "Union College",
           "Bronx High School of Science",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -348,8 +348,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
@@ -403,8 +403,8 @@
         "education": [
           "Bryn Mawr College",
           "Concord Academy",
-          "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "AXP",
-  "fetchedAt": "2026-10-25T11:34:12.349291Z",
+  "fetchedAt": "2026-11-01T13:16:04.640781Z",
   "people": [
     {
       "qid": "Q52272598",
@@ -39,9 +39,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
+          "Harvard University",
           "Dartmouth College",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -84,9 +84,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Leavitt.jpg",
         "occupations": [
           "elector",
-          "politician",
           "blogger",
-          "elector",
+          "politician",
           "public figure",
           "economist",
           "governor"
@@ -130,8 +129,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlene%20Barshefsky%20official%20portrait.jpg",
         "occupations": [
-          "diplomat",
           "politician",
+          "diplomat",
           "businessperson",
           "lawyer"
         ],
@@ -181,8 +180,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -311,11 +310,11 @@
           "lawyer"
         ],
         "education": [
-          "Lafayette College",
-          "King's College",
-          "University of Pennsylvania",
           "University of Pennsylvania Carey Law School",
-          "Strath Haven High School"
+          "Strath Haven High School",
+          "University of Pennsylvania",
+          "Lafayette College",
+          "King's College"
         ],
         "employers": [
           {
@@ -372,8 +371,8 @@
           "film producer",
           "financier",
           "television producer",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"

@@ -1,6 +1,6 @@
 {
   "ticker": "CI",
-  "fetchedAt": "2026-10-25T11:34:12.354444Z",
+  "fetchedAt": "2026-11-01T13:16:04.644662Z",
   "people": [
     {
       "qid": "Q109562106",
@@ -83,8 +83,8 @@
         ],
         "education": [
           "Stanford University",
-          "St. Joseph's Boys' High School, Bangalore",
-          "Princeton University"
+          "Princeton University",
+          "St. Joseph's Boys' High School, Bangalore"
         ],
         "employers": [],
         "positions": []
@@ -105,8 +105,8 @@
           "chief digital officer"
         ],
         "education": [
-          "University of Michigan",
-          "UCLA Anderson School of Management"
+          "UCLA Anderson School of Management",
+          "University of Michigan"
         ],
         "employers": [
           {
@@ -238,12 +238,12 @@
           "physician"
         ],
         "education": [
-          "University of Texas at Austin",
-          "John F. Kennedy School of Government",
-          "Harvard University",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
-          "Massachusetts Institute of Technology"
+          "University of Texas at Austin",
+          "John F. Kennedy School of Government",
+          "Massachusetts Institute of Technology",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [

@@ -5,16 +5,16 @@
   "birthPlace": "San Francisco",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
   "occupations": [
+    "founder",
+    "technology entrepreneur",
     "designer",
     "film producer",
+    "entrepreneur",
+    "inventor",
     "financier",
-    "technology entrepreneur",
-    "founder",
     "general manager",
     "executive producer",
-    "entrepreneur",
-    "computer scientist",
-    "inventor"
+    "computer scientist"
   ],
   "education": [
     "Homestead High School",
@@ -23,7 +23,12 @@
   ],
   "employers": [
     {
-      "company": "Pixar",
+      "company": "NeXT",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     },
@@ -33,12 +38,7 @@
       "end": null
     },
     {
-      "company": "NeXT",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Apple Inc.",
+      "company": "Pixar",
       "start": null,
       "end": null
     }

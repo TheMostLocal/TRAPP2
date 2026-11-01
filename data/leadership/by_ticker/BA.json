@@ -1,6 +1,6 @@
 {
   "ticker": "BA",
-  "fetchedAt": "2026-10-25T11:34:12.349820Z",
+  "fetchedAt": "2026-11-01T13:16:04.641137Z",
   "people": [
     {
       "qid": "Q104862847",
@@ -132,6 +132,7 @@
         "occupations": [
           "cricketer",
           "merchant",
+          "engineer",
           "businessperson"
         ],
         "education": [
@@ -241,8 +242,8 @@
         "image": null,
         "occupations": [
           "manager",
-          "university teacher",
           "economist",
+          "university teacher",
           "politician"
         ],
         "education": [
@@ -272,8 +273,8 @@
         "birthPlace": "London",
         "image": null,
         "occupations": [
-          "businessperson",
-          "politician"
+          "politician",
+          "businessperson"
         ],
         "education": [
           "Haileybury and Imperial Service College",
@@ -302,8 +303,8 @@
         "birthPlace": "Brentwood",
         "image": null,
         "occupations": [
-          "politician",
-          "farmer"
+          "farmer",
+          "politician"
         ],
         "education": [],
         "employers": [],
@@ -329,8 +330,8 @@
         "birthPlace": "London",
         "image": null,
         "occupations": [
-          "businessperson",
-          "association football player"
+          "association football player",
+          "businessperson"
         ],
         "education": [
           "Westminster City School"

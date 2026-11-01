@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "fetchedAt": "2026-10-25T11:34:12.351911Z",
+  "fetchedAt": "2026-11-01T13:16:04.642757Z",
   "people": [
     {
       "qid": "Q3218882",
@@ -14,10 +14,10 @@
         "birthPlace": "Van Nuys",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Fink%20with%20Valdis%20Dombrovskis%20%28cropped%29.jpg",
         "occupations": [
-          "manager",
+          "politician",
           "financier",
           "economist",
-          "politician"
+          "manager"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -25,13 +25,13 @@
         ],
         "employers": [
           {
-            "company": "BlackRock",
-            "start": "1988-01-01",
+            "company": "First Boston",
+            "start": null,
             "end": null
           },
           {
-            "company": "First Boston",
-            "start": null,
+            "company": "BlackRock",
+            "start": "1988-01-01",
             "end": null
           }
         ],
@@ -63,10 +63,10 @@
         "birthPlace": "Van Nuys",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Fink%20with%20Valdis%20Dombrovskis%20%28cropped%29.jpg",
         "occupations": [
-          "manager",
+          "politician",
           "financier",
           "economist",
-          "politician"
+          "manager"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -74,13 +74,13 @@
         ],
         "employers": [
           {
-            "company": "BlackRock",
-            "start": "1988-01-01",
+            "company": "First Boston",
+            "start": null,
             "end": null
           },
           {
-            "company": "First Boston",
-            "start": null,
+            "company": "BlackRock",
+            "start": "1988-01-01",
             "end": null
           }
         ],

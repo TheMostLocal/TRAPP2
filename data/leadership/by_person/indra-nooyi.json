@@ -8,14 +8,24 @@
     "businessperson"
   ],
   "education": [
-    "Indian Institute of Management Calcutta",
-    "University of Madras",
     "Yale School of Management",
     "Holy Angels Anglo Indian Higher Secondary School",
     "Madras Christian College",
-    "Yale University"
+    "Yale University",
+    "Indian Institute of Management Calcutta",
+    "University of Madras"
   ],
   "employers": [
+    {
+      "company": "Boston Consulting Group",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "ABB Group",
+      "start": null,
+      "end": null
+    },
     {
       "company": "PepsiCo",
       "start": "1994-01-01",
@@ -27,12 +37,7 @@
       "end": null
     },
     {
-      "company": "Boston Consulting Group",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "ABB Group",
+      "company": "Booz Allen Hamilton",
       "start": null,
       "end": null
     },

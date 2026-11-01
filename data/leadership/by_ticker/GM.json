@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-10-25T11:34:12.371010Z",
+  "fetchedAt": "2026-11-01T13:16:04.663998Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -17,10 +17,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -66,8 +66,8 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Stanford University"
+          "Stanford University",
+          "Brown University"
         ],
         "employers": [],
         "positions": [
@@ -121,9 +121,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
-          "entrepreneur",
           "businessperson",
-          "executive"
+          "executive",
+          "entrepreneur"
         ],
         "education": [
           "Grosse Ile High School"
@@ -169,10 +169,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -215,13 +215,13 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "businessperson",
           "entrepreneur",
+          "businessperson",
           "chief executive officer"
         ],
         "education": [
-          "University of California, Berkeley",
-          "Stanford University"
+          "Stanford University",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -312,10 +312,10 @@
           "businessperson"
         ],
         "education": [
-          "University of Toronto",
           "University of California, Berkeley",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "University of Toronto",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -490,9 +490,10 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "business executive",
           "lawyer",
-          "chief executive officer"
+          "chief executive officer",
+          "business executive",
+          "board member"
         ],
         "education": [
           "Union College",
@@ -517,9 +518,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering",
-          "Massachusetts Institute of Technology"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [],
         "positions": []
@@ -537,8 +538,8 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -547,21 +548,6 @@
           "Princeton University"
         ],
         "employers": [
-          {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "DreamWorks",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
           {
             "company": "Hasbro",
             "start": null,
@@ -573,7 +559,12 @@
             "end": null
           },
           {
-            "company": "Quibi",
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "DreamWorks",
             "start": null,
             "end": null
           },
@@ -584,6 +575,16 @@
           },
           {
             "company": "The Walt Disney Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
+            "end": null
+          },
+          {
+            "company": "Quibi",
             "start": null,
             "end": null
           }

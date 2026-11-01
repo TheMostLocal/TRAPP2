@@ -1,6 +1,6 @@
 {
   "ticker": "GD",
-  "fetchedAt": "2026-10-25T11:34:12.369823Z",
+  "fetchedAt": "2026-11-01T13:16:04.663187Z",
   "people": [
     {
       "qid": "Q4970379",
@@ -14,8 +14,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
@@ -208,9 +208,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rudy%20de%20Leon%2C%20official%20military%20photo%2C%201997.jpg",
         "occupations": [],
         "education": [
-          "El Camino College",
           "Loyola Marymount University",
-          "John F. Kennedy School of Government"
+          "John F. Kennedy School of Government",
+          "El Camino College"
         ],
         "employers": [
           {
@@ -250,9 +250,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Chicago",
           "Duke University",
-          "Booth School of Business",
-          "University of Chicago"
+          "Booth School of Business"
         ],
         "employers": [],
         "positions": []
@@ -324,8 +324,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
@@ -376,9 +376,9 @@
         "birthPlace": "Pullman",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Mattis%20official%20photo.jpg",
         "occupations": [
+          "politician",
           "military officer",
-          "army officer",
-          "politician"
+          "army officer"
         ],
         "education": [
           "Richland High School",

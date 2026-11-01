@@ -1,6 +1,6 @@
 {
   "ticker": "COST",
-  "fetchedAt": "2026-10-25T11:34:12.357333Z",
+  "fetchedAt": "2026-11-01T13:16:04.653446Z",
   "people": [
     {
       "qid": "Q114361370",
@@ -64,14 +64,24 @@
         ],
         "employers": [
           {
-            "company": "Hudson's Bay Company",
-            "start": "2018-02-19",
-            "end": "2020-03-13"
+            "company": "Tiffany & Co.",
+            "start": null,
+            "end": null
           },
           {
             "company": "CVS Health",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hudson's Bay Company",
+            "start": "2018-02-19",
+            "end": "2020-03-13"
           },
           {
             "company": "CVS Pharmacy",
@@ -123,9 +133,9 @@
           "businessperson"
         ],
         "education": [
-          "Choate Rosemary Hall",
           "Harvard Business School",
-          "Harvard College"
+          "Harvard College",
+          "Choate Rosemary Hall"
         ],
         "employers": [],
         "positions": [
@@ -274,8 +284,8 @@
         "image": null,
         "occupations": [
           "computer scientist",
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Stanford University"
@@ -321,8 +331,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Jewell%20and%20the%20Northwest%20Youth%20Corps%20%288818705428%29.jpg",
         "occupations": [
-          "politician",
           "engineer",
+          "politician",
           "businessperson"
         ],
         "education": [

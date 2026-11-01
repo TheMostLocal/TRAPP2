@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-25T11:34:12.346642Z",
+  "fetchedAt": "2026-11-01T13:16:04.638920Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,8 +17,8 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
+          "Scarsdale High School",
           "Harvard University"
         ],
         "employers": [
@@ -55,16 +55,16 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
+          "business oligarch",
           "programmer",
           "commercial astronaut",
-          "computer scientist",
           "entrepreneur",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
           {
@@ -119,8 +119,8 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
+          "Scarsdale High School",
           "Harvard University"
         ],
         "employers": [
@@ -295,8 +295,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "soldier",
-          "intelligence officer"
+          "intelligence officer",
+          "soldier"
         ],
         "education": [
           "Naval Postgraduate School",
@@ -337,8 +337,8 @@
           "university teacher",
           "executive",
           "dean",
-          "academic",
-          "computer scientist"
+          "computer scientist",
+          "academic"
         ],
         "education": [
           "University of Michigan",
@@ -417,16 +417,16 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
+          "business oligarch",
           "programmer",
           "commercial astronaut",
-          "computer scientist",
           "entrepreneur",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
           {
@@ -481,14 +481,24 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Management Calcutta",
-          "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
           "Madras Christian College",
-          "Yale University"
+          "Yale University",
+          "Indian Institute of Management Calcutta",
+          "University of Madras"
         ],
         "employers": [
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "ABB Group",
+            "start": null,
+            "end": null
+          },
           {
             "company": "PepsiCo",
             "start": "1994-01-01",
@@ -500,12 +510,7 @@
             "end": null
           },
           {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "ABB Group",
+            "company": "Booz Allen Hamilton",
             "start": null,
             "end": null
           },
@@ -579,16 +584,16 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
+          "business oligarch",
           "programmer",
           "commercial astronaut",
-          "computer scientist",
           "entrepreneur",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
           {
