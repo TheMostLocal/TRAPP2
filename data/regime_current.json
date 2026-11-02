@@ -1,12 +1,12 @@
 {
   "date": "2026-11-02",
-  "regime": "neutral",
+  "regime": "expansion",
   "confidence": 0.981,
   "scores": {
     "macro": 0.75,
-    "liquidity": -0.296,
-    "volatility": -0.325,
-    "valuation": -0.273,
+    "liquidity": -0.385,
+    "volatility": 0.08,
+    "valuation": -0.264,
     "trend": 0.684,
     "breadth": 0.455,
     "commodity": 0.434,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.4014,
-    "risk_on_melt_up": 0.0714,
-    "inflation_shock": 0.0757,
-    "recession_fear": 0.0016,
-    "risk_off": 0.0296,
-    "neutral": 0.4203
+    "expansion": 0.4564,
+    "risk_on_melt_up": 0.1126,
+    "inflation_shock": 0.0457,
+    "recession_fear": 0.0007,
+    "risk_off": 0.0158,
+    "neutral": 0.3689
   },
   "drivers": [
     {
@@ -60,20 +60,20 @@
       "indpro_yoy": 0.0225
     },
     "liquidity": {
-      "t10y2y": 0.37,
-      "hy_spread": 3.26,
-      "hy_spread_z": 0.52,
+      "t10y2y": 0.32,
+      "hy_spread": 3.44,
+      "hy_spread_z": 1.06,
       "hyg_minus_lqd_1m": -0.0176
     },
     "volatility": {
-      "vix_level": 17.2,
-      "vix9d_over_vix": 1.1192
+      "vix_level": 19.42,
+      "vix9d_over_vix": 0.9912
     },
     "valuation": {
       "spy_pe": 23.99,
       "earnings_yield": 0.0417,
-      "real_10y": 0.0103,
-      "fed_model_spread": 0.0314
+      "real_10y": 0.0092,
+      "fed_model_spread": 0.0325
     },
     "trend": {
       "spy_price": 755.72,

@@ -1,21 +1,21 @@
 {
- "asOf": "2026-10-30",
- "generatedAt": "2026-10-30T20:05:38+00:00",
+ "asOf": "2026-11-02",
+ "generatedAt": "2026-11-02T22:17:35+00:00",
  "regime": "expansion",
  "quadNowcast": null,
  "quadOfficial": null,
- "certainty": 0.396,
+ "certainty": 0.187,
  "threshold": 0.65,
  "dialedIn": false,
  "mode": "regime-agnostic",
  "components": {
   "margin": {
-   "value": 0.296,
-   "score": 0.986,
+   "value": 0.087,
+   "score": 0.292,
    "weight": 0.3
   },
   "stability": {
-   "flips20": 8,
+   "flips20": 7,
    "score": 0.0,
    "weight": 0.25
   },
@@ -33,35 +33,21 @@
  },
  "trackRecord": {
   "horizonSessions": 21,
-  "n": 79,
-  "correct": 57,
-  "accuracyPct": 72.2,
-  "baseRateUpPct": 65.8,
+  "n": 80,
+  "correct": 58,
+  "accuracyPct": 72.5,
+  "baseRateUpPct": 65.0,
   "minN": 20,
   "capped": false
  },
  "why": [
-  "classifier picks expansion at 53% vs 24% runner-up",
-  "8 regime flip(s) in the last 20 sessions",
+  "classifier picks expansion at 46% vs 37% runner-up",
+  "7 regime flip(s) in the last 20 sessions",
   "quad nowcast or official quad missing",
   "market regime family 'up' vs quad growth axis \u2192 0.5",
-  "track record 72% right over 79 judged calls (naive base rate 66%)"
+  "track record 72% right over 80 judged calls (naive base rate 65%)"
  ],
  "calls": [
-  {
-   "date": "2026-06-26",
-   "regime": "neutral",
-   "family": "flat",
-   "fwd21Pct": 1.63,
-   "correct": true
-  },
-  {
-   "date": "2026-06-29",
-   "regime": "neutral",
-   "family": "flat",
-   "fwd21Pct": -1.56,
-   "correct": true
-  },
   {
    "date": "2026-06-30",
    "regime": "neutral",
@@ -512,7 +498,9 @@
   {
    "date": "2026-10-01",
    "regime": "neutral",
-   "family": "flat"
+   "family": "flat",
+   "fwd21Pct": -1.08,
+   "correct": true
   },
   {
    "date": "2026-10-02",
@@ -621,6 +609,16 @@
   },
   {
    "date": "2026-10-30",
+   "regime": "expansion",
+   "family": "up"
+  },
+  {
+   "date": "2026-10-31",
+   "regime": "expansion",
+   "family": "up"
+  },
+  {
+   "date": "2026-11-02",
    "regime": "expansion",
    "family": "up"
   }
