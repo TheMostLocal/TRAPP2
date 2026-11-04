@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-signals-v1",
-  "updatedAt": "2026-11-04T15:00:30.205914Z",
+  "updatedAt": "2026-11-04T15:15:25.432996Z",
   "tickerCount": 22,
   "signals": {
     "macro": {
@@ -78,13 +78,13 @@
       }
     },
     "crypto": {
-      "raw": -0.42065803152913933,
+      "raw": -0.4191931920365943,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "btc_30d_return": -0.0954,
-        "btc_pct_from_50dma": -0.0639,
-        "eth_30d_return": -0.1631,
+        "btc_30d_return": -0.1056,
+        "btc_pct_from_50dma": -0.0556,
+        "eth_30d_return": -0.1664,
         "n_components": 3
       }
     }
