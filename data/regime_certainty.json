@@ -1,17 +1,17 @@
 {
- "asOf": "2026-11-03",
- "generatedAt": "2026-11-03T21:55:30+00:00",
+ "asOf": "2026-11-04",
+ "generatedAt": "2026-11-04T20:23:34+00:00",
  "regime": "neutral",
  "quadNowcast": null,
  "quadOfficial": null,
- "certainty": 0.291,
+ "certainty": 0.216,
  "threshold": 0.65,
  "dialedIn": false,
  "mode": "regime-agnostic",
  "components": {
   "margin": {
-   "value": 0.191,
-   "score": 0.636,
+   "value": 0.116,
+   "score": 0.386,
    "weight": 0.3
   },
   "stability": {
@@ -41,20 +41,13 @@
   "capped": false
  },
  "why": [
-  "classifier picks neutral at 50% vs 31% runner-up",
+  "classifier picks neutral at 48% vs 36% runner-up",
   "7 regime flip(s) in the last 20 sessions",
   "quad nowcast or official quad missing",
   "market regime family 'flat' vs quad growth axis \u2192 0.5",
   "track record 73% right over 81 judged calls (naive base rate 64%)"
  ],
  "calls": [
-  {
-   "date": "2026-07-01",
-   "regime": "neutral",
-   "family": "flat",
-   "fwd21Pct": 0.17,
-   "correct": true
-  },
   {
    "date": "2026-07-02",
    "regime": "neutral",
@@ -619,6 +612,11 @@
   },
   {
    "date": "2026-11-03",
+   "regime": "neutral",
+   "family": "flat"
+  },
+  {
+   "date": "2026-11-04",
    "regime": "neutral",
    "family": "flat"
   }
