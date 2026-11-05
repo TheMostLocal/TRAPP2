@@ -1,17 +1,17 @@
 {
  "asOf": "2026-11-05",
- "generatedAt": "2026-11-05T20:36:27+00:00",
+ "generatedAt": "2026-11-05T22:12:47+00:00",
  "regime": "expansion",
  "quadNowcast": null,
  "quadOfficial": null,
- "certainty": 0.247,
+ "certainty": 0.253,
  "threshold": 0.65,
  "dialedIn": false,
  "mode": "regime-agnostic",
  "components": {
   "margin": {
-   "value": 0.147,
-   "score": 0.489,
+   "value": 0.153,
+   "score": 0.509,
    "weight": 0.3
   },
   "stability": {
