@@ -18,8 +18,8 @@
           "chief executive officer"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
@@ -91,8 +91,8 @@
           "chief executive officer"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
@@ -346,6 +346,16 @@
             "end": "2018-01-01"
           },
           {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Monsanto",
             "start": null,
             "end": null
@@ -378,16 +388,16 @@
         ],
         "positions": [
           {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2006-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "title": "board of directors member",
             "company": null,
             "start": "2020-01-01",
             "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2006-01-01",
+            "end": "2018-01-01"
           }
         ]
       }
@@ -407,9 +417,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {

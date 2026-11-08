@@ -52,7 +52,6 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "researcher",
           "molecular geneticist",
           "biochemist",
           "physician",
@@ -147,9 +146,9 @@
           "chief executive officer"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Nevada, Reno",
           "University of California, San Francisco",
+          "University of California, Berkeley",
           "Bishop Manogue High School"
         ],
         "employers": [
@@ -344,8 +343,8 @@
         "birthPlace": "Bucharest",
         "image": null,
         "occupations": [
-          "immunologist",
-          "researcher"
+          "researcher",
+          "immunologist"
         ],
         "education": [
           "Washington University in St.\u00a0Louis",
@@ -387,8 +386,8 @@
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "North-Eastern Hill University",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "North-Eastern Hill University"
         ],
         "employers": [],
         "positions": [

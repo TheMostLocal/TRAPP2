@@ -313,6 +313,7 @@
         ],
         "education": [
           "University of California, Berkeley",
+          "Harvard University",
           "University of Toronto",
           "Harvard University",
           "Harvard Business School"
@@ -518,9 +519,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -543,11 +544,21 @@
           "entrepreneur"
         ],
         "education": [
+          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "eBay",
+            "start": "1998-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Procter & Gamble",
             "start": "1979-01-01",

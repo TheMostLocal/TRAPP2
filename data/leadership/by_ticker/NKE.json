@@ -199,8 +199,8 @@
           "financier"
         ],
         "education": [
-          "Princeton University",
-          "University of Chicago Laboratory Schools"
+          "University of Chicago Laboratory Schools",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",
@@ -314,7 +314,7 @@
           "manager",
           "chief executive officer",
           "computer scientist",
-          "engineer",
+          "manager",
           "businessperson"
         ],
         "education": [
@@ -326,14 +326,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [

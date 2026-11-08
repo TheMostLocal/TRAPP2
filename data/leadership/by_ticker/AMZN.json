@@ -299,9 +299,9 @@
           "spy"
         ],
         "education": [
+          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
-          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -341,8 +341,8 @@
           "computer scientist"
         ],
         "education": [
-          "University of Michigan",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "University of Michigan"
         ],
         "employers": [
           {
@@ -483,10 +483,10 @@
         "education": [
           "Indian Institute of Management Calcutta",
           "University of Madras",
-          "Yale University",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College"
+          "Madras Christian College",
+          "Yale University"
         ],
         "employers": [
           {

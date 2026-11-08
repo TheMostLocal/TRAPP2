@@ -7,6 +7,8 @@
   "occupations": [
     "programmer",
     "computer scientist",
+    "inventor",
+    "programmer",
     "engineer",
     "entrepreneur",
     "electronics technician",
@@ -24,7 +26,7 @@
   ],
   "employers": [
     {
-      "company": "Atari, Inc.",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     },
@@ -39,7 +41,7 @@
       "end": null
     },
     {
-      "company": "Apple Inc.",
+      "company": "Atari, Inc.",
       "start": null,
       "end": null
     }

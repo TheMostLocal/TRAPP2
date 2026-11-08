@@ -127,7 +127,7 @@
             "end": "1993-01-02"
           },
           {
-            "title": "United States representative",
+            "title": "United States senator",
             "company": null,
             "start": "1977-01-03",
             "end": "1979-01-03"
@@ -305,6 +305,8 @@
         "occupations": [
           "programmer",
           "computer scientist",
+          "inventor",
+          "programmer",
           "engineer",
           "entrepreneur",
           "electronics technician",
@@ -322,7 +324,7 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -337,7 +339,7 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }
@@ -369,9 +371,9 @@
           "computer scientist"
         ],
         "education": [
-          "Homestead High School",
           "Reed College",
-          "De Anza College"
+          "De Anza College",
+          "Homestead High School"
         ],
         "employers": [
           {

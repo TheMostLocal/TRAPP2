@@ -30,7 +30,6 @@
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Stanford University",
           "Queen's University",
           "The Wharton School",
           "University of Pennsylvania",
@@ -220,6 +219,7 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
+          "restaurateur",
           "environmentalist",
           "restaurateur",
           "entrepreneur"
@@ -290,9 +290,9 @@
           "venture capitalist"
         ],
         "education": [
-          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": [
@@ -540,7 +540,6 @@
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Stanford University",
           "Queen's University",
           "The Wharton School",
           "University of Pennsylvania",
@@ -647,9 +646,9 @@
           "computer scientist"
         ],
         "education": [
+          "University of Illinois Urbana-Champaign",
           "University of Chicago",
-          "South Shore High School",
-          "University of Illinois Urbana-Champaign"
+          "South Shore High School"
         ],
         "employers": [
           {

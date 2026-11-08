@@ -394,9 +394,9 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "lawyer",
           "business executive",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Pennsylvania State University",
@@ -486,10 +486,10 @@
           "business executive"
         ],
         "education": [
-          "Columbia University",
           "Fu Foundation School of Engineering and Applied Science",
           "Cathedral High School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Columbia University"
         ],
         "employers": [
           {

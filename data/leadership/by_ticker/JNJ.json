@@ -194,9 +194,9 @@
           "crystallographer"
         ],
         "education": [
+          "Harvard University",
           "Pomona College",
-          "Hilo High School",
-          "Harvard University"
+          "Hilo High School"
         ],
         "employers": [
           {
@@ -218,6 +218,11 @@
             "company": "Howard Hughes Medical Institute",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Yale University",
+            "start": "1994-01-01",
+            "end": "2002-01-01"
           }
         ],
         "positions": [
@@ -242,8 +247,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
-          "cardiologist"
+          "cardiologist",
+          "university teacher"
         ],
         "education": [
           "Radcliffe College",
@@ -579,10 +584,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Case Western Reserve University",
-          "Georgetown University Law Center",
           "Emory University",
           "Georgetown University",
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
           "Weatherhead School of Management"
         ],
         "employers": [],

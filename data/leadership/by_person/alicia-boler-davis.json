@@ -8,9 +8,9 @@
     "engineer"
   ],
   "education": [
-    "Indiana University",
     "Northwestern University",
-    "Rensselaer Polytechnic Institute"
+    "Rensselaer Polytechnic Institute",
+    "Indiana University"
   ],
   "employers": [
     {
@@ -27,6 +27,11 @@
       "company": "Alto Pharmacy",
       "start": "2022-09-01",
       "end": null
+    },
+    {
+      "company": "General Motors",
+      "start": "1994-01-01",
+      "end": "2019-01-01"
     }
   ],
   "positions": [

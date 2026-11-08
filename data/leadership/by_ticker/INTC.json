@@ -45,20 +45,15 @@
         "occupations": [
           "entrepreneur",
           "professor",
-          "engineer",
+          "writer",
           "scientist",
-          "writer"
+          "engineer"
         ],
         "education": [
           "University of California, Berkeley",
           "City University of New York"
         ],
         "employers": [
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
-          },
           {
             "company": "Intel",
             "start": "1968-01-01",
@@ -68,6 +63,11 @@
             "company": "Stanford University",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -112,6 +112,7 @@
         ],
         "education": [
           "University of California, Berkeley",
+          "California Institute of Technology",
           "Sequoia High School",
           "San Jos\u00e9 State University",
           "California Institute of Technology"
@@ -144,8 +145,8 @@
           "computer scientist"
         ],
         "education": [
-          "Grinnell College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Grinnell College"
         ],
         "employers": [
           {
@@ -205,8 +206,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -412,7 +413,7 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Philadelphia",
+        "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "physician",
@@ -428,11 +429,6 @@
         ],
         "employers": [
           {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
@@ -441,15 +437,14 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
+          },
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -461,6 +456,12 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -477,8 +478,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -649,20 +650,15 @@
         "occupations": [
           "entrepreneur",
           "professor",
-          "engineer",
+          "writer",
           "scientist",
-          "writer"
+          "engineer"
         ],
         "education": [
           "University of California, Berkeley",
           "City University of New York"
         ],
         "employers": [
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
-          },
           {
             "company": "Intel",
             "start": "1968-01-01",
@@ -672,6 +668,11 @@
             "company": "Stanford University",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -716,6 +717,7 @@
         ],
         "education": [
           "University of California, Berkeley",
+          "California Institute of Technology",
           "Sequoia High School",
           "San Jos\u00e9 State University",
           "California Institute of Technology"
@@ -748,8 +750,8 @@
           "computer scientist"
         ],
         "education": [
-          "Grinnell College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Grinnell College"
         ],
         "employers": [
           {

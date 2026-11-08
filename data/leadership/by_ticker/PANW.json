@@ -25,17 +25,17 @@
         ],
         "employers": [
           {
+            "company": "Google",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Palo Alto Networks",
             "start": null,
             "end": null
           },
           {
             "company": "SoftBank Mobile",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Google",
             "start": null,
             "end": null
           }

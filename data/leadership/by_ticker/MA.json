@@ -23,11 +23,6 @@
         ],
         "employers": [
           {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -36,6 +31,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -164,11 +164,6 @@
         ],
         "employers": [
           {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -177,6 +172,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
