@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-11-01T14:03:23.993935Z",
+  "fetchedAt": "2026-11-08T14:14:18.778391Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -194,9 +194,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
           "Yale University",
@@ -209,6 +209,11 @@
             "end": null
           },
           {
+            "company": "Council of Economic Advisers",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
+          },
+          {
             "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
@@ -219,14 +224,14 @@
             "end": null
           },
           {
-            "company": "Harvard University",
-            "start": "2007-01-01",
-            "end": "2017-01-01"
-          },
-          {
             "company": "Dartmouth College",
             "start": "1998-01-01",
             "end": "2005-01-01"
+          },
+          {
+            "company": "Harvard University",
+            "start": "2007-01-01",
+            "end": "2017-01-01"
           }
         ],
         "positions": [
@@ -304,9 +309,9 @@
           "businessperson"
         ],
         "education": [
+          "Princeton University",
           "Harvard Business School",
-          "Harvard Law School",
-          "Princeton University"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -453,8 +458,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "basketball player",
-          "accountant"
+          "accountant",
+          "basketball player"
         ],
         "education": [
           "University of Notre Dame"
@@ -488,8 +493,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "researcher",
           "oncologist",
+          "researcher",
           "university teacher"
         ],
         "education": [

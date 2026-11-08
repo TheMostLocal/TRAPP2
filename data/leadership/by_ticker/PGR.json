@@ -1,6 +1,6 @@
 {
   "ticker": "PGR",
-  "fetchedAt": "2026-11-01T14:03:24.008130Z",
+  "fetchedAt": "2026-11-08T14:14:18.792914Z",
   "people": [
     {
       "qid": "Q114795441",
@@ -178,8 +178,8 @@
           "banker"
         ],
         "education": [
-          "Brown University",
-          "University of Virginia"
+          "University of Virginia",
+          "Brown University"
         ],
         "employers": [
           {

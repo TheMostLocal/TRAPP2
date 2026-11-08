@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-11-01T14:03:23.989115Z",
+  "fetchedAt": "2026-11-08T14:14:18.773424Z",
   "people": [
     {
       "qid": "Q1148995",
@@ -72,12 +72,6 @@
         ],
         "positions": [
           {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1987-01-01",
-            "end": "1997-01-01"
-          },
-          {
             "title": "chairperson of the executive board",
             "company": null,
             "start": "1997-01-01",
@@ -88,6 +82,12 @@
             "company": null,
             "start": "1979-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1987-01-01",
+            "end": "1997-01-01"
           }
         ]
       }
@@ -104,17 +104,17 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
+          "philanthropist",
+          "physicist",
           "chemist",
           "engineer",
-          "physicist",
-          "philanthropist",
           "entrepreneur"
         ],
         "education": [
-          "California Institute of Technology",
           "University of California, Berkeley",
           "Sequoia High School",
-          "San Jos\u00e9 State University"
+          "San Jos\u00e9 State University",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -138,10 +138,10 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "computer scientist",
-          "physicist",
+          "businessperson",
           "inventor",
-          "businessperson"
+          "physicist",
+          "computer scientist"
         ],
         "education": [
           "Grinnell College",
@@ -170,9 +170,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
           "businessperson",
+          "chemist",
           "engineer",
-          "entrepreneur",
-          "chemist"
+          "entrepreneur"
         ],
         "education": [
           "Lynbrook High School",
@@ -209,9 +209,9 @@
           "engineer"
         ],
         "education": [
-          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University"
+          "Santa Clara University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -346,22 +346,17 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
-          "electrical engineer",
           "university teacher",
           "electrotechnician",
-          "computer scientist"
+          "computer scientist",
+          "academic",
+          "electrical engineer"
         ],
         "education": [
           "University of California, Berkeley",
           "University of California, Berkeley College of Engineering"
         ],
         "employers": [
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
           {
             "company": "California Institute of Technology",
             "start": null,
@@ -370,11 +365,6 @@
           {
             "company": "Princeton University",
             "start": "2020-01-01",
-            "end": null
-          },
-          {
-            "company": "California Institute of Technology",
-            "start": null,
             "end": null
           },
           {
@@ -429,12 +419,12 @@
           "administrator"
         ],
         "education": [
-          "Stony Brook University",
+          "Harvard Medical School",
           "The Bush School",
           "The Wharton School",
-          "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "Stony Brook University"
         ],
         "employers": [
           {
@@ -491,9 +481,9 @@
           "engineer"
         ],
         "education": [
-          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University"
+          "Santa Clara University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -545,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Berkeley"
@@ -567,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -609,9 +599,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief financial officer",
+          "board member",
           "businessperson",
-          "board member"
+          "chief financial officer"
         ],
         "education": [],
         "employers": [],
@@ -686,12 +676,6 @@
         ],
         "positions": [
           {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1987-01-01",
-            "end": "1997-01-01"
-          },
-          {
             "title": "chairperson of the executive board",
             "company": null,
             "start": "1997-01-01",
@@ -702,6 +686,12 @@
             "company": null,
             "start": "1979-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1987-01-01",
+            "end": "1997-01-01"
           }
         ]
       }
@@ -718,17 +708,17 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
+          "philanthropist",
+          "physicist",
           "chemist",
           "engineer",
-          "physicist",
-          "philanthropist",
           "entrepreneur"
         ],
         "education": [
-          "California Institute of Technology",
           "University of California, Berkeley",
           "Sequoia High School",
-          "San Jos\u00e9 State University"
+          "San Jos\u00e9 State University",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -752,10 +742,10 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "computer scientist",
-          "physicist",
+          "businessperson",
           "inventor",
-          "businessperson"
+          "physicist",
+          "computer scientist"
         ],
         "education": [
           "Grinnell College",

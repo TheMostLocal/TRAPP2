@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-11-01T14:03:23.969254Z",
+  "fetchedAt": "2026-11-08T14:14:18.753563Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -101,11 +101,6 @@
         ],
         "employers": [
           {
-            "company": "Bright House Networks",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Advance Publications",
             "start": null,
             "end": null
@@ -117,6 +112,11 @@
           },
           {
             "company": "Syracuse University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bright House Networks",
             "start": null,
             "end": null
           }
@@ -199,8 +199,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "chief executive officer"
+          "chief executive officer",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -228,8 +228,8 @@
           "chief executive officer"
         ],
         "education": [
-          "New York University",
           "Duke University",
+          "New York University",
           "Stern School of Business"
         ],
         "employers": [
@@ -327,8 +327,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "The Wharton School"
         ],
         "employers": [
           {

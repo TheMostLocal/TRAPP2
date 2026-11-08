@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-11-01T14:03:23.974182Z",
+  "fetchedAt": "2026-11-08T14:14:18.758585Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -43,15 +43,15 @@
         "birthPlace": "Lusaka",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
         "occupations": [
-          "writer",
-          "economist"
+          "economist",
+          "writer"
         ],
         "education": [
           "Kogod School of Business",
           "St Antony's College",
           "American University",
-          "John F. Kennedy School of Government",
           "University of Oxford",
+          "John F. Kennedy School of Government",
           "Harvard University"
         ],
         "employers": [
@@ -100,11 +100,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "ambassador",
           "missionary",
-          "governor",
           "diplomat",
-          "politician"
+          "ambassador",
+          "politician",
+          "governor"
         ],
         "education": [
           "National Taiwan Normal University",
@@ -256,9 +256,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
           "Columbia University"
         ],
         "employers": [
@@ -302,8 +302,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemical engineer",
           "chemist",
+          "chemical engineer",
           "academic administrator"
         ],
         "education": [
@@ -312,17 +312,17 @@
         ],
         "employers": [
           {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Imperial College London",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Imperial College London",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Imperial College London",
             "start": null,
             "end": null
           }
@@ -460,8 +460,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "military flight engineer",
-          "engineer"
+          "engineer",
+          "military flight engineer"
         ],
         "education": [
           "University of Pittsburgh",

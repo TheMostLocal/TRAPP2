@@ -1,6 +1,6 @@
 {
   "ticker": "BAC",
-  "fetchedAt": "2026-11-01T14:03:23.964958Z",
+  "fetchedAt": "2026-11-08T14:14:18.749299Z",
   "people": [
     {
       "qid": "Q912811",
@@ -14,14 +14,14 @@
         "birthPlace": "Marietta",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Moynihan%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
         "occupations": [
-          "chief executive officer",
-          "banker"
+          "banker",
+          "chief executive officer"
         ],
         "education": [
-          "Brown University",
           "Notre Dame Law School",
           "Marietta High School",
-          "University of Notre Dame"
+          "University of Notre Dame",
+          "Brown University"
         ],
         "employers": [
           {
@@ -114,12 +114,12 @@
         ],
         "employers": [
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Johns Hopkins University",
             "start": null,
             "end": null
           },
           {
-            "company": "Johns Hopkins University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           }
@@ -169,14 +169,14 @@
         "birthPlace": "Marietta",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Moynihan%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
         "occupations": [
-          "chief executive officer",
-          "banker"
+          "banker",
+          "chief executive officer"
         ],
         "education": [
-          "Brown University",
           "Notre Dame Law School",
           "Marietta High School",
-          "University of Notre Dame"
+          "University of Notre Dame",
+          "Brown University"
         ],
         "employers": [
           {
@@ -219,8 +219,8 @@
         "birthPlace": "New Orleans",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynote%20%2826689303657%29.jpg",
         "occupations": [
-          "chief executive officer",
           "businessperson",
+          "chief executive officer",
           "entrepreneur"
         ],
         "education": [
@@ -466,8 +466,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
           "Booth School of Business",
+          "University of Chicago",
           "University of Pennsylvania"
         ],
         "employers": [

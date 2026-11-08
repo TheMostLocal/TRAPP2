@@ -1,6 +1,6 @@
 {
   "ticker": "COST",
-  "fetchedAt": "2026-11-01T14:03:23.971436Z",
+  "fetchedAt": "2026-11-08T14:14:18.755674Z",
   "people": [
     {
       "qid": "Q114361370",
@@ -55,8 +55,8 @@
         "birthPlace": "Providence",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HelenaFoulkes%20CROP.jpg",
         "occupations": [
-          "businessperson",
-          "politician"
+          "politician",
+          "businessperson"
         ],
         "education": [
           "Harvard Business School",
@@ -74,6 +74,11 @@
             "end": null
           },
           {
+            "company": "CVS Pharmacy",
+            "start": "1992-01-01",
+            "end": "2018-01-01"
+          },
+          {
             "company": "Goldman Sachs",
             "start": null,
             "end": null
@@ -82,11 +87,6 @@
             "company": "Hudson's Bay Company",
             "start": "2018-02-19",
             "end": "2020-03-13"
-          },
-          {
-            "company": "CVS Pharmacy",
-            "start": "1992-01-01",
-            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -444,9 +444,9 @@
           "investor"
         ],
         "education": [
-          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
+          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [

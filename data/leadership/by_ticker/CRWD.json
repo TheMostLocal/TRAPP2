@@ -1,6 +1,6 @@
 {
   "ticker": "CRWD",
-  "fetchedAt": "2026-11-01T14:03:23.972294Z",
+  "fetchedAt": "2026-11-08T14:14:18.756589Z",
   "people": [
     {
       "qid": "Q50082669",
@@ -16,8 +16,8 @@
         "occupations": [
           "programmer",
           "venture capitalist",
-          "businessperson",
-          "racing driver"
+          "racing driver",
+          "businessperson"
         ],
         "education": [
           "Parsippany High School",

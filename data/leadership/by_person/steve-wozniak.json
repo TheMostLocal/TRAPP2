@@ -3,24 +3,24 @@
   "name": "Steve Wozniak",
   "dateOfBirth": "1950-08-11",
   "birthPlace": "San Jose",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
   "occupations": [
-    "businessperson",
-    "actor",
-    "teacher",
     "programmer",
-    "electronics technician",
-    "inventor",
     "computer scientist",
     "engineer",
-    "entrepreneur"
+    "entrepreneur",
+    "electronics technician",
+    "inventor",
+    "teacher",
+    "actor",
+    "businessperson"
   ],
   "education": [
-    "Homestead High School",
-    "University of California, Berkeley",
     "University of Colorado",
     "De Anza College",
-    "University of Colorado Boulder"
+    "University of Colorado Boulder",
+    "University of California, Berkeley",
+    "Homestead High School"
   ],
   "employers": [
     {

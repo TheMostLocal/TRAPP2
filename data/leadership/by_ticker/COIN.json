@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "fetchedAt": "2026-11-01T14:03:23.970310Z",
+  "fetchedAt": "2026-11-08T14:14:18.754587Z",
   "people": [
     {
       "qid": "Q64705310",
@@ -14,10 +14,10 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Armstrong%20-%20TechCrunch%20Disrupt%202018%2001.jpg",
         "occupations": [
-          "chief executive officer",
+          "software engineer",
           "businessperson",
           "business executive",
-          "software engineer"
+          "chief executive officer"
         ],
         "education": [
           "Bellarmine College Preparatory"
@@ -44,10 +44,10 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Armstrong%20-%20TechCrunch%20Disrupt%202018%2001.jpg",
         "occupations": [
-          "chief executive officer",
+          "software engineer",
           "businessperson",
           "business executive",
-          "software engineer"
+          "chief executive officer"
         ],
         "education": [
           "Bellarmine College Preparatory"

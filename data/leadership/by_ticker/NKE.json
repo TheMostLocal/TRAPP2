@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-11-01T14:03:24.002974Z",
+  "fetchedAt": "2026-11-08T14:14:18.787775Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -170,13 +170,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -247,17 +247,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "businessperson",
-          "philanthropist",
+          "entrepreneur",
           "writer",
-          "entrepreneur"
+          "philanthropist",
+          "businessperson"
         ],
         "education": [
           "Oregon State University",
           "University of Oregon",
-          "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -284,9 +284,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Dartmouth College",
+          "Stanford University",
           "Stanford Graduate School of Business",
-          "Stanford University"
+          "Dartmouth College"
         ],
         "employers": [
           {
@@ -311,7 +311,6 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
-          "engineer",
           "manager",
           "chief executive officer",
           "computer scientist",
@@ -319,11 +318,11 @@
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
           {
@@ -359,17 +358,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "businessperson",
-          "philanthropist",
+          "entrepreneur",
           "writer",
-          "entrepreneur"
+          "philanthropist",
+          "businessperson"
         ],
         "education": [
           "Oregon State University",
           "University of Oregon",
-          "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Stanford University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-11-01T14:03:23.991304Z",
+  "fetchedAt": "2026-11-08T14:14:18.776105Z",
   "people": [
     {
       "qid": "Q922169",
@@ -17,22 +17,12 @@
           "banker"
         ],
         "education": [
-          "Tufts University",
+          "Harvard University",
           "Harvard Business School",
-          "Browning School",
-          "Harvard University"
+          "Tufts University",
+          "Browning School"
         ],
         "employers": [
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -45,6 +35,16 @@
           },
           {
             "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": "2022-01-01"
-          },
-          {
             "company": "General Motors",
             "start": "1994-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": "2022-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -208,8 +208,8 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "merchant",
           "business executive",
+          "merchant",
           "entrepreneur"
         ],
         "education": [
@@ -378,9 +378,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Princeton University",
           "Princeton School of Public and International Affairs",
-          "St. Ignatius College Prep",
-          "Princeton University"
+          "St. Ignatius College Prep"
         ],
         "employers": [],
         "positions": [
@@ -457,13 +457,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
-          "Colgate University",
           "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Colgate University"
         ],
         "employers": [
           {
@@ -503,22 +503,12 @@
           "banker"
         ],
         "education": [
-          "Tufts University",
+          "Harvard University",
           "Harvard Business School",
-          "Browning School",
-          "Harvard University"
+          "Tufts University",
+          "Browning School"
         ],
         "employers": [
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -531,6 +521,16 @@
           },
           {
             "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }

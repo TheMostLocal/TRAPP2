@@ -9,22 +9,12 @@
     "lawyer"
   ],
   "education": [
-    "John F. Kennedy School of Government",
     "Harvard Law School",
+    "Brown University",
     "James B. Dudley High School",
-    "Brown University"
+    "John F. Kennedy School of Government"
   ],
   "employers": [
-    {
-      "company": "Revlon",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Washington Gas",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Ad Council",
       "start": null,
@@ -42,6 +32,26 @@
     },
     {
       "company": "Kodak",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "BET",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Marriott International",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Revlon",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Washington Gas",
       "start": null,
       "end": null
     }

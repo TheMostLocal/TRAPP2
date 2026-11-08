@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "fetchedAt": "2026-11-01T14:03:23.967411Z",
+  "fetchedAt": "2026-11-08T14:14:18.751735Z",
   "people": [
     {
       "qid": "Q137168946",
@@ -106,16 +106,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Schwab%2C%20USTR%20official%20photo.jpg",
         "occupations": [
-          "university teacher",
+          "politician",
           "diplomat",
-          "politician"
+          "university teacher"
         ],
         "education": [
           "Williams College",
+          "Stanford University",
           "Aiglon College",
           "International School Bangkok",
-          "George Washington University",
-          "Stanford University"
+          "George Washington University"
         ],
         "employers": [
           {
@@ -139,11 +139,11 @@
         "birthPlace": "Nashua",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kelly%20Ayotte%2C%20Official%20Portrait%2C%20112th%20Congress%202.jpg",
         "occupations": [
-          "prosecutor",
+          "politician",
           "adviser",
           "law clerk",
-          "lawyer",
-          "politician"
+          "prosecutor",
+          "lawyer"
         ],
         "education": [
           "Villanova University",
@@ -225,8 +225,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
-          "Duke University"
+          "Duke University",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": []

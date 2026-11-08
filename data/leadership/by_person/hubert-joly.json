@@ -5,18 +5,17 @@
   "birthPlace": "Laxou",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
   "occupations": [
-    "chief executive officer",
     "lecturer",
-    "merchant",
     "executive",
     "business manager",
-    "entrepreneur",
-    "chief executive officer"
+    "chief executive officer",
+    "merchant",
+    "entrepreneur"
   ],
   "education": [
-    "Paris Institute of Political Studies",
     "Lyc\u00e9e Louis-le-Grand",
-    "HEC Paris"
+    "HEC Paris",
+    "Paris Institute of Political Studies"
   ],
   "employers": [
     {

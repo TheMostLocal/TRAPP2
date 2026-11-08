@@ -1,6 +1,6 @@
 {
   "ticker": "COP",
-  "fetchedAt": "2026-11-01T14:03:23.970577Z",
+  "fetchedAt": "2026-11-08T14:14:18.754819Z",
   "people": [
     {
       "qid": "Q7384237",
@@ -181,8 +181,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "Stanford University"
+          "Stanford University",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -246,8 +246,8 @@
           "lawyer"
         ],
         "education": [
-          "Harvard Law School",
           "University of Toronto",
+          "Harvard Law School",
           "Stanford University"
         ],
         "employers": [
@@ -289,8 +289,8 @@
         "birthPlace": "Pinehurst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ADM%20William%20H.%20McRaven%202012.jpg",
         "occupations": [
-          "admiral",
-          "military officer"
+          "military officer",
+          "admiral"
         ],
         "education": [
           "Naval Postgraduate School",

@@ -1,6 +1,6 @@
 {
   "ticker": "USBC",
-  "fetchedAt": "2026-11-01T14:03:24.023640Z",
+  "fetchedAt": "2026-11-08T14:14:18.807712Z",
   "people": [
     {
       "qid": "Q97012105",
@@ -39,8 +39,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "inventor"
+          "inventor",
+          "engineer"
         ],
         "education": [
           "Christ's College"

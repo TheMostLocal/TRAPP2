@@ -1,6 +1,6 @@
 {
   "ticker": "COF",
-  "fetchedAt": "2026-11-01T14:03:23.970062Z",
+  "fetchedAt": "2026-11-08T14:14:18.754332Z",
   "people": [
     {
       "qid": "Q7325595",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
           "banker",
+          "entrepreneur",
           "chief executive officer"
         ],
         "education": [
@@ -51,8 +51,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
           "banker",
+          "entrepreneur",
           "chief executive officer"
         ],
         "education": [

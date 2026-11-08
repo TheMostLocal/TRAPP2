@@ -1,6 +1,6 @@
 {
   "ticker": "LOW",
-  "fetchedAt": "2026-11-01T14:03:23.994935Z",
+  "fetchedAt": "2026-11-08T14:14:18.779513Z",
   "people": [
     {
       "qid": "Q22279080",
@@ -125,8 +125,8 @@
           "board member"
         ],
         "education": [
-          "Saint Mary's College of California",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Saint Mary's College of California"
         ],
         "employers": [],
         "positions": []
@@ -166,8 +166,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Duke University"
@@ -188,8 +188,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [],
         "employers": [],
@@ -228,8 +228,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [],
         "employers": [],

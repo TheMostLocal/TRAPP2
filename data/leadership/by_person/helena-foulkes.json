@@ -5,8 +5,8 @@
   "birthPlace": "Providence",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HelenaFoulkes%20CROP.jpg",
   "occupations": [
-    "businessperson",
-    "politician"
+    "politician",
+    "businessperson"
   ],
   "education": [
     "Harvard Business School",
@@ -24,6 +24,11 @@
       "end": null
     },
     {
+      "company": "CVS Pharmacy",
+      "start": "1992-01-01",
+      "end": "2018-01-01"
+    },
+    {
       "company": "Goldman Sachs",
       "start": null,
       "end": null
@@ -32,11 +37,6 @@
       "company": "Hudson's Bay Company",
       "start": "2018-02-19",
       "end": "2020-03-13"
-    },
-    {
-      "company": "CVS Pharmacy",
-      "start": "1992-01-01",
-      "end": "2018-01-01"
     }
   ],
   "positions": [

@@ -5,11 +5,11 @@
   "birthPlace": "The Bronx",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
   "occupations": [
-    "entrepreneur",
     "aircraft pilot",
-    "computer scientist",
     "actor",
-    "businessperson"
+    "businessperson",
+    "entrepreneur",
+    "computer scientist"
   ],
   "education": [
     "University of Chicago",
@@ -30,6 +30,12 @@
   ],
   "positions": [
     {
+      "title": "board member",
+      "company": null,
+      "start": "2018-01-01",
+      "end": "2022-01-01"
+    },
+    {
       "title": "chairperson",
       "company": null,
       "start": null,
@@ -46,12 +52,6 @@
       "company": null,
       "start": "1977-01-01",
       "end": "2014-01-01"
-    },
-    {
-      "title": "board member",
-      "company": null,
-      "start": "2018-01-01",
-      "end": "2022-01-01"
     }
   ],
   "currentTickers": [

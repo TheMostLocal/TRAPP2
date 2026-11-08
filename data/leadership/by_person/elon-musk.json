@@ -5,16 +5,16 @@
   "birthPlace": "Pretoria",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
   "occupations": [
-    "dub actor",
-    "programmer",
-    "philanthropist",
-    "technology entrepreneur",
     "financier",
+    "philanthropist",
+    "investor",
+    "dub actor",
+    "technology entrepreneur",
+    "programmer",
     "civil servant",
     "engineer",
-    "investor",
-    "entrepreneur",
-    "politician"
+    "politician",
+    "entrepreneur"
   ],
   "education": [
     "Smith School of Business",
@@ -24,19 +24,19 @@
     "Stanford University",
     "Queen's University",
     "The Wharton School",
-    "University of Pretoria",
-    "University of Pennsylvania"
+    "University of Pennsylvania",
+    "University of Pretoria"
   ],
   "employers": [
     {
-      "company": "PayPal",
-      "start": "1998-12-01",
+      "company": "SolarCity",
+      "start": null,
       "end": null
     },
     {
-      "company": "Tesla",
-      "start": "2004-04-23",
-      "end": null
+      "company": "OpenAI",
+      "start": "2015-12-11",
+      "end": "2019-01-01"
     },
     {
       "company": "Department of Government Efficiency",
@@ -49,28 +49,23 @@
       "end": null
     },
     {
-      "company": "OpenAI",
-      "start": "2015-12-11",
-      "end": "2019-01-01"
+      "company": "SpaceX",
+      "start": "2002-06-01",
+      "end": null
+    },
+    {
+      "company": "PayPal",
+      "start": "1998-12-01",
+      "end": null
+    },
+    {
+      "company": "The Boring Company",
+      "start": "2016-12-17",
+      "end": null
     },
     {
       "company": "Tesla",
       "start": "2004-04-23",
-      "end": null
-    },
-    {
-      "company": "SolarCity",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "OpenAI",
-      "start": "2015-12-11",
-      "end": "2019-01-01"
-    },
-    {
-      "company": "SpaceX",
-      "start": "2002-06-01",
       "end": null
     }
   ],
