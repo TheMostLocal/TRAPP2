@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-11-01T14:03:23.974182Z",
+  "fetchedAt": "2026-11-08T13:05:41.828000Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -47,11 +47,11 @@
           "economist"
         ],
         "education": [
+          "John F. Kennedy School of Government",
+          "University of Oxford",
           "Kogod School of Business",
           "St Antony's College",
           "American University",
-          "John F. Kennedy School of Government",
-          "University of Oxford",
           "Harvard University"
         ],
         "employers": [
@@ -100,10 +100,10 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "ambassador",
           "missionary",
           "governor",
           "diplomat",
+          "ambassador",
           "politician"
         ],
         "education": [
@@ -256,10 +256,10 @@
           "businessperson"
         ],
         "education": [
+          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
-          "Columbia University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -307,22 +307,22 @@
           "academic administrator"
         ],
         "education": [
-          "University of Southern California",
-          "Princeton University"
+          "Princeton University",
+          "University of Southern California"
         ],
         "employers": [
           {
+            "company": "Imperial College London",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Imperial College London",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Imperial College London",
             "start": null,
             "end": null
           }
@@ -464,11 +464,11 @@
           "engineer"
         ],
         "education": [
-          "University of Pittsburgh",
-          "University of Southern California",
           "Bronx High School of Science",
           "Franklin & Marshall College",
-          "USC Viterbi School of Engineering"
+          "USC Viterbi School of Engineering",
+          "University of Pittsburgh",
+          "University of Southern California"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "COP",
-  "fetchedAt": "2026-11-01T14:03:23.970577Z",
+  "fetchedAt": "2026-11-08T13:05:41.824082Z",
   "people": [
     {
       "qid": "Q7384237",
@@ -246,8 +246,8 @@
           "lawyer"
         ],
         "education": [
-          "Harvard Law School",
           "University of Toronto",
+          "Harvard Law School",
           "Stanford University"
         ],
         "employers": [
@@ -293,21 +293,21 @@
           "military officer"
         ],
         "education": [
-          "Naval Postgraduate School",
-          "University of Texas at Austin",
           "Moody College of Communication",
-          "Theodore Roosevelt High School"
+          "Theodore Roosevelt High School",
+          "Naval Postgraduate School",
+          "University of Texas at Austin"
         ],
         "employers": [
-          {
-            "company": "United States Navy",
-            "start": "1977-01-01",
-            "end": "2014-01-01"
-          },
           {
             "company": "University of Texas System",
             "start": "2015-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "United States Navy",
+            "start": "1977-01-01",
+            "end": "2014-01-01"
           }
         ],
         "positions": []

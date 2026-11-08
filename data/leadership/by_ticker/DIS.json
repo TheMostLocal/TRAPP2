@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-11-01T14:03:23.975889Z",
+  "fetchedAt": "2026-11-08T13:05:41.829717Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -14,8 +14,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -105,9 +105,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
-          "entrepreneur",
+          "businessperson",
           "chief executive officer",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "Lawrenceville School",
@@ -160,12 +160,11 @@
         "birthPlace": "Oceanside",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
         "occupations": [
-          "television producer",
           "film producer",
           "business executive",
-          "businessperson",
           "television producer",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "The Center for Early Education",
@@ -240,9 +239,9 @@
           "manager"
         ],
         "education": [
-          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh"
+          "University of Pittsburgh",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -300,9 +299,9 @@
           "manager"
         ],
         "education": [
-          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh"
+          "University of Pittsburgh",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -401,8 +400,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -448,8 +447,8 @@
           "businessperson"
         ],
         "education": [
-          "San Francisco Art Institute",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "San Francisco Art Institute"
         ],
         "employers": [],
         "positions": []
@@ -470,14 +469,12 @@
           "politician"
         ],
         "education": [
-          "Harvard Law School",
-          "University of Oxford",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
           "Harvard Law School",
+          "The Branson School",
           "Princeton University",
-          "University of Oxford",
-          "The Branson School"
+          "University of Oxford"
         ],
         "employers": [],
         "positions": [

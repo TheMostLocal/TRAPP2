@@ -1,6 +1,6 @@
 {
   "ticker": "FCX",
-  "fetchedAt": "2026-11-01T14:03:23.981830Z",
+  "fetchedAt": "2026-11-08T13:05:41.835510Z",
   "people": [
     {
       "qid": "Q16501102",
@@ -14,9 +14,9 @@
         "birthPlace": "Tennessee",
         "image": null,
         "occupations": [
-          "head commissioner",
+          "entrepreneur",
           "accountant",
-          "entrepreneur"
+          "head commissioner"
         ],
         "education": [
           "Mississippi State University",
@@ -90,9 +90,9 @@
         "birthPlace": "Tennessee",
         "image": null,
         "occupations": [
-          "head commissioner",
+          "entrepreneur",
           "accountant",
-          "entrepreneur"
+          "head commissioner"
         ],
         "education": [
           "Mississippi State University",
@@ -235,15 +235,15 @@
         "birthPlace": "Queens",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Dudley%2C%20January%202011.jpeg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
+          "Southern Methodist University",
+          "University of Illinois Urbana-Champaign",
           "Hinsdale Central High School",
           "Thunderbird School of Global Management",
-          "Cox School of Business",
-          "Southern Methodist University",
-          "University of Illinois Urbana-Champaign"
+          "Cox School of Business"
         ],
         "employers": [
           {

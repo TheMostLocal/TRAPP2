@@ -5,16 +5,16 @@
   "birthPlace": "Nigeria",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adebayo%20Ogunlesi.jpg",
   "occupations": [
+    "businessperson",
     "academic",
     "investment banker",
-    "businessperson",
     "lawyer"
   ],
   "education": [
     "Harvard Business School",
-    "University of Oxford",
     "Harvard Law School",
-    "King's College, Lagos"
+    "King's College, Lagos",
+    "University of Oxford"
   ],
   "employers": [
     {

@@ -1,6 +1,6 @@
 {
   "ticker": "EXC",
-  "fetchedAt": "2026-11-01T14:03:23.980393Z",
+  "fetchedAt": "2026-11-08T13:05:41.834075Z",
   "people": [
     {
       "qid": "Q114959854",
@@ -39,8 +39,8 @@
         ],
         "education": [
           "Stanford Graduate School of Business",
-          "University of Pennsylvania",
-          "Paris Institute of Political Studies"
+          "Paris Institute of Political Studies",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -165,9 +165,9 @@
           "economist"
         ],
         "education": [
+          "Cornell University",
           "Francis Lewis High School",
-          "Yale University",
-          "Cornell University"
+          "Yale University"
         ],
         "employers": [
           {
@@ -191,8 +191,8 @@
         "birthPlace": "Havana",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Gutierrez.jpg",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
           "Monterrey Institute of Technology and Higher Education"

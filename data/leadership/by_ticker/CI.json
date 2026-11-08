@@ -1,6 +1,6 @@
 {
   "ticker": "CI",
-  "fetchedAt": "2026-11-01T14:03:23.968667Z",
+  "fetchedAt": "2026-11-08T13:05:41.822183Z",
   "people": [
     {
       "qid": "Q109562106",
@@ -105,8 +105,8 @@
           "chief digital officer"
         ],
         "education": [
-          "UCLA Anderson School of Management",
-          "University of Michigan"
+          "University of Michigan",
+          "UCLA Anderson School of Management"
         ],
         "employers": [
           {
@@ -238,10 +238,10 @@
           "physician"
         ],
         "education": [
-          "University of Texas at Austin",
-          "John F. Kennedy School of Government",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
+          "University of Texas at Austin",
+          "John F. Kennedy School of Government",
           "Massachusetts Institute of Technology",
           "Harvard University"
         ],
