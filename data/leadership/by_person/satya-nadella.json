@@ -7,10 +7,10 @@
   "occupations": [
     "manager",
     "electrotechnician",
-    "engineer",
-    "computer scientist",
+    "chief executive officer",
     "entrepreneur",
-    "chief executive officer"
+    "engineer",
+    "computer scientist"
   ],
   "education": [
     "Manipal Academy of Higher Education",
@@ -21,13 +21,13 @@
   ],
   "employers": [
     {
-      "company": "Microsoft",
-      "start": "1992-01-01",
+      "company": "Sun Microsystems",
+      "start": null,
       "end": null
     },
     {
-      "company": "Sun Microsystems",
-      "start": null,
+      "company": "Microsoft",
+      "start": "1992-01-01",
       "end": null
     }
   ],
