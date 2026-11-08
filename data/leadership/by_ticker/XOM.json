@@ -1,6 +1,6 @@
 {
   "ticker": "XOM",
-  "fetchedAt": "2026-11-01T14:03:24.028352Z",
+  "fetchedAt": "2026-11-08T12:59:50.038321Z",
   "people": [
     {
       "qid": "Q28018191",
@@ -14,8 +14,8 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darren%20Woods%20%28born%20c.%201965%29%20at%20WEF%20Special%20Meeting%20on%20Global%20Collaboration%2C%20Growth%20and%20Energy%20for%20Development%2C%202024.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Kellogg School of Management",
@@ -156,8 +156,8 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darren%20Woods%20%28born%20c.%201965%29%20at%20WEF%20Special%20Meeting%20on%20Global%20Collaboration%2C%20Growth%20and%20Energy%20for%20Development%2C%202024.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Kellogg School of Management",
@@ -199,8 +199,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "entrepreneur",
-          "hedge fund manager"
+          "hedge fund manager",
+          "entrepreneur"
         ],
         "education": [
           "Duke University",
@@ -347,17 +347,17 @@
       "career": {
         "qid": "Q5188669",
         "name": "Steven A. Kandarian",
-        "dateOfBirth": "1952-01-01",
+        "dateOfBirth": "1952-03-01",
         "birthPlace": "West Hartford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20A.%20Kandarian%20174-CD-06004x1-001%20%28cropped%29.jpg",
         "occupations": [
           "businessperson"
         ],
         "education": [
-          "Georgetown University",
-          "Clark University",
           "Harvard University",
-          "Harvard Business School"
+          "Georgetown University",
+          "Harvard Business School",
+          "Clark University"
         ],
         "employers": [
           {
@@ -394,15 +394,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "lawyer",
           "business executive",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
-          "Northeast High School",
-          "Julia R. Masterman School",
           "Pennsylvania State University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Northeast High School",
+          "Julia R. Masterman School"
         ],
         "employers": [
           {
@@ -486,10 +486,10 @@
           "business executive"
         ],
         "education": [
-          "Columbia University",
           "Fu Foundation School of Engineering and Applied Science",
           "Cathedral High School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Columbia University"
         ],
         "employers": [
           {

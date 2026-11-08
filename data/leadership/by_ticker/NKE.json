@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-11-01T14:03:24.002974Z",
+  "fetchedAt": "2026-11-08T12:59:50.017807Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -170,13 +170,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -199,8 +199,8 @@
           "financier"
         ],
         "education": [
-          "Princeton University",
-          "University of Chicago Laboratory Schools"
+          "University of Chicago Laboratory Schools",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",
@@ -247,10 +247,10 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "businessperson",
           "philanthropist",
-          "writer",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson",
+          "writer"
         ],
         "education": [
           "Oregon State University",
@@ -285,8 +285,8 @@
         ],
         "education": [
           "Dartmouth College",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -312,29 +312,28 @@
         "occupations": [
           "presenter",
           "engineer",
-          "manager",
           "chief executive officer",
           "computer scientist",
-          "engineer",
+          "manager",
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
           {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -359,10 +358,10 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "businessperson",
           "philanthropist",
-          "writer",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson",
+          "writer"
         ],
         "education": [
           "Oregon State University",

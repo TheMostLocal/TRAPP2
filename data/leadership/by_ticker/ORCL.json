@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-11-01T14:03:24.005647Z",
+  "fetchedAt": "2026-11-08T12:59:50.020029Z",
   "people": [
     {
       "qid": "Q92759",
@@ -14,16 +14,16 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
-          "aircraft pilot",
+          "businessperson",
           "computer scientist",
-          "actor",
-          "businessperson"
+          "aircraft pilot",
+          "entrepreneur",
+          "actor"
         ],
         "education": [
+          "University of Illinois Urbana-Champaign",
           "University of Chicago",
-          "South Shore High School",
-          "University of Illinois Urbana-Champaign"
+          "South Shore High School"
         ],
         "employers": [
           {
@@ -38,6 +38,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
+          },
           {
             "title": "chairperson",
             "company": null,
@@ -55,12 +61,6 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
           }
         ]
       }
@@ -149,8 +149,8 @@
           "chief executive officer"
         ],
         "education": [
-          "Syracuse University",
           "Stanford University",
+          "Syracuse University",
           "Rosary High School",
           "Maharaja Sayajirao University of Baroda"
         ],
@@ -220,9 +220,9 @@
           "businessperson"
         ],
         "education": [
-          "Georgia Tech",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Georgia Tech"
         ],
         "employers": [
           {
@@ -258,16 +258,6 @@
         ],
         "employers": [
           {
-            "company": "Claris",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
-          },
-          {
             "company": "Adobe",
             "start": null,
             "end": null
@@ -276,6 +266,16 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
+          },
+          {
+            "company": "Claris",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -301,10 +301,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
           "university teacher",
-          "academic",
           "writer",
-          "businessperson",
-          "economist"
+          "academic",
+          "economist",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -321,12 +321,12 @@
             "end": null
           },
           {
-            "company": "Harvard University",
+            "company": "Stanford University",
             "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -347,14 +347,14 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
           "chief financial officer",
-          "businessperson",
-          "banker"
+          "banker",
+          "businessperson"
         ],
         "education": [
-          "Harvard Law School",
-          "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard Law School",
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -420,13 +420,11 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
-          "jurist",
           "university teacher",
           "Oberleutnant",
-          "political scientist",
-          "lawyer",
-          "university teacher",
           "jurist",
+          "lawyer",
+          "political scientist",
           "politician"
         ],
         "education": [
@@ -436,12 +434,12 @@
         ],
         "employers": [
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           },
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           }
@@ -464,18 +462,6 @@
             "company": null,
             "start": "2011-07-01",
             "end": "2013-02-27"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1993-01-05",
-            "end": "1993-01-22"
           },
           {
             "title": "United States representative",
@@ -504,6 +490,18 @@
           {
             "title": "United States representative",
             "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1993-01-05",
+            "end": "1993-01-22"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
             "start": "1977-01-03",
             "end": "1979-01-03"
           },
@@ -518,6 +516,12 @@
             "company": null,
             "start": "2009-02-13",
             "end": "2011-06-30"
+          },
+          {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
           },
           {
             "title": "United States representative",
@@ -600,7 +604,7 @@
         "name": "Rona Fairhead",
         "dateOfBirth": "1961-08-28",
         "birthPlace": "Cumbria",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaFairhead.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Baroness%20Fairhead%20crop%202%2C%202026.jpg",
         "occupations": [],
         "education": [
           "St Catharine's College",
@@ -647,16 +651,16 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
-          "aircraft pilot",
+          "businessperson",
           "computer scientist",
-          "actor",
-          "businessperson"
+          "aircraft pilot",
+          "entrepreneur",
+          "actor"
         ],
         "education": [
+          "University of Illinois Urbana-Champaign",
           "University of Chicago",
-          "South Shore High School",
-          "University of Illinois Urbana-Champaign"
+          "South Shore High School"
         ],
         "employers": [
           {
@@ -671,6 +675,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
+          },
           {
             "title": "chairperson",
             "company": null,
@@ -688,12 +698,6 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
           }
         ]
       }
@@ -710,16 +714,16 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
-          "aircraft pilot",
+          "businessperson",
           "computer scientist",
-          "actor",
-          "businessperson"
+          "aircraft pilot",
+          "entrepreneur",
+          "actor"
         ],
         "education": [
+          "University of Illinois Urbana-Champaign",
           "University of Chicago",
-          "South Shore High School",
-          "University of Illinois Urbana-Champaign"
+          "South Shore High School"
         ],
         "employers": [
           {
@@ -734,6 +738,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
+          },
           {
             "title": "chairperson",
             "company": null,
@@ -751,12 +761,6 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
           }
         ]
       }

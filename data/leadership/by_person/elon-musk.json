@@ -7,13 +7,13 @@
   "occupations": [
     "dub actor",
     "programmer",
+    "financier",
+    "investor",
     "philanthropist",
     "technology entrepreneur",
-    "financier",
     "civil servant",
-    "engineer",
-    "investor",
     "entrepreneur",
+    "engineer",
     "politician"
   ],
   "education": [
@@ -21,41 +21,16 @@
     "Bryanston High School",
     "Waterkloof House Preparatory School",
     "Pretoria Boys High School",
-    "Stanford University",
     "Queen's University",
     "The Wharton School",
     "University of Pretoria",
-    "University of Pennsylvania"
+    "University of Pennsylvania",
+    "Stanford University"
   ],
   "employers": [
     {
-      "company": "PayPal",
-      "start": "1998-12-01",
-      "end": null
-    },
-    {
-      "company": "Tesla",
-      "start": "2004-04-23",
-      "end": null
-    },
-    {
-      "company": "Department of Government Efficiency",
-      "start": "2025-01-20",
-      "end": "2025-05-30"
-    },
-    {
       "company": "Neuralink",
       "start": "2016-07-01",
-      "end": null
-    },
-    {
-      "company": "OpenAI",
-      "start": "2015-12-11",
-      "end": "2019-01-01"
-    },
-    {
-      "company": "Tesla",
-      "start": "2004-04-23",
       "end": null
     },
     {
@@ -67,6 +42,26 @@
       "company": "OpenAI",
       "start": "2015-12-11",
       "end": "2019-01-01"
+    },
+    {
+      "company": "Department of Government Efficiency",
+      "start": "2025-01-20",
+      "end": "2025-05-30"
+    },
+    {
+      "company": "The Boring Company",
+      "start": "2016-12-17",
+      "end": null
+    },
+    {
+      "company": "PayPal",
+      "start": "1998-12-01",
+      "end": null
+    },
+    {
+      "company": "Tesla",
+      "start": "2004-04-23",
+      "end": null
     },
     {
       "company": "SpaceX",

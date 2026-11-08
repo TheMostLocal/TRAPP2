@@ -1,6 +1,6 @@
 {
   "ticker": "PSX",
-  "fetchedAt": "2026-11-01T14:03:24.010727Z",
+  "fetchedAt": "2026-11-08T12:59:50.024298Z",
   "people": [
     {
       "qid": "Q114393056",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Iowa State University"
@@ -104,8 +104,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Houston",
-          "University of Texas at Austin"
+          "University of Texas at Austin",
+          "University of Houston"
         ],
         "employers": [],
         "positions": []

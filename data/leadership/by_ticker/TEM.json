@@ -1,6 +1,6 @@
 {
   "ticker": "TEM",
-  "fetchedAt": "2026-11-01T14:03:24.018990Z",
+  "fetchedAt": "2026-11-08T12:59:50.030865Z",
   "people": [
     {
       "qid": "Q7381427",
@@ -14,11 +14,11 @@
         "birthPlace": "South Worthington Historic District",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Russell%20Herman%20Conwell.jpg",
         "occupations": [
-          "writer",
+          "lawyer",
           "academic administrator",
           "orator",
           "Christian minister",
-          "lawyer"
+          "writer"
         ],
         "education": [
           "Wilbraham & Monson Academy",

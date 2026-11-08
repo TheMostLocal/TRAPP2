@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "fetchedAt": "2026-11-01T14:03:24.022262Z",
+  "fetchedAt": "2026-11-08T12:59:50.033531Z",
   "people": [
     {
       "qid": "Q5221979",
@@ -18,8 +18,8 @@
           "businessperson"
         ],
         "education": [
-          "Hackley School",
-          "Brown University"
+          "Brown University",
+          "Hackley School"
         ],
         "employers": [
           {
@@ -83,8 +83,8 @@
         "birthPlace": "Burayda",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasir%20Al-Rumayyan%20Argentina%20v%20Spain%2019%20July%202026-285.jpg",
         "occupations": [
-          "sports executive",
           "chairperson",
+          "sports executive",
           "businessperson"
         ],
         "education": [
@@ -244,9 +244,9 @@
           "investment banker"
         ],
         "education": [
-          "Harvard University",
+          "The Wharton School",
           "Harvard Business School",
-          "The Wharton School"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -306,8 +306,8 @@
           "businessperson"
         ],
         "education": [
-          "Hackley School",
-          "Brown University"
+          "Brown University",
+          "Hackley School"
         ],
         "employers": [
           {
@@ -350,15 +350,12 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Harvard University",
-          "Yale University",
+          "Massachusetts Institute of Technology",
           "Antioch Community High School",
           "Howard University",
-          "Harvard University",
-          "Yale University",
           "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Yale University"
         ],
         "employers": [
           {
@@ -386,10 +383,10 @@
           "business executive"
         ],
         "education": [
-          "Columbia University",
           "Fu Foundation School of Engineering and Applied Science",
           "Cathedral High School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Columbia University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-11-01T14:03:24.007385Z",
+  "fetchedAt": "2026-11-08T12:59:50.021546Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -14,10 +14,9 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "entrepreneur",
+          "executive",
           "business executive",
           "pharmacologist",
-          "executive",
           "entrepreneur",
           "veterinarian"
         ],
@@ -53,11 +52,11 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "researcher",
           "molecular geneticist",
           "biochemist",
-          "university teacher",
-          "physician"
+          "physician",
+          "researcher",
+          "university teacher"
         ],
         "education": [
           "Stanford University"
@@ -148,9 +147,9 @@
           "chief executive officer"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Nevada, Reno",
           "University of California, San Francisco",
+          "University of California, Berkeley",
           "Bishop Manogue High School"
         ],
         "employers": [
@@ -212,10 +211,9 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "entrepreneur",
+          "executive",
           "business executive",
           "pharmacologist",
-          "executive",
           "entrepreneur",
           "veterinarian"
         ],
@@ -319,9 +317,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
           "Booth School of Business",
-          "Knox College"
+          "Knox College",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": [
@@ -346,14 +344,13 @@
         "birthPlace": "Bucharest",
         "image": null,
         "occupations": [
-          "immunologist",
-          "researcher"
+          "researcher",
+          "immunologist"
         ],
         "education": [
+          "Washington University in St.\u00a0Louis",
           "Columbia University",
-          "Washington University in St.\u00a0Louis",
           "Princeton University",
-          "Washington University in St.\u00a0Louis",
           "Washington University School of Medicine"
         ],
         "employers": [
@@ -390,8 +387,8 @@
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "North-Eastern Hill University",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "North-Eastern Hill University"
         ],
         "employers": [],
         "positions": [
@@ -422,8 +419,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "neuroscientist",
           "university teacher",
+          "neuroscientist",
           "physiologist"
         ],
         "education": [
