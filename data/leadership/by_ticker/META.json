@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-11-01T14:03:23.998308Z",
+  "fetchedAt": "2026-11-08T12:52:59.162543Z",
   "people": [
     {
       "qid": "Q36215",
@@ -15,19 +15,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "chief executive officer",
-          "philanthropist",
           "entrepreneur",
+          "philanthropist",
           "programmer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Harvard University",
-          "Phillips Exeter Academy"
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -58,8 +58,8 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
-          "computer scientist",
           "economist",
+          "computer scientist",
           "entrepreneur",
           "businessperson"
         ],
@@ -139,8 +139,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -209,8 +209,8 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -363,12 +363,12 @@
         "birthPlace": "Acton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drew%20Houston.jpg",
         "occupations": [
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
-          "Acton-Boxborough Regional High School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Acton-Boxborough Regional High School"
         ],
         "employers": [],
         "positions": [
@@ -393,8 +393,8 @@
         "birthPlace": "Logan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
         "occupations": [
-          "politician",
-          "diplomat"
+          "diplomat",
+          "politician"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -442,16 +442,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
           "manager",
+          "banker",
           "financier",
-          "technology entrepreneur",
-          "banker",
-          "investor",
-          "banker",
-          "computer scientist",
-          "businessperson",
+          "chess player",
           "technology entrepreneur",
           "writer",
-          "entrepreneur"
+          "businessperson",
+          "entrepreneur",
+          "investor",
+          "computer scientist"
         ],
         "education": [
           "Stanford University",
@@ -496,11 +495,11 @@
           "blogger",
           "programmer",
           "software engineer",
+          "computer scientist",
           "investor",
-          "entrepreneur",
           "inventor",
-          "engineer",
-          "computer scientist"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "New Lisbon High School",
@@ -541,19 +540,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "chief executive officer",
-          "philanthropist",
           "entrepreneur",
+          "philanthropist",
           "programmer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Harvard University",
-          "Phillips Exeter Academy"
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -613,19 +612,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "chief executive officer",
-          "philanthropist",
           "entrepreneur",
+          "philanthropist",
           "programmer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Harvard University",
-          "Phillips Exeter Academy"
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {

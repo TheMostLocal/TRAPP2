@@ -7,14 +7,14 @@
   "occupations": [
     "molecular biologist",
     "crystallographer",
-    "biochemist",
+    "chemist",
     "university teacher",
-    "chemist"
+    "biochemist"
   ],
   "education": [
+    "Harvard University",
     "Pomona College",
-    "Hilo High School",
-    "Harvard University"
+    "Hilo High School"
   ],
   "employers": [
     {
@@ -28,14 +28,14 @@
       "end": null
     },
     {
-      "company": "Yale University",
-      "start": "1994-01-01",
-      "end": "2002-01-01"
-    },
-    {
       "company": "Howard Hughes Medical Institute",
       "start": null,
       "end": null
+    },
+    {
+      "company": "Yale University",
+      "start": "1994-01-01",
+      "end": "2002-01-01"
     }
   ],
   "positions": [
