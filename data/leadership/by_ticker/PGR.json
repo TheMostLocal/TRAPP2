@@ -1,6 +1,6 @@
 {
   "ticker": "PGR",
-  "fetchedAt": "2026-11-01T14:03:24.008130Z",
+  "fetchedAt": "2026-11-08T12:59:50.022212Z",
   "people": [
     {
       "qid": "Q114795441",
@@ -61,9 +61,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan",
           "Ross School of Business",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": []

@@ -13,16 +13,6 @@
   ],
   "employers": [
     {
-      "company": "University of Oxford",
-      "start": "2003-01-01",
-      "end": "2005-01-01"
-    },
-    {
-      "company": "University of California, Berkeley",
-      "start": "2015-01-01",
-      "end": "2015-03-01"
-    },
-    {
       "company": "University of Cambridge",
       "start": "2015-10-01",
       "end": null
@@ -31,6 +21,16 @@
       "company": "University of Copenhagen",
       "start": null,
       "end": null
+    },
+    {
+      "company": "University of California, Berkeley",
+      "start": "2015-01-01",
+      "end": "2015-03-01"
+    },
+    {
+      "company": "University of Oxford",
+      "start": "2003-01-01",
+      "end": "2005-01-01"
     }
   ],
   "positions": [

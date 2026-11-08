@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "fetchedAt": "2026-11-01T14:03:23.987894Z",
+  "fetchedAt": "2026-11-08T12:52:59.154796Z",
   "people": [
     {
       "qid": "Q84053114",
@@ -89,9 +89,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "entrepreneur",
           "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",
@@ -202,9 +202,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "merchant",
+          "entrepreneur",
           "business executive",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -506,8 +506,8 @@
         "birthPlace": "Darwin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Liveris%2C%202013%20%28cropped%29.jpg",
         "occupations": [
-          "chemist",
-          "businessperson"
+          "businessperson",
+          "chemist"
         ],
         "education": [
           "Darwin High School",
@@ -537,8 +537,8 @@
         "birthPlace": "Kansas City",
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, San Diego"

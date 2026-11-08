@@ -1,6 +1,6 @@
 {
   "ticker": "SYY",
-  "fetchedAt": "2026-11-01T14:03:24.017952Z",
+  "fetchedAt": "2026-11-08T12:59:50.030045Z",
   "people": [
     {
       "qid": "Q114593450",
@@ -200,8 +200,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []

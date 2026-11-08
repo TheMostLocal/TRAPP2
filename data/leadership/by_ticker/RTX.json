@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-11-01T14:03:24.013203Z",
+  "fetchedAt": "2026-11-08T12:59:50.026085Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -80,8 +80,8 @@
         "birthPlace": "Dubuque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of Iowa"
@@ -240,17 +240,17 @@
         ],
         "employers": [
           {
-            "company": "United States Department of the Navy",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
           {
             "company": "George Washington University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }
@@ -286,9 +286,9 @@
           "civil servant"
         ],
         "education": [
-          "University of Oxford",
           "Saddleback High School",
           "Lexington High School",
+          "University of Oxford",
           "Georgetown University"
         ],
         "employers": [
@@ -396,8 +396,8 @@
         "birthPlace": "Temple",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Anthony%20Harris%20Jr.jpg",
         "occupations": [
-          "astronaut",
-          "physician"
+          "physician",
+          "astronaut"
         ],
         "education": [
           "Texas Tech University Health Sciences Center",

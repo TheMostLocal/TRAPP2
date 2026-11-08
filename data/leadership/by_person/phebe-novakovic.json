@@ -5,8 +5,8 @@
   "birthPlace": "Pittsburgh",
   "image": null,
   "occupations": [
-    "chairperson",
-    "chief executive officer"
+    "chief executive officer",
+    "chairperson"
   ],
   "education": [
     "The Wharton School",
@@ -44,7 +44,6 @@
     }
   ],
   "currentTickers": [
-    "GD",
-    "GD"
+    "JPM"
   ]
 }

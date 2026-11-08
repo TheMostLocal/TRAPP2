@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-11-01T14:03:24.020970Z",
+  "fetchedAt": "2026-11-08T12:59:50.032481Z",
   "people": [
     {
       "qid": "Q317521",
@@ -16,13 +16,13 @@
         "occupations": [
           "dub actor",
           "programmer",
+          "financier",
+          "investor",
           "philanthropist",
           "technology entrepreneur",
-          "financier",
           "civil servant",
-          "engineer",
-          "investor",
           "entrepreneur",
+          "engineer",
           "politician"
         ],
         "education": [
@@ -30,41 +30,16 @@
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Stanford University",
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Stanford University"
         ],
         "employers": [
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
-          },
-          {
-            "company": "Tesla",
-            "start": "2004-04-23",
-            "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
             "company": "Neuralink",
             "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "OpenAI",
-            "start": "2015-12-11",
-            "end": "2019-01-01"
-          },
-          {
-            "company": "Tesla",
-            "start": "2004-04-23",
             "end": null
           },
           {
@@ -76,6 +51,26 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
           },
           {
             "company": "SpaceX",
@@ -160,9 +155,9 @@
             "end": "2013-01-01"
           },
           {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           },
           {
             "company": "Tesla",
@@ -178,6 +173,11 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           }
         ],
         "positions": [
@@ -220,9 +220,9 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
+          "restaurateur",
           "environmentalist",
-          "entrepreneur",
-          "restaurateur"
+          "entrepreneur"
         ],
         "education": [
           "International Culinary Center",
@@ -250,8 +250,8 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
-          "inventor",
           "businessperson",
+          "inventor",
           "chief technology officer"
         ],
         "education": [
@@ -290,9 +290,9 @@
           "venture capitalist"
         ],
         "education": [
-          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": [
@@ -418,9 +418,9 @@
             "end": "2013-01-01"
           },
           {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           },
           {
             "company": "Tesla",
@@ -436,6 +436,11 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           }
         ],
         "positions": [
@@ -521,13 +526,13 @@
         "occupations": [
           "dub actor",
           "programmer",
+          "financier",
+          "investor",
           "philanthropist",
           "technology entrepreneur",
-          "financier",
           "civil servant",
-          "engineer",
-          "investor",
           "entrepreneur",
+          "engineer",
           "politician"
         ],
         "education": [
@@ -535,41 +540,16 @@
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Stanford University",
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Stanford University"
         ],
         "employers": [
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
-          },
-          {
-            "company": "Tesla",
-            "start": "2004-04-23",
-            "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
             "company": "Neuralink",
             "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "OpenAI",
-            "start": "2015-12-11",
-            "end": "2019-01-01"
-          },
-          {
-            "company": "Tesla",
-            "start": "2004-04-23",
             "end": null
           },
           {
@@ -581,6 +561,26 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
           },
           {
             "company": "SpaceX",
@@ -640,16 +640,16 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
-          "aircraft pilot",
+          "businessperson",
           "computer scientist",
-          "actor",
-          "businessperson"
+          "aircraft pilot",
+          "entrepreneur",
+          "actor"
         ],
         "education": [
+          "University of Illinois Urbana-Champaign",
           "University of Chicago",
-          "South Shore High School",
-          "University of Illinois Urbana-Champaign"
+          "South Shore High School"
         ],
         "employers": [
           {
@@ -664,6 +664,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
+          },
           {
             "title": "chairperson",
             "company": null,
@@ -681,12 +687,6 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
           }
         ]
       }
@@ -703,8 +703,8 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
-          "karateka",
           "businessperson",
+          "karateka",
           "publisher"
         ],
         "education": [
@@ -740,8 +740,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "York Community High School",
