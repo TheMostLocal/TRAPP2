@@ -1,21 +1,21 @@
 {
- "asOf": "2026-11-06",
- "generatedAt": "2026-11-06T21:43:49+00:00",
+ "asOf": "2026-11-09",
+ "generatedAt": "2026-11-09T22:58:06+00:00",
  "regime": "neutral",
  "quadNowcast": null,
  "quadOfficial": null,
- "certainty": 0.334,
+ "certainty": 0.4,
  "threshold": 0.65,
  "dialedIn": false,
  "mode": "regime-agnostic",
  "components": {
   "margin": {
-   "value": 0.234,
-   "score": 0.781,
+   "value": 0.382,
+   "score": 1.0,
    "weight": 0.3
   },
   "stability": {
-   "flips20": 8,
+   "flips20": 7,
    "score": 0.0,
    "weight": 0.25
   },
@@ -33,33 +33,21 @@
  },
  "trackRecord": {
   "horizonSessions": 21,
-  "n": 83,
+  "n": 84,
   "correct": 59,
-  "accuracyPct": 71.1,
-  "baseRateUpPct": 62.7,
+  "accuracyPct": 70.2,
+  "baseRateUpPct": 61.9,
   "minN": 20,
   "capped": false
  },
  "why": [
-  "classifier picks neutral at 48% vs 25% runner-up",
-  "8 regime flip(s) in the last 20 sessions",
+  "classifier picks neutral at 56% vs 18% runner-up",
+  "7 regime flip(s) in the last 20 sessions",
   "quad nowcast or official quad missing",
   "market regime family 'flat' vs quad growth axis \u2192 0.5",
-  "track record 71% right over 83 judged calls (naive base rate 63%)"
+  "track record 70% right over 84 judged calls (naive base rate 62%)"
  ],
  "calls": [
-  {
-   "date": "2026-07-05",
-   "regime": "expansion",
-   "family": "up"
-  },
-  {
-   "date": "2026-07-06",
-   "regime": "expansion",
-   "family": "up",
-   "fwd21Pct": 2.67,
-   "correct": true
-  },
   {
    "date": "2026-07-07",
    "regime": "expansion",
@@ -500,7 +488,9 @@
   {
    "date": "2026-10-08",
    "regime": "expansion",
-   "family": "up"
+   "family": "up",
+   "fwd21Pct": -4.99,
+   "correct": false
   },
   {
    "date": "2026-10-09",
@@ -619,6 +609,16 @@
   },
   {
    "date": "2026-11-06",
+   "regime": "neutral",
+   "family": "flat"
+  },
+  {
+   "date": "2026-11-07",
+   "regime": "neutral",
+   "family": "flat"
+  },
+  {
+   "date": "2026-11-09",
    "regime": "neutral",
    "family": "flat"
   }
