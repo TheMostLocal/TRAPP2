@@ -6,7 +6,7 @@
     "macro": 0.515,
     "liquidity": -0.365,
     "volatility": 0.015,
-    "valuation": -0.2,
+    "valuation": -0.201,
     "trend": 0.625,
     "breadth": 0.273,
     "commodity": -0.144,
@@ -72,8 +72,8 @@
     "valuation": {
       "spy_pe": 23.39,
       "earnings_yield": 0.0427,
-      "real_10y": 0.0078,
-      "fed_model_spread": 0.035
+      "real_10y": 0.008,
+      "fed_model_spread": 0.0348
     },
     "trend": {
       "spy_price": 752.69,
