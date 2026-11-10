@@ -1,6 +1,6 @@
 {
  "asOf": "2026-11-10",
- "generatedAt": "2026-11-10T00:22:59+00:00",
+ "generatedAt": "2026-11-10T20:26:18+00:00",
  "regime": "neutral",
  "quadNowcast": null,
  "quadOfficial": null,
@@ -10,7 +10,7 @@
  "mode": "regime-agnostic",
  "components": {
   "margin": {
-   "value": 0.382,
+   "value": 0.391,
    "score": 1.0,
    "weight": 0.3
   },
@@ -33,19 +33,19 @@
  },
  "trackRecord": {
   "horizonSessions": 21,
-  "n": 84,
+  "n": 85,
   "correct": 59,
-  "accuracyPct": 70.2,
-  "baseRateUpPct": 61.9,
+  "accuracyPct": 69.4,
+  "baseRateUpPct": 61.2,
   "minN": 20,
   "capped": false
  },
  "why": [
-  "classifier picks neutral at 56% vs 18% runner-up",
+  "classifier picks neutral at 61% vs 22% runner-up",
   "6 regime flip(s) in the last 20 sessions",
   "quad nowcast or official quad missing",
   "market regime family 'flat' vs quad growth axis \u2192 0.5",
-  "track record 70% right over 84 judged calls (naive base rate 62%)"
+  "track record 69% right over 85 judged calls (naive base rate 61%)"
  ],
  "calls": [
   {
@@ -488,7 +488,9 @@
   {
    "date": "2026-10-09",
    "regime": "neutral",
-   "family": "flat"
+   "family": "flat",
+   "fwd21Pct": -3.32,
+   "correct": false
   },
   {
    "date": "2026-10-12",
