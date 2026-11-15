@@ -7,19 +7,14 @@
   "occupations": [
     "entrepreneur",
     "restaurateur",
+    "writer",
     "salesperson",
-    "businessperson",
-    "writer"
+    "businessperson"
   ],
   "education": [
     "Chester"
   ],
   "employers": [
-    {
-      "company": "McDonald's",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Lily-Tulip Cup Company",
       "start": null,
@@ -27,6 +22,11 @@
     },
     {
       "company": "Prince Castle",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "McDonald's",
       "start": null,
       "end": null
     }

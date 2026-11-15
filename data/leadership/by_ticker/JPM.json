@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-11-08T14:14:18.776105Z",
+  "fetchedAt": "2026-11-15T13:35:31.647129Z",
   "people": [
     {
       "qid": "Q922169",
@@ -34,17 +34,17 @@
             "end": "1985-01-01"
           },
           {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
             "end": null
           },
           {
             "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -165,30 +165,25 @@
           "engineer"
         ],
         "education": [
+          "Indiana University",
           "Northwestern University",
-          "Rensselaer Polytechnic Institute",
-          "Indiana University"
+          "Rensselaer Polytechnic Institute"
         ],
         "employers": [
-          {
-            "company": "General Motors",
-            "start": "1994-01-01",
-            "end": "2019-01-01"
-          },
           {
             "company": "Amazon",
             "start": "2019-01-01",
             "end": "2022-01-01"
           },
           {
-            "company": "Alto Pharmacy",
-            "start": "2022-09-01",
-            "end": null
-          },
-          {
             "company": "General Motors",
             "start": "1994-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Alto Pharmacy",
+            "start": "2022-09-01",
+            "end": null
           }
         ],
         "positions": [
@@ -214,8 +209,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -294,10 +289,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Emory University",
-          "Georgetown University",
           "Case Western Reserve University",
           "Georgetown University Law Center",
+          "Emory University",
+          "Georgetown University",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -462,13 +457,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Colgate University"
+          "Colgate University",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -525,17 +520,17 @@
             "end": "1985-01-01"
           },
           {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
             "end": null
           },
           {
             "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -562,8 +557,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "businessperson",
           "computer scientist",
+          "businessperson",
           "entrepreneur"
         ],
         "education": [

@@ -255,7 +255,6 @@
       "name": "Rick Waddell",
       "slug": "rick-waddell",
       "tickers": [
-        "ABBV",
         "IBM"
       ],
       "positionsCount": 1,
@@ -623,7 +622,6 @@
       "name": "Tracey Travis",
       "slug": "tracey-travis",
       "tickers": [
-        "ACN",
         "META"
       ],
       "positionsCount": 3,
@@ -754,7 +752,6 @@
       "name": "David A. Ricks",
       "slug": "david-a-ricks",
       "tickers": [
-        "ADBE",
         "LLY",
         "LLY"
       ],
@@ -1425,8 +1422,6 @@
       "name": "Tan Hock Eng",
       "slug": "tan-hock-eng",
       "tickers": [
-        "AVGO",
-        "AVGO",
         "META"
       ],
       "positionsCount": 1,
@@ -2228,8 +2223,6 @@
       "name": "Debra Reed",
       "slug": "debra-reed",
       "tickers": [
-        "CAT",
-        "CVX",
         "LMT"
       ],
       "positionsCount": 0,
@@ -2390,7 +2383,6 @@
       "name": "Mark McClellan",
       "slug": "mark-mcclellan",
       "tickers": [
-        "CI",
         "JNJ"
       ],
       "positionsCount": 2,
@@ -2848,7 +2840,6 @@
       "name": "John W. Stanton",
       "slug": "john-w-stanton",
       "tickers": [
-        "COST",
         "MSFT"
       ],
       "positionsCount": 2,
@@ -3246,7 +3237,6 @@
       "name": "Nancy-Ann DeParle",
       "slug": "nancy-ann-deparle",
       "tickers": [
-        "CVS",
         "HCA"
       ],
       "positionsCount": 0,
@@ -3318,7 +3308,6 @@
       "name": "Marillyn Hewson",
       "slug": "marillyn-hewson",
       "tickers": [
-        "CVX",
         "JNJ"
       ],
       "positionsCount": 3,
@@ -3380,7 +3369,6 @@
       "name": "Tony Xu",
       "slug": "tony-xu",
       "tickers": [
-        "DASH",
         "META"
       ],
       "positionsCount": 0,
@@ -4032,8 +4020,6 @@
       "name": "Phebe Novakovic",
       "slug": "phebe-novakovic",
       "tickers": [
-        "GD",
-        "GD",
         "JPM"
       ],
       "positionsCount": 2,
@@ -4084,7 +4070,6 @@
       "name": "James Crown",
       "slug": "james-crown",
       "tickers": [
-        "GD",
         "JPM"
       ],
       "positionsCount": 1,
@@ -4327,7 +4312,6 @@
       "name": "Patricia Russo",
       "slug": "patricia-russo",
       "tickers": [
-        "GM",
         "MRK"
       ],
       "positionsCount": 2,
