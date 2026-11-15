@@ -1,6 +1,6 @@
 {
   "ticker": "BX",
-  "fetchedAt": "2026-11-08T14:14:18.751102Z",
+  "fetchedAt": "2026-11-15T14:29:00.017382Z",
   "people": [
     {
       "qid": "Q552465",
@@ -14,19 +14,18 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Schwarzman%2C%2019%20March%202024.jpg",
         "occupations": [
-          "banker",
           "patron of the arts",
           "investment banker",
-          "chief executive officer",
           "financier",
-          "entrepreneur"
+          "entrepreneur",
+          "banker",
+          "chief executive officer"
         ],
         "education": [
-          "Yale University",
-          "Harvard Business School",
           "Davenport College",
           "Abington Senior High School",
           "Yale College",
+          "Harvard Business School",
           "Yale University"
         ],
         "employers": [
@@ -58,19 +57,18 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Schwarzman%2C%2019%20March%202024.jpg",
         "occupations": [
-          "banker",
           "patron of the arts",
           "investment banker",
-          "chief executive officer",
           "financier",
-          "entrepreneur"
+          "entrepreneur",
+          "banker",
+          "chief executive officer"
         ],
         "education": [
-          "Yale University",
-          "Harvard Business School",
           "Davenport College",
           "Abington Senior High School",
           "Yale College",
+          "Harvard Business School",
           "Yale University"
         ],
         "employers": [

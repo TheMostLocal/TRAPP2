@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-11-08T14:14:18.760269Z",
+  "fetchedAt": "2026-11-15T14:29:00.026778Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -14,8 +14,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -105,9 +105,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
-          "entrepreneur",
+          "chief executive officer",
           "businessperson",
-          "chief executive officer"
+          "entrepreneur"
         ],
         "education": [
           "Lawrenceville School",
@@ -160,11 +160,11 @@
         "birthPlace": "Oceanside",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur",
+          "television producer",
           "film producer",
           "business executive",
-          "television producer"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "The Center for Early Education",
@@ -203,12 +203,6 @@
             "end": "2005-01-01"
           },
           {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2005-10-01",
-            "end": "2020-02-25"
-          },
-          {
             "title": "president",
             "company": null,
             "start": "1989-01-01",
@@ -219,6 +213,12 @@
             "company": null,
             "start": "2022-11-20",
             "end": "2026-03-17"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2005-10-01",
+            "end": "2020-02-25"
           }
         ]
       }
@@ -235,13 +235,13 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
+          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh",
-          "University of Pennsylvania"
+          "University of Pittsburgh"
         ],
         "employers": [],
         "positions": [
@@ -295,13 +295,13 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
+          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh",
-          "University of Pennsylvania"
+          "University of Pittsburgh"
         ],
         "employers": [],
         "positions": [
@@ -326,15 +326,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
           "businessperson",
-          "chief financial officer"
+          "chief financial officer",
+          "banker"
         ],
         "education": [
+          "University of Pennsylvania Carey Law School",
           "The Wharton School",
           "Harvard Law School",
-          "Brookline High School",
-          "University of Pennsylvania Carey Law School"
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -349,6 +349,18 @@
           }
         ],
         "positions": [
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "Directrice",
             "company": null,
@@ -372,18 +384,6 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -400,8 +400,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -469,13 +469,12 @@
           "politician"
         ],
         "education": [
+          "Harvard Law School",
+          "University of Oxford",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
-          "University of Oxford",
-          "Harvard Law School",
           "The Branson School",
-          "Princeton University",
-          "The Branson School"
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -619,8 +618,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Indiana University",

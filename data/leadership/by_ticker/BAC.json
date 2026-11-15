@@ -1,6 +1,6 @@
 {
   "ticker": "BAC",
-  "fetchedAt": "2026-11-08T14:14:18.749299Z",
+  "fetchedAt": "2026-11-15T14:29:00.015670Z",
   "people": [
     {
       "qid": "Q912811",
@@ -109,8 +109,8 @@
           "astronomer"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Brown University"
+          "Brown University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -219,14 +219,14 @@
         "birthPlace": "New Orleans",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynote%20%2826689303657%29.jpg",
         "occupations": [
-          "businessperson",
+          "entrepreneur",
           "chief executive officer",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "St. Augustine High School",
           "Carleton College",
-          "Washington University in St.\u00a0Louis"
+          "Washington University in St. Louis"
         ],
         "employers": [],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "WFC",
-  "fetchedAt": "2026-11-08T14:14:18.810743Z",
+  "fetchedAt": "2026-11-15T14:29:00.078356Z",
   "people": [
     {
       "qid": "Q18386868",
@@ -124,8 +124,8 @@
           "businessperson"
         ],
         "education": [
-          "New York University",
-          "Franklin & Marshall College"
+          "Franklin & Marshall College",
+          "New York University"
         ],
         "employers": [
           {
@@ -275,8 +275,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -344,8 +344,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "California State University, Fullerton"

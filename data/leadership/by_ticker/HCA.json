@@ -1,6 +1,6 @@
 {
   "ticker": "HCA",
-  "fetchedAt": "2026-11-08T14:14:18.770311Z",
+  "fetchedAt": "2026-11-15T14:29:00.037030Z",
   "people": [
     {
       "qid": "Q80049510",
@@ -142,13 +142,13 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nancy-Ann%20DeParle%20official%20portrait.jpg",
         "occupations": [
-          "politician",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
-          "University of Tennessee",
           "Balliol College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Tennessee"
         ],
         "employers": [
           {

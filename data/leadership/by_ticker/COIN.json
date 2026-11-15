@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "fetchedAt": "2026-11-08T14:14:18.754587Z",
+  "fetchedAt": "2026-11-15T14:29:00.020933Z",
   "people": [
     {
       "qid": "Q64705310",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Armstrong%20-%20TechCrunch%20Disrupt%202018%2001.jpg",
         "occupations": [
           "software engineer",
-          "businessperson",
           "business executive",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Bellarmine College Preparatory"
@@ -45,9 +45,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Armstrong%20-%20TechCrunch%20Disrupt%202018%2001.jpg",
         "occupations": [
           "software engineer",
-          "businessperson",
           "business executive",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Bellarmine College Preparatory"

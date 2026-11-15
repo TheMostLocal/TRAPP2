@@ -1,6 +1,6 @@
 {
   "ticker": "TJX",
-  "fetchedAt": "2026-11-08T14:14:18.803609Z",
+  "fetchedAt": "2026-11-15T14:29:00.070937Z",
   "people": [
     {
       "qid": "Q5044471",
@@ -180,8 +180,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "University of Chicago"
+          "University of Chicago",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []

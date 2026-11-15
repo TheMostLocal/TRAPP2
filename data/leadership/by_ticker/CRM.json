@@ -1,6 +1,6 @@
 {
   "ticker": "CRM",
-  "fetchedAt": "2026-11-08T14:14:18.756316Z",
+  "fetchedAt": "2026-11-15T14:29:00.022794Z",
   "people": [
     {
       "qid": "Q1521908",
@@ -14,10 +14,10 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Benioff.jpg",
         "occupations": [
-          "philanthropist",
           "Internet entrepreneur",
-          "chief executive officer",
+          "philanthropist",
           "chairperson",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [
@@ -59,10 +59,10 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Benioff.jpg",
         "occupations": [
-          "philanthropist",
           "Internet entrepreneur",
-          "chief executive officer",
+          "philanthropist",
           "chairperson",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [

@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-11-08T14:14:18.758585Z",
+  "fetchedAt": "2026-11-15T14:29:00.025064Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -43,17 +43,15 @@
         "birthPlace": "Lusaka",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
         "occupations": [
-          "economist",
-          "writer"
+          "writer",
+          "economist"
         ],
         "education": [
-          "John F. Kennedy School of Government",
-          "University of Oxford",
           "Kogod School of Business",
           "St Antony's College",
           "American University",
-          "University of Oxford",
           "John F. Kennedy School of Government",
+          "University of Oxford",
           "Harvard University"
         ],
         "employers": [
@@ -103,16 +101,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
           "missionary",
-          "diplomat",
           "ambassador",
+          "diplomat",
           "politician",
           "governor"
         ],
         "education": [
-          "National Taiwan Normal University",
-          "University of Utah",
           "Highland High School",
-          "The Wharton School"
+          "The Wharton School",
+          "National Taiwan Normal University",
+          "University of Utah"
         ],
         "employers": [],
         "positions": [
@@ -258,10 +256,10 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Columbia University"
+          "Columbia University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -314,12 +312,12 @@
         ],
         "employers": [
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Imperial College London",
             "start": null,
             "end": null
           },
           {
-            "company": "Imperial College London",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
@@ -468,9 +466,9 @@
         "education": [
           "Bronx High School of Science",
           "Franklin & Marshall College",
-          "USC Viterbi School of Engineering",
           "University of Pittsburgh",
-          "University of Southern California"
+          "University of Southern California",
+          "USC Viterbi School of Engineering"
         ],
         "employers": [
           {

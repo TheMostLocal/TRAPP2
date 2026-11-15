@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-11-08T14:14:18.778391Z",
+  "fetchedAt": "2026-11-15T14:29:00.044752Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -194,9 +194,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "economist",
           "health economist",
-          "crossword creator"
+          "crossword creator",
+          "economist"
         ],
         "education": [
           "Yale University",
@@ -204,17 +204,17 @@
         ],
         "employers": [
           {
+            "company": "University of California, Los Angeles",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
+          },
+          {
             "company": "National Bureau of Economic Research",
             "start": "2001-01-01",
             "end": null
           },
           {
             "company": "Council of Economic Advisers",
-            "start": "2005-01-01",
-            "end": "2007-01-01"
-          },
-          {
-            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -310,8 +310,8 @@
         ],
         "education": [
           "Princeton University",
-          "Harvard Business School",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -380,8 +380,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "immunologist",
-          "businessperson"
+          "businessperson",
+          "immunologist"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -457,9 +457,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
+          "basketball player",
           "accountant",
-          "basketball player"
+          "businessperson"
         ],
         "education": [
           "University of Notre Dame"
@@ -502,11 +502,6 @@
         ],
         "employers": [
           {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Howard Hughes Medical Institute",
             "start": "1998-01-01",
             "end": null
@@ -514,6 +509,11 @@
           {
             "company": "Dana\u2013Farber Cancer Institute",
             "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
             "end": null
           }
         ],

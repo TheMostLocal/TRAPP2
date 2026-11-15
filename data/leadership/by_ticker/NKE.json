@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-11-08T14:14:18.787775Z",
+  "fetchedAt": "2026-11-15T14:29:00.054020Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -137,10 +137,10 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
-          "film director",
-          "film producer",
           "rapper",
-          "animator"
+          "animator",
+          "film director",
+          "film producer"
         ],
         "education": [
           "Jesuit High School",
@@ -199,8 +199,8 @@
           "financier"
         ],
         "education": [
-          "University of Chicago Laboratory Schools",
-          "Princeton University"
+          "Princeton University",
+          "University of Chicago Laboratory Schools"
         ],
         "employers": [],
         "positions": []
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "director"
+          "director",
+          "entrepreneur"
         ],
         "education": [
           "Westhill High School",
@@ -247,17 +247,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "entrepreneur",
           "writer",
           "philanthropist",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Oregon State University",
           "University of Oregon",
+          "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School",
-          "Stanford University"
+          "Cleveland High School"
         ],
         "employers": [
           {
@@ -312,28 +312,28 @@
         "occupations": [
           "presenter",
           "manager",
-          "chief executive officer",
           "computer scientist",
-          "manager",
+          "chief executive officer",
+          "engineer",
           "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
           {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -358,17 +358,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "entrepreneur",
           "writer",
           "philanthropist",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Oregon State University",
           "University of Oregon",
+          "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School",
-          "Stanford University"
+          "Cleveland High School"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-11-08T14:14:18.745705Z",
+  "fetchedAt": "2026-11-15T14:29:00.011882Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -23,13 +23,13 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -55,23 +55,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "business oligarch",
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "Bankers Trust",
-            "start": "1988-01-01",
-            "end": "1990-01-01"
-          },
           {
             "company": "First International Telecom",
             "start": null,
@@ -86,20 +81,25 @@
             "company": "Amazon",
             "start": "1994-07-05",
             "end": null
+          },
+          {
+            "company": "Bankers Trust",
+            "start": "1988-01-01",
+            "end": "1990-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -125,13 +125,13 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -294,9 +294,9 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "intelligence officer",
+          "spy",
           "soldier",
-          "spy"
+          "intelligence officer"
         ],
         "education": [
           "Naval Postgraduate School",
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "computer scientist",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Horace Mann School",
@@ -417,23 +417,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "business oligarch",
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "Bankers Trust",
-            "start": "1988-01-01",
-            "end": "1990-01-01"
-          },
           {
             "company": "First International Telecom",
             "start": null,
@@ -448,20 +443,25 @@
             "company": "Amazon",
             "start": "1994-07-05",
             "end": null
+          },
+          {
+            "company": "Bankers Trust",
+            "start": "1988-01-01",
+            "end": "1990-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -481,29 +481,14 @@
           "businessperson"
         ],
         "education": [
+          "Yale University",
           "Indian Institute of Management Calcutta",
           "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College",
-          "Yale University"
+          "Madras Christian College"
         ],
         "employers": [
-          {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Booz Allen Hamilton",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
           {
             "company": "Boston Consulting Group",
             "start": null,
@@ -515,8 +500,23 @@
             "end": null
           },
           {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
+          },
+          {
             "company": "Amazon",
             "start": "2019-01-01",
+            "end": null
+          },
+          {
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],
@@ -584,23 +584,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "business oligarch",
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "Bankers Trust",
-            "start": "1988-01-01",
-            "end": "1990-01-01"
-          },
           {
             "company": "First International Telecom",
             "start": null,
@@ -615,20 +610,25 @@
             "company": "Amazon",
             "start": "1994-07-05",
             "end": null
+          },
+          {
+            "company": "Bankers Trust",
+            "start": "1988-01-01",
+            "end": "1990-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }

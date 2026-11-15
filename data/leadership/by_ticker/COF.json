@@ -1,6 +1,6 @@
 {
   "ticker": "COF",
-  "fetchedAt": "2026-11-08T14:14:18.754332Z",
+  "fetchedAt": "2026-11-15T14:29:00.020690Z",
   "people": [
     {
       "qid": "Q7325595",
@@ -15,8 +15,8 @@
         "image": null,
         "occupations": [
           "banker",
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -52,8 +52,8 @@
         "image": null,
         "occupations": [
           "banker",
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford Graduate School of Business",

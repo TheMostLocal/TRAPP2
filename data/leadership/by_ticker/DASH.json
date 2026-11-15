@@ -1,6 +1,6 @@
 {
   "ticker": "DASH",
-  "fetchedAt": "2026-11-08T14:14:18.759309Z",
+  "fetchedAt": "2026-11-15T14:29:00.025818Z",
   "people": [
     {
       "qid": "Q105038817",
@@ -14,8 +14,8 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Harvard University",

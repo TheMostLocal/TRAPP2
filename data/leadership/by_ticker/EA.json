@@ -1,6 +1,6 @@
 {
   "ticker": "EA",
-  "fetchedAt": "2026-11-08T14:14:18.762161Z",
+  "fetchedAt": "2026-11-15T14:29:00.028798Z",
   "people": [
     {
       "qid": "Q15064277",
@@ -14,8 +14,8 @@
         "birthPlace": "Gold Coast",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [

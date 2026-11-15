@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-11-08T14:14:18.782752Z",
+  "fetchedAt": "2026-11-15T14:29:00.049268Z",
   "people": [
     {
       "qid": "Q36215",
@@ -12,14 +12,14 @@
         "name": "Mark Zuckerberg",
         "dateOfBirth": "1984-05-14",
         "birthPlace": "White Plains",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "patron of the arts",
-          "chief executive officer",
-          "computer scientist",
           "philanthropist",
-          "programmer"
+          "programmer",
+          "chief executive officer",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -58,15 +58,15 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
-          "entrepreneur",
           "economist",
           "computer scientist",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "North Miami Beach High School",
-          "Harvard Business School"
+          "North Miami Beach High School"
         ],
         "employers": [
           {
@@ -139,8 +139,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School",
@@ -209,12 +209,12 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "Lynbrook High School",
-          "Harvard University"
+          "Harvard University",
+          "Lynbrook High School"
         ],
         "employers": [
           {
@@ -246,21 +246,6 @@
         ],
         "employers": [
           {
-            "company": "Broadcom",
-            "start": "2006-03-01",
-            "end": null
-          },
-          {
-            "company": "Union Carbide",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Integrated Circuit Systems",
-            "start": "1994-01-01",
-            "end": "2005-01-01"
-          },
-          {
             "company": "Commodore International",
             "start": "1992-01-01",
             "end": "1994-01-01"
@@ -274,6 +259,21 @@
             "company": "General Motors",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Broadcom",
+            "start": "2006-03-01",
+            "end": null
+          },
+          {
+            "company": "Union Carbide",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Integrated Circuit Systems",
+            "start": "1994-01-01",
+            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -393,8 +393,8 @@
         "birthPlace": "Logan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
         "occupations": [
-          "diplomat",
-          "politician"
+          "politician",
+          "diplomat"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -441,16 +441,12 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "manager",
           "investor",
-          "financier",
-          "computer scientist",
-          "entrepreneur",
-          "chess player",
+          "manager",
           "banker",
-          "technology entrepreneur",
+          "computer scientist",
           "writer",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "Stanford Law School",
@@ -492,14 +488,15 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "software engineer",
           "programmer",
           "blogger",
+          "venture capitalist",
+          "software engineer",
           "investor",
-          "engineer",
-          "entrepreneur",
           "inventor",
-          "computer scientist"
+          "entrepreneur",
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "New Lisbon High School",
@@ -537,14 +534,14 @@
         "name": "Mark Zuckerberg",
         "dateOfBirth": "1984-05-14",
         "birthPlace": "White Plains",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "patron of the arts",
-          "chief executive officer",
-          "computer scientist",
           "philanthropist",
-          "programmer"
+          "programmer",
+          "chief executive officer",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -609,14 +606,14 @@
         "name": "Mark Zuckerberg",
         "dateOfBirth": "1984-05-14",
         "birthPlace": "White Plains",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "patron of the arts",
-          "chief executive officer",
-          "computer scientist",
           "philanthropist",
-          "programmer"
+          "programmer",
+          "chief executive officer",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",

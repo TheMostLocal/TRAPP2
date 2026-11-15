@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "fetchedAt": "2026-11-08T14:14:18.751735Z",
+  "fetchedAt": "2026-11-15T14:29:00.017976Z",
   "people": [
     {
       "qid": "Q137168946",
@@ -112,10 +112,10 @@
         ],
         "education": [
           "Williams College",
-          "Stanford University",
           "Aiglon College",
           "International School Bangkok",
-          "George Washington University"
+          "George Washington University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -139,20 +139,26 @@
         "birthPlace": "Nashua",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kelly%20Ayotte%2C%20Official%20Portrait%2C%20112th%20Congress%202.jpg",
         "occupations": [
-          "politician",
+          "prosecutor",
           "adviser",
           "law clerk",
-          "prosecutor",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
-          "Villanova University",
-          "Pennsylvania State University",
           "Villanova University School of Law",
-          "Nashua High School South"
+          "Nashua High School South",
+          "Villanova University",
+          "Pennsylvania State University"
         ],
         "employers": [],
         "positions": [
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "2015-01-03",
+            "end": "2017-01-03"
+          },
           {
             "title": "United States senator",
             "company": null,
@@ -182,12 +188,6 @@
             "company": null,
             "start": "2004-06-15",
             "end": "2009-07-17"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "2015-01-03",
-            "end": "2017-01-03"
           }
         ]
       }
@@ -327,9 +327,9 @@
         ],
         "education": [
           "Booth School of Business",
+          "Edina High School",
           "University of Chicago",
-          "Amherst College",
-          "Edina High School"
+          "Amherst College"
         ],
         "employers": [],
         "positions": []

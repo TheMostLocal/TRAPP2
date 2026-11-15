@@ -5,10 +5,10 @@
   "birthPlace": "Troon",
   "image": null,
   "occupations": [
-    "politician",
-    "university teacher",
     "manager",
-    "economist"
+    "economist",
+    "university teacher",
+    "politician"
   ],
   "education": [
     "University of Glasgow",

@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-11-08T14:14:18.776105Z",
+  "fetchedAt": "2026-11-15T14:29:00.042499Z",
   "people": [
     {
       "qid": "Q922169",
@@ -17,27 +17,12 @@
           "banker"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
           "Tufts University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
           {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
@@ -47,6 +32,21 @@
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
           }
         ],
         "positions": [
@@ -165,30 +165,25 @@
           "engineer"
         ],
         "education": [
+          "Indiana University",
           "Northwestern University",
-          "Rensselaer Polytechnic Institute",
-          "Indiana University"
+          "Rensselaer Polytechnic Institute"
         ],
         "employers": [
-          {
-            "company": "General Motors",
-            "start": "1994-01-01",
-            "end": "2019-01-01"
-          },
           {
             "company": "Amazon",
             "start": "2019-01-01",
             "end": "2022-01-01"
           },
           {
-            "company": "Alto Pharmacy",
-            "start": "2022-09-01",
-            "end": null
-          },
-          {
             "company": "General Motors",
             "start": "1994-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Alto Pharmacy",
+            "start": "2022-09-01",
+            "end": null
           }
         ],
         "positions": [
@@ -294,10 +289,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Emory University",
-          "Georgetown University",
           "Case Western Reserve University",
           "Georgetown University Law Center",
+          "Emory University",
+          "Georgetown University",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -383,9 +378,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Princeton University",
           "Princeton School of Public and International Affairs",
-          "St. Ignatius College Prep"
+          "St. Ignatius College Prep",
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -410,8 +405,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
@@ -466,9 +461,9 @@
           "businessperson"
         ],
         "education": [
+          "Colgate University",
           "Harvard University",
-          "Harvard Business School",
-          "Colgate University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -508,27 +503,12 @@
           "banker"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
           "Tufts University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
           {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
@@ -538,6 +518,21 @@
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
           }
         ],
         "positions": [
@@ -562,8 +557,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "businessperson",
           "computer scientist",
+          "businessperson",
           "entrepreneur"
         ],
         "education": [

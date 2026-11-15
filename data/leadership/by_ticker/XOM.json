@@ -1,6 +1,6 @@
 {
   "ticker": "XOM",
-  "fetchedAt": "2026-11-08T14:14:18.812463Z",
+  "fetchedAt": "2026-11-15T14:29:00.080038Z",
   "people": [
     {
       "qid": "Q28018191",
@@ -198,8 +198,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "hedge fund manager"
         ],
         "education": [
@@ -355,9 +355,9 @@
         ],
         "education": [
           "Georgetown University",
-          "Harvard Business School",
           "Clark University",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -394,8 +394,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "business executive",
           "businessperson",
+          "business executive",
           "lawyer"
         ],
         "education": [

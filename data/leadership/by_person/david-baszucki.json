@@ -5,13 +5,13 @@
   "birthPlace": "Winnipeg",
   "image": null,
   "occupations": [
+    "programmer",
     "engineer",
-    "entrepreneur",
-    "programmer"
+    "entrepreneur"
   ],
   "education": [
-    "Eden Prairie High School",
-    "Stanford University"
+    "Stanford University",
+    "Eden Prairie High School"
   ],
   "employers": [],
   "positions": [
