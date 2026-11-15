@@ -214,7 +214,7 @@
             "end": null
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -493,8 +493,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "oncologist",
           "researcher",
+          "oncologist",
           "university teacher"
         ],
         "education": [

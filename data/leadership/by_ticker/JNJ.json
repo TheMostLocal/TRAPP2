@@ -63,8 +63,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -145,8 +145,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -218,6 +218,16 @@
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
+          },
+          {
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -398,8 +408,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Eugene%20Washington%2C%20MD%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "business executive"
+          "business executive",
+          "university teacher"
         ],
         "education": [],
         "employers": [],
@@ -475,8 +485,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -523,10 +533,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
           "lecturer",
+          "merchant",
           "executive",
           "business manager",
           "chief executive officer",
-          "merchant",
           "entrepreneur"
         ],
         "education": [
@@ -713,8 +723,6 @@
           "physician"
         ],
         "education": [
-          "Harvard\u2013MIT Division of Health Sciences and Technology",
-          "Austin High School",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
           "Harvard University",

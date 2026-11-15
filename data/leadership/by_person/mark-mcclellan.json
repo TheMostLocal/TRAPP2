@@ -8,8 +8,6 @@
     "physician"
   ],
   "education": [
-    "Harvard\u2013MIT Division of Health Sciences and Technology",
-    "Austin High School",
     "University of Texas at Austin",
     "John F. Kennedy School of Government",
     "Harvard University",
@@ -31,7 +29,6 @@
     }
   ],
   "currentTickers": [
-    "CI",
-    "JNJ"
+    "CI"
   ]
 }

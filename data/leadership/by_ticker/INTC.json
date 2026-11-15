@@ -111,8 +111,6 @@
           "entrepreneur"
         ],
         "education": [
-          "University of California, Berkeley",
-          "California Institute of Technology",
           "Sequoia High School",
           "San Jos\u00e9 State University"
         ],
@@ -346,10 +344,10 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
+          "academic",
           "university teacher",
           "electrotechnician",
           "computer scientist",
-          "academic",
           "electrical engineer"
         ],
         "education": [
@@ -419,8 +417,6 @@
           "physician"
         ],
         "education": [
-          "Harvard Medical School",
-          "The Bush School",
           "The Wharton School",
           "Harvard University",
           "University of Pennsylvania",
@@ -557,8 +553,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -599,9 +595,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
+          "chief financial officer",
           "businessperson",
-          "chief financial officer"
+          "board member"
         ],
         "education": [],
         "employers": [],
@@ -715,8 +711,6 @@
           "entrepreneur"
         ],
         "education": [
-          "University of California, Berkeley",
-          "California Institute of Technology",
           "Sequoia High School",
           "San Jos\u00e9 State University"
         ],

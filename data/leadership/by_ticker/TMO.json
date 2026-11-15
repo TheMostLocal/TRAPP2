@@ -37,8 +37,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "director"
+          "director",
+          "businessperson"
         ],
         "education": [
           "Northwestern University",
@@ -259,12 +259,12 @@
         ],
         "employers": [
           {
-            "company": "University of Pretoria",
+            "company": "Columbia University",
             "start": null,
             "end": null
           },
           {
-            "company": "Columbia University",
+            "company": "University of Pretoria",
             "start": null,
             "end": null
           },

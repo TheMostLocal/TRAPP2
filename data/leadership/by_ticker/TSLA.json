@@ -34,7 +34,8 @@
           "Queen's University",
           "The Wharton School",
           "University of Pennsylvania",
-          "University of Pretoria"
+          "University of Pretoria",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -544,7 +545,8 @@
           "Queen's University",
           "The Wharton School",
           "University of Pennsylvania",
-          "University of Pretoria"
+          "University of Pretoria",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -647,9 +649,9 @@
           "entrepreneur"
         ],
         "education": [
-          "University of Illinois Urbana-Champaign",
           "University of Chicago",
-          "South Shore High School"
+          "South Shore High School",
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {
@@ -703,9 +705,9 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "publisher",
-          "karateka"
+          "karateka",
+          "businessperson"
         ],
         "education": [
           "Harvard University",

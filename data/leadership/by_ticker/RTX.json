@@ -39,8 +39,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -233,10 +233,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20O.%20Work%20DoD%20photo.jpg",
         "occupations": [],
         "education": [
-          "Naval Postgraduate School",
-          "Paul H. Nitze School of Advanced International Studies",
           "University of Illinois System",
-          "University of Southern California"
+          "University of Southern California",
+          "Naval Postgraduate School",
+          "Paul H. Nitze School of Advanced International Studies"
         ],
         "employers": [
           {
@@ -320,6 +320,7 @@
         "birthPlace": "Coronado",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
+          "military officer",
           "admiral",
           "military officer",
           "naval air force"
