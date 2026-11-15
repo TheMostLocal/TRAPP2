@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-11-08T14:14:18.773424Z",
+  "fetchedAt": "2026-11-15T13:35:31.644912Z",
   "people": [
     {
       "qid": "Q1148995",
@@ -44,16 +44,21 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
+          "engineer",
           "professor",
-          "writer",
           "scientist",
-          "engineer"
+          "writer"
         ],
         "education": [
           "University of California, Berkeley",
           "City University of New York"
         ],
         "employers": [
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
+          },
           {
             "company": "Intel",
             "start": "1968-01-01",
@@ -63,14 +68,15 @@
             "company": "Stanford University",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
           }
         ],
         "positions": [
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1987-01-01",
+            "end": "1997-01-01"
+          },
           {
             "title": "chairperson of the executive board",
             "company": null,
@@ -82,12 +88,6 @@
             "company": null,
             "start": "1979-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1987-01-01",
-            "end": "1997-01-01"
           }
         ]
       }
@@ -104,18 +104,17 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
-          "philanthropist",
           "physicist",
+          "philanthropist",
           "chemist",
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
-          "University of California, Berkeley",
-          "California Institute of Technology",
           "Sequoia High School",
           "San Jos\u00e9 State University",
-          "California Institute of Technology"
+          "California Institute of Technology",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -139,14 +138,14 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "businessperson",
           "inventor",
+          "computer scientist",
           "physicist",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -170,9 +169,9 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
+          "engineer",
           "businessperson",
           "chemist",
-          "engineer",
           "entrepreneur"
         ],
         "education": [
@@ -244,8 +243,8 @@
           "engineer"
         ],
         "education": [
-          "Carlmont High School",
-          "Stanford University"
+          "Stanford University",
+          "Carlmont High School"
         ],
         "employers": [],
         "positions": [
@@ -347,10 +346,10 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
+          "academic",
           "university teacher",
           "electrotechnician",
           "computer scientist",
-          "academic",
           "electrical engineer"
         ],
         "education": [
@@ -416,18 +415,23 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "physician",
-          "administrator"
+          "administrator",
+          "physician"
         ],
         "education": [
-          "Harvard Medical School",
-          "The Bush School",
           "The Wharton School",
+          "Harvard Medical School",
           "University of Pennsylvania",
           "Harvard University",
-          "Stony Brook University"
+          "Stony Brook University",
+          "The Bush School"
         ],
         "employers": [
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -437,14 +441,15 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
-          },
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -456,12 +461,6 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
           }
         ]
       }
@@ -536,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -558,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -600,9 +599,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
+          "chief financial officer",
           "businessperson",
-          "chief financial officer"
+          "board member"
         ],
         "education": [],
         "employers": [],
@@ -649,16 +648,21 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
+          "engineer",
           "professor",
-          "writer",
           "scientist",
-          "engineer"
+          "writer"
         ],
         "education": [
           "University of California, Berkeley",
           "City University of New York"
         ],
         "employers": [
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
+          },
           {
             "company": "Intel",
             "start": "1968-01-01",
@@ -668,14 +672,15 @@
             "company": "Stanford University",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
           }
         ],
         "positions": [
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1987-01-01",
+            "end": "1997-01-01"
+          },
           {
             "title": "chairperson of the executive board",
             "company": null,
@@ -687,12 +692,6 @@
             "company": null,
             "start": "1979-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1987-01-01",
-            "end": "1997-01-01"
           }
         ]
       }
@@ -709,18 +708,17 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
-          "philanthropist",
           "physicist",
+          "philanthropist",
           "chemist",
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
-          "University of California, Berkeley",
-          "California Institute of Technology",
           "Sequoia High School",
           "San Jos\u00e9 State University",
-          "California Institute of Technology"
+          "California Institute of Technology",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -744,14 +742,14 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "businessperson",
           "inventor",
+          "computer scientist",
           "physicist",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {

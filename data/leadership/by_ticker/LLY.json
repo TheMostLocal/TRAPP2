@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-11-08T14:14:18.778391Z",
+  "fetchedAt": "2026-11-15T13:35:31.649541Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -209,12 +209,12 @@
             "end": null
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -309,9 +309,9 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
+          "Harvard Law School",
           "Harvard Business School",
-          "Harvard Law School"
+          "Princeton University"
         ],
         "employers": [
           {
@@ -380,8 +380,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "immunologist",
-          "businessperson"
+          "businessperson",
+          "immunologist"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -458,8 +458,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "accountant",
-          "basketball player"
+          "basketball player",
+          "accountant"
         ],
         "education": [
           "University of Notre Dame"
@@ -493,19 +493,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "oncologist",
           "researcher",
+          "oncologist",
           "university teacher"
         ],
         "education": [
           "Duke University"
         ],
         "employers": [
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Howard Hughes Medical Institute",
             "start": "1998-01-01",
@@ -514,6 +509,11 @@
           {
             "company": "Dana\u2013Farber Cancer Institute",
             "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
             "end": null
           }
         ],
