@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-11-15T13:35:31.650079Z",
+  "fetchedAt": "2026-11-15T14:29:00.045353Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -199,6 +199,7 @@
           "United States Naval Academy",
           "Georgia Tech",
           "University of West Florida",
+          "United States Naval Academy",
           "Harvard University"
         ],
         "employers": [],
@@ -221,10 +222,10 @@
           "entrepreneur"
         ],
         "education": [
+          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -393,9 +394,9 @@
         "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
-          "manager",
           "businessperson",
-          "military officer"
+          "military officer",
+          "manager"
         ],
         "education": [
           "Mankato West High School",

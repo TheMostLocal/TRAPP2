@@ -1,6 +1,6 @@
 {
   "ticker": "RBLX",
-  "fetchedAt": "2026-11-15T13:44:21.463885Z",
+  "fetchedAt": "2026-11-15T14:29:00.063250Z",
   "people": [
     {
       "qid": "Q20117554",
@@ -14,9 +14,9 @@
         "birthPlace": "Winnipeg",
         "image": null,
         "occupations": [
-          "entrepreneur",
           "programmer",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford University",

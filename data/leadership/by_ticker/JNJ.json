@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-11-15T13:35:31.646422Z",
+  "fetchedAt": "2026-11-15T14:29:00.041694Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -187,11 +187,11 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
-          "molecular biologist",
-          "university teacher",
-          "chemist",
           "crystallographer",
-          "biochemist"
+          "chemist",
+          "biochemist",
+          "university teacher",
+          "molecular biologist"
         ],
         "education": [
           "Pomona College",
@@ -202,6 +202,16 @@
           {
             "company": "University of California, San Francisco",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
             "end": null
           },
           {
@@ -431,8 +441,8 @@
         "birthPlace": "Poland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darius%20Adamczyk.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Michigan State University",
@@ -620,8 +630,8 @@
         "birthPlace": "Medford",
         "image": null,
         "occupations": [
-          "manager",
-          "chief executive officer"
+          "chief executive officer",
+          "manager"
         ],
         "education": [
           "Portland State University"
@@ -715,10 +725,8 @@
         "education": [
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
-          "Harvard\u2013MIT Division of Health Sciences and Technology",
-          "Austin High School",
-          "Massachusetts Institute of Technology",
-          "Harvard University"
+          "Harvard University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": [
@@ -783,10 +791,10 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
-          "Harvard Business School",
           "Columbia Business School",
-          "University of Alabama"
+          "University of Alabama",
+          "Columbia University",
+          "Harvard Business School"
         ],
         "employers": [
           {

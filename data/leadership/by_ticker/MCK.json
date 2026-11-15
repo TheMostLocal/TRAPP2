@@ -1,6 +1,6 @@
 {
   "ticker": "MCK",
-  "fetchedAt": "2026-11-15T13:35:31.652619Z",
+  "fetchedAt": "2026-11-15T14:29:00.047976Z",
   "people": [
     {
       "qid": "Q107769686",
@@ -56,8 +56,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Manchester",
-          "Alliance Manchester Business School"
+          "Alliance Manchester Business School",
+          "University of Manchester"
         ],
         "employers": [],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-11-15T13:44:21.473279Z",
+  "fetchedAt": "2026-11-15T14:29:00.075410Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -223,11 +223,16 @@
         "image": null,
         "occupations": [
           "manager",
-          "accountant",
-          "business executive"
+          "business executive",
+          "accountant"
         ],
         "education": [],
         "employers": [
+          {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
+          },
           {
             "company": "Gap Inc.",
             "start": "2017-01-01",
@@ -276,9 +281,9 @@
         "birthPlace": "Barcelona",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
         "occupations": [
-          "businessperson",
+          "chief executive officer",
           "chairperson",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
           "Thunderbird School of Global Management",

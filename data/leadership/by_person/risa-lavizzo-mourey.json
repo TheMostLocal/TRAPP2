@@ -2,7 +2,7 @@
   "qid": "Q7335804",
   "name": "Risa Lavizzo-Mourey",
   "dateOfBirth": "1934-09-25",
-  "birthPlace": "Seattle",
+  "birthPlace": "Philadelphia",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
   "occupations": [
     "administrator",
@@ -10,11 +10,9 @@
   ],
   "education": [
     "The Wharton School",
-    "Harvard Medical School",
-    "University of Pennsylvania",
     "Harvard University",
-    "Stony Brook University",
-    "The Bush School"
+    "University of Pennsylvania",
+    "Stony Brook University"
   ],
   "employers": [
     {

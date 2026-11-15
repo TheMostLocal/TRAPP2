@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-11-15T13:44:21.476249Z",
+  "fetchedAt": "2026-11-15T14:29:00.079211Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -61,8 +61,8 @@
         "birthPlace": "Tulsa",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20Robson%20Walton.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Columbia Law School",
@@ -85,8 +85,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
           "business executive",
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Stanford University",
@@ -299,8 +299,8 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
-          "St Anne's College"
+          "St Anne's College",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -352,8 +352,8 @@
         "birthPlace": "Bentonville",
         "image": null,
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Georgetown University Law Center",

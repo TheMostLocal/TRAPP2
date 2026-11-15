@@ -1,6 +1,6 @@
 {
   "ticker": "LOW",
-  "fetchedAt": "2026-11-15T13:35:31.650561Z",
+  "fetchedAt": "2026-11-15T14:29:00.045879Z",
   "people": [
     {
       "qid": "Q22279080",
@@ -76,8 +76,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School"
@@ -121,8 +121,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Berkeley",

@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-11-15T13:44:21.455995Z",
+  "fetchedAt": "2026-11-15T14:29:00.054020Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -139,8 +139,8 @@
         "occupations": [
           "rapper",
           "animator",
-          "film producer",
-          "film director"
+          "film director",
+          "film producer"
         ],
         "education": [
           "Jesuit High School",
@@ -199,8 +199,8 @@
           "financier"
         ],
         "education": [
-          "University of Chicago Laboratory Schools",
-          "Princeton University"
+          "Princeton University",
+          "University of Chicago Laboratory Schools"
         ],
         "employers": [],
         "positions": []
@@ -247,17 +247,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
+          "writer",
           "philanthropist",
-          "entrepreneur",
           "businessperson",
-          "writer"
+          "entrepreneur"
         ],
         "education": [
           "Oregon State University",
           "University of Oregon",
+          "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School",
-          "Stanford University"
+          "Cleveland High School"
         ],
         "employers": [
           {
@@ -313,16 +313,16 @@
           "presenter",
           "manager",
           "computer scientist",
-          "businessperson",
+          "chief executive officer",
           "engineer",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
           {
@@ -358,17 +358,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
+          "writer",
           "philanthropist",
-          "entrepreneur",
           "businessperson",
-          "writer"
+          "entrepreneur"
         ],
         "education": [
           "Oregon State University",
           "University of Oregon",
+          "Stanford University",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School",
-          "Stanford University"
+          "Cleveland High School"
         ],
         "employers": [
           {

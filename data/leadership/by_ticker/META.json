@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-11-15T13:35:31.653902Z",
+  "fetchedAt": "2026-11-15T14:29:00.049268Z",
   "people": [
     {
       "qid": "Q36215",
@@ -14,11 +14,11 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
+          "patron of the arts",
           "philanthropist",
           "programmer",
-          "patron of the arts",
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -58,15 +58,15 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
-          "computer scientist",
           "economist",
+          "computer scientist",
           "businessperson",
           "entrepreneur"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "North Miami Beach High School",
-          "Harvard Business School"
+          "North Miami Beach High School"
         ],
         "employers": [
           {
@@ -139,8 +139,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School",
@@ -213,8 +213,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Lynbrook High School",
-          "Harvard University"
+          "Harvard University",
+          "Lynbrook High School"
         ],
         "employers": [
           {
@@ -256,6 +256,11 @@
             "end": null
           },
           {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -269,11 +274,6 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -393,8 +393,8 @@
         "birthPlace": "Logan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
         "occupations": [
-          "diplomat",
-          "politician"
+          "politician",
+          "diplomat"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -441,12 +441,12 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "writer",
-          "manager",
-          "computer scientist",
           "investor",
-          "entrepreneur",
-          "banker"
+          "manager",
+          "banker",
+          "computer scientist",
+          "writer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford University",
@@ -488,15 +488,15 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "venture capitalist",
-          "software engineer",
           "programmer",
           "blogger",
-          "inventor",
+          "venture capitalist",
+          "software engineer",
           "investor",
-          "engineer",
+          "inventor",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "engineer"
         ],
         "education": [
           "New Lisbon High School",
@@ -536,11 +536,11 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
+          "patron of the arts",
           "philanthropist",
           "programmer",
-          "patron of the arts",
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -608,11 +608,11 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
+          "patron of the arts",
           "philanthropist",
           "programmer",
-          "patron of the arts",
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [

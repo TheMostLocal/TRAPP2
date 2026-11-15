@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-11-15T13:35:31.647129Z",
+  "fetchedAt": "2026-11-15T14:29:00.042499Z",
   "people": [
     {
       "qid": "Q922169",
@@ -17,22 +17,12 @@
           "banker"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
           "Tufts University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
-          },
           {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
@@ -47,6 +37,16 @@
             "company": "Goldman Sachs",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
           }
         ],
         "positions": [
@@ -378,9 +378,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Princeton University",
           "Princeton School of Public and International Affairs",
-          "St. Ignatius College Prep"
+          "St. Ignatius College Prep",
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -405,8 +405,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
@@ -461,9 +461,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Harvard Business School",
           "Colgate University",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -503,22 +503,12 @@
           "banker"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
           "Tufts University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
-          },
           {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
@@ -533,6 +523,16 @@
             "company": "Goldman Sachs",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
           }
         ],
         "positions": [

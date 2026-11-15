@@ -5,9 +5,9 @@
   "birthPlace": "Winnipeg",
   "image": null,
   "occupations": [
-    "entrepreneur",
     "programmer",
-    "engineer"
+    "engineer",
+    "entrepreneur"
   ],
   "education": [
     "Stanford University",

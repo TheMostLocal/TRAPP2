@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-11-15T13:35:31.649541Z",
+  "fetchedAt": "2026-11-15T14:29:00.044752Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -194,9 +194,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "economist",
           "health economist",
-          "crossword creator"
+          "crossword creator",
+          "economist"
         ],
         "education": [
           "Yale University",
@@ -204,17 +204,17 @@
         ],
         "employers": [
           {
+            "company": "University of California, Los Angeles",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
+          },
+          {
             "company": "National Bureau of Economic Research",
             "start": "2001-01-01",
             "end": null
           },
           {
             "company": "University of California, Los Angeles",
-            "start": "2005-01-01",
-            "end": "2007-01-01"
-          },
-          {
-            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -309,9 +309,9 @@
           "businessperson"
         ],
         "education": [
+          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -457,9 +457,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "basketball player",
-          "accountant"
+          "accountant",
+          "businessperson"
         ],
         "education": [
           "University of Notre Dame"

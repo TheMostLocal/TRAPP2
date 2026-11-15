@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-11-15T13:35:31.655669Z",
+  "fetchedAt": "2026-11-15T14:29:00.050987Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
           "businessperson",
-          "lawyer",
-          "business executive"
+          "business executive",
+          "lawyer"
         ],
         "education": [
           "Northeast High School",
@@ -239,8 +239,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Kellogg School of Management",
-          "University of Michigan"
+          "University of Michigan",
+          "Kellogg School of Management"
         ],
         "employers": [],
         "positions": [
@@ -274,17 +274,17 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -398,8 +398,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Yale University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Yale University"
         ],
         "employers": [
           {
@@ -438,7 +438,7 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Seattle",
+        "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "administrator",
@@ -446,11 +446,9 @@
         ],
         "education": [
           "The Wharton School",
-          "Harvard Medical School",
-          "University of Pennsylvania",
           "Harvard University",
-          "Stony Brook University",
-          "The Bush School"
+          "University of Pennsylvania",
+          "Stony Brook University"
         ],
         "employers": [
           {
@@ -532,8 +530,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
           "businessperson",
-          "lawyer",
-          "business executive"
+          "business executive",
+          "lawyer"
         ],
         "education": [
           "Northeast High School",

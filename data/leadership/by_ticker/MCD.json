@@ -1,6 +1,6 @@
 {
   "ticker": "MCD",
-  "fetchedAt": "2026-11-15T13:35:31.652127Z",
+  "fetchedAt": "2026-11-15T14:29:00.047513Z",
   "people": [
     {
       "qid": "Q73426541",
@@ -65,10 +65,11 @@
         "birthPlace": "Oak Park",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Kroc%201976.jpg",
         "occupations": [
-          "entrepreneur",
           "restaurateur",
           "writer",
           "salesperson",
+          "entrepreneur",
+          "writer",
           "businessperson"
         ],
         "education": [

@@ -6,11 +6,16 @@
   "image": null,
   "occupations": [
     "manager",
-    "accountant",
-    "business executive"
+    "business executive",
+    "accountant"
   ],
   "education": [],
   "employers": [
+    {
+      "company": "Dick's Sporting Goods",
+      "start": "2015-08-01",
+      "end": "2016-08-01"
+    },
     {
       "company": "Gap Inc.",
       "start": "2017-01-01",
