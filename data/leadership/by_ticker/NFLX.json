@@ -1,6 +1,6 @@
 {
   "ticker": "NFLX",
-  "fetchedAt": "2026-11-08T14:14:18.787484Z",
+  "fetchedAt": "2026-11-15T13:44:21.455783Z",
   "people": [
     {
       "qid": "Q19661212",
@@ -14,8 +14,8 @@
         "birthPlace": "Phoenix",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ted%20Sarandos%20at%20TAFFF%202026-4.jpg",
         "occupations": [
-          "chief content officer",
           "film producer",
+          "chief content officer",
           "businessperson"
         ],
         "education": [

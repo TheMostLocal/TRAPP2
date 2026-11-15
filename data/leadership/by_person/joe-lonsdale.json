@@ -5,20 +5,15 @@
   "birthPlace": "Fremont",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
   "occupations": [
-    "angel investor",
     "businessperson",
-    "venture capitalist"
+    "venture capitalist",
+    "angel investor"
   ],
   "education": [
-    "Mission San Jose High School",
-    "Stanford University"
+    "Stanford University",
+    "Mission San Jose High School"
   ],
   "employers": [
-    {
-      "company": "Addepar",
-      "start": "2009-01-01",
-      "end": "2013-01-01"
-    },
     {
       "company": "PayPal",
       "start": null,
@@ -43,15 +38,14 @@
       "company": "Clarium Capital",
       "start": null,
       "end": "2004-01-01"
+    },
+    {
+      "company": "Addepar",
+      "start": "2009-01-01",
+      "end": "2013-01-01"
     }
   ],
   "positions": [
-    {
-      "title": "board member",
-      "company": null,
-      "start": null,
-      "end": null
-    },
     {
       "title": "chairperson",
       "company": null,
@@ -62,6 +56,12 @@
       "title": "chairperson",
       "company": null,
       "start": "2021-01-01",
+      "end": null
+    },
+    {
+      "title": "board member",
+      "company": null,
+      "start": null,
       "end": null
     }
   ],

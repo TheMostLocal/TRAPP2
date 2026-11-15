@@ -1,6 +1,6 @@
 {
   "ticker": "ICE",
-  "fetchedAt": "2026-11-08T14:14:18.772801Z",
+  "fetchedAt": "2026-11-15T13:35:31.644181Z",
   "people": [
     {
       "qid": "Q6175884",
@@ -23,12 +23,12 @@
         ],
         "employers": [
           {
-            "company": "Intercontinental Exchange",
+            "company": "New York Stock Exchange",
             "start": null,
             "end": null
           },
           {
-            "company": "New York Stock Exchange",
+            "company": "Intercontinental Exchange",
             "start": null,
             "end": null
           }
@@ -57,12 +57,12 @@
         ],
         "employers": [
           {
-            "company": "Intercontinental Exchange",
+            "company": "New York Stock Exchange",
             "start": null,
             "end": null
           },
           {
-            "company": "New York Stock Exchange",
+            "company": "Intercontinental Exchange",
             "start": null,
             "end": null
           }

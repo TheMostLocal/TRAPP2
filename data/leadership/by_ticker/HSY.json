@@ -1,6 +1,6 @@
 {
   "ticker": "HSY",
-  "fetchedAt": "2026-11-08T14:14:18.771739Z",
+  "fetchedAt": "2026-11-15T13:35:31.643083Z",
   "people": [
     {
       "qid": "Q737720",
@@ -14,8 +14,8 @@
         "birthPlace": "Derry Township",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milton%20S.%20Hershey%20c1905.jpg",
         "occupations": [
-          "entrepreneur",
-          "confectioner"
+          "confectioner",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [

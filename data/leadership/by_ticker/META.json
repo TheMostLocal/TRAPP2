@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-11-08T14:14:18.782752Z",
+  "fetchedAt": "2026-11-15T13:35:31.653902Z",
   "people": [
     {
       "qid": "Q36215",
@@ -12,14 +12,14 @@
         "name": "Mark Zuckerberg",
         "dateOfBirth": "1984-05-14",
         "birthPlace": "White Plains",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "patron of the arts",
-          "chief executive officer",
-          "computer scientist",
           "philanthropist",
-          "programmer"
+          "programmer",
+          "patron of the arts",
+          "entrepreneur",
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -58,10 +58,10 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "economist",
           "computer scientist",
-          "businessperson"
+          "economist",
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Harvard College",
@@ -209,8 +209,8 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Lynbrook High School",
@@ -241,10 +241,20 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -259,16 +269,6 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
           },
           {
             "company": "General Motors",
@@ -363,8 +363,8 @@
         "birthPlace": "Acton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drew%20Houston.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Massachusetts Institute of Technology",
@@ -441,21 +441,17 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "manager",
-          "investor",
-          "financier",
-          "computer scientist",
-          "entrepreneur",
-          "chess player",
-          "banker",
-          "technology entrepreneur",
           "writer",
-          "businessperson"
+          "manager",
+          "computer scientist",
+          "investor",
+          "entrepreneur",
+          "banker"
         ],
         "education": [
+          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School",
-          "Stanford University"
+          "San Mateo High School"
         ],
         "employers": [
           {
@@ -492,14 +488,15 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
+          "venture capitalist",
           "software engineer",
           "programmer",
           "blogger",
+          "inventor",
           "investor",
           "engineer",
-          "entrepreneur",
-          "inventor",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "New Lisbon High School",
@@ -537,14 +534,14 @@
         "name": "Mark Zuckerberg",
         "dateOfBirth": "1984-05-14",
         "birthPlace": "White Plains",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "patron of the arts",
-          "chief executive officer",
-          "computer scientist",
           "philanthropist",
-          "programmer"
+          "programmer",
+          "patron of the arts",
+          "entrepreneur",
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -609,14 +606,14 @@
         "name": "Mark Zuckerberg",
         "dateOfBirth": "1984-05-14",
         "birthPlace": "White Plains",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "patron of the arts",
-          "chief executive officer",
-          "computer scientist",
           "philanthropist",
-          "programmer"
+          "programmer",
+          "patron of the arts",
+          "entrepreneur",
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",

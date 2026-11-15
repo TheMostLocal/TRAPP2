@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-11-08T14:14:18.802200Z",
+  "fetchedAt": "2026-11-15T13:44:21.468564Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -305,9 +305,9 @@
           "financier"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -329,12 +329,22 @@
           "lawyer"
         ],
         "education": [
-          "Harvard Law School",
-          "Brown University",
           "James B. Dudley High School",
-          "John F. Kennedy School of Government"
+          "Brown University",
+          "John F. Kennedy School of Government",
+          "Harvard Law School"
         ],
         "employers": [
+          {
+            "company": "Revlon",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Washington Gas",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Ad Council",
             "start": null,
@@ -364,40 +374,20 @@
             "company": "Kodak",
             "start": null,
             "end": null
-          },
-          {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Revlon",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Washington Gas",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-01-01",
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "2006-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-01-01",
+            "end": null
           }
         ]
       }
