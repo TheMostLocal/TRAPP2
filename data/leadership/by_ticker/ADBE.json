@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-11-08T14:14:18.742671Z",
+  "fetchedAt": "2026-11-15T13:53:20.582739Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -181,8 +181,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [
@@ -452,9 +452,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
           "university teacher",
-          "entrepreneur",
+          "software developer",
           "computer scientist",
-          "software developer"
+          "entrepreneur"
         ],
         "education": [
           "Xavier University",
@@ -499,13 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "businessperson",
           "entrepreneur",
-          "engineer",
-          "computer scientist",
           "mathematician",
+          "computer scientist",
           "engineer",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "Olympus High School",

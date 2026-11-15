@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-11-08T14:14:18.768189Z",
+  "fetchedAt": "2026-11-15T13:53:20.608962Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -122,8 +122,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
           "entrepreneur",
-          "businessperson",
-          "executive"
+          "executive",
+          "businessperson"
         ],
         "education": [
           "Grosse Ile High School"
@@ -215,9 +215,9 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
+          "businessperson",
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "University of California, Berkeley",
@@ -312,11 +312,10 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
-          "Harvard University",
           "University of Toronto",
-          "Harvard University",
-          "Harvard Business School"
+          "University of California, Berkeley",
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -340,9 +339,9 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "engineer",
           "businessperson",
-          "politician"
+          "politician",
+          "engineer"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -492,9 +491,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
           "lawyer",
-          "chief executive officer",
           "business executive",
-          "board member"
+          "board member",
+          "chief executive officer"
         ],
         "education": [
           "Union College",
@@ -519,9 +518,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering",
-          "Massachusetts Institute of Technology"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [],
         "positions": []
@@ -539,9 +538,9 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
+          "entrepreneur",
           "politician",
-          "business executive",
-          "entrepreneur"
+          "business executive"
         ],
         "education": [
           "Princeton University",
@@ -550,21 +549,6 @@
         ],
         "employers": [
           {
-            "company": "eBay",
-            "start": "1998-01-01",
-            "end": "2008-01-01"
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
-          {
             "company": "Hasbro",
             "start": null,
             "end": null
@@ -572,6 +556,11 @@
           {
             "company": "Bain & Company",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
             "end": null
           },
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "fetchedAt": "2026-11-08T14:14:18.765278Z",
+  "fetchedAt": "2026-11-15T13:53:20.606099Z",
   "people": [
     {
       "qid": "Q18921712",
@@ -18,8 +18,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgetown University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Georgetown University"
         ],
         "employers": [
           {
@@ -50,10 +50,9 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
         "occupations": [
+          "business executive",
           "taekwondo athlete",
-          "entrepreneur",
-          "taekwondo athlete",
-          "business executive"
+          "entrepreneur"
         ],
         "education": [
           "Hotchkiss School",
@@ -118,8 +117,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -160,8 +159,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Dartmouth College",
-          "Harvard University"
+          "Harvard University",
+          "Dartmouth College"
         ],
         "employers": [],
         "positions": []
@@ -180,8 +179,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Stanford University"
+          "Stanford University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -248,8 +247,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgetown University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Georgetown University"
         ],
         "employers": [
           {
@@ -345,8 +344,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Business School",
+          "Princeton University",
           "Harvard University"
         ],
         "employers": [],
@@ -368,12 +367,12 @@
           "business executive"
         ],
         "education": [
+          "Harvard College",
           "Yale School of Management",
           "Hotchkiss School",
           "Yale Law School",
-          "Harvard College",
-          "Harvard University",
-          "University of Oxford"
+          "University of Oxford",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -400,9 +399,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {
@@ -439,10 +438,9 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
         "occupations": [
+          "business executive",
           "taekwondo athlete",
-          "entrepreneur",
-          "taekwondo athlete",
-          "business executive"
+          "entrepreneur"
         ],
         "education": [
           "Hotchkiss School",
@@ -487,16 +485,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
           "missionary",
-          "diplomat",
           "ambassador",
+          "diplomat",
           "politician",
           "governor"
         ],
         "education": [
-          "National Taiwan Normal University",
-          "University of Utah",
           "Highland High School",
-          "The Wharton School"
+          "The Wharton School",
+          "National Taiwan Normal University",
+          "University of Utah"
         ],
         "employers": [],
         "positions": [

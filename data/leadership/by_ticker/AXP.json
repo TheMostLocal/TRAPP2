@@ -1,6 +1,6 @@
 {
   "ticker": "AXP",
-  "fetchedAt": "2026-11-08T14:14:18.748144Z",
+  "fetchedAt": "2026-11-15T13:53:20.588289Z",
   "people": [
     {
       "qid": "Q52272598",
@@ -39,9 +39,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Dartmouth College"
+          "Dartmouth College",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -59,8 +59,8 @@
         "birthPlace": "Little Rock",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Phillips%20makes%20the%20introductions.jpg",
         "occupations": [
-          "military officer",
-          "businessperson"
+          "businessperson",
+          "military officer"
         ],
         "education": [
           "New York Law School",
@@ -86,9 +86,9 @@
           "blogger",
           "elector",
           "public figure",
+          "economist",
           "governor",
-          "politician",
-          "economist"
+          "politician"
         ],
         "education": [
           "Cedar High School",
@@ -129,10 +129,10 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlene%20Barshefsky%20official%20portrait.jpg",
         "occupations": [
-          "politician",
-          "lawyer",
+          "diplomat",
           "businessperson",
-          "diplomat"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "Von Steuben Metropolitan Science Center",
@@ -154,8 +154,8 @@
         "birthPlace": "Fribourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Vasella%20World%20Economic%20Forum%202013.jpg",
         "occupations": [
-          "physician",
-          "businessperson"
+          "businessperson",
+          "physician"
         ],
         "education": [
           "University of Bern",
@@ -180,8 +180,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -312,9 +312,9 @@
         "education": [
           "Lafayette College",
           "King's College",
-          "University of Pennsylvania",
           "University of Pennsylvania Carey Law School",
-          "Strath Haven High School"
+          "Strath Haven High School",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -368,10 +368,10 @@
         "birthPlace": "Harrison",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Chernin%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202009.jpg",
         "occupations": [
-          "businessperson",
-          "television producer",
           "film producer",
           "financier",
+          "television producer",
+          "businessperson",
           "entrepreneur"
         ],
         "education": [

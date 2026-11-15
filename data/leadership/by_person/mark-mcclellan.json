@@ -12,8 +12,8 @@
     "Austin High School",
     "University of Texas at Austin",
     "John F. Kennedy School of Government",
-    "Massachusetts Institute of Technology",
-    "Harvard University"
+    "Harvard University",
+    "Massachusetts Institute of Technology"
   ],
   "employers": [],
   "positions": [
@@ -31,7 +31,6 @@
     }
   ],
   "currentTickers": [
-    "CI",
-    "JNJ"
+    "CI"
   ]
 }

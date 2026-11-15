@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-11-08T14:14:18.738935Z",
+  "fetchedAt": "2026-11-15T13:53:20.578930Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -127,11 +127,6 @@
         "education": [],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -145,6 +140,11 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -333,8 +333,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
-          "business executive"
+          "business executive",
+          "physician"
         ],
         "education": [
           "Lund University"
@@ -373,8 +373,8 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "business executive",
-          "biologist"
+          "biologist",
+          "business executive"
         ],
         "education": [
           "University of Massachusetts",
@@ -421,9 +421,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
+          "gastroenterologist",
           "university teacher",
-          "gastroenterologist"
+          "physician"
         ],
         "education": [
           "Harvard College",
@@ -484,11 +484,6 @@
         ],
         "employers": [
           {
-            "company": "Johns Hopkins University",
-            "start": "2019-01-01",
-            "end": null
-          },
-          {
             "company": "American Cancer Society",
             "start": "2007-01-01",
             "end": "2018-01-01"
@@ -497,6 +492,11 @@
             "company": "Emory University",
             "start": "2001-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Johns Hopkins University",
+            "start": "2019-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -521,14 +521,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chairperson",
-          "investor"
+          "investor",
+          "chairperson"
         ],
         "education": [
-          "University of London",
-          "Imperial College London",
           "Harvard Business School",
-          "Harvard University"
+          "University of London",
+          "Harvard University",
+          "Imperial College London"
         ],
         "employers": [],
         "positions": [

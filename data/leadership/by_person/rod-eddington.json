@@ -5,9 +5,9 @@
   "birthPlace": "Perth",
   "image": null,
   "occupations": [
-    "engineer",
-    "merchant",
     "cricketer",
+    "merchant",
+    "engineer",
     "businessperson"
   ],
   "education": [

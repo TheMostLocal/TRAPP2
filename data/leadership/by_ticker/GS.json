@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-11-08T14:14:18.769565Z",
+  "fetchedAt": "2026-11-15T13:53:20.610254Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -14,8 +14,8 @@
         "birthPlace": "Hartsdale",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Solomon.jpg",
         "occupations": [
-          "banker",
-          "club DJ"
+          "club DJ",
+          "banker"
         ],
         "education": [
           "Edgemont Junior \u2013 Senior High School",
@@ -50,15 +50,15 @@
         "birthPlace": "Nigeria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adebayo%20Ogunlesi.jpg",
         "occupations": [
-          "businessperson",
+          "lawyer",
           "academic",
           "investment banker",
-          "lawyer"
+          "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard Law School",
           "University of Oxford",
-          "Harvard Business School",
           "King's College, Lagos"
         ],
         "employers": [
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "businessperson",
+          "director",
           "computer scientist",
-          "director"
+          "businessperson"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -122,11 +122,11 @@
           "business executive"
         ],
         "education": [
+          "Northwestern University",
+          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management",
-          "Northwestern University",
-          "Tufts University"
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -181,8 +181,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Yale Law School"
+          "Yale Law School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -219,8 +219,8 @@
         "birthPlace": "Hartsdale",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Solomon.jpg",
         "occupations": [
-          "banker",
-          "club DJ"
+          "club DJ",
+          "banker"
         ],
         "education": [
           "Edgemont Junior \u2013 Senior High School",
@@ -397,24 +397,24 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Women%20in%20Economic%20Decision-making%20Drew%20Gilpin%20Faust%20%288414040540%29%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "historian"
+          "historian",
+          "university teacher"
         ],
         "education": [
-          "Harvard University",
-          "Concord Academy",
           "Bryn Mawr College",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Concord Academy",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "University of Pennsylvania",
-            "start": "1975-01-01",
+            "company": "Radcliffe College",
+            "start": "2001-01-01",
             "end": null
           },
           {
-            "company": "Radcliffe College",
-            "start": "2001-01-01",
+            "company": "University of Pennsylvania",
+            "start": "1975-01-01",
             "end": null
           },
           {
