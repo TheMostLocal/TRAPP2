@@ -1,6 +1,6 @@
 {
   "ticker": "WBD",
-  "fetchedAt": "2026-11-08T14:14:18.809966Z",
+  "fetchedAt": "2026-11-15T13:44:21.474900Z",
   "people": [
     {
       "qid": "Q4377226",
@@ -22,17 +22,17 @@
         ],
         "employers": [
           {
-            "company": "Warner Bros. Discovery",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "NBCUniversal",
             "start": null,
             "end": null
           },
           {
             "company": "Discovery Channel",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Warner Bros. Discovery",
             "start": null,
             "end": null
           }

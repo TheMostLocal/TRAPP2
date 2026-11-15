@@ -1,6 +1,6 @@
 {
   "ticker": "TEM",
-  "fetchedAt": "2026-11-08T14:14:18.802889Z",
+  "fetchedAt": "2026-11-15T13:44:21.469121Z",
   "people": [
     {
       "qid": "Q7381427",
@@ -17,13 +17,13 @@
           "academic administrator",
           "orator",
           "Christian minister",
-          "lawyer",
-          "writer"
+          "writer",
+          "lawyer"
         ],
         "education": [
+          "Yale University",
           "Wilbraham & Monson Academy",
-          "Albany Law School",
-          "Yale University"
+          "Albany Law School"
         ],
         "employers": [
           {

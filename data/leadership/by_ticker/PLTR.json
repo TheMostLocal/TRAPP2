@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-11-08T14:14:18.794081Z",
+  "fetchedAt": "2026-11-15T13:44:21.462116Z",
   "people": [
     {
       "qid": "Q19560940",
@@ -76,8 +76,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -100,17 +100,10 @@
         "occupations": [
           "manager",
           "investor",
-          "financier",
-          "computer scientist",
+          "banker",
           "entrepreneur",
-          "chess player",
-          "banker",
-          "technology entrepreneur",
-          "financier",
-          "banker",
-          "investor",
-          "writer",
-          "businessperson"
+          "computer scientist",
+          "writer"
         ],
         "education": [
           "Stanford Law School",
@@ -152,8 +145,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -174,20 +167,15 @@
         "birthPlace": "Fremont",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
         "occupations": [
-          "angel investor",
           "businessperson",
-          "venture capitalist"
+          "venture capitalist",
+          "angel investor"
         ],
         "education": [
-          "Mission San Jose High School",
-          "Stanford University"
+          "Stanford University",
+          "Mission San Jose High School"
         ],
         "employers": [
-          {
-            "company": "Addepar",
-            "start": "2009-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "PayPal",
             "start": null,
@@ -212,15 +200,14 @@
             "company": "Clarium Capital",
             "start": null,
             "end": "2004-01-01"
+          },
+          {
+            "company": "Addepar",
+            "start": "2009-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chairperson",
             "company": null,
@@ -231,6 +218,12 @@
             "title": "chairperson",
             "company": null,
             "start": "2021-01-01",
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
             "end": null
           }
         ]
@@ -250,17 +243,10 @@
         "occupations": [
           "manager",
           "investor",
-          "financier",
-          "computer scientist",
+          "banker",
           "entrepreneur",
-          "chess player",
-          "banker",
-          "technology entrepreneur",
-          "financier",
-          "banker",
-          "investor",
-          "writer",
-          "businessperson"
+          "computer scientist",
+          "writer"
         ],
         "education": [
           "Stanford Law School",

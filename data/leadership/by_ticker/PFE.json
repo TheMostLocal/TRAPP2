@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-11-08T14:14:18.792170Z",
+  "fetchedAt": "2026-11-15T13:44:21.460285Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -14,11 +14,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
+          "executive",
           "business executive",
           "pharmacologist",
-          "executive",
-          "veterinarian",
-          "entrepreneur"
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -52,10 +52,11 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "molecular geneticist",
           "biochemist",
-          "physician",
-          "university teacher"
+          "molecular geneticist",
+          "researcher",
+          "university teacher",
+          "physician"
         ],
         "education": [
           "Stanford University"
@@ -146,9 +147,9 @@
           "chief executive officer"
         ],
         "education": [
+          "University of California, Berkeley",
           "University of Nevada, Reno",
           "University of California, San Francisco",
-          "University of California, Berkeley",
           "Bishop Manogue High School"
         ],
         "employers": [
@@ -210,11 +211,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
+          "executive",
           "business executive",
           "pharmacologist",
-          "executive",
-          "veterinarian",
-          "entrepreneur"
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -269,8 +270,8 @@
         "birthPlace": "East Brunswick",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20Gottlieb%20official%20portrait.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "Icahn School of Medicine at Mount Sinai",
@@ -343,14 +344,14 @@
         "birthPlace": "Bucharest",
         "image": null,
         "occupations": [
-          "researcher",
-          "immunologist"
+          "immunologist",
+          "researcher"
         ],
         "education": [
-          "Washington University in St.\u00a0Louis",
-          "Princeton University",
           "Columbia University",
-          "Washington University School of Medicine"
+          "Washington University in St. Louis",
+          "Washington University School of Medicine",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -423,9 +424,9 @@
           "university teacher"
         ],
         "education": [
+          "Horace Greeley High School",
           "Georgetown University",
-          "University of Rochester",
-          "Horace Greeley High School"
+          "University of Rochester"
         ],
         "employers": [
           {
@@ -456,8 +457,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -509,8 +510,8 @@
         "birthPlace": "Ludwigsburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Frederick%20Erhart%20%281821-1891%29%20portrait.jpg",
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [],
         "employers": [

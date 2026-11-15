@@ -7,22 +7,15 @@
   "occupations": [
     "manager",
     "investor",
-    "financier",
-    "computer scientist",
+    "banker",
     "entrepreneur",
-    "chess player",
-    "banker",
-    "technology entrepreneur",
-    "financier",
-    "banker",
-    "investor",
-    "writer",
-    "businessperson"
+    "computer scientist",
+    "writer"
   ],
   "education": [
-    "Stanford University",
     "Stanford Law School",
-    "San Mateo High School"
+    "San Mateo High School",
+    "Stanford University"
   ],
   "employers": [
     {
@@ -46,7 +39,6 @@
     }
   ],
   "currentTickers": [
-    "META",
     "PLTR",
     "PLTR"
   ]

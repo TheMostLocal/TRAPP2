@@ -1,6 +1,6 @@
 {
   "ticker": "PANW",
-  "fetchedAt": "2026-11-08T14:14:18.791258Z",
+  "fetchedAt": "2026-11-15T13:44:21.459464Z",
   "people": [
     {
       "qid": "Q7034852",
@@ -25,17 +25,17 @@
         ],
         "employers": [
           {
-            "company": "Google",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Palo Alto Networks",
             "start": null,
             "end": null
           },
           {
             "company": "SoftBank Mobile",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Google",
             "start": null,
             "end": null
           }

@@ -1,6 +1,6 @@
 {
   "ticker": "RBLX",
-  "fetchedAt": "2026-11-08T14:14:18.796283Z",
+  "fetchedAt": "2026-11-15T13:44:21.463885Z",
   "people": [
     {
       "qid": "Q20117554",
@@ -14,13 +14,13 @@
         "birthPlace": "Winnipeg",
         "image": null,
         "occupations": [
-          "engineer",
           "entrepreneur",
-          "programmer"
+          "programmer",
+          "engineer"
         ],
         "education": [
-          "Eden Prairie High School",
-          "Stanford University"
+          "Stanford University",
+          "Eden Prairie High School"
         ],
         "employers": [],
         "positions": [
