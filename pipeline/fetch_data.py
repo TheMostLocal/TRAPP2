@@ -7,6 +7,10 @@
 #  THIS file. (One file per repo — do not mix them up; each is labeled.)
 # ============================================================
 """
+z187 - VALUATION AT THE LIVE PRICE, IN ONE CURRENCY (the z187 block below): P/B, P/S, EV ratios, P/E, market cap and
+yield are computed at this run's price from latest-quarter equity and trailing revenue converted to USD, with USD
+anchors on the row so the 15-minute refresh re-prices them. Changed company names are flagged (nameWas).
+
 TRAPP2 — Quote + fundamentals fetcher.
 
 Pulls live (or 15-min delayed) quotes for every ticker in data/tickers.txt via
@@ -372,6 +376,303 @@ def fmt_num(v):
     return f"{f:.6f}".rstrip("0").rstrip(".") if "." in str(v) else str(v)
 
 
+# ======================================================================================================== z187
+#  VALUATION AT THE LIVE PRICE, IN ONE CURRENCY
+#  Yahoo's .info ratios had two problems:
+#   1. STALE PRICE - they were priced when the profile was fetched (the profile cache keeps .info 24-96 h) while the
+#      row's price is fresh, so P/E, P/B, EV ratios, market cap and yield lagged the price by up to four days.
+#   2. MIXED CURRENCIES - for companies that report in another currency than they trade in (ADRs: TSM reports TWD,
+#      ASML EUR, TM JPY, BABA CNY) Yahoo divides USD prices by local-currency statements: TSM P/B 76 (true ~12), ASML
+#      EV/Revenue 768 (~12), TM P/B 17 (~1); and anyone dividing market cap by revenue got TSM P/S 0.4 (true ~13).
+#  Now, at THIS run's price:
+#    market cap  = Yahoo's (all share classes) x price now / the price Yahoo computed it at
+#    P/B         = market cap / latest-quarter COMMON equity, both in USD        - blank when equity <= 0 ("neg-book")
+#    P/S         = market cap / trailing-12-month revenue, both in USD
+#    EV          = market cap + total debt - cash + minority interest (USD)     - EV ratios blank for banks / insurers
+#    P/E, yield  = Yahoo's (per-share, currency-correct), re-priced to the price now
+#  Anchors ride with the row (fxQuote, fxFin, bookUSD, revenueUSD, ebitdaUSD, netDebtUSD) so the 15-minute quote
+#  refresh, the app's live quotes and the bot re-price every ratio without another fundamentals call. bookAsOf /
+#  revenueAsOf say which quarter the denominators are; valuationNote flags what to treat with care:
+#    neg-book   equity <= 0 (P/B not meaningful)      ev-na    bank / insurer (EV not meaningful)
+#    mcap?      Yahoo's market cap disagrees with its own per-share P/E by > 1.5x (ADR ratio / one share class)
+#    fx-XXX?    no USD rate for the statements' currency (cross-currency ratios left blank)
+#    px?        the profile's price is unknown (ratios not re-priced)   split?   price vs profile looks like a split
+#    book-annual  equity from last year's balance sheet (a profile cached before z187 - fixed at its next refresh)
+import math as _vmath
+import os as _vos
+import urllib.request as _vurl
+
+VALUATION_COLUMNS = ["priceToSales", "fxQuote", "fxFin", "bookUSD", "revenueUSD", "ebitdaUSD", "netDebtUSD",
+                     "bookAsOf", "revenueAsOf", "valuationNote"]
+FX_SUBUNIT = {"GBp": ("GBP", 0.01), "GBX": ("GBP", 0.01), "ZAc": ("ZAR", 0.01), "ZAC": ("ZAR", 0.01),
+              "ILA": ("ILS", 0.01), "ILa": ("ILS", 0.01), "USX": ("USD", 0.01), "USd": ("USD", 0.01)}
+_VOWNER = (_vos.environ.get("VALUATIO_OWNER") or _vos.environ.get("GITHUB_REPOSITORY_OWNER") or "TheMostLocal").strip()
+FX_RATES_URL = f"https://raw.githubusercontent.com/{_VOWNER}/TRAPP2-1/main/data/fx/rates.json"
+# deposits / policy float aren't "debt" for these, so enterprise value is not a meaningful denominator
+EV_NA_INDUSTRY = ("Banks", "Insurance -", "Insurance—", "Mortgage Finance", "Capital Markets", "Financial Conglomerates")
+FX = {}                  # USD per 1 main unit, filled once per run by load_fx_rates()
+
+
+def _vf(v):
+    try:
+        x = float(v)
+    except (TypeError, ValueError):
+        return None
+    return x if _vmath.isfinite(x) else None
+
+
+def _fxfmt(v):
+    return f"{v:.10g}" if v else ""
+
+
+def ccy_main(c):
+    """'GBp' -> ('GBP', 0.01): the main currency and the factor from the quoted unit to it."""
+    c = str(c or "").strip()
+    if not c:
+        return None, 1.0
+    return FX_SUBUNIT.get(c, (c.upper(), 1.0))
+
+
+def _close_of(df, pair, single):
+    for get in ((lambda: df[pair]["Close"]), (lambda: df["Close"][pair]), (lambda: df["Close"])):
+        try:
+            s = get()
+            if single or getattr(s, "name", None) != "Close":
+                v = _vf(s.dropna().iloc[-1])
+                if v:
+                    return v
+        except Exception:
+            continue
+    return None
+
+
+def load_fx_rates(need=()):
+    """USD per 1 unit of each currency: TRAPP2-1/data/fx/rates.json (the rates the app and the bot use, refreshed every
+    15 minutes), then Yahoo's <CCY>USD=X for any currency still missing. A currency without a rate leaves only the
+    ratios that need it blank - never a mixed-currency number."""
+    rates, src = {"USD": 1.0}, "unavailable"
+    try:
+        local = DATA / "fx" / "rates.json"                  # TRAPP2-1 itself
+        if local.exists():
+            d, src = json.loads(local.read_text()), "this repo"
+        else:
+            req = _vurl.Request(f"{FX_RATES_URL}?t={int(time.time() // 300)}", headers={"User-Agent": "ValuatioPipeline"})
+            with _vurl.urlopen(req, timeout=30) as r:
+                d, src = json.loads(r.read().decode()), "TRAPP2-1"
+        for c, v in ((d or {}).get("rates") or {}).items():
+            up = _vf(v.get("usdPer")) if isinstance(v, dict) else _vf(v)
+            if up and up > 0:
+                rates[str(c).upper()] = up
+    except Exception as e:
+        log(f"  FX rates file unavailable ({type(e).__name__}: {str(e)[:80]})")
+    missing = sorted({m for m in (ccy_main(c)[0] for c in need) if m and m not in rates})
+    got = []
+    if missing:
+        try:
+            pairs = [f"{c}USD=X" for c in missing]
+            df = yf.download(pairs, period="5d", interval="1d", group_by="ticker", auto_adjust=False,
+                             progress=False, threads=True)
+            for c, p in zip(missing, pairs):
+                v = _close_of(df, p, len(pairs) == 1)
+                if v and v > 0:
+                    rates[c] = v
+                    got.append(c)
+        except Exception as e:
+            log(f"  Yahoo FX fallback failed ({type(e).__name__}: {str(e)[:80]})")
+    still = [c for c in missing if c not in rates]
+    log(f"  FX: {len(rates) - 1} currencies in USD (rates file: {src}" + (f"; Yahoo: {', '.join(got)}" if got else "") + ")"
+        + (f" · no rate for {', '.join(still)} - their cross-currency ratios stay blank" if still else ""))
+    FX.clear()
+    FX.update(rates)
+    return rates
+
+
+def split_like(k):
+    """A price change that looks like a split / reverse split (x2, x1/3, x10 ...) - not a market move to re-price by."""
+    if not k or k <= 0 or abs(_vmath.log(k)) < _vmath.log(1.4):
+        return False
+    r = k if k > 1 else 1 / k
+    return any(abs(r / n - 1) < 0.04 for n in (1.5, 2, 2.5, 3, 4, 5, 6, 8, 10, 12, 15, 20, 25, 30, 40, 50, 100))
+
+
+def profile_price(entry, info):
+    """The price a cached profile's ratios were computed at: recorded at fetch (z187), else Yahoo's own quote fields,
+    else trailing P/E x EPS. None when nothing says."""
+    px = _vf((entry or {}).get("px"))
+    if px and px > 0:
+        return px
+    info = info or {}
+    for k in ("currentPrice", "regularMarketPrice"):
+        v = _vf(info.get(k))
+        if v and v > 0:
+            return v
+    pe, eps = _vf(info.get("trailingPE")), _vf(info.get("trailingEps"))
+    return pe * eps if (pe and eps and pe > 0 and eps > 0) else None
+
+
+def latest_balance(t):
+    """The latest QUARTERLY balance sheet (annual when Yahoo has no quarters for the name): common equity for P/B plus
+    the totals the row carries. {} when Yahoo has neither."""
+    for basis, attr in (("quarter", "quarterly_balance_sheet"), ("annual", "balance_sheet")):
+        try:
+            bs = getattr(t, attr)
+        except Exception:
+            continue
+        if bs is None or getattr(bs, "empty", True):
+            continue
+        try:
+            cols = sorted(bs.columns, reverse=True)
+        except Exception:
+            cols = list(bs.columns)
+        for col in cols[:3]:
+            def val(*names):
+                for n in names:
+                    if n in bs.index:
+                        try:
+                            v = _vf(bs.loc[n, col])
+                        except Exception:
+                            v = None
+                        if v is not None:
+                            return v
+                return None
+            common = val("Common Stock Equity", "Stockholders Equity")
+            if common is None:
+                continue
+            return {"bookEquity": common, "totalEquity": val("Stockholders Equity", "Common Stock Equity"),
+                    "totalAssets": val("Total Assets"), "totalDebt": val("Total Debt", "Long Term Debt"),
+                    "minorityInterest": val("Minority Interest"), "bookAsOf": str(col)[:10], "bookBasis": basis}
+    return {}
+
+
+def _epoch_date(v):
+    v = _vf(v)
+    if not v or v <= 0:
+        return ""
+    try:
+        return datetime.fromtimestamp(v, tz=timezone.utc).strftime("%Y-%m-%d")
+    except (OverflowError, OSError, ValueError):
+        return ""
+
+
+def apply_valuation(row, info, bs, price, px):
+    """Write the price-dependent fields (market cap, P/E, yield, P/B, P/S, EV ratios) at THIS run's price and in one
+    currency, plus the USD anchors the 15-minute refresh re-prices them from. Equities only; never raises."""
+    info = info or {}
+    if str(info.get("quoteType") or "").upper() != "EQUITY":
+        return
+    try:
+        _apply_valuation(row, info, bs or {}, _vf(price), _vf(px))
+    except Exception as e:                                    # a valuation bug must never cost the row
+        row["valuationNote"] = f"error {type(e).__name__}"
+
+
+def _apply_valuation(row, info, bs, price, px):
+    notes = []
+    row["priceToBookYahoo"] = fmt_num(info.get("priceToBook"))      # Yahoo's own figure, for audit (master.json only)
+    k = 1.0
+    if price and px:
+        if split_like(price / px):
+            notes.append("split?")
+        else:
+            k = price / px
+    elif price:
+        notes.append("px?")
+    qb, _ = ccy_main(info.get("currency") or row.get("currency") or "USD")
+    fb, _ = ccy_main(info.get("financialCurrency") or info.get("currency") or row.get("currency") or "USD")
+    fq, ff = FX.get(qb), FX.get(fb)
+    conv = 1.0 if qb == fb else (ff / fq if (ff and fq) else None)   # statements' currency -> market cap's currency
+    mc0 = _vf(info.get("marketCap"))
+    mc = mc0 * k if (mc0 and mc0 > 0) else None
+    if mc:
+        row["marketcap"] = fmt_num(round(mc))
+    pe0 = _vf(info.get("trailingPE"))
+    row["pe"] = fmt_num(pe0 * k) if (pe0 and pe0 > 0) else ""
+    dy0 = _vf(info.get("dividendYield"))
+    if dy0 is not None:
+        row["dividend_yield"] = fmt_num(dy0 / k)
+    rev, ebitda = _vf(info.get("totalRevenue")), _vf(info.get("ebitda"))
+    debt, cash = _vf(info.get("totalDebt")), _vf(info.get("totalCash"))
+    if debt is None:
+        debt = _vf(bs.get("totalDebt"))
+    book, minority = _vf(bs.get("bookEquity")), (_vf(bs.get("minorityInterest")) or 0.0)
+    if book is None and _vf(bs.get("legacyEquity")) is not None:   # a profile cached before z187: last year's equity
+        book = _vf(bs.get("legacyEquity"))
+        notes.append("book-annual")
+    ind = str(info.get("industry") or row.get("industry") or "")
+    ev_na = any(ind.startswith(p) for p in EV_NA_INDUSTRY)
+    has_nd = debt is not None or cash is not None
+    nd = ((debt or 0.0) - (cash or 0.0) + minority) if has_nd else None
+    pb = ps = evr = eve = None
+    if conv is None:
+        notes.append(f"fx-{fb}?")
+    elif mc:
+        if book is not None:
+            if book > 0:
+                pb = mc / (book * conv)
+            else:
+                notes.append("neg-book")
+        if rev and rev > 0:
+            ps = mc / (rev * conv)
+        if not ev_na and nd is not None:
+            ev = mc + nd * conv
+            if rev and rev > 0:
+                evr = ev / (rev * conv)
+            if ebitda and ebitda > 0:
+                eve = ev / (ebitda * conv)
+    if ev_na:
+        notes.append("ev-na")
+    # market-cap sanity: Yahoo's cap vs its own per-share P/E - an ADR-ratio error or a cap that covers one share
+    # class shows up here; P/B and P/S built on that cap are flagged for the consumers to treat with care
+    ni = _vf(info.get("netIncomeToCommon"))
+    if mc and conv and ni and ni > 0 and pe0 and pe0 > 0 and abs(_vmath.log(mc / (ni * conv) / (pe0 * k))) > _vmath.log(1.5):
+        notes.append("mcap?")
+    row["priceToBook"] = fmt_num(pb) if pb is not None else ""
+    row["priceToSales"] = fmt_num(ps) if ps is not None else ""
+    row["evToRevenue"] = fmt_num(evr) if evr is not None else ""
+    row["evToEbitda"] = fmt_num(eve) if eve is not None else ""
+    usd = (lambda v: fmt_num(round(v * ff)) if (v is not None and ff) else "")
+    row["fxQuote"] = _fxfmt(fq)
+    row["fxFin"] = _fxfmt(ff)
+    row["bookUSD"] = usd(book)
+    row["revenueUSD"] = usd(rev if (rev and rev > 0) else None)
+    row["ebitdaUSD"] = usd(ebitda)
+    row["netDebtUSD"] = usd(nd)
+    row["bookAsOf"] = str(bs.get("bookAsOf") or "")
+    row["revenueAsOf"] = _epoch_date(info.get("mostRecentQuarter"))
+    row["valuationNote"] = " ".join(notes)
+
+
+_NAME_STOP = {"inc", "corp", "corporation", "co", "company", "ltd", "limited", "plc", "sa", "ag", "nv", "se", "spa",
+              "holdings", "holding", "group", "the", "class", "and", "of", "technologies", "technology", "international"}
+
+
+def name_changed(old, new):
+    """True when two company names share no meaningful word - a renamed company or a REASSIGNED symbol (PARA:
+    'Paramount Global' -> 'Parabolic Technologies, Inc.'); either way the history and the fundamentals no longer match."""
+    import re as _re
+    tok = lambda s: {w for w in _re.findall(r"[a-z0-9]+", str(s or "").lower()) if len(w) >= 3 and w not in _NAME_STOP}
+    a, b = tok(old), tok(new)
+    return bool(a and b and not (a & b))
+
+
+def carry_name_change(row, prev, today):
+    """Keeps a 30-day 'nameWas' marker on a row whose company name changed (master.json only)."""
+    if not prev:
+        return None
+    if name_changed(prev.get("name"), row.get("name")):
+        row["nameWas"], row["nameChangedAt"] = prev.get("name"), today
+        return prev.get("name")
+    was, at = prev.get("nameWas"), prev.get("nameChangedAt")
+    try:
+        if was and at and (datetime.strptime(today, "%Y-%m-%d") - datetime.strptime(at, "%Y-%m-%d")).days <= 30:
+            row["nameWas"], row["nameChangedAt"] = was, at
+    except ValueError:
+        pass
+    return None
+COLUMNS += [c for c in VALUATION_COLUMNS if c not in COLUMNS]       # the CSV carries them after financialCurrency
+# ===================================================================================================== /z187
+
+
 def fetch_quote(ticker, profile_cache):
     """Pull current quote + fundamentals for one ticker. Returns row dict."""
     t = yf.Ticker(ticker)
@@ -413,15 +714,23 @@ def fetch_quote(ticker, profile_cache):
     change = (price - prev_close) if prev_close else None
     changepct = (change / prev_close) if change is not None and prev_close else None
 
-    # Fundamentals — heavy call; cache it 24h
+    # Fundamentals — heavy call; cache it 24h. z187: when the price moved like a split since the profile was fetched
+    # (its market cap and ratios are on the other side of it), the profile is refreshed now.
     cached = profile_cache.get(ticker, {})
-    info = cached.get("info") if profile_is_fresh(cached) else None
+    fresh = profile_is_fresh(cached)
+    if fresh:
+        _px0 = profile_price(cached, cached.get("info"))
+        if _px0 and split_like(price / _px0):
+            fresh = False
+            log(f"  ↻ {ticker}: price {price:g} vs {_px0:g} when the profile was fetched looks like a split - profile refreshed")
+    info = cached.get("info") if fresh else None
     profile_fetched_at = cached.get("fetched_at", "")
     if info is None:
         try:
             info = t.info or {}
             profile_fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
-            profile_cache[ticker] = {"info": info, "fetched_at": profile_fetched_at}
+            profile_cache[ticker] = {"info": info, "fetched_at": profile_fetched_at,
+                                     "px": profile_price({}, info) or price}         # z187: the price the ratios are at
         except Exception as e:
             log(f"  ⚠ {ticker} .info failed: {e}")
             info = cached.get("info") or {}
@@ -511,40 +820,31 @@ def fetch_quote(ticker, profile_cache):
         "profile_fetched_at": profile_fetched_at,
     }
 
-    # ---- Balance-sheet / cashflow fallback ----
-    # Foreign ADRs (e.g. TSM) often return EMPTY balance-sheet fields from
-    # yfinance .info, leaving totalEquity / totalAssets / totalDebt / SBC blank
-    # so Research metrics like ROTCE, Debt/Equity and SBC% can't compute. The
-    # financial STATEMENTS usually carry the numbers even when .info doesn't.
-    # Best-effort: fills only the gaps, never overwrites, never fails the row.
+    # ---- Balance sheet / cash flow (z187) ----
+    # The latest QUARTER's balance sheet (it was last year's annual one, re-requested every night) - common equity for
+    # P/B, total equity / assets / debt for the row - plus stock-based comp from the cash-flow statement; both fetched
+    # once per profile version and cached with it. Best-effort: fills gaps, never fails the row.
+    bs = {}
     try:
-        _need_bs = (not row.get("totalEquity")) or (not row.get("totalAssets")) or (not row.get("totalDebt"))
-        if _need_bs:
-            _bs = t.balance_sheet
-            if _bs is not None and not _bs.empty:
-                _col = _bs.columns[0]
-                def _bsval(*names):
-                    for n in names:
-                        if n in _bs.index:
-                            v = _bs.loc[n, _col]
-                            if v == v and v is not None:
-                                return float(v)
-                    return None
-                if not row.get("totalEquity"):
-                    row["totalEquity"] = fmt_num(_bsval(
-                        "Stockholders Equity", "Total Equity Gross Minority Interest", "Common Stock Equity"))
-                if not row.get("totalAssets"):
-                    row["totalAssets"] = fmt_num(_bsval("Total Assets"))
-                if not row.get("totalDebt"):
-                    row["totalDebt"] = fmt_num(_bsval("Total Debt", "Long Term Debt"))
-        if not row.get("stockBasedComp"):
-            _cf = t.cashflow
-            if _cf is not None and not _cf.empty and "Stock Based Compensation" in _cf.index:
-                v = _cf.loc["Stock Based Compensation", _cf.columns[0]]
-                if v == v and v is not None:
-                    row["stockBasedComp"] = fmt_num(float(v))
-    except Exception as _e:
+        entry = profile_cache.get(ticker) or {}
+        bs = dict(entry.get("bs")) if isinstance(entry.get("bs"), dict) else {}
+        if bs.get("checked") != profile_fetched_at:
+            got = latest_balance(t)
+            sbc = bs.get("stockBasedComp")
+            if not row.get("stockBasedComp") and not sbc:
+                _cf = t.cashflow
+                if _cf is not None and not _cf.empty and "Stock Based Compensation" in _cf.index:
+                    v = _vf(_cf.loc["Stock Based Compensation", _cf.columns[0]])
+                    sbc = v if v is not None else None
+            bs = dict(got, stockBasedComp=sbc, checked=profile_fetched_at)
+            if ticker in profile_cache:
+                profile_cache[ticker]["bs"] = bs
+        for _k in ("totalEquity", "totalAssets", "totalDebt", "stockBasedComp"):
+            if bs.get(_k) is not None and not row.get(_k):
+                row[_k] = fmt_num(bs[_k])
+    except Exception:
         pass
+    apply_valuation(row, info, bs, price, profile_price(profile_cache.get(ticker), info))   # z187
 
     # Inject classifier-derived sector/industry/asset_class for non-equity
     # instruments (futures, FX, crypto, indices, mutual funds, private, options).
@@ -561,6 +861,14 @@ def fetch_quote(ticker, profile_cache):
     return row
 
 
+def _previous_rows():
+    try:
+        rows = json.loads(MASTER_JSON.read_text())
+        return {r.get("ticker"): r for r in rows if isinstance(r, dict) and r.get("ticker")}
+    except Exception:
+        return {}
+
+
 def main():
     tickers = load_tickers()
     if not tickers:
@@ -569,13 +877,23 @@ def main():
     log(f"Fetching {len(tickers)} tickers via yfinance…")
 
     profile_cache = load_profile_cache()
+    load_fx_rates({(e.get("info") or {}).get(k) for e in profile_cache.values() if isinstance(e, dict)
+                   for k in ("currency", "financialCurrency")})                          # z187: USD per unit, once
+    previous = _previous_rows()
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     rows = []
     n_ok = 0
+    renamed = []
+    fetched = set()
     for i, tic in enumerate(tickers, 1):
         try:
             row = fetch_quote(tic, profile_cache)
             if row:
+                was = carry_name_change(row, previous.get(tic), today)                  # z187
+                if was:
+                    renamed.append(f"{tic} ('{was}' -> '{row.get('name')}')")
                 rows.append(row)
+                fetched.add(tic)
                 n_ok += 1
             else:
                 log(f"  ✗ {tic}: no price data")
@@ -588,6 +906,21 @@ def main():
 
     save_profile_cache(profile_cache)
 
+    # z187: a ticker Yahoo didn't answer for keeps yesterday's row (its fetched_at says how old) instead of vanishing
+    # from the app, the bot and research until the next run
+    carried = [t for t in tickers if t not in fetched and t in previous]
+    rows += [previous[t] for t in carried]
+    if carried:
+        log(f"  {len(carried)} kept their previous row: " + ", ".join(carried[:30]) + (" …" if len(carried) > 30 else ""))
+    if renamed:
+        log(f"  ⚠ {len(renamed)} company name(s) changed - renamed, or the symbol now belongs to another company "
+            f"(check tickers.txt): " + "; ".join(renamed))
+    pv = [r for r in rows if r.get("priceToSales") or r.get("priceToBook")]
+    log(f"  valuation: {len(pv)} rows with P/B or P/S at today's price · "
+        f"{sum(1 for r in rows if 'neg-book' in str(r.get('valuationNote')))} negative book · "
+        f"{sum(1 for r in rows if 'mcap?' in str(r.get('valuationNote')))} market cap disagrees with P/E · "
+        f"{sum(1 for r in rows if 'fx-' in str(r.get('valuationNote')))} without an FX rate")
+
     DATA.mkdir(parents=True, exist_ok=True)
     with MASTER_CSV.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=COLUMNS, extrasaction="ignore")
@@ -596,7 +929,7 @@ def main():
             w.writerow(r)
     MASTER_JSON.write_text(json.dumps(rows, separators=(",", ":")))
 
-    log(f"✓ Wrote {n_ok}/{len(tickers)} rows to {MASTER_CSV.relative_to(ROOT)}")
+    log(f"✓ Wrote {len(rows)} rows ({n_ok}/{len(tickers)} fetched now) to {MASTER_CSV.relative_to(ROOT)}")
     return 0
 
 
