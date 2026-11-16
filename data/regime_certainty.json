@@ -1,21 +1,21 @@
 {
- "asOf": "2026-11-13",
- "generatedAt": "2026-11-13T22:05:43+00:00",
+ "asOf": "2026-11-16",
+ "generatedAt": "2026-11-16T22:51:06+00:00",
  "regime": "neutral",
  "quadNowcast": null,
  "quadOfficial": null,
- "certainty": 0.217,
+ "certainty": 0.304,
  "threshold": 0.65,
  "dialedIn": false,
  "mode": "regime-agnostic",
  "components": {
   "margin": {
-   "value": 0.117,
-   "score": 0.391,
+   "value": 0.204,
+   "score": 0.681,
    "weight": 0.3
   },
   "stability": {
-   "flips20": 5,
+   "flips20": 4,
    "score": 0.0,
    "weight": 0.25
   },
@@ -33,35 +33,21 @@
  },
  "trackRecord": {
   "horizonSessions": 21,
-  "n": 88,
-  "correct": 59,
-  "accuracyPct": 67.0,
-  "baseRateUpPct": 59.1,
+  "n": 89,
+  "correct": 60,
+  "accuracyPct": 67.4,
+  "baseRateUpPct": 58.4,
   "minN": 20,
   "capped": false
  },
  "why": [
-  "classifier picks neutral at 50% vs 38% runner-up",
-  "5 regime flip(s) in the last 20 sessions",
+  "classifier picks neutral at 55% vs 34% runner-up",
+  "4 regime flip(s) in the last 20 sessions",
   "quad nowcast or official quad missing",
   "market regime family 'flat' vs quad growth axis \u2192 0.5",
-  "track record 67% right over 88 judged calls (naive base rate 59%)"
+  "track record 67% right over 89 judged calls (naive base rate 58%)"
  ],
  "calls": [
-  {
-   "date": "2026-07-14",
-   "regime": "expansion",
-   "family": "up",
-   "fwd21Pct": 2.75,
-   "correct": true
-  },
-  {
-   "date": "2026-07-15",
-   "regime": "expansion",
-   "family": "up",
-   "fwd21Pct": 3.06,
-   "correct": true
-  },
   {
    "date": "2026-07-16",
    "regime": "expansion",
@@ -495,7 +481,9 @@
   {
    "date": "2026-10-15",
    "regime": "neutral",
-   "family": "flat"
+   "family": "flat",
+   "fwd21Pct": -2.26,
+   "correct": true
   },
   {
    "date": "2026-10-16",
@@ -619,6 +607,16 @@
   },
   {
    "date": "2026-11-13",
+   "regime": "neutral",
+   "family": "flat"
+  },
+  {
+   "date": "2026-11-14",
+   "regime": "neutral",
+   "family": "flat"
+  },
+  {
+   "date": "2026-11-16",
    "regime": "neutral",
    "family": "flat"
   }
