@@ -6,7 +6,7 @@
     "macro": 0.293,
     "liquidity": 0.0,
     "volatility": -0.149,
-    "valuation": -0.256,
+    "valuation": -0.253,
     "trend": 0.486,
     "breadth": 0.273,
     "commodity": -0.268,
@@ -72,8 +72,8 @@
     "valuation": {
       "spy_pe": 23.76,
       "earnings_yield": 0.0421,
-      "real_10y": 0.0107,
-      "fed_model_spread": 0.0314
+      "real_10y": 0.0104,
+      "fed_model_spread": 0.0317
     },
     "trend": {
       "spy_price": 739.95,
@@ -100,6 +100,6 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-11-17T21:45:04+00:00",
+  "computed_at": "2026-11-17T22:00:04+00:00",
   "inputs_complete": true
 }
