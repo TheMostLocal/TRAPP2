@@ -1,6 +1,6 @@
 {
  "asOf": "2026-11-17",
- "generatedAt": "2026-11-17T13:07:54+00:00",
+ "generatedAt": "2026-11-17T16:32:50+00:00",
  "regime": "neutral",
  "quadNowcast": null,
  "quadOfficial": null,
@@ -10,7 +10,7 @@
  "mode": "regime-agnostic",
  "components": {
   "margin": {
-   "value": 0.374,
+   "value": 0.479,
    "score": 1.0,
    "weight": 0.3
   },
@@ -41,7 +41,7 @@
   "capped": false
  },
  "why": [
-  "classifier picks neutral at 59% vs 22% runner-up",
+  "classifier picks neutral at 64% vs 16% runner-up",
   "4 regime flip(s) in the last 20 sessions",
   "quad nowcast or official quad missing",
   "market regime family 'flat' vs quad growth axis \u2192 0.5",

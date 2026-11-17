@@ -4,33 +4,33 @@
   "tickerCount": 22,
   "signals": {
     "macro": {
-      "raw": 0.3010075614914291,
+      "raw": 0.29337025853786564,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
         "avg_1m_sector_return": 0.0101,
         "n_sectors": 11,
-        "indpro_yoy": 0.0225
+        "indpro_yoy": 0.0215
       }
     },
     "liquidity": {
-      "raw": 0.050052020035770646,
+      "raw": 1.4713648579717242e-05,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
         "t10y2y": 0.29,
-        "hy_spread": 3.23,
-        "hy_spread_z": 0.51,
+        "hy_spread": 3.34,
+        "hy_spread_z": 0.84,
         "hyg_minus_lqd_1m": 0.0041
       }
     },
     "volatility": {
-      "raw": -0.45625000000000004,
+      "raw": -0.14937887385421192,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "vix_level": 19.3,
-        "vix9d_over_vix": 1.1995
+        "vix_level": 22.91,
+        "vix9d_over_vix": 1.0105
       }
     },
     "valuation": {
