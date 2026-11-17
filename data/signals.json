@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-signals-v1",
-  "updatedAt": "2026-11-17T16:45:04.052429Z",
+  "updatedAt": "2026-11-17T17:00:04.012883Z",
   "tickerCount": 22,
   "signals": {
     "macro": {
@@ -34,11 +34,11 @@
       }
     },
     "valuation": {
-      "raw": -0.24920744140914708,
+      "raw": -0.2513494287919234,
       "confidence": 0.85,
       "tier": "LIVE",
       "note": {
-        "spy_pe": 23.69,
+        "spy_pe": 23.71,
         "earnings_yield": 0.0422,
         "real_10y": 0.0107,
         "fed_model_spread": 0.0315
@@ -78,13 +78,13 @@
       }
     },
     "crypto": {
-      "raw": -0.7213149228570389,
+      "raw": -0.7258898161441744,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "btc_30d_return": -0.1987,
-        "btc_pct_from_50dma": -0.1812,
-        "eth_30d_return": -0.2415,
+        "btc_30d_return": -0.2031,
+        "btc_pct_from_50dma": -0.1828,
+        "eth_30d_return": -0.2419,
         "n_components": 3
       }
     }
