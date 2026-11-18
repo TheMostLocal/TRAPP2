@@ -1,17 +1,17 @@
 {
  "asOf": "2026-11-18",
- "generatedAt": "2026-11-18T13:08:00+00:00",
+ "generatedAt": "2026-11-18T16:33:10+00:00",
  "regime": "neutral",
  "quadNowcast": null,
  "quadOfficial": null,
- "certainty": 0.243,
+ "certainty": 0.326,
  "threshold": 0.65,
  "dialedIn": false,
  "mode": "regime-agnostic",
  "components": {
   "margin": {
-   "value": 0.143,
-   "score": 0.476,
+   "value": 0.226,
+   "score": 0.753,
    "weight": 0.3
   },
   "stability": {
@@ -41,7 +41,7 @@
   "capped": false
  },
  "why": [
-  "classifier picks neutral at 47% vs 33% runner-up",
+  "classifier picks neutral at 52% vs 29% runner-up",
   "4 regime flip(s) in the last 20 sessions",
   "quad nowcast or official quad missing",
   "market regime family 'flat' vs quad growth axis \u2192 0.5",
