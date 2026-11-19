@@ -31,6 +31,9 @@ AMZN
 TSLA
 AVGO
 ORCL
+# z195 (11-19): Anthropic, PBC is public today - Nasdaq Global Select "ANT" (IPO priced $83 on 11-18; first trade
+#   11-19 after the opening cross). Replaces TRAPP2-1's private-market ANTH.PVT (archived there: data/archive/ANTH.PVT.json).
+ANT
 SPX
 VIX
 RKT
