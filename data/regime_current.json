@@ -4,9 +4,9 @@
   "confidence": 0.981,
   "scores": {
     "macro": -0.18,
-    "liquidity": -0.181,
+    "liquidity": -0.178,
     "volatility": -0.425,
-    "valuation": -0.086,
+    "valuation": -0.083,
     "trend": 0.281,
     "breadth": -0.091,
     "commodity": -0.344,
@@ -26,9 +26,9 @@
     "expansion": 0.0098,
     "risk_on_melt_up": 0.0001,
     "inflation_shock": 0.0968,
-    "recession_fear": 0.1449,
-    "risk_off": 0.4321,
-    "neutral": 0.3163
+    "recession_fear": 0.1446,
+    "risk_off": 0.4317,
+    "neutral": 0.3169
   },
   "drivers": [
     {
@@ -60,7 +60,7 @@
       "indpro_yoy": 0.0215
     },
     "liquidity": {
-      "t10y2y": 0.28,
+      "t10y2y": 0.29,
       "hy_spread": 3.52,
       "hy_spread_z": 1.39,
       "hyg_minus_lqd_1m": -0.0025
@@ -72,8 +72,8 @@
     "valuation": {
       "spy_pe": 21.95,
       "earnings_yield": 0.0456,
-      "real_10y": 0.0099,
-      "fed_model_spread": 0.0357
+      "real_10y": 0.0096,
+      "fed_model_spread": 0.036
     },
     "trend": {
       "spy_price": 715.87,
