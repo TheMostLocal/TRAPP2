@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "fetchedAt": "2026-11-15T14:29:00.038795Z",
+  "fetchedAt": "2026-11-22T15:00:14.190851Z",
   "people": [
     {
       "qid": "Q84053114",
@@ -43,8 +43,8 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "businessperson",
-          "fighter pilot"
+          "fighter pilot",
+          "businessperson"
         ],
         "education": [
           "Yale University"
@@ -203,8 +203,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "entrepreneur",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -371,8 +371,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Buberl%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
           "business manager",
-          "bank teller",
           "businessperson",
+          "bank teller",
           "chairperson of the executive board"
         ],
         "education": [
@@ -403,8 +403,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Kellogg School of Management",
@@ -433,8 +433,8 @@
         "birthPlace": "Stamford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martha%20E.%20Pollack%20in%202017.jpg",
         "occupations": [
-          "university president",
-          "computer scientist"
+          "computer scientist",
+          "university president"
         ],
         "education": [
           "University of Pennsylvania",
@@ -537,8 +537,8 @@
         "birthPlace": "Kansas City",
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, San Diego"
@@ -562,6 +562,12 @@
         "education": [],
         "employers": [],
         "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2008-01-01",
+            "end": "2017-01-01"
+          },
           {
             "title": "board of directors member",
             "company": null,
@@ -610,8 +616,8 @@
         "birthPlace": "Campbell",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20J%20Watson%20Sr.jpg",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Columbia University"

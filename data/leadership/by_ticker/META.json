@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-11-15T14:29:00.049268Z",
+  "fetchedAt": "2026-11-22T15:00:14.200005Z",
   "people": [
     {
       "qid": "Q36215",
@@ -17,8 +17,8 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "chief executive officer",
           "entrepreneur",
+          "chief executive officer",
           "computer scientist"
         ],
         "education": [
@@ -58,15 +58,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
+          "executive",
           "economist",
-          "computer scientist",
           "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
+          "North Miami Beach High School",
           "Harvard Business School",
-          "Harvard College",
-          "North Miami Beach High School"
+          "Harvard College"
         ],
         "employers": [
           {
@@ -76,12 +77,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "vice president",
             "company": null,
@@ -115,6 +110,12 @@
           {
             "title": "board member",
             "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
             "start": "2012-01-01",
             "end": null
           },
@@ -139,8 +140,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -209,12 +210,12 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Lynbrook High School"
+          "Lynbrook High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -241,8 +242,8 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -252,11 +253,6 @@
           },
           {
             "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Motors",
             "start": null,
             "end": null
           },
@@ -274,6 +270,11 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -441,17 +442,17 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "investor",
           "manager",
           "banker",
-          "computer scientist",
+          "investor",
+          "entrepreneur",
           "writer",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -488,15 +489,15 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "blogger",
           "venture capitalist",
+          "programmer",
           "software engineer",
+          "blogger",
           "investor",
-          "inventor",
+          "engineer",
           "entrepreneur",
           "computer scientist",
-          "engineer"
+          "inventor"
         ],
         "education": [
           "New Lisbon High School",
@@ -539,8 +540,8 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "chief executive officer",
           "entrepreneur",
+          "chief executive officer",
           "computer scientist"
         ],
         "education": [
@@ -583,8 +584,8 @@
           "angel investor"
         ],
         "education": [
-          "Harvard Graduate School of Education",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Graduate School of Education"
         ],
         "employers": [
           {
@@ -611,8 +612,8 @@
           "patron of the arts",
           "philanthropist",
           "programmer",
-          "chief executive officer",
           "entrepreneur",
+          "chief executive officer",
           "computer scientist"
         ],
         "education": [

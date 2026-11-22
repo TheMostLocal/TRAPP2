@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-11-15T14:29:00.064714Z",
+  "fetchedAt": "2026-11-22T15:00:14.212496Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -231,14 +231,21 @@
         "dateOfBirth": "1953-01-17",
         "birthPlace": "Charlotte",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20O.%20Work%20DoD%20photo.jpg",
-        "occupations": [],
+        "occupations": [
+          "career officer"
+        ],
         "education": [
-          "University of Illinois System",
-          "University of Southern California",
           "Naval Postgraduate School",
-          "Paul H. Nitze School of Advanced International Studies"
+          "Paul H. Nitze School of Advanced International Studies",
+          "University of Illinois System",
+          "University of Southern California"
         ],
         "employers": [
+          {
+            "company": "United States Department of the Navy",
+            "start": null,
+            "end": null
+          },
           {
             "company": "United States Department of Defense",
             "start": null,
@@ -246,11 +253,6 @@
           },
           {
             "company": "George Washington University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }
@@ -283,13 +285,14 @@
         "birthPlace": "Lexington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mosullivan-100.jpg",
         "occupations": [
+          "political scientist",
           "civil servant"
         ],
         "education": [
           "Georgetown University",
-          "University of Oxford",
           "Saddleback High School",
-          "Lexington High School"
+          "Lexington High School",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -320,7 +323,6 @@
         "birthPlace": "Coronado",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
-          "military officer",
           "admiral",
           "military officer",
           "naval air force"
@@ -373,8 +375,8 @@
         "birthPlace": "Agra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DPaliwal%20Sep009.JPG",
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Dr. Hari Singh Gour University",
@@ -397,8 +399,8 @@
         "birthPlace": "Temple",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Anthony%20Harris%20Jr.jpg",
         "occupations": [
-          "astronaut",
-          "physician"
+          "physician",
+          "astronaut"
         ],
         "education": [
           "Texas Tech University Health Sciences Center",

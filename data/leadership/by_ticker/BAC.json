@@ -1,6 +1,6 @@
 {
   "ticker": "BAC",
-  "fetchedAt": "2026-11-15T14:29:00.015670Z",
+  "fetchedAt": "2026-11-22T15:00:14.171559Z",
   "people": [
     {
       "qid": "Q912811",
@@ -106,7 +106,8 @@
         "birthPlace": "Norristown",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Zuber%2C%20MIT%20Media%20Lab%20%28cropped%29.jpg",
         "occupations": [
-          "astronomer"
+          "astronomer",
+          "geophysicist"
         ],
         "education": [
           "Brown University",
@@ -219,8 +220,8 @@
         "birthPlace": "New Orleans",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynote%20%2826689303657%29.jpg",
         "occupations": [
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -466,9 +467,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Booth School of Business",
+          "University of Pennsylvania",
           "University of Chicago",
-          "University of Pennsylvania"
+          "Booth School of Business"
         ],
         "employers": [
           {

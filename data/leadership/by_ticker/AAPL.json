@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-11-15T14:29:00.005903Z",
+  "fetchedAt": "2026-11-22T15:00:14.163091Z",
   "people": [
     {
       "qid": "Q709063",
@@ -51,16 +51,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
-          "orator",
           "blogger",
+          "environmentalist",
+          "financier",
+          "journalist",
           "university teacher",
           "farmer",
-          "environmentalist",
-          "journalist",
-          "financier",
-          "writer",
+          "climate activist",
+          "orator",
           "businessperson",
+          "writer",
           "politician"
         ],
         "education": [
@@ -129,14 +129,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -153,8 +153,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -268,8 +268,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -301,33 +301,28 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "electronics technician",
-          "inventor",
-          "entrepreneur",
-          "engineer",
-          "computer scientist",
-          "businessperson",
           "teacher",
-          "actor"
+          "actor",
+          "businessperson",
+          "computer scientist",
+          "programmer",
+          "engineer",
+          "electronics technician",
+          "entrepreneur",
+          "inventor"
         ],
         "education": [
+          "University of Colorado Boulder",
+          "Homestead High School",
           "University of California, Berkeley",
           "University of Colorado",
-          "De Anza College",
-          "University of Colorado Boulder",
-          "Homestead High School"
+          "De Anza College"
         ],
         "employers": [
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Technology Sydney",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -337,7 +332,12 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Technology Sydney",
             "start": null,
             "end": null
           }
@@ -357,25 +357,30 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
           "designer",
-          "founder",
           "film producer",
+          "founder",
+          "technology entrepreneur",
           "financier",
-          "entrepreneur",
-          "computer scientist",
-          "inventor",
           "general manager",
-          "executive producer"
+          "executive producer",
+          "entrepreneur",
+          "inventor",
+          "computer scientist"
         ],
         "education": [
+          "De Anza College",
           "Homestead High School",
-          "Reed College",
-          "De Anza College"
+          "Reed College"
         ],
         "employers": [
           {
             "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "NeXT",
             "start": null,
             "end": null
           },
@@ -388,20 +393,9 @@
             "company": "Atari, Inc.",
             "start": null,
             "end": null
-          },
-          {
-            "company": "NeXT",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1985-01-01",
-            "end": "1997-01-01"
-          },
           {
             "title": "chief executive officer",
             "company": null,
@@ -418,6 +412,12 @@
             "title": "chief executive officer",
             "company": null,
             "start": "1995-11-29",
+            "end": "1997-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1985-01-01",
             "end": "1997-01-01"
           }
         ]

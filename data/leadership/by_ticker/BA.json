@@ -1,6 +1,6 @@
 {
   "ticker": "BA",
-  "fetchedAt": "2026-11-15T14:29:00.014901Z",
+  "fetchedAt": "2026-11-22T15:00:14.170901Z",
   "people": [
     {
       "qid": "Q104862847",
@@ -132,8 +132,8 @@
         "occupations": [
           "cricketer",
           "merchant",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Christ Church Grammar School",
@@ -177,6 +177,7 @@
         "birthPlace": "Dublin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Willie%20Walsh%20%28cropped%29.jpg",
         "occupations": [
+          "literary scholar",
           "entrepreneur",
           "businessperson"
         ],
@@ -242,8 +243,8 @@
         "image": null,
         "occupations": [
           "manager",
-          "economist",
           "university teacher",
+          "economist",
           "politician"
         ],
         "education": [
@@ -273,8 +274,8 @@
         "birthPlace": "London",
         "image": null,
         "occupations": [
-          "businessperson",
-          "politician"
+          "politician",
+          "businessperson"
         ],
         "education": [
           "Haileybury and Imperial Service College",

@@ -1,6 +1,6 @@
 {
   "ticker": "VZ",
-  "fetchedAt": "2026-11-15T14:29:00.077164Z",
+  "fetchedAt": "2026-11-22T15:00:14.223077Z",
   "people": [
     {
       "qid": "Q1582880",
@@ -44,8 +44,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shellye-Archambeau-CEO.jpg",
         "occupations": [
           "business executive",
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "The Wharton School"
@@ -66,8 +66,8 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Bertolini%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Cornell University",

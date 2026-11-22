@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-11-15T14:29:00.075410Z",
+  "fetchedAt": "2026-11-22T15:00:14.221610Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -180,16 +180,6 @@
         ],
         "employers": [
           {
-            "company": "Oracle Corporation",
-            "start": "2000-01-01",
-            "end": "2010-01-01"
-          },
-          {
-            "company": "Infor Global Solutions",
-            "start": "2010-01-01",
-            "end": "2019-01-01"
-          },
-          {
             "company": "Imperva",
             "start": "2020-01-01",
             "end": null
@@ -198,6 +188,16 @@
             "company": "Arthur Andersen",
             "start": "1995-01-01",
             "end": "2000-01-01"
+          },
+          {
+            "company": "Oracle Corporation",
+            "start": "2000-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "company": "Infor Global Solutions",
+            "start": "2010-01-01",
+            "end": "2019-01-01"
           }
         ],
         "positions": [
@@ -223,15 +223,15 @@
         "image": null,
         "occupations": [
           "manager",
-          "business executive",
-          "accountant"
+          "accountant",
+          "business executive"
         ],
         "education": [],
         "employers": [
           {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Gap Inc.",
@@ -247,11 +247,6 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
           },
           {
             "company": "Dick's Sporting Goods",
@@ -281,9 +276,9 @@
         "birthPlace": "Barcelona",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
         "occupations": [
-          "chief executive officer",
+          "businessperson",
           "chairperson",
-          "businessperson"
+          "chief executive officer"
         ],
         "education": [
           "Thunderbird School of Global Management",

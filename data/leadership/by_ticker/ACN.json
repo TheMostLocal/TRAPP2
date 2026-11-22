@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-11-15T14:29:00.008146Z",
+  "fetchedAt": "2026-11-22T15:00:14.165061Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -55,8 +55,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -270,9 +270,9 @@
         "education": [
           "ESSEC Business School",
           "Harvard Business School",
+          "\u00c9cole alsacienne",
           "Harvard University",
-          "lyc\u00e9e du Parc",
-          "\u00c9cole alsacienne"
+          "lyc\u00e9e du Parc"
         ],
         "employers": [
           {
@@ -372,10 +372,10 @@
           "business executive"
         ],
         "education": [
-          "University of California, Berkeley",
           "Bangalore Military School",
           "Haas School of Business",
-          "Indian Institute of Technology Kharagpur"
+          "Indian Institute of Technology Kharagpur",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -412,8 +412,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Rhode Island",

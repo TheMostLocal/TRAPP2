@@ -1,6 +1,6 @@
 {
   "ticker": "WFC",
-  "fetchedAt": "2026-11-15T14:29:00.078356Z",
+  "fetchedAt": "2026-11-22T15:00:14.224084Z",
   "people": [
     {
       "qid": "Q18386868",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Scharf%20in%202020.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Johns Hopkins University",
@@ -124,8 +124,8 @@
           "businessperson"
         ],
         "education": [
-          "Franklin & Marshall College",
-          "New York University"
+          "New York University",
+          "Franklin & Marshall College"
         ],
         "employers": [
           {
@@ -294,8 +294,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Scharf%20in%202020.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Johns Hopkins University",

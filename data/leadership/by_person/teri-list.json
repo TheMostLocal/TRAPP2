@@ -6,15 +6,15 @@
   "image": null,
   "occupations": [
     "manager",
-    "business executive",
-    "accountant"
+    "accountant",
+    "business executive"
   ],
   "education": [],
   "employers": [
     {
-      "company": "Dick's Sporting Goods",
-      "start": "2015-08-01",
-      "end": "2016-08-01"
+      "company": "Procter & Gamble",
+      "start": "1994-01-01",
+      "end": "2013-01-01"
     },
     {
       "company": "Gap Inc.",
@@ -32,11 +32,6 @@
       "end": "2015-05-01"
     },
     {
-      "company": "Procter & Gamble",
-      "start": "1994-01-01",
-      "end": "2013-01-01"
-    },
-    {
       "company": "Dick's Sporting Goods",
       "start": "2015-08-01",
       "end": "2016-08-01"
@@ -51,6 +46,7 @@
     }
   ],
   "currentTickers": [
+    "MSFT",
     "V"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-11-15T14:29:00.054020Z",
+  "fetchedAt": "2026-11-22T15:00:14.203866Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -74,8 +74,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "venture capitalist",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
           "University of Montana"
@@ -137,10 +137,10 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
-          "rapper",
-          "animator",
+          "film producer",
           "film director",
-          "film producer"
+          "rapper",
+          "animator"
         ],
         "education": [
           "Jesuit High School",
@@ -247,15 +247,15 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "writer",
           "philanthropist",
+          "entrepreneur",
           "businessperson",
-          "entrepreneur"
+          "writer"
         ],
         "education": [
+          "Stanford University",
           "Oregon State University",
           "University of Oregon",
-          "Stanford University",
           "Charles H. Lundquist College of Business",
           "Cleveland High School"
         ],
@@ -284,9 +284,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Dartmouth College",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -310,19 +310,19 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
           "manager",
-          "computer scientist",
+          "presenter",
           "chief executive officer",
+          "computer scientist",
           "engineer",
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
           {
@@ -358,15 +358,15 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "writer",
           "philanthropist",
+          "entrepreneur",
           "businessperson",
-          "entrepreneur"
+          "writer"
         ],
         "education": [
+          "Stanford University",
           "Oregon State University",
           "University of Oregon",
-          "Stanford University",
           "Charles H. Lundquist College of Business",
           "Cleveland High School"
         ],

@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-11-15T14:29:00.055420Z",
+  "fetchedAt": "2026-11-22T15:00:14.205032Z",
   "people": [
     {
       "qid": "Q124911295",
@@ -203,10 +203,9 @@
         "occupations": [],
         "education": [
           "Harvard Business School",
-          "USC Viterbi School of Engineering",
-          "Harvard Business School",
           "Harvard University",
-          "University of Southern California"
+          "University of Southern California",
+          "USC Viterbi School of Engineering"
         ],
         "employers": [],
         "positions": [

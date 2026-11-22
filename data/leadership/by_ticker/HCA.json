@@ -1,6 +1,6 @@
 {
   "ticker": "HCA",
-  "fetchedAt": "2026-11-15T14:29:00.037030Z",
+  "fetchedAt": "2026-11-22T15:00:14.189410Z",
   "people": [
     {
       "qid": "Q80049510",
@@ -14,14 +14,19 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "manager"
+          "manager",
+          "entrepreneur"
         ],
         "education": [
-          "University of Chicago",
-          "Syracuse University"
+          "Syracuse University",
+          "University of Chicago"
         ],
         "employers": [
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
           {
             "company": "General Electric",
             "start": null,
@@ -29,11 +34,6 @@
           },
           {
             "company": "Merck & Co.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -142,13 +142,13 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nancy-Ann%20DeParle%20official%20portrait.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
+          "University of Tennessee",
           "Balliol College",
-          "Harvard Law School",
-          "University of Tennessee"
+          "Harvard Law School"
         ],
         "employers": [
           {

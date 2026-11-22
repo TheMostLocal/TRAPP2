@@ -1,6 +1,6 @@
 {
   "ticker": "HOOD",
-  "fetchedAt": "2026-11-15T14:29:00.038185Z",
+  "fetchedAt": "2026-11-22T15:00:14.190350Z",
   "people": [
     {
       "qid": "Q56248473",
@@ -17,8 +17,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
-          "Thomas Jefferson High School for Science and Technology"
+          "Thomas Jefferson High School for Science and Technology",
+          "Stanford University"
         ],
         "employers": [
           {

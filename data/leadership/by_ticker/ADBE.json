@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-11-15T14:29:00.008864Z",
+  "fetchedAt": "2026-11-22T15:00:14.165566Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -14,8 +14,8 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Haas School of Business",
@@ -181,8 +181,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -297,8 +297,8 @@
         "birthPlace": "Campinas",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CristianoAmon.jpeg",
         "occupations": [
-          "electronic engineer",
-          "businessperson"
+          "businessperson",
+          "electronic engineer"
         ],
         "education": [],
         "employers": [
@@ -380,8 +380,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Temple University Beasley School of Law"
+          "Temple University Beasley School of Law",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -412,8 +412,8 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Haas School of Business",
@@ -453,14 +453,19 @@
         "occupations": [
           "university teacher",
           "software developer",
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Xavier University",
           "Carnegie Mellon University"
         ],
         "employers": [
+          {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Palo Alto Research Center",
             "start": "1972-01-01",
@@ -470,11 +475,6 @@
             "company": "John Carroll University",
             "start": "1963-01-01",
             "end": "1968-01-01"
-          },
-          {
-            "company": "Adobe",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -499,11 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
+          "computer scientist",
           "entrepreneur",
           "mathematician",
-          "computer scientist",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Olympus High School",

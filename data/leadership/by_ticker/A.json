@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-11-15T14:29:00.004504Z",
+  "fetchedAt": "2026-11-22T15:00:14.161981Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -333,22 +333,22 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
         ],
         "employers": [
           {
-            "company": "Pfizer",
-            "start": "2009-01-01",
-            "end": null
-          },
-          {
             "company": "Wyeth",
             "start": "2008-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Pfizer",
+            "start": "2009-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -377,8 +377,8 @@
           "business executive"
         ],
         "education": [
-          "University of Massachusetts",
-          "Cornell University"
+          "Cornell University",
+          "University of Massachusetts"
         ],
         "employers": [],
         "positions": [
@@ -478,9 +478,9 @@
           "physician"
         ],
         "education": [
+          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine",
-          "University of Chicago"
+          "Pritzker School of Medicine"
         ],
         "employers": [
           {
@@ -525,10 +525,10 @@
           "chairperson"
         ],
         "education": [
-          "Harvard Business School",
+          "Imperial College London",
           "University of London",
-          "Harvard University",
-          "Imperial College London"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [

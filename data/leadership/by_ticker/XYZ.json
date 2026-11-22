@@ -1,6 +1,6 @@
 {
   "ticker": "XYZ",
-  "fetchedAt": "2026-11-15T14:29:00.080638Z",
+  "fetchedAt": "2026-11-22T15:00:14.226055Z",
   "people": [
     {
       "qid": "Q335552",
@@ -14,13 +14,13 @@
         "birthPlace": "St. Louis",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dorsey%202014.jpg",
         "occupations": [
-          "computer scientist",
           "blogger",
-          "businessperson",
+          "computer scientist",
+          "programmer",
+          "entrepreneur",
           "business executive",
           "billionaire",
-          "programmer",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "Bishop DuBourg High School",
@@ -74,13 +74,13 @@
         "birthPlace": "St. Louis",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dorsey%202014.jpg",
         "occupations": [
-          "computer scientist",
           "blogger",
-          "businessperson",
+          "computer scientist",
+          "programmer",
+          "entrepreneur",
           "business executive",
           "billionaire",
-          "programmer",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "Bishop DuBourg High School",

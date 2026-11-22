@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-11-15T14:29:00.013808Z",
+  "fetchedAt": "2026-11-22T15:00:14.169967Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -32,11 +32,6 @@
             "end": null
           },
           {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -50,6 +45,11 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -74,9 +74,9 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
           "entrepreneur",
-          "university teacher",
-          "computer scientist"
+          "university teacher"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -126,16 +126,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Dell EMC",
-            "start": "2008-02-01",
-            "end": "2016-01-01"
-          },
-          {
-            "company": "BearingPoint",
-            "start": "2005-03-01",
-            "end": "2007-12-01"
-          },
-          {
             "company": "Accenture",
             "start": "2001-06-19",
             "end": "2004-07-01"
@@ -144,6 +134,16 @@
             "company": "Oracle Corporation",
             "start": "2004-07-01",
             "end": "2005-03-01"
+          },
+          {
+            "company": "Dell EMC",
+            "start": "2008-02-01",
+            "end": "2016-01-01"
+          },
+          {
+            "company": "BearingPoint",
+            "start": "2005-03-01",
+            "end": "2007-12-01"
           }
         ],
         "positions": [
@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "investor"
+          "investor",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -271,8 +271,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
-          "businessperson"
+          "businessperson",
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -328,11 +328,6 @@
             "end": null
           },
           {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -346,6 +341,11 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -442,9 +442,9 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
           "entrepreneur",
-          "university teacher",
-          "computer scientist"
+          "university teacher"
         ],
         "education": [
           "University of California, Los Angeles",

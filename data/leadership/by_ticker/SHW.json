@@ -1,6 +1,6 @@
 {
   "ticker": "SHW",
-  "fetchedAt": "2026-11-15T14:29:00.065850Z",
+  "fetchedAt": "2026-11-22T15:00:14.213466Z",
   "people": [
     {
       "qid": "Q99694465",
@@ -14,9 +14,10 @@
         "birthPlace": "Wolfen",
         "image": null,
         "occupations": [
-          "graphic designer",
           "graphic artist",
-          "photographer"
+          "photographer",
+          "painter",
+          "graphic designer"
         ],
         "education": [],
         "employers": [],

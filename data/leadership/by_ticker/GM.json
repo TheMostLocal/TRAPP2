@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-11-15T14:29:00.034885Z",
+  "fetchedAt": "2026-11-22T15:00:14.187736Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -101,9 +101,9 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Yale School of Management",
-          "Yale College"
+          "Yale College",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -122,8 +122,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
           "entrepreneur",
-          "executive",
-          "businessperson"
+          "businessperson",
+          "executive"
         ],
         "education": [
           "Grosse Ile High School"
@@ -215,9 +215,9 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "businessperson",
           "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley",
@@ -313,8 +313,8 @@
         ],
         "education": [
           "University of Toronto",
-          "University of California, Berkeley",
           "Harvard Business School",
+          "University of California, Berkeley",
           "Harvard University"
         ],
         "employers": [
@@ -339,9 +339,9 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "businessperson",
           "politician",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -490,16 +490,38 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "lawyer",
-          "business executive",
+          "chief executive officer",
           "board member",
-          "chief executive officer"
+          "business executive",
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Union College",
           "Columbia Law School"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Reuters",
+            "start": "2003-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "company": "eBay",
+            "start": "2011-01-01",
+            "end": "2019-01-01"
+          },
+          {
+            "company": "Thomson Reuters",
+            "start": "2008-01-01",
+            "end": "2011-01-01"
+          }
+        ],
         "positions": []
       }
     },
@@ -518,9 +540,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -538,14 +560,14 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "entrepreneur",
           "politician",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
-          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -556,11 +578,6 @@
           {
             "company": "Bain & Company",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
             "end": null
           },
           {
@@ -586,6 +603,11 @@
           {
             "company": "Quibi",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
             "end": null
           }
         ],

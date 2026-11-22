@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "fetchedAt": "2026-11-15T14:29:00.016932Z",
+  "fetchedAt": "2026-11-22T15:00:14.172673Z",
   "people": [
     {
       "qid": "Q3218882",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Fink%20with%20Valdis%20Dombrovskis%20%28cropped%29.jpg",
         "occupations": [
           "economist",
-          "financier",
           "manager",
+          "financier",
           "politician"
         ],
         "education": [
@@ -25,13 +25,13 @@
         ],
         "employers": [
           {
-            "company": "First Boston",
-            "start": null,
+            "company": "BlackRock",
+            "start": "1988-01-01",
             "end": null
           },
           {
-            "company": "BlackRock",
-            "start": "1988-01-01",
+            "company": "First Boston",
+            "start": null,
             "end": null
           }
         ],
@@ -64,8 +64,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Fink%20with%20Valdis%20Dombrovskis%20%28cropped%29.jpg",
         "occupations": [
           "economist",
-          "financier",
           "manager",
+          "financier",
           "politician"
         ],
         "education": [
@@ -74,13 +74,13 @@
         ],
         "employers": [
           {
-            "company": "First Boston",
-            "start": null,
+            "company": "BlackRock",
+            "start": "1988-01-01",
             "end": null
           },
           {
-            "company": "BlackRock",
-            "start": "1988-01-01",
+            "company": "First Boston",
+            "start": null,
             "end": null
           }
         ],

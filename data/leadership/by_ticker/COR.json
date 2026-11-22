@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-11-15T14:29:00.021695Z",
+  "fetchedAt": "2026-11-22T15:00:14.176652Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -283,8 +283,8 @@
         "birthPlace": "Woodburn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20E.%20Henney.jpg",
         "occupations": [
-          "physician",
-          "oncologist"
+          "oncologist",
+          "physician"
         ],
         "education": [
           "Manchester University",
@@ -292,17 +292,17 @@
         ],
         "employers": [
           {
-            "company": "University of New Mexico",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "University of Cincinnati",
             "start": null,
             "end": null
           },
           {
             "company": "United States Food and Drug Administration",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of New Mexico",
             "start": null,
             "end": null
           }

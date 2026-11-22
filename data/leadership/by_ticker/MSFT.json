@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-11-15T14:29:00.051882Z",
+  "fetchedAt": "2026-11-22T15:00:14.202088Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -14,12 +14,11 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
+          "manager",
+          "electrotechnician",
           "chief executive officer",
-          "manager",
-          "electrotechnician",
           "entrepreneur",
-          "manager",
-          "electrotechnician",
+          "engineer",
           "computer scientist"
         ],
         "education": [
@@ -105,15 +104,15 @@
         "image": null,
         "occupations": [
           "manager",
-          "business executive",
-          "accountant"
+          "accountant",
+          "business executive"
         ],
         "education": [],
         "employers": [
           {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Gap Inc.",
@@ -131,9 +130,9 @@
             "end": "2015-05-01"
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
           }
         ],
         "positions": [
@@ -158,14 +157,19 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "manager"
+          "manager",
+          "entrepreneur"
         ],
         "education": [
-          "University of Chicago",
-          "Syracuse University"
+          "Syracuse University",
+          "University of Chicago"
         ],
         "employers": [
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
           {
             "company": "General Electric",
             "start": null,
@@ -173,11 +177,6 @@
           },
           {
             "company": "Merck & Co.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -197,12 +196,12 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "executive"
+          "executive",
+          "businessperson"
         ],
         "education": [
-          "St Swithun's School",
-          "University of Oxford"
+          "University of Oxford",
+          "St Swithun's School"
         ],
         "employers": [
           {
@@ -274,9 +273,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
-          "entrepreneur",
+          "politician",
           "business executive",
-          "politician"
+          "entrepreneur"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -306,13 +305,13 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
-          "investor",
           "consultant",
           "podcaster",
-          "writer",
           "financier",
+          "investor",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "writer"
         ],
         "education": [
           "Stanford University",
@@ -373,8 +372,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Scharf%20in%202020.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Johns Hopkins University",
@@ -396,12 +395,11 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
+          "manager",
+          "electrotechnician",
           "chief executive officer",
-          "manager",
-          "electrotechnician",
           "entrepreneur",
-          "manager",
-          "electrotechnician",
+          "engineer",
           "computer scientist"
         ],
         "education": [
@@ -445,25 +443,25 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "television producer",
-          "investor",
-          "inventor",
           "co-founder",
-          "film producer",
           "philanthropist",
           "art collector",
           "record producer",
           "programmer",
+          "investor",
+          "film producer",
           "musician",
+          "television producer",
+          "inventor",
           "entrepreneur",
-          "computer scientist",
           "businessperson",
+          "computer scientist",
           "composer"
         ],
         "education": [
           "Washington State University",
-          "Lakeside School",
-          "Harvard University"
+          "Harvard University",
+          "Lakeside School"
         ],
         "employers": [
           {

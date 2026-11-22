@@ -1,6 +1,6 @@
 {
   "ticker": "TRV",
-  "fetchedAt": "2026-11-15T14:29:00.071948Z",
+  "fetchedAt": "2026-11-22T15:00:14.218745Z",
   "people": [
     {
       "qid": "Q1405941",
@@ -14,11 +14,11 @@
         "birthPlace": "New York City",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson",
           "insurance executive",
           "business executive",
-          "entrepreneur"
+          "chief executive officer",
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of Pennsylvania",
@@ -124,8 +124,8 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
-          "Williams College"
+          "Williams College",
+          "Columbia University"
         ],
         "employers": [],
         "positions": []
@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "University of Pennsylvania",

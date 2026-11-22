@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-11-15T14:29:00.044752Z",
+  "fetchedAt": "2026-11-22T15:00:14.196307Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -204,7 +204,7 @@
         ],
         "employers": [
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -269,6 +269,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
+          },
+          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -277,11 +282,6 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
           }
         ],
         "positions": [
@@ -309,8 +309,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Law School",
+          "Princeton University",
           "Harvard Business School"
         ],
         "employers": [
@@ -457,8 +457,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "basketball player",
           "accountant",
+          "basketball player",
           "businessperson"
         ],
         "education": [
@@ -493,8 +493,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "researcher",
           "oncologist",
+          "researcher",
           "university teacher"
         ],
         "education": [

@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-11-15T14:29:00.046905Z",
+  "fetchedAt": "2026-11-22T15:00:14.198097Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -14,8 +14,8 @@
         "birthPlace": "Oberg\u00fcnzburg",
         "image": null,
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Passau",
@@ -116,8 +116,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Law School",
+          "Princeton University",
           "Harvard Business School"
         ],
         "employers": [
@@ -155,8 +155,8 @@
         "birthPlace": "Oberg\u00fcnzburg",
         "image": null,
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Passau",
@@ -286,8 +286,8 @@
           "teacher"
         ],
         "education": [
-          "Yale University",
-          "Stanford University"
+          "Stanford University",
+          "Yale University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "QCOM",
-  "fetchedAt": "2026-11-15T14:29:00.063010Z",
+  "fetchedAt": "2026-11-22T15:00:14.210887Z",
   "people": [
     {
       "qid": "Q110471964",
@@ -14,8 +14,8 @@
         "birthPlace": "Campinas",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CristianoAmon.jpeg",
         "occupations": [
-          "electronic engineer",
-          "businessperson"
+          "businessperson",
+          "electronic engineer"
         ],
         "education": [],
         "employers": [

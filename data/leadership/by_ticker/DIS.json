@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-11-15T14:29:00.026778Z",
+  "fetchedAt": "2026-11-22T15:00:14.180936Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -160,11 +160,11 @@
         "birthPlace": "Oceanside",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
         "occupations": [
-          "television producer",
           "film producer",
           "business executive",
-          "entrepreneur",
-          "businessperson"
+          "television producer",
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "The Center for Early Education",
@@ -203,6 +203,12 @@
             "end": "2005-01-01"
           },
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2005-10-01",
+            "end": "2020-02-25"
+          },
+          {
             "title": "president",
             "company": null,
             "start": "1989-01-01",
@@ -213,12 +219,6 @@
             "company": null,
             "start": "2022-11-20",
             "end": "2026-03-17"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2005-10-01",
-            "end": "2020-02-25"
           }
         ]
       }
@@ -239,9 +239,9 @@
           "manager"
         ],
         "education": [
-          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh"
+          "University of Pittsburgh",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -299,9 +299,9 @@
           "manager"
         ],
         "education": [
-          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh"
+          "University of Pittsburgh",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -469,11 +469,11 @@
           "politician"
         ],
         "education": [
-          "Harvard Law School",
-          "University of Oxford",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
+          "Harvard Law School",
           "The Branson School",
+          "University of Oxford",
           "Princeton University"
         ],
         "employers": [],
@@ -618,8 +618,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Indiana University",

@@ -1,6 +1,6 @@
 {
   "ticker": "CVS",
-  "fetchedAt": "2026-11-15T14:29:00.024468Z",
+  "fetchedAt": "2026-11-22T15:00:14.179023Z",
   "people": [
     {
       "qid": "Q106086392",
@@ -14,12 +14,12 @@
         "birthPlace": "Ware",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
-          "Boston College",
-          "Boston University"
+          "Boston University",
+          "Boston College"
         ],
         "employers": [
           {
@@ -160,12 +160,12 @@
         "birthPlace": "Ware",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
-          "Boston College",
-          "Boston University"
+          "Boston University",
+          "Boston College"
         ],
         "employers": [
           {
@@ -269,13 +269,13 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Bertolini%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
+          "Cornell University",
           "Samuel Curtis Johnson Graduate School of Management",
-          "Wayne State University",
-          "Cornell University"
+          "Wayne State University"
         ],
         "employers": [
           {
@@ -304,13 +304,13 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nancy-Ann%20DeParle%20official%20portrait.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
+          "University of Tennessee",
           "Balliol College",
-          "Harvard Law School",
-          "University of Tennessee"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -334,8 +334,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SchapiroMary.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "George Washington University Law School",
@@ -453,8 +453,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "College of the Holy Cross",
-          "Columbia University"
+          "Columbia University",
+          "College of the Holy Cross"
         ],
         "employers": [],
         "positions": []
