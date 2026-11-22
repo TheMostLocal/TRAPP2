@@ -1,6 +1,6 @@
 {
   "ticker": "MCK",
-  "fetchedAt": "2026-11-15T14:29:00.047976Z",
+  "fetchedAt": "2026-11-22T14:12:25.873500Z",
   "people": [
     {
       "qid": "Q107769686",
@@ -56,8 +56,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Alliance Manchester Business School",
-          "University of Manchester"
+          "University of Manchester",
+          "Alliance Manchester Business School"
         ],
         "employers": [],
         "positions": []
@@ -163,6 +163,11 @@
             "company": "Bell Labs",
             "start": "1980-01-01",
             "end": "1991-01-01"
+          },
+          {
+            "company": "Motorola",
+            "start": "1991-01-01",
+            "end": "2000-01-01"
           },
           {
             "company": "Salesforce",
@@ -319,11 +324,11 @@
           "politician"
         ],
         "education": [
-          "City University of New York",
-          "University of Arizona",
           "DeWitt Clinton High School",
           "Bronx Community College",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "City University of New York",
+          "University of Arizona"
         ],
         "employers": [
           {

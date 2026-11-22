@@ -1,6 +1,6 @@
 {
   "ticker": "KHC",
-  "fetchedAt": "2026-11-15T14:29:00.043142Z",
+  "fetchedAt": "2026-11-22T14:12:25.868567Z",
   "people": [
     {
       "qid": "Q293679",
@@ -14,9 +14,9 @@
         "birthPlace": "Jeddah",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Waleed%20bin%20Talal%202015.jpg",
         "occupations": [
-          "entrepreneur",
           "philanthropist",
-          "investor"
+          "investor",
+          "entrepreneur"
         ],
         "education": [
           "Menlo College",
@@ -38,9 +38,9 @@
         "birthPlace": "Jeddah",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Waleed%20bin%20Talal%202015.jpg",
         "occupations": [
-          "entrepreneur",
           "philanthropist",
-          "investor"
+          "investor",
+          "entrepreneur"
         ],
         "education": [
           "Menlo College",

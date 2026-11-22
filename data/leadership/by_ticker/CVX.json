@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-11-15T14:29:00.025064Z",
+  "fetchedAt": "2026-11-22T14:28:24.254487Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -43,8 +43,8 @@
         "birthPlace": "Lusaka",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
         "occupations": [
-          "writer",
-          "economist"
+          "economist",
+          "writer"
         ],
         "education": [
           "Kogod School of Business",
@@ -56,12 +56,12 @@
         ],
         "employers": [
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           }
@@ -100,17 +100,17 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "missionary",
-          "ambassador",
           "diplomat",
+          "missionary",
           "politician",
-          "governor"
+          "governor",
+          "ambassador"
         ],
         "education": [
-          "Highland High School",
-          "The Wharton School",
           "National Taiwan Normal University",
-          "University of Utah"
+          "University of Utah",
+          "Highland High School",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": [
@@ -177,9 +177,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University"
+          "Wesleyan University",
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": []
@@ -258,8 +258,8 @@
         "education": [
           "Columbia Business School",
           "University of Alabama",
-          "Columbia University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Columbia University"
         ],
         "employers": [
           {
@@ -307,8 +307,8 @@
           "academic administrator"
         ],
         "education": [
-          "Princeton University",
-          "University of Southern California"
+          "University of Southern California",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -460,8 +460,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "engineer",
-          "military flight engineer"
+          "military flight engineer",
+          "engineer"
         ],
         "education": [
           "Bronx High School of Science",

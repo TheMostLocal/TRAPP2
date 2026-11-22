@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-11-15T14:29:00.008146Z",
+  "fetchedAt": "2026-11-22T14:28:24.236732Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -55,8 +55,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -138,8 +138,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jope%20%28born%20c.%201963%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -270,9 +270,9 @@
         "education": [
           "ESSEC Business School",
           "Harvard Business School",
+          "\u00c9cole alsacienne",
           "Harvard University",
-          "lyc\u00e9e du Parc",
-          "\u00c9cole alsacienne"
+          "lyc\u00e9e du Parc"
         ],
         "employers": [
           {
@@ -412,8 +412,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Rhode Island",
@@ -463,11 +463,6 @@
         ],
         "employers": [
           {
-            "company": "Qualcomm",
-            "start": "2004-01-01",
-            "end": "2015-01-01"
-          },
-          {
             "company": "Koninklijke Philips NV",
             "start": "1983-01-01",
             "end": "2000-01-01"
@@ -476,6 +471,11 @@
             "company": "Intel",
             "start": "2015-11-01",
             "end": "2020-08-01"
+          },
+          {
+            "company": "Qualcomm",
+            "start": "2004-01-01",
+            "end": "2015-01-01"
           },
           {
             "company": "Skyworks Solutions",
