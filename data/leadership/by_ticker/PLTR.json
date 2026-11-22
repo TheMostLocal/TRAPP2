@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-11-22T14:46:32.124149Z",
+  "fetchedAt": "2026-11-22T15:00:14.209233Z",
   "people": [
     {
       "qid": "Q19560940",
@@ -14,9 +14,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "philosopher",
           "chief executive officer",
+          "merchant",
           "jurist",
           "entrepreneur"
         ],
@@ -47,9 +47,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "philosopher",
           "chief executive officer",
+          "merchant",
           "jurist",
           "entrepreneur"
         ],
@@ -103,11 +103,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
           "manager",
-          "writer",
           "banker",
           "investor",
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "writer",
+          "computer scientist"
         ],
         "education": [
           "Stanford Law School",
@@ -171,13 +171,13 @@
         "birthPlace": "Fremont",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
         "occupations": [
-          "venture capitalist",
           "angel investor",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
-          "Stanford University",
-          "Mission San Jose High School"
+          "Mission San Jose High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -246,11 +246,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
           "manager",
-          "writer",
           "banker",
           "investor",
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "writer",
+          "computer scientist"
         ],
         "education": [
           "Stanford Law School",
@@ -292,9 +292,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "merchant",
           "philosopher",
           "chief executive officer",
+          "merchant",
           "jurist",
           "entrepreneur"
         ],

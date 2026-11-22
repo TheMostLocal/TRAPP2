@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-11-22T14:28:24.234563Z",
+  "fetchedAt": "2026-11-22T15:00:14.163091Z",
   "people": [
     {
       "qid": "Q709063",
@@ -51,14 +51,14 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
-          "orator",
           "blogger",
           "environmentalist",
           "financier",
           "journalist",
           "university teacher",
           "farmer",
+          "climate activist",
+          "orator",
           "businessperson",
           "writer",
           "politician"
@@ -301,26 +301,31 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "electronics technician",
-          "inventor",
-          "entrepreneur",
-          "engineer",
-          "computer scientist",
-          "businessperson",
           "teacher",
-          "actor"
+          "actor",
+          "businessperson",
+          "computer scientist",
+          "programmer",
+          "engineer",
+          "electronics technician",
+          "entrepreneur",
+          "inventor"
         ],
         "education": [
-          "University of Colorado",
-          "De Anza College",
           "University of Colorado Boulder",
+          "Homestead High School",
           "University of California, Berkeley",
-          "Homestead High School"
+          "University of Colorado",
+          "De Anza College"
         ],
         "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Atari, Inc.",
             "start": null,
@@ -333,11 +338,6 @@
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -358,29 +358,29 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
           "designer",
-          "technology entrepreneur",
-          "founder",
           "film producer",
+          "founder",
+          "technology entrepreneur",
+          "financier",
           "general manager",
           "executive producer",
-          "financier",
+          "entrepreneur",
           "inventor",
-          "computer scientist",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
+          "De Anza College",
           "Homestead High School",
-          "Reed College",
-          "De Anza College"
+          "Reed College"
         ],
         "employers": [
           {
-            "company": "NeXT",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },
@@ -390,18 +390,12 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1985-01-01",
-            "end": "1997-01-01"
-          },
           {
             "title": "chief executive officer",
             "company": null,
@@ -418,6 +412,12 @@
             "title": "chief executive officer",
             "company": null,
             "start": "1995-11-29",
+            "end": "1997-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1985-01-01",
             "end": "1997-01-01"
           }
         ]

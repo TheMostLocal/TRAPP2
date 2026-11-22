@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-11-22T14:46:32.127637Z",
+  "fetchedAt": "2026-11-22T15:00:14.212496Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -235,10 +235,10 @@
           "career officer"
         ],
         "education": [
-          "University of Illinois System",
-          "University of Southern California",
           "Naval Postgraduate School",
-          "Paul H. Nitze School of Advanced International Studies"
+          "Paul H. Nitze School of Advanced International Studies",
+          "University of Illinois System",
+          "University of Southern California"
         ],
         "employers": [
           {
@@ -323,9 +323,9 @@
         "birthPlace": "Coronado",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
+          "admiral",
           "military officer",
-          "naval air force",
-          "admiral"
+          "naval air force"
         ],
         "education": [
           "Fort Hunt High School",
@@ -375,8 +375,8 @@
         "birthPlace": "Agra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DPaliwal%20Sep009.JPG",
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Dr. Hari Singh Gour University",

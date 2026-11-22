@@ -1,6 +1,6 @@
 {
   "ticker": "LOW",
-  "fetchedAt": "2026-11-22T14:12:25.871360Z",
+  "fetchedAt": "2026-11-22T15:00:14.197187Z",
   "people": [
     {
       "qid": "Q22279080",
@@ -166,8 +166,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Duke University"
@@ -251,8 +251,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []

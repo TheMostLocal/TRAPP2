@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-11-22T14:28:24.249252Z",
+  "fetchedAt": "2026-11-22T15:00:14.175124Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -139,8 +139,8 @@
           "businessperson"
         ],
         "education": [
-          "London School of Economics and Political Science",
           "Harvard Business School",
+          "London School of Economics and Political Science",
           "Stanford University"
         ],
         "employers": [],
@@ -163,8 +163,8 @@
           "nurse"
         ],
         "education": [
-          "Villanova University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Villanova University"
         ],
         "employers": [],
         "positions": []

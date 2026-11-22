@@ -7,9 +7,9 @@
   "occupations": [
     "executive",
     "economist",
-    "computer scientist",
+    "businessperson",
     "entrepreneur",
-    "businessperson"
+    "computer scientist"
   ],
   "education": [
     "North Miami Beach High School",
@@ -24,24 +24,6 @@
     }
   ],
   "positions": [
-    {
-      "title": "board member",
-      "company": null,
-      "start": "2012-01-01",
-      "end": null
-    },
-    {
-      "title": "research assistant",
-      "company": null,
-      "start": null,
-      "end": null
-    },
-    {
-      "title": "board member",
-      "company": null,
-      "start": null,
-      "end": null
-    },
     {
       "title": "vice president",
       "company": null,
@@ -71,6 +53,24 @@
       "company": null,
       "start": "2008-03-01",
       "end": "2022-09-01"
+    },
+    {
+      "title": "board member",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "board member",
+      "company": null,
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "title": "research assistant",
+      "company": null,
+      "start": null,
+      "end": null
     }
   ],
   "currentTickers": [

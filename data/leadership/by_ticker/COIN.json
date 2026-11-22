@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "fetchedAt": "2026-11-22T14:28:24.250336Z",
+  "fetchedAt": "2026-11-22T15:00:14.176024Z",
   "people": [
     {
       "qid": "Q64705310",
@@ -16,8 +16,8 @@
         "occupations": [
           "chief executive officer",
           "business executive",
-          "businessperson",
-          "software engineer"
+          "software engineer",
+          "businessperson"
         ],
         "education": [
           "Bellarmine College Preparatory"
@@ -46,8 +46,8 @@
         "occupations": [
           "chief executive officer",
           "business executive",
-          "businessperson",
-          "software engineer"
+          "software engineer",
+          "businessperson"
         ],
         "education": [
           "Bellarmine College Preparatory"

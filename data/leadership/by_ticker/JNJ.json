@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-11-22T14:12:25.867252Z",
+  "fetchedAt": "2026-11-22T15:00:14.193548Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -62,9 +62,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
+          "business executive",
           "merchant",
-          "entrepreneur",
-          "business executive"
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -188,10 +188,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
           "molecular biologist",
-          "crystallographer",
-          "university teacher",
           "chemist",
-          "biochemist"
+          "university teacher",
+          "biochemist",
+          "crystallographer"
         ],
         "education": [
           "Pomona College",
@@ -205,8 +205,8 @@
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
             "end": null
           },
           {
@@ -215,8 +215,8 @@
             "end": "2002-01-01"
           },
           {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
             "end": null
           }
         ],
@@ -435,9 +435,9 @@
           "businessperson"
         ],
         "education": [
+          "Syracuse University",
           "Michigan State University",
-          "Harvard Business School",
-          "Syracuse University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -474,9 +474,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
+          "business executive",
           "merchant",
-          "entrepreneur",
-          "business executive"
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -522,16 +522,16 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "lecturer",
           "executive",
           "business manager",
-          "chief executive officer",
+          "lecturer",
           "entrepreneur",
-          "merchant"
+          "merchant",
+          "chief executive officer"
         ],
         "education": [
-          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
+          "HEC Paris",
           "Paris Institute of Political Studies"
         ],
         "employers": [
@@ -752,10 +752,10 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
-          "University of Southern California",
           "USC Gould School of Law",
-          "Georgetown University Law Center"
+          "Georgetown University Law Center",
+          "Columbia University",
+          "University of Southern California"
         ],
         "employers": [],
         "positions": [

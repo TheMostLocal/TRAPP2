@@ -5,10 +5,10 @@
   "birthPlace": "Perth",
   "image": null,
   "occupations": [
-    "engineer",
-    "merchant",
     "cricketer",
-    "businessperson"
+    "merchant",
+    "businessperson",
+    "engineer"
   ],
   "education": [
     "Christ Church Grammar School",

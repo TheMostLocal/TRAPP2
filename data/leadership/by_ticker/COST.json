@@ -1,6 +1,6 @@
 {
   "ticker": "COST",
-  "fetchedAt": "2026-11-22T14:28:24.251534Z",
+  "fetchedAt": "2026-11-22T15:00:14.177053Z",
   "people": [
     {
       "qid": "Q114361370",
@@ -133,9 +133,9 @@
           "business executive"
         ],
         "education": [
-          "Choate Rosemary Hall",
           "Harvard Business School",
-          "Harvard College"
+          "Harvard College",
+          "Choate Rosemary Hall"
         ],
         "employers": [],
         "positions": [
@@ -284,8 +284,8 @@
         "image": null,
         "occupations": [
           "computer scientist",
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -332,8 +332,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Jewell%20and%20the%20Northwest%20Youth%20Corps%20%288818705428%29.jpg",
         "occupations": [
           "politician",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Seattle Country Day School",

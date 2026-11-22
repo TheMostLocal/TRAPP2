@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-11-22T14:28:24.237359Z",
+  "fetchedAt": "2026-11-22T15:00:14.165566Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -14,8 +14,8 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Haas School of Business",
@@ -412,8 +412,8 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Haas School of Business",
@@ -454,6 +454,7 @@
           "university teacher",
           "entrepreneur",
           "software developer",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -499,11 +500,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "businessperson",
-          "mathematician",
           "computer scientist",
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "mathematician",
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Olympus High School",

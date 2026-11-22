@@ -1,6 +1,6 @@
 {
   "ticker": "SHOP",
-  "fetchedAt": "2026-11-22T14:46:32.128631Z",
+  "fetchedAt": "2026-11-22T15:00:14.213289Z",
   "people": [
     {
       "qid": "Q20684647",
@@ -14,8 +14,8 @@
         "birthPlace": "Koblenz",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tobias%20L%C3%BCtke%2C%20Shopify.jpg",
         "occupations": [
-          "entrepreneur",
-          "programmer"
+          "programmer",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [

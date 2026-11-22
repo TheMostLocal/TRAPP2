@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-11-22T14:28:24.251101Z",
+  "fetchedAt": "2026-11-22T15:00:14.176652Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -283,8 +283,8 @@
         "birthPlace": "Woodburn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20E.%20Henney.jpg",
         "occupations": [
-          "physician",
-          "oncologist"
+          "oncologist",
+          "physician"
         ],
         "education": [
           "Manchester University",

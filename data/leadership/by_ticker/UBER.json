@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "fetchedAt": "2026-11-22T14:46:32.136962Z",
+  "fetchedAt": "2026-11-22T15:00:14.220215Z",
   "people": [
     {
       "qid": "Q5221979",
@@ -350,7 +350,10 @@
           "investment banker"
         ],
         "education": [
+          "Antioch Community High School",
+          "Howard University",
           "Harvard Business School",
+          "Yale University",
           "Massachusetts Institute of Technology",
           "Yale University",
           "Antioch Community High School",
@@ -379,8 +382,8 @@
         "birthPlace": "Manhattan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula-Burns.jpg",
         "occupations": [
-          "business executive",
-          "engineer"
+          "engineer",
+          "business executive"
         ],
         "education": [
           "Columbia University",

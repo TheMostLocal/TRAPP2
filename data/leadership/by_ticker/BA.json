@@ -1,6 +1,6 @@
 {
   "ticker": "BA",
-  "fetchedAt": "2026-11-22T14:28:24.243730Z",
+  "fetchedAt": "2026-11-22T15:00:14.170901Z",
   "people": [
     {
       "qid": "Q104862847",
@@ -130,10 +130,10 @@
         "birthPlace": "Perth",
         "image": null,
         "occupations": [
-          "engineer",
-          "merchant",
           "cricketer",
-          "businessperson"
+          "merchant",
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Christ Church Grammar School",
@@ -274,8 +274,8 @@
         "birthPlace": "London",
         "image": null,
         "occupations": [
-          "businessperson",
-          "politician"
+          "politician",
+          "businessperson"
         ],
         "education": [
           "Haileybury and Imperial Service College",

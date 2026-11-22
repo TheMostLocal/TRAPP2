@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "fetchedAt": "2026-11-22T14:28:24.245877Z",
+  "fetchedAt": "2026-11-22T15:00:14.172673Z",
   "people": [
     {
       "qid": "Q3218882",
@@ -14,10 +14,10 @@
         "birthPlace": "Van Nuys",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Fink%20with%20Valdis%20Dombrovskis%20%28cropped%29.jpg",
         "occupations": [
-          "politician",
-          "manager",
           "economist",
-          "financier"
+          "manager",
+          "financier",
+          "politician"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -63,10 +63,10 @@
         "birthPlace": "Van Nuys",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Fink%20with%20Valdis%20Dombrovskis%20%28cropped%29.jpg",
         "occupations": [
-          "politician",
-          "manager",
           "economist",
-          "financier"
+          "manager",
+          "financier",
+          "politician"
         ],
         "education": [
           "University of California, Los Angeles",

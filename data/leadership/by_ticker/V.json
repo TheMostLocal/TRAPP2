@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-11-22T14:46:32.138610Z",
+  "fetchedAt": "2026-11-22T15:00:14.221610Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -180,16 +180,6 @@
         ],
         "employers": [
           {
-            "company": "Oracle Corporation",
-            "start": "2000-01-01",
-            "end": "2010-01-01"
-          },
-          {
-            "company": "Infor Global Solutions",
-            "start": "2010-01-01",
-            "end": "2019-01-01"
-          },
-          {
             "company": "Imperva",
             "start": "2020-01-01",
             "end": null
@@ -198,6 +188,16 @@
             "company": "Arthur Andersen",
             "start": "1995-01-01",
             "end": "2000-01-01"
+          },
+          {
+            "company": "Oracle Corporation",
+            "start": "2000-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "company": "Infor Global Solutions",
+            "start": "2010-01-01",
+            "end": "2019-01-01"
           }
         ],
         "positions": [
@@ -224,10 +224,16 @@
         "occupations": [
           "accountant",
           "manager",
+          "accountant",
           "business executive"
         ],
         "education": [],
         "employers": [
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
+          },
           {
             "company": "Gap Inc.",
             "start": "2017-01-01",
@@ -276,9 +282,9 @@
         "birthPlace": "Barcelona",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
         "occupations": [
-          "chief executive officer",
+          "businessperson",
           "chairperson",
-          "businessperson"
+          "chief executive officer"
         ],
         "education": [
           "Thunderbird School of Global Management",

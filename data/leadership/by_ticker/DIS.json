@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-11-22T14:28:24.256255Z",
+  "fetchedAt": "2026-11-22T15:00:14.180936Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -163,8 +163,8 @@
           "film producer",
           "business executive",
           "television producer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "The Center for Early Education",
@@ -472,8 +472,8 @@
           "Princeton School of Public and International Affairs",
           "St Antony's College",
           "Harvard Law School",
-          "University of Oxford",
           "The Branson School",
+          "University of Oxford",
           "Princeton University"
         ],
         "employers": [],
@@ -618,8 +618,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Indiana University",

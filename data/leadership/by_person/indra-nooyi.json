@@ -17,19 +17,19 @@
   ],
   "employers": [
     {
-      "company": "PepsiCo",
-      "start": "1994-01-01",
-      "end": "2018-01-01"
-    },
-    {
       "company": "Motorola",
       "start": null,
       "end": null
     },
     {
-      "company": "Johnson & Johnson",
+      "company": "Booz Allen Hamilton",
       "start": null,
       "end": null
+    },
+    {
+      "company": "PepsiCo",
+      "start": "1994-01-01",
+      "end": "2018-01-01"
     },
     {
       "company": "Boston Consulting Group",

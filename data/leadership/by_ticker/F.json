@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "fetchedAt": "2026-11-22T14:28:24.262060Z",
+  "fetchedAt": "2026-11-22T15:00:14.185189Z",
   "people": [
     {
       "qid": "Q18921712",
@@ -117,8 +117,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -484,11 +484,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "diplomat",
           "missionary",
-          "politician",
+          "diplomat",
           "governor",
-          "ambassador"
+          "ambassador",
+          "politician"
         ],
         "education": [
           "National Taiwan Normal University",

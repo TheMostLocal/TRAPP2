@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-11-22T14:46:32.120284Z",
+  "fetchedAt": "2026-11-22T15:00:14.206059Z",
   "people": [
     {
       "qid": "Q92759",
@@ -16,9 +16,9 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "businessperson",
+          "computer scientist",
           "actor",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "University of Chicago",
@@ -301,10 +301,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
           "university teacher",
+          "writer",
           "economist",
-          "academic",
-          "businessperson",
-          "writer"
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -321,12 +320,12 @@
             "end": null
           },
           {
-            "company": "Harvard University",
+            "company": "University of California, Berkeley",
             "start": null,
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -424,8 +423,8 @@
           "university teacher",
           "politician",
           "political scientist",
-          "lawyer",
-          "jurist"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "Santa Clara University School of Law",
@@ -653,9 +652,9 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "businessperson",
+          "computer scientist",
           "actor",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "University of Chicago",
@@ -716,9 +715,9 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "businessperson",
+          "computer scientist",
           "actor",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "University of Chicago",

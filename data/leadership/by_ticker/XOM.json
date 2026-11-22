@@ -1,6 +1,6 @@
 {
   "ticker": "XOM",
-  "fetchedAt": "2026-11-22T14:46:32.143040Z",
+  "fetchedAt": "2026-11-22T15:00:14.225565Z",
   "people": [
     {
       "qid": "Q28018191",
@@ -357,7 +357,8 @@
           "Harvard University",
           "Georgetown University",
           "Clark University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -482,8 +483,8 @@
         "birthPlace": "Manhattan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula-Burns.jpg",
         "occupations": [
-          "business executive",
-          "engineer"
+          "engineer",
+          "business executive"
         ],
         "education": [
           "Columbia University",

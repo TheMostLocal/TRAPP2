@@ -5,12 +5,12 @@
   "birthPlace": "Budapest",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
   "occupations": [
-    "scientist",
-    "writer",
-    "professor",
     "entrepreneur",
     "computer scientist",
-    "engineer"
+    "professor",
+    "engineer",
+    "scientist",
+    "writer"
   ],
   "education": [
     "University of California, Berkeley",

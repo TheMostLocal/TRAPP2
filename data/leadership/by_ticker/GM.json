@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-11-22T14:28:24.265299Z",
+  "fetchedAt": "2026-11-22T15:00:14.187736Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -216,8 +216,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "chief executive officer",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley",
@@ -312,9 +312,9 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Toronto",
           "Harvard Business School",
+          "University of California, Berkeley",
           "Harvard University"
         ],
         "employers": [
@@ -493,8 +493,8 @@
           "chief executive officer",
           "board member",
           "business executive",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Union College",
@@ -502,9 +502,9 @@
         ],
         "employers": [
           {
-            "company": "Thomson Reuters",
-            "start": "2008-01-01",
-            "end": "2011-01-01"
+            "company": "Reuters",
+            "start": "2003-01-01",
+            "end": "2008-01-01"
           },
           {
             "company": "General Motors",
@@ -517,9 +517,9 @@
             "end": "2019-01-01"
           },
           {
-            "company": "Reuters",
-            "start": "2003-01-01",
-            "end": "2008-01-01"
+            "company": "Thomson Reuters",
+            "start": "2008-01-01",
+            "end": "2011-01-01"
           }
         ],
         "positions": []
@@ -560,14 +560,14 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "entrepreneur",
+          "politician",
           "business executive",
-          "politician"
+          "entrepreneur"
         ],
         "education": [
-          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -608,6 +608,16 @@
           {
             "company": "The Walt Disney Company",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Quibi",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
             "end": null
           }
         ],

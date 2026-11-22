@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-11-22T14:28:24.266762Z",
+  "fetchedAt": "2026-11-22T15:00:14.188854Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "businessperson",
           "computer scientist",
-          "director"
+          "director",
+          "businessperson"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -321,9 +321,9 @@
           "chief financial officer"
         ],
         "education": [
+          "Harvard University",
           "Union College",
           "Bronx High School of Science",
-          "Harvard University",
           "Harvard Business School"
         ],
         "employers": [
@@ -348,8 +348,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",

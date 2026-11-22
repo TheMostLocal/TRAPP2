@@ -1,6 +1,6 @@
 {
   "ticker": "GD",
-  "fetchedAt": "2026-11-22T14:28:24.264149Z",
+  "fetchedAt": "2026-11-22T15:00:14.186819Z",
   "people": [
     {
       "qid": "Q4970379",
@@ -250,9 +250,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Chicago",
           "Duke University",
-          "Booth School of Business",
-          "University of Chicago"
+          "Booth School of Business"
         ],
         "employers": [],
         "positions": []
@@ -376,9 +376,9 @@
         "birthPlace": "Pullman",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Mattis%20official%20photo.jpg",
         "occupations": [
-          "army officer",
+          "politician",
           "military officer",
-          "politician"
+          "army officer"
         ],
         "education": [
           "Richland High School",

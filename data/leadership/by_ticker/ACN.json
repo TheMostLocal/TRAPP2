@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-11-22T14:28:24.236732Z",
+  "fetchedAt": "2026-11-22T15:00:14.165061Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -372,10 +372,10 @@
           "business executive"
         ],
         "education": [
-          "University of California, Berkeley",
           "Bangalore Military School",
           "Haas School of Business",
-          "Indian Institute of Technology Kharagpur"
+          "Indian Institute of Technology Kharagpur",
+          "University of California, Berkeley"
         ],
         "employers": [
           {

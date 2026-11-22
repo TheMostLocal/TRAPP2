@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-11-22T14:12:25.865577Z",
+  "fetchedAt": "2026-11-22T15:00:14.191872Z",
   "people": [
     {
       "qid": "Q1148995",
@@ -43,12 +43,12 @@
         "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
-          "scientist",
-          "writer",
-          "professor",
           "entrepreneur",
           "computer scientist",
-          "engineer"
+          "professor",
+          "engineer",
+          "scientist",
+          "writer"
         ],
         "education": [
           "University of California, Berkeley",
@@ -106,16 +106,18 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
+          "engineer",
+          "physicist",
           "chemist",
           "physicist",
           "entrepreneur",
           "engineer"
         ],
         "education": [
-          "University of California, Berkeley",
+          "California Institute of Technology",
           "Sequoia High School",
           "San Jos\u00e9 State University",
-          "California Institute of Technology"
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -140,9 +142,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
+          "businessperson",
           "computer scientist",
-          "physicist",
-          "businessperson"
+          "physicist"
         ],
         "education": [
           "Massachusetts Institute of Technology",
@@ -170,10 +172,10 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "entrepreneur",
-          "chemist",
+          "businessperson",
           "engineer",
-          "businessperson"
+          "chemist",
+          "entrepreneur"
         ],
         "education": [
           "Lynbrook High School",
@@ -347,11 +349,11 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
+          "computer scientist",
           "university teacher",
           "electrotechnician",
-          "electrical engineer",
-          "computer scientist"
+          "academic",
+          "electrical engineer"
         ],
         "education": [
           "University of California, Berkeley",
@@ -423,9 +425,11 @@
           "Stony Brook University",
           "The Bush School",
           "The Wharton School",
+          "Harvard University",
           "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University"
+          "Stony Brook University",
+          "The Bush School"
         ],
         "employers": [
           {
@@ -516,9 +520,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Stanford University",
           "Strongsville High School",
-          "University of Cincinnati",
-          "Stanford University"
+          "University of Cincinnati"
         ],
         "employers": [],
         "positions": []
@@ -558,8 +562,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -648,12 +652,12 @@
         "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
-          "scientist",
-          "writer",
-          "professor",
           "entrepreneur",
           "computer scientist",
-          "engineer"
+          "professor",
+          "engineer",
+          "scientist",
+          "writer"
         ],
         "education": [
           "University of California, Berkeley",
@@ -711,16 +715,18 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
+          "engineer",
+          "physicist",
           "chemist",
           "physicist",
           "entrepreneur",
           "engineer"
         ],
         "education": [
-          "University of California, Berkeley",
+          "California Institute of Technology",
           "Sequoia High School",
           "San Jos\u00e9 State University",
-          "California Institute of Technology"
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -745,9 +751,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
+          "businessperson",
           "computer scientist",
-          "physicist",
-          "businessperson"
+          "physicist"
         ],
         "education": [
           "Massachusetts Institute of Technology",

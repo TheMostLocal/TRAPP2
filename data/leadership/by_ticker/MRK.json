@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-11-22T14:12:25.876534Z",
+  "fetchedAt": "2026-11-22T15:00:14.201422Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
           "business executive",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Pennsylvania State University",
@@ -448,9 +448,11 @@
           "Stony Brook University",
           "The Bush School",
           "The Wharton School",
+          "Harvard University",
           "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University"
+          "Stony Brook University",
+          "The Bush School"
         ],
         "employers": [
           {
@@ -532,8 +534,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
           "business executive",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Pennsylvania State University",

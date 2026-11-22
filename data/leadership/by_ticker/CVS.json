@@ -1,6 +1,6 @@
 {
   "ticker": "CVS",
-  "fetchedAt": "2026-11-22T14:28:24.253943Z",
+  "fetchedAt": "2026-11-22T15:00:14.179023Z",
   "people": [
     {
       "qid": "Q106086392",
@@ -14,8 +14,8 @@
         "birthPlace": "Ware",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Boston University",
@@ -160,8 +160,8 @@
         "birthPlace": "Ware",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karen%20S.%20Lynch%20by%20Rick%20Bern%20Photography.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Boston University",
@@ -273,9 +273,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Cornell University",
           "Samuel Curtis Johnson Graduate School of Management",
-          "Wayne State University",
-          "Cornell University"
+          "Wayne State University"
         ],
         "employers": [
           {

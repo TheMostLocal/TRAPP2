@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-11-22T14:28:24.236074Z",
+  "fetchedAt": "2026-11-22T15:00:14.164469Z",
   "people": [
     {
       "qid": "Q95569597",
@@ -385,13 +385,13 @@
           "military officer"
         ],
         "education": [
+          "Syracuse University",
+          "George Washington University",
+          "Air University",
           "National Defense University",
           "Virginia Military Institute",
           "Hampton High School",
-          "Embry\u2013Riddle Aeronautical University",
-          "Syracuse University",
-          "George Washington University",
-          "Air University"
+          "Embry\u2013Riddle Aeronautical University"
         ],
         "employers": [],
         "positions": [
@@ -458,12 +458,12 @@
             "end": null
           },
           {
-            "company": "University of Chicago",
+            "company": "New York University",
             "start": null,
             "end": null
           },
           {
-            "company": "New York University",
+            "company": "University of Chicago",
             "start": null,
             "end": null
           }

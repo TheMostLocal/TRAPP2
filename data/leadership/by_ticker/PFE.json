@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-11-22T14:46:32.122107Z",
+  "fetchedAt": "2026-11-22T15:00:14.207515Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -14,11 +14,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "executive",
           "business executive",
           "pharmacologist",
-          "entrepreneur",
-          "veterinarian"
+          "executive",
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -52,11 +52,11 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "researcher",
-          "physician",
           "molecular geneticist",
+          "biochemist",
+          "researcher",
           "university teacher",
-          "biochemist"
+          "physician"
         ],
         "education": [
           "Stanford University"
@@ -147,9 +147,9 @@
           "chief executive officer"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Nevada, Reno",
           "University of California, San Francisco",
+          "University of California, Berkeley",
           "Bishop Manogue High School"
         ],
         "employers": [
@@ -211,11 +211,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "executive",
           "business executive",
           "pharmacologist",
-          "entrepreneur",
-          "veterinarian"
+          "executive",
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -279,17 +279,17 @@
         ],
         "employers": [
           {
+            "company": "Grossman School of Medicine",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "United States Food and Drug Administration",
             "start": null,
             "end": null
           },
           {
             "company": "American Enterprise Institute",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Grossman School of Medicine",
             "start": null,
             "end": null
           }
@@ -355,12 +355,12 @@
         ],
         "employers": [
           {
-            "company": "University of California, San Francisco",
+            "company": "New York University",
             "start": null,
             "end": null
           },
           {
-            "company": "New York University",
+            "company": "University of California, San Francisco",
             "start": null,
             "end": null
           }
@@ -419,9 +419,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "university teacher",
+          "neuroscientist",
           "physiologist",
-          "neuroscientist"
+          "university teacher"
         ],
         "education": [
           "Georgetown University",

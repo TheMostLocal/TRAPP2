@@ -8,8 +8,8 @@
     "chief executive officer",
     "board member",
     "business executive",
-    "lawyer",
-    "businessperson"
+    "businessperson",
+    "lawyer"
   ],
   "education": [
     "Union College",
@@ -17,9 +17,9 @@
   ],
   "employers": [
     {
-      "company": "Thomson Reuters",
-      "start": "2008-01-01",
-      "end": "2011-01-01"
+      "company": "Reuters",
+      "start": "2003-01-01",
+      "end": "2008-01-01"
     },
     {
       "company": "General Motors",
@@ -32,9 +32,9 @@
       "end": "2019-01-01"
     },
     {
-      "company": "Reuters",
-      "start": "2003-01-01",
-      "end": "2008-01-01"
+      "company": "Thomson Reuters",
+      "start": "2008-01-01",
+      "end": "2011-01-01"
     }
   ],
   "positions": [],

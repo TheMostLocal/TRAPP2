@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-11-22T14:28:24.240586Z",
+  "fetchedAt": "2026-11-22T15:00:14.168220Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -294,8 +294,8 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "spy",
           "soldier",
+          "spy",
           "intelligence officer"
         ],
         "education": [
@@ -335,9 +335,9 @@
         "image": null,
         "occupations": [
           "university teacher",
-          "academic",
           "executive",
           "dean",
+          "academic",
           "computer scientist"
         ],
         "education": [
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Horace Mann School",
@@ -490,19 +490,19 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "company": "Motorola",
             "start": null,
             "end": null
           },
           {
-            "company": "Johnson & Johnson",
+            "company": "Booz Allen Hamilton",
             "start": null,
             "end": null
+          },
+          {
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
           },
           {
             "company": "Boston Consulting Group",

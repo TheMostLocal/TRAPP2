@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-11-22T14:28:24.254487Z",
+  "fetchedAt": "2026-11-22T15:00:14.179456Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -100,11 +100,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "diplomat",
           "missionary",
-          "politician",
+          "diplomat",
           "governor",
-          "ambassador"
+          "ambassador",
+          "politician"
         ],
         "education": [
           "National Taiwan Normal University",

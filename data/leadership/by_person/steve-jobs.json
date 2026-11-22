@@ -6,29 +6,29 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
   "occupations": [
     "designer",
-    "technology entrepreneur",
-    "founder",
     "film producer",
+    "founder",
+    "technology entrepreneur",
+    "financier",
     "general manager",
     "executive producer",
-    "financier",
+    "entrepreneur",
     "inventor",
-    "computer scientist",
-    "entrepreneur"
+    "computer scientist"
   ],
   "education": [
+    "De Anza College",
     "Homestead High School",
-    "Reed College",
-    "De Anza College"
+    "Reed College"
   ],
   "employers": [
     {
-      "company": "NeXT",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     },
     {
-      "company": "Atari, Inc.",
+      "company": "NeXT",
       "start": null,
       "end": null
     },
@@ -38,18 +38,12 @@
       "end": null
     },
     {
-      "company": "Apple Inc.",
+      "company": "Atari, Inc.",
       "start": null,
       "end": null
     }
   ],
   "positions": [
-    {
-      "title": "chief executive officer",
-      "company": null,
-      "start": "1985-01-01",
-      "end": "1997-01-01"
-    },
     {
       "title": "chief executive officer",
       "company": null,
@@ -66,6 +60,12 @@
       "title": "chief executive officer",
       "company": null,
       "start": "1995-11-29",
+      "end": "1997-01-01"
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "1985-01-01",
       "end": "1997-01-01"
     }
   ],

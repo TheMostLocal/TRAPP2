@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-11-22T14:12:25.874884Z",
+  "fetchedAt": "2026-11-22T15:00:14.200005Z",
   "people": [
     {
       "qid": "Q36215",
@@ -16,7 +16,6 @@
         "occupations": [
           "patron of the arts",
           "programmer",
-          "philanthropist",
           "entrepreneur",
           "chief executive officer",
           "computer scientist"
@@ -60,9 +59,9 @@
         "occupations": [
           "executive",
           "economist",
-          "computer scientist",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "computer scientist"
         ],
         "education": [
           "North Miami Beach High School",
@@ -77,24 +76,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2012-01-01",
-            "end": null
-          },
-          {
-            "title": "research assistant",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "vice president",
             "company": null,
@@ -124,6 +105,24 @@
             "company": null,
             "start": "2008-03-01",
             "end": "2022-09-01"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "title": "research assistant",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -247,6 +246,16 @@
         ],
         "employers": [
           {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -260,16 +269,6 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
           },
           {
             "company": "General Motors",
@@ -442,17 +441,17 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "banker",
           "manager",
+          "banker",
           "investor",
-          "computer scientist",
           "entrepreneur",
-          "writer"
+          "writer",
+          "computer scientist"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -489,15 +488,15 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "software engineer",
+          "venture capitalist",
           "programmer",
+          "software engineer",
           "blogger",
           "investor",
-          "venture capitalist",
-          "inventor",
           "engineer",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "inventor"
         ],
         "education": [
           "New Lisbon High School",
@@ -539,7 +538,6 @@
         "occupations": [
           "patron of the arts",
           "programmer",
-          "philanthropist",
           "entrepreneur",
           "chief executive officer",
           "computer scientist"
@@ -584,8 +582,8 @@
           "angel investor"
         ],
         "education": [
-          "Harvard Graduate School of Education",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Graduate School of Education"
         ],
         "employers": [
           {
@@ -611,7 +609,6 @@
         "occupations": [
           "patron of the arts",
           "programmer",
-          "philanthropist",
           "entrepreneur",
           "chief executive officer",
           "computer scientist"

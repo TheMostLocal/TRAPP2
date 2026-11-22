@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-11-22T14:46:32.119076Z",
+  "fetchedAt": "2026-11-22T15:00:14.205032Z",
   "people": [
     {
       "qid": "Q124911295",
@@ -202,10 +202,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
         "occupations": [],
         "education": [
+          "Harvard Business School",
           "Harvard University",
           "University of Southern California",
-          "USC Viterbi School of Engineering",
-          "Harvard Business School"
+          "USC Viterbi School of Engineering"
         ],
         "employers": [],
         "positions": [

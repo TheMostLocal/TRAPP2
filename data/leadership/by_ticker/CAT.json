@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "fetchedAt": "2026-11-22T14:28:24.247012Z",
+  "fetchedAt": "2026-11-22T15:00:14.173588Z",
   "people": [
     {
       "qid": "Q137168946",
@@ -141,8 +141,8 @@
         "occupations": [
           "adviser",
           "law clerk",
-          "politician",
           "prosecutor",
+          "politician",
           "lawyer"
         ],
         "education": [
@@ -326,9 +326,9 @@
           "businessperson"
         ],
         "education": [
+          "Booth School of Business",
           "University of Chicago",
           "Amherst College",
-          "Booth School of Business",
           "Edina High School"
         ],
         "employers": [],

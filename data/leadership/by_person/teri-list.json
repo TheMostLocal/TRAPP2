@@ -7,10 +7,16 @@
   "occupations": [
     "accountant",
     "manager",
+    "accountant",
     "business executive"
   ],
   "education": [],
   "employers": [
+    {
+      "company": "Procter & Gamble",
+      "start": "1994-01-01",
+      "end": "2013-01-01"
+    },
     {
       "company": "Gap Inc.",
       "start": "2017-01-01",
@@ -46,6 +52,7 @@
     }
   ],
   "currentTickers": [
-    "MSFT"
+    "MSFT",
+    "V"
   ]
 }

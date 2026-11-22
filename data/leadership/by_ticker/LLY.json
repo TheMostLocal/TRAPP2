@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-11-22T14:12:25.870336Z",
+  "fetchedAt": "2026-11-22T15:00:14.196307Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -204,6 +204,11 @@
         ],
         "employers": [
           {
+            "company": "Council of Economic Advisers",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
+          },
+          {
             "company": "National Bureau of Economic Research",
             "start": "2001-01-01",
             "end": null
@@ -309,8 +314,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Law School",
+          "Princeton University",
           "Harvard Business School"
         ],
         "employers": [
@@ -457,8 +462,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "basketball player",
           "accountant",
+          "basketball player",
           "businessperson"
         ],
         "education": [
@@ -493,8 +498,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "researcher",
           "oncologist",
+          "researcher",
           "university teacher"
         ],
         "education": [

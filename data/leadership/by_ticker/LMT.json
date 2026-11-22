@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-11-22T14:12:25.870878Z",
+  "fetchedAt": "2026-11-22T15:00:14.196779Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -152,8 +152,8 @@
           "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "MIT Sloan School of Management"
+          "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -221,10 +221,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -245,11 +245,11 @@
           "military officer"
         ],
         "education": [
+          "Georgetown University",
+          "Tufts University",
           "Boston College High School",
           "Saint Michael's College",
-          "The Fletcher School of Law and Diplomacy",
-          "Georgetown University",
-          "Tufts University"
+          "The Fletcher School of Law and Diplomacy"
         ],
         "employers": [],
         "positions": [
@@ -290,9 +290,9 @@
           "lawyer"
         ],
         "education": [
+          "Columbia Law School",
           "Roy C. Ketcham High School",
-          "Morehouse College",
-          "Columbia Law School"
+          "Morehouse College"
         ],
         "employers": [
           {
@@ -338,6 +338,12 @@
         ],
         "positions": [
           {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "2009-02-10",
+            "end": "2012-12-31"
+          },
+          {
             "title": "General Counsel of the Air Force",
             "company": null,
             "start": "1998-10-15",
@@ -348,12 +354,6 @@
             "company": null,
             "start": "2013-12-23",
             "end": "2017-01-20"
-          },
-          {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "2009-02-10",
-            "end": "2012-12-31"
           }
         ]
       }
@@ -393,8 +393,8 @@
         "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
-          "businessperson",
           "military officer",
+          "businessperson",
           "manager"
         ],
         "education": [

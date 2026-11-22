@@ -5,11 +5,11 @@
   "birthPlace": "Boston",
   "image": null,
   "occupations": [
-    "researcher",
-    "physician",
     "molecular geneticist",
+    "biochemist",
+    "researcher",
     "university teacher",
-    "biochemist"
+    "physician"
   ],
   "education": [
     "Stanford University"
