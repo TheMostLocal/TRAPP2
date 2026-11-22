@@ -1,6 +1,6 @@
 {
   "ticker": "TJX",
-  "fetchedAt": "2026-11-15T14:29:00.070937Z",
+  "fetchedAt": "2026-11-22T14:46:32.134225Z",
   "people": [
     {
       "qid": "Q5044471",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Rider University"
@@ -180,8 +180,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
-          "Princeton University"
+          "Princeton University",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": []
@@ -241,8 +241,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Rider University"

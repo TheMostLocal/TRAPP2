@@ -1,6 +1,6 @@
 {
   "ticker": "PEG",
-  "fetchedAt": "2026-11-15T14:29:00.058468Z",
+  "fetchedAt": "2026-11-22T14:46:32.121624Z",
   "people": [
     {
       "qid": "Q19862201",
@@ -14,10 +14,10 @@
         "birthPlace": "New York City",
         "image": null,
         "occupations": [
-          "baseball player",
-          "business executive",
+          "nuclear engineer",
           "nuclear physicist",
-          "nuclear engineer"
+          "baseball player",
+          "business executive"
         ],
         "education": [
           "Rutgers Business School \u2013 Newark and New Brunswick",

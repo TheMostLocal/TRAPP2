@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-11-15T14:29:00.054498Z",
+  "fetchedAt": "2026-11-22T14:46:32.118114Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -84,8 +84,8 @@
         "birthPlace": "Greenwood",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Abney%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Pillow Academy",
@@ -234,8 +234,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
           "Simmons University",
+          "Harvard University",
           "Harvard Business School"
         ],
         "employers": [],
@@ -366,8 +366,8 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
-          "Yale Law School"
+          "Yale Law School",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []

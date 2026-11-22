@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-11-15T14:29:00.069668Z",
+  "fetchedAt": "2026-11-22T14:46:32.132856Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -18,8 +18,8 @@
           "chief executive officer"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
@@ -49,8 +49,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -91,8 +91,8 @@
           "chief executive officer"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
@@ -281,10 +281,10 @@
           "manager"
         ],
         "education": [
+          "Harvard University",
           "Collegiate School",
           "Allen-Stevenson School",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -305,9 +305,9 @@
           "financier"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -329,21 +329,21 @@
           "businessperson"
         ],
         "education": [
-          "James B. Dudley High School",
+          "Harvard Law School",
           "Brown University",
-          "John F. Kennedy School of Government",
-          "Harvard Law School"
+          "James B. Dudley High School",
+          "John F. Kennedy School of Government"
         ],
         "employers": [
           {
-            "company": "BET",
+            "company": "Ad Council",
             "start": null,
             "end": null
           },
           {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
           },
           {
             "company": "Monsanto",
@@ -356,6 +356,16 @@
             "end": null
           },
           {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Revlon",
             "start": null,
             "end": null
@@ -364,16 +374,6 @@
             "company": "Washington Gas",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Ad Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -407,13 +407,13 @@
           "diplomat"
         ],
         "education": [
-          "Stanford University",
           "Hollywood High School",
-          "Yale Law School"
+          "Yale Law School",
+          "Stanford University"
         ],
         "employers": [
           {
-            "company": "Carlyle Group",
+            "company": "The Carlyle Group",
             "start": null,
             "end": null
           }

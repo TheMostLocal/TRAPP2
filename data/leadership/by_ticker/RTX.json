@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-11-15T14:29:00.064714Z",
+  "fetchedAt": "2026-11-22T14:46:32.127637Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,8 +39,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -231,7 +231,9 @@
         "dateOfBirth": "1953-01-17",
         "birthPlace": "Charlotte",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20O.%20Work%20DoD%20photo.jpg",
-        "occupations": [],
+        "occupations": [
+          "career officer"
+        ],
         "education": [
           "University of Illinois System",
           "University of Southern California",
@@ -240,17 +242,17 @@
         ],
         "employers": [
           {
+            "company": "United States Department of the Navy",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
           {
             "company": "George Washington University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }
@@ -283,13 +285,14 @@
         "birthPlace": "Lexington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mosullivan-100.jpg",
         "occupations": [
+          "political scientist",
           "civil servant"
         ],
         "education": [
           "Georgetown University",
-          "University of Oxford",
           "Saddleback High School",
-          "Lexington High School"
+          "Lexington High School",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -321,9 +324,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
           "military officer",
-          "admiral",
-          "military officer",
-          "naval air force"
+          "naval air force",
+          "admiral"
         ],
         "education": [
           "Fort Hunt High School",
@@ -397,8 +399,8 @@
         "birthPlace": "Temple",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Anthony%20Harris%20Jr.jpg",
         "occupations": [
-          "astronaut",
-          "physician"
+          "physician",
+          "astronaut"
         ],
         "education": [
           "Texas Tech University Health Sciences Center",

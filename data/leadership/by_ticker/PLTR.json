@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-11-15T14:29:00.061003Z",
+  "fetchedAt": "2026-11-22T14:46:32.124149Z",
   "people": [
     {
       "qid": "Q19560940",
@@ -14,14 +14,16 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "entrepreneur",
           "merchant",
-          "businessperson"
+          "philosopher",
+          "chief executive officer",
+          "jurist",
+          "entrepreneur"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Stanford University",
-          "Haverford College"
+          "Haverford College",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -45,14 +47,16 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "entrepreneur",
           "merchant",
-          "businessperson"
+          "philosopher",
+          "chief executive officer",
+          "jurist",
+          "entrepreneur"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Stanford University",
-          "Haverford College"
+          "Haverford College",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -76,8 +80,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -98,11 +102,11 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "investor",
           "manager",
-          "banker",
-          "computer scientist",
           "writer",
+          "banker",
+          "investor",
+          "computer scientist",
           "entrepreneur"
         ],
         "education": [
@@ -145,8 +149,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -167,15 +171,20 @@
         "birthPlace": "Fremont",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
         "occupations": [
-          "businessperson",
           "venture capitalist",
-          "angel investor"
+          "angel investor",
+          "businessperson"
         ],
         "education": [
           "Stanford University",
           "Mission San Jose High School"
         ],
         "employers": [
+          {
+            "company": "Addepar",
+            "start": "2009-01-01",
+            "end": "2013-01-01"
+          },
           {
             "company": "PayPal",
             "start": null,
@@ -200,14 +209,15 @@
             "company": "Clarium Capital",
             "start": null,
             "end": "2004-01-01"
-          },
-          {
-            "company": "Addepar",
-            "start": "2009-01-01",
-            "end": "2013-01-01"
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "chairperson",
             "company": null,
@@ -218,12 +228,6 @@
             "title": "chairperson",
             "company": null,
             "start": "2021-01-01",
-            "end": null
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
             "end": null
           }
         ]
@@ -241,11 +245,11 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "investor",
           "manager",
-          "banker",
-          "computer scientist",
           "writer",
+          "banker",
+          "investor",
+          "computer scientist",
           "entrepreneur"
         ],
         "education": [
@@ -288,14 +292,16 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
         "occupations": [
-          "entrepreneur",
           "merchant",
-          "businessperson"
+          "philosopher",
+          "chief executive officer",
+          "jurist",
+          "entrepreneur"
         ],
         "education": [
           "Goethe University Frankfurt",
-          "Stanford University",
-          "Haverford College"
+          "Haverford College",
+          "Stanford University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "fetchedAt": "2026-11-15T14:29:00.073784Z",
+  "fetchedAt": "2026-11-22T14:46:32.136962Z",
   "people": [
     {
       "qid": "Q5221979",
@@ -18,8 +18,8 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Hackley School"
+          "Hackley School",
+          "Brown University"
         ],
         "employers": [
           {
@@ -244,9 +244,9 @@
           "investment banker"
         ],
         "education": [
-          "The Wharton School",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -306,8 +306,8 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Hackley School"
+          "Hackley School",
+          "Brown University"
         ],
         "employers": [
           {
@@ -346,15 +346,15 @@
         "birthPlace": "Antioch",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Thain%20briefing.jpg",
         "occupations": [
-          "investment banker",
-          "entrepreneur"
+          "entrepreneur",
+          "investment banker"
         ],
         "education": [
-          "Antioch Community High School",
-          "Howard University",
-          "Yale University",
           "Harvard Business School",
           "Massachusetts Institute of Technology",
+          "Yale University",
+          "Antioch Community High School",
+          "Howard University",
           "Harvard University"
         ],
         "employers": [
@@ -383,10 +383,10 @@
           "engineer"
         ],
         "education": [
+          "Columbia University",
           "Fu Foundation School of Engineering and Applied Science",
           "Cathedral High School",
-          "New York University Tandon School of Engineering",
-          "Columbia University"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [
           {

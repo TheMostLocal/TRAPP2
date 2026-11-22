@@ -1,6 +1,6 @@
 {
   "ticker": "TEM",
-  "fetchedAt": "2026-11-15T14:29:00.070374Z",
+  "fetchedAt": "2026-11-22T14:46:32.133510Z",
   "people": [
     {
       "qid": "Q7381427",
@@ -14,16 +14,16 @@
         "birthPlace": "South Worthington Historic District",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Russell%20Herman%20Conwell.jpg",
         "occupations": [
-          "writer",
+          "academic administrator",
+          "orator",
           "lawyer",
           "Christian minister",
-          "academic administrator",
-          "orator"
+          "writer"
         ],
         "education": [
-          "Yale University",
           "Wilbraham & Monson Academy",
-          "Albany Law School"
+          "Albany Law School",
+          "Yale University"
         ],
         "employers": [
           {
