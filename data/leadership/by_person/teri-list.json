@@ -6,16 +6,11 @@
   "image": null,
   "occupations": [
     "manager",
-    "business executive",
-    "accountant"
+    "accountant",
+    "business executive"
   ],
   "education": [],
   "employers": [
-    {
-      "company": "Dick's Sporting Goods",
-      "start": "2015-08-01",
-      "end": "2016-08-01"
-    },
     {
       "company": "Gap Inc.",
       "start": "2017-01-01",
@@ -51,6 +46,6 @@
     }
   ],
   "currentTickers": [
-    "V"
+    "MSFT"
   ]
 }

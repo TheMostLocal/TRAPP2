@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-11-15T14:29:00.051882Z",
+  "fetchedAt": "2026-11-22T14:12:25.877302Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -14,12 +14,11 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
+          "manager",
+          "electrotechnician",
           "chief executive officer",
-          "manager",
-          "electrotechnician",
           "entrepreneur",
-          "manager",
-          "electrotechnician",
+          "engineer",
           "computer scientist"
         ],
         "education": [
@@ -82,8 +81,8 @@
         "birthPlace": "Sal\u00e9",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20MacGregor%20at%20World%20Economic%20Forum%20Davos%202022.png",
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
           "\u00c9cole Centrale Paris"
@@ -105,16 +104,11 @@
         "image": null,
         "occupations": [
           "manager",
-          "business executive",
-          "accountant"
+          "accountant",
+          "business executive"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
-          },
           {
             "company": "Gap Inc.",
             "start": "2017-01-01",
@@ -134,6 +128,11 @@
             "company": "Procter & Gamble",
             "start": "1994-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
           }
         ],
         "positions": [
@@ -158,12 +157,12 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "manager"
+          "manager",
+          "entrepreneur"
         ],
         "education": [
-          "University of Chicago",
-          "Syracuse University"
+          "Syracuse University",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -197,12 +196,12 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "executive"
+          "executive",
+          "businessperson"
         ],
         "education": [
-          "St Swithun's School",
-          "University of Oxford"
+          "University of Oxford",
+          "St Swithun's School"
         ],
         "employers": [
           {
@@ -274,9 +273,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
+          "politician",
           "entrepreneur",
-          "business executive",
-          "politician"
+          "business executive"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -306,13 +305,13 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
-          "investor",
+          "financier",
           "consultant",
           "podcaster",
-          "writer",
-          "financier",
+          "investor",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "writer"
         ],
         "education": [
           "Stanford University",
@@ -354,8 +353,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Cornell University"
+          "Cornell University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -396,12 +395,11 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
+          "manager",
+          "electrotechnician",
           "chief executive officer",
-          "manager",
-          "electrotechnician",
           "entrepreneur",
-          "manager",
-          "electrotechnician",
+          "engineer",
           "computer scientist"
         ],
         "education": [
@@ -445,16 +443,16 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
+          "philanthropist",
+          "art collector",
+          "co-founder",
+          "programmer",
+          "film producer",
+          "musician",
           "television producer",
           "investor",
           "inventor",
-          "co-founder",
-          "film producer",
-          "philanthropist",
-          "art collector",
           "record producer",
-          "programmer",
-          "musician",
           "entrepreneur",
           "computer scientist",
           "businessperson",

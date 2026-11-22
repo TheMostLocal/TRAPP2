@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-11-15T14:29:00.045353Z",
+  "fetchedAt": "2026-11-22T14:12:25.870878Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -196,7 +196,6 @@
           "military officer"
         ],
         "education": [
-          "United States Naval Academy",
           "Georgia Tech",
           "University of West Florida",
           "United States Naval Academy",
@@ -287,8 +286,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeh%20Johnson%20official%20DHS%20portrait.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "Roy C. Ketcham High School",
@@ -371,8 +370,8 @@
         "birthPlace": "Hibbing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Carlson%20NRO.jpg",
         "occupations": [
-          "military officer",
-          "priest"
+          "priest",
+          "military officer"
         ],
         "education": [
           "University of Minnesota Duluth",
@@ -399,23 +398,23 @@
           "manager"
         ],
         "education": [
+          "London School of Economics and Political Science",
           "Mankato West High School",
-          "United States Naval Academy",
-          "London School of Economics and Political Science"
+          "United States Naval Academy"
         ],
         "employers": [
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
           {
             "company": "American Express",
             "start": null,
             "end": null
           },
           {
-            "company": "Carlyle Group",
+            "company": "The Carlyle Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }

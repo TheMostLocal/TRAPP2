@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-11-15T14:29:00.049268Z",
+  "fetchedAt": "2026-11-22T14:12:25.874884Z",
   "people": [
     {
       "qid": "Q36215",
@@ -15,10 +15,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "philanthropist",
           "programmer",
-          "chief executive officer",
+          "philanthropist",
           "entrepreneur",
+          "chief executive officer",
           "computer scientist"
         ],
         "education": [
@@ -58,15 +58,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
+          "executive",
           "economist",
           "computer scientist",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
+          "North Miami Beach High School",
           "Harvard Business School",
-          "Harvard College",
-          "North Miami Beach High School"
+          "Harvard College"
         ],
         "employers": [
           {
@@ -76,6 +77,18 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "title": "research assistant",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -111,18 +124,6 @@
             "company": null,
             "start": "2008-03-01",
             "end": "2022-09-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2012-01-01",
-            "end": null
-          },
-          {
-            "title": "research assistant",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -139,8 +140,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -209,12 +210,12 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Lynbrook High School"
+          "Lynbrook High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -241,25 +242,10 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -274,6 +260,21 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
+          },
+          {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -363,8 +364,8 @@
         "birthPlace": "Acton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drew%20Houston.jpg",
         "occupations": [
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Massachusetts Institute of Technology",
@@ -393,8 +394,8 @@
         "birthPlace": "Logan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
         "occupations": [
-          "politician",
-          "diplomat"
+          "diplomat",
+          "politician"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -441,12 +442,12 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "investor",
-          "manager",
           "banker",
+          "manager",
+          "investor",
           "computer scientist",
-          "writer",
-          "entrepreneur"
+          "entrepreneur",
+          "writer"
         ],
         "education": [
           "Stanford University",
@@ -488,15 +489,15 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
+          "software engineer",
           "programmer",
           "blogger",
-          "venture capitalist",
-          "software engineer",
           "investor",
+          "venture capitalist",
           "inventor",
-          "entrepreneur",
+          "engineer",
           "computer scientist",
-          "engineer"
+          "entrepreneur"
         ],
         "education": [
           "New Lisbon High School",
@@ -537,10 +538,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "philanthropist",
           "programmer",
-          "chief executive officer",
+          "philanthropist",
           "entrepreneur",
+          "chief executive officer",
           "computer scientist"
         ],
         "education": [
@@ -609,10 +610,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "philanthropist",
           "programmer",
-          "chief executive officer",
+          "philanthropist",
           "entrepreneur",
+          "chief executive officer",
           "computer scientist"
         ],
         "education": [
