@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-11-15T14:29:00.011882Z",
+  "fetchedAt": "2026-11-22T14:28:24.240586Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -18,18 +18,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -68,11 +68,6 @@
         ],
         "employers": [
           {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
             "end": "1994-01-01"
@@ -86,6 +81,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -120,18 +120,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -334,15 +334,15 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "university teacher",
           "academic",
           "executive",
           "dean",
-          "university teacher",
           "computer scientist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "University of Michigan"
+          "University of Michigan",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -430,11 +430,6 @@
         ],
         "employers": [
           {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
             "end": "1994-01-01"
@@ -448,6 +443,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -481,14 +481,29 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Indian Institute of Management Calcutta",
           "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College"
+          "Madras Christian College",
+          "Yale University"
         ],
         "employers": [
+          {
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "Motorola",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Boston Consulting Group",
             "start": null,
@@ -500,23 +515,13 @@
             "end": null
           },
           {
-            "company": "Johnson & Johnson",
+            "company": "Booz Allen Hamilton",
             "start": null,
             "end": null
-          },
-          {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
           },
           {
             "company": "Amazon",
             "start": "2019-01-01",
-            "end": null
-          },
-          {
-            "company": "Booz Allen Hamilton",
-            "start": null,
             "end": null
           }
         ],
@@ -597,11 +602,6 @@
         ],
         "employers": [
           {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
             "end": "1994-01-01"
@@ -615,6 +615,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

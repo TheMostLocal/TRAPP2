@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-11-15T14:29:00.036352Z",
+  "fetchedAt": "2026-11-22T14:28:24.266762Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -14,8 +14,8 @@
         "birthPlace": "Hartsdale",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Solomon.jpg",
         "occupations": [
-          "club DJ",
-          "banker"
+          "banker",
+          "club DJ"
         ],
         "education": [
           "Edgemont Junior \u2013 Senior High School",
@@ -50,16 +50,16 @@
         "birthPlace": "Nigeria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adebayo%20Ogunlesi.jpg",
         "occupations": [
-          "lawyer",
+          "businessperson",
           "academic",
           "investment banker",
-          "businessperson"
+          "lawyer"
         ],
         "education": [
           "Harvard Business School",
-          "Harvard Law School",
           "University of Oxford",
-          "King's College, Lagos"
+          "King's College, Lagos",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "director",
+          "businessperson",
           "computer scientist",
-          "businessperson"
+          "director"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -122,11 +122,11 @@
           "business executive"
         ],
         "education": [
-          "Northwestern University",
-          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management"
+          "Kellogg School of Management",
+          "Northwestern University",
+          "Tufts University"
         ],
         "employers": [
           {
@@ -219,8 +219,8 @@
         "birthPlace": "Hartsdale",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Solomon.jpg",
         "occupations": [
-          "club DJ",
-          "banker"
+          "banker",
+          "club DJ"
         ],
         "education": [
           "Edgemont Junior \u2013 Senior High School",
@@ -323,8 +323,8 @@
         "education": [
           "Union College",
           "Bronx High School of Science",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -402,8 +402,8 @@
         ],
         "education": [
           "Bryn Mawr College",
-          "University of Pennsylvania",
           "Concord Academy",
+          "University of Pennsylvania",
           "Harvard University"
         ],
         "employers": [

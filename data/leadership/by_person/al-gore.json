@@ -8,13 +8,13 @@
     "climate activist",
     "orator",
     "blogger",
+    "environmentalist",
+    "financier",
+    "journalist",
     "university teacher",
     "farmer",
-    "environmentalist",
-    "journalist",
-    "financier",
-    "writer",
     "businessperson",
+    "writer",
     "politician"
   ],
   "education": [
@@ -83,14 +83,14 @@
     {
       "title": "United States representative",
       "company": null,
-      "start": "1977-01-03",
-      "end": "1979-01-03"
+      "start": "1981-01-03",
+      "end": "1983-01-03"
     },
     {
       "title": "United States representative",
       "company": null,
-      "start": "1981-01-03",
-      "end": "1983-01-03"
+      "start": "1977-01-03",
+      "end": "1979-01-03"
     }
   ],
   "currentTickers": [

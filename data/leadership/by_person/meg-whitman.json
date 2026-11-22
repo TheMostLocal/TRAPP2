@@ -6,8 +6,8 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
   "occupations": [
     "entrepreneur",
-    "politician",
-    "business executive"
+    "business executive",
+    "politician"
   ],
   "education": [
     "Princeton University",
@@ -26,11 +26,6 @@
       "end": null
     },
     {
-      "company": "Procter & Gamble",
-      "start": "1979-01-01",
-      "end": null
-    },
-    {
       "company": "Hewlett-Packard",
       "start": null,
       "end": null
@@ -41,17 +36,22 @@
       "end": null
     },
     {
+      "company": "Quibi",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Procter & Gamble",
+      "start": "1979-01-01",
+      "end": null
+    },
+    {
       "company": "eBay",
       "start": "1998-01-01",
       "end": "2008-01-01"
     },
     {
       "company": "The Walt Disney Company",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Quibi",
       "start": null,
       "end": null
     }

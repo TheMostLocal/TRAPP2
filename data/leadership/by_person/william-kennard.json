@@ -8,13 +8,13 @@
     "diplomat"
   ],
   "education": [
-    "Stanford University",
     "Hollywood High School",
-    "Yale Law School"
+    "Yale Law School",
+    "Stanford University"
   ],
   "employers": [
     {
-      "company": "Carlyle Group",
+      "company": "The Carlyle Group",
       "start": null,
       "end": null
     }

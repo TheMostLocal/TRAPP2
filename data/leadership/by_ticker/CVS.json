@@ -1,6 +1,6 @@
 {
   "ticker": "CVS",
-  "fetchedAt": "2026-11-15T14:29:00.024468Z",
+  "fetchedAt": "2026-11-22T14:28:24.253943Z",
   "people": [
     {
       "qid": "Q106086392",
@@ -18,8 +18,8 @@
           "business executive"
         ],
         "education": [
-          "Boston College",
-          "Boston University"
+          "Boston University",
+          "Boston College"
         ],
         "employers": [
           {
@@ -71,8 +71,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Texas Tech University"
@@ -164,8 +164,8 @@
           "business executive"
         ],
         "education": [
-          "Boston College",
-          "Boston University"
+          "Boston University",
+          "Boston College"
         ],
         "employers": [
           {
@@ -269,8 +269,8 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Bertolini%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Samuel Curtis Johnson Graduate School of Management",
@@ -304,13 +304,13 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nancy-Ann%20DeParle%20official%20portrait.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
+          "University of Tennessee",
           "Balliol College",
-          "Harvard Law School",
-          "University of Tennessee"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -334,8 +334,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SchapiroMary.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "George Washington University Law School",
@@ -453,8 +453,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "College of the Holy Cross",
-          "Columbia University"
+          "Columbia University",
+          "College of the Holy Cross"
         ],
         "employers": [],
         "positions": []

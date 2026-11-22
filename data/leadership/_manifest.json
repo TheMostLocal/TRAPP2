@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T14:29:00.258352Z",
+  "generatedAt": "2026-11-22T14:28:24.363772Z",
   "totalPeople": 957,
   "totalTickers": 138,
-  "lastRangeFilter": "ALL",
-  "thisRunPeople": 825,
-  "thisRunTickers": 262,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 390,
+  "thisRunTickers": 104,
   "index": [
     {
       "qid": "Q125453309",
@@ -1287,7 +1287,7 @@
         "AMZN"
       ],
       "positionsCount": 2,
-      "employersCount": 6
+      "employersCount": 7
     },
     {
       "qid": "Q376800",
@@ -4419,7 +4419,7 @@
         "GM"
       ],
       "positionsCount": 0,
-      "employersCount": 0
+      "employersCount": 4
     },
     {
       "qid": "Q18352311",

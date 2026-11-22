@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-11-15T14:29:00.005903Z",
+  "fetchedAt": "2026-11-22T14:28:24.234563Z",
   "people": [
     {
       "qid": "Q709063",
@@ -14,13 +14,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "biochemist",
-          "businessperson"
+          "businessperson",
+          "molecular biologist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -54,13 +54,13 @@
           "climate activist",
           "orator",
           "blogger",
+          "environmentalist",
+          "financier",
+          "journalist",
           "university teacher",
           "farmer",
-          "environmentalist",
-          "journalist",
-          "financier",
-          "writer",
           "businessperson",
+          "writer",
           "politician"
         ],
         "education": [
@@ -129,14 +129,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -153,8 +153,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -231,13 +231,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "biochemist",
-          "businessperson"
+          "businessperson",
+          "molecular biologist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -268,8 +268,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -314,13 +314,18 @@
           "actor"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
+          "University of California, Berkeley",
           "Homestead High School"
         ],
         "employers": [
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Hewlett-Packard",
             "start": null,
@@ -328,11 +333,6 @@
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -357,16 +357,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
           "designer",
+          "technology entrepreneur",
           "founder",
           "film producer",
-          "financier",
-          "entrepreneur",
-          "computer scientist",
-          "inventor",
           "general manager",
-          "executive producer"
+          "executive producer",
+          "financier",
+          "inventor",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Homestead High School",
@@ -375,12 +375,7 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Pixar",
+            "company": "NeXT",
             "start": null,
             "end": null
           },
@@ -390,7 +385,12 @@
             "end": null
           },
           {
-            "company": "NeXT",
+            "company": "Pixar",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
