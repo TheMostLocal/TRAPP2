@@ -194,13 +194,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
-          "Yale University",
-          "Harvard University"
+          "Harvard University",
+          "Yale University"
         ],
         "employers": [
           {
@@ -214,7 +214,7 @@
             "end": null
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -222,6 +222,11 @@
             "company": "University of Chicago",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "University of California, Los Angeles",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
           },
           {
             "company": "Dartmouth College",
@@ -380,8 +385,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "immunologist"
+          "immunologist",
+          "businessperson"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",

@@ -140,8 +140,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Princeton University"
+          "Princeton University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -367,8 +367,8 @@
           "biophysicist"
         ],
         "education": [
-          "Pennsylvania State University",
-          "California Institute of Technology"
+          "California Institute of Technology",
+          "Pennsylvania State University"
         ],
         "employers": [
           {
@@ -398,8 +398,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Yale University"
+          "Yale University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -445,6 +445,8 @@
           "physician"
         ],
         "education": [
+          "Stony Brook University",
+          "The Bush School",
           "The Wharton School",
           "Harvard University",
           "Harvard Medical School",
@@ -454,11 +456,6 @@
         ],
         "employers": [
           {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
@@ -467,15 +464,14 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
+          },
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -487,6 +483,12 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }

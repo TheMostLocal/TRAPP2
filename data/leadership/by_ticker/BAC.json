@@ -110,17 +110,17 @@
           "geophysicist"
         ],
         "education": [
-          "Brown University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Brown University"
         ],
         "employers": [
           {
-            "company": "Johns Hopkins University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Johns Hopkins University",
             "start": null,
             "end": null
           }
@@ -140,8 +140,8 @@
         "birthPlace": "Los Angeles",
         "image": null,
         "occupations": [
-          "newspaper editor",
-          "editor"
+          "editor",
+          "newspaper editor"
         ],
         "education": [
           "City College of San Francisco",

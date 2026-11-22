@@ -14,9 +14,10 @@
     "civil servant",
     "entrepreneur",
     "engineer",
-    "politician"
+    "civil servant"
   ],
   "education": [
+    "Stanford University",
     "Smith School of Business",
     "Bryanston High School",
     "Waterkloof House Preparatory School",
@@ -61,11 +62,6 @@
     {
       "company": "Tesla",
       "start": "2004-04-23",
-      "end": null
-    },
-    {
-      "company": "SpaceX",
-      "start": "2002-06-01",
       "end": null
     }
   ],

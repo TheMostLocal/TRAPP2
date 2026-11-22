@@ -177,9 +177,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University"
+          "Wesleyan University",
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": []
@@ -460,8 +460,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "engineer",
-          "military flight engineer"
+          "military flight engineer",
+          "engineer"
         ],
         "education": [
           "Bronx High School of Science",

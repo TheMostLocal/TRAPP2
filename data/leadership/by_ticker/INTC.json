@@ -56,6 +56,11 @@
         ],
         "employers": [
           {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Fairchild Semiconductor",
             "start": null,
             "end": "1968-01-01"
@@ -64,14 +69,15 @@
             "company": "Intel",
             "start": "1968-01-01",
             "end": "2004-01-01"
-          },
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "1979-01-01",
+            "end": "1987-01-01"
+          },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
@@ -83,12 +89,6 @@
             "company": null,
             "start": "1997-01-01",
             "end": "2004-01-01"
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "1979-01-01",
-            "end": "1987-01-01"
           }
         ]
       }
@@ -109,7 +109,9 @@
           "engineer",
           "physicist",
           "chemist",
-          "entrepreneur"
+          "physicist",
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "California Institute of Technology",
@@ -206,8 +208,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -420,6 +422,8 @@
           "physician"
         ],
         "education": [
+          "Stony Brook University",
+          "The Bush School",
           "The Wharton School",
           "Harvard University",
           "Harvard Medical School",
@@ -429,11 +433,6 @@
         ],
         "employers": [
           {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
@@ -442,15 +441,14 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
+          },
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -462,6 +460,12 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -478,8 +482,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -661,6 +665,11 @@
         ],
         "employers": [
           {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Fairchild Semiconductor",
             "start": null,
             "end": "1968-01-01"
@@ -669,14 +678,15 @@
             "company": "Intel",
             "start": "1968-01-01",
             "end": "2004-01-01"
-          },
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "1979-01-01",
+            "end": "1987-01-01"
+          },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
@@ -688,12 +698,6 @@
             "company": null,
             "start": "1997-01-01",
             "end": "2004-01-01"
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "1979-01-01",
-            "end": "1987-01-01"
           }
         ]
       }
@@ -714,7 +718,9 @@
           "engineer",
           "physicist",
           "chemist",
-          "entrepreneur"
+          "physicist",
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "California Institute of Technology",

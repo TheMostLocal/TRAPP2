@@ -106,9 +106,9 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Schwab%2C%20USTR%20official%20photo.jpg",
         "occupations": [
-          "politician",
           "diplomat",
-          "university teacher"
+          "university teacher",
+          "politician"
         ],
         "education": [
           "Aiglon College",
@@ -205,8 +205,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Kettering University"
+          "Kettering University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -322,8 +322,8 @@
         "birthPlace": "Boston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mauricio%20Macri%20%26%20David%20W.%20MacLennan%20Davos%202018%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Booth School of Business",

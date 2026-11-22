@@ -49,8 +49,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -281,10 +281,10 @@
           "manager"
         ],
         "education": [
+          "Harvard University",
           "Collegiate School",
           "Allen-Stevenson School",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []

@@ -202,9 +202,9 @@
           "businessperson"
         ],
         "education": [
-          "Stanford Law School",
           "Vassar College",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford Law School"
         ],
         "employers": [],
         "positions": []
@@ -312,9 +312,9 @@
         "education": [
           "Lafayette College",
           "King's College",
+          "University of Pennsylvania",
           "University of Pennsylvania Carey Law School",
-          "Strath Haven High School",
-          "University of Pennsylvania"
+          "Strath Haven High School"
         ],
         "employers": [
           {
@@ -371,8 +371,8 @@
           "film producer",
           "financier",
           "television producer",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"

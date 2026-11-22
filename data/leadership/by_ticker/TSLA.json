@@ -23,9 +23,10 @@
           "civil servant",
           "entrepreneur",
           "engineer",
-          "politician"
+          "civil servant"
         ],
         "education": [
+          "Stanford University",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
@@ -70,11 +71,6 @@
           {
             "company": "Tesla",
             "start": "2004-04-23",
-            "end": null
-          },
-          {
-            "company": "SpaceX",
-            "start": "2002-06-01",
             "end": null
           }
         ],
@@ -175,24 +171,12 @@
             "end": null
           },
           {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2018-11-01",
-            "end": null
-          },
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": "2017-01-01",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -204,6 +188,18 @@
             "company": null,
             "start": "http://www",
             "end": "2016-08-01"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2018-11-01",
+            "end": null
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
           }
         ]
       }
@@ -290,9 +286,9 @@
           "venture capitalist"
         ],
         "education": [
+          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business",
-          "University of California, Los Angeles"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": [
@@ -438,24 +434,12 @@
             "end": null
           },
           {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2018-11-01",
-            "end": null
-          },
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": "2017-01-01",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -467,6 +451,18 @@
             "company": null,
             "start": "http://www",
             "end": "2016-08-01"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2018-11-01",
+            "end": null
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
           }
         ]
       }
@@ -533,9 +529,10 @@
           "civil servant",
           "entrepreneur",
           "engineer",
-          "politician"
+          "civil servant"
         ],
         "education": [
+          "Stanford University",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
@@ -580,11 +577,6 @@
           {
             "company": "Tesla",
             "start": "2004-04-23",
-            "end": null
-          },
-          {
-            "company": "SpaceX",
-            "start": "2002-06-01",
             "end": null
           }
         ],

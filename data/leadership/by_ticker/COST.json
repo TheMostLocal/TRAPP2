@@ -74,11 +74,6 @@
             "end": null
           },
           {
-            "company": "CVS Pharmacy",
-            "start": "1992-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "company": "Goldman Sachs",
             "start": null,
             "end": null
@@ -87,6 +82,11 @@
             "company": "Hudson's Bay Company",
             "start": "2018-02-19",
             "end": "2020-03-13"
+          },
+          {
+            "company": "CVS Pharmacy",
+            "start": "1992-01-01",
+            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -129,8 +129,8 @@
         "birthPlace": "Wyandotte",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Harvard Business School",
@@ -445,9 +445,9 @@
         ],
         "education": [
           "Omaha Central High School",
+          "University of Michigan College of Literature, Science, and the Arts",
           "California Institute of Technology",
-          "Harvard Law School",
-          "University of Michigan College of Literature, Science, and the Arts"
+          "Harvard Law School"
         ],
         "employers": [
           {

@@ -149,8 +149,8 @@
           "chief executive officer"
         ],
         "education": [
-          "Syracuse University",
           "Stanford University",
+          "Syracuse University",
           "Rosary High School",
           "Maharaja Sayajirao University of Baroda"
         ],
@@ -220,8 +220,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgia Tech",
           "Harvard Business School",
+          "Georgia Tech",
           "Harvard University"
         ],
         "employers": [
@@ -263,11 +263,6 @@
             "end": "1983-01-01"
           },
           {
-            "company": "Claris",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Adobe",
             "start": null,
             "end": null
@@ -276,6 +271,11 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "company": "Claris",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -300,7 +300,6 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
           "university teacher",
           "writer",
           "economist",
@@ -346,9 +345,9 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
+          "banker",
           "chief financial officer",
-          "banker"
+          "businessperson"
         ],
         "education": [
           "University of Pennsylvania Carey Law School",
@@ -422,7 +421,7 @@
         "occupations": [
           "Oberleutnant",
           "university teacher",
-          "jurist",
+          "politician",
           "political scientist",
           "politician",
           "lawyer"
@@ -500,12 +499,6 @@
             "end": "1993-01-03"
           },
           {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
-          },
-          {
             "title": "United States representative",
             "company": null,
             "start": "1977-01-03",
@@ -528,6 +521,12 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
+          },
+          {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
           }
         ]
       }
