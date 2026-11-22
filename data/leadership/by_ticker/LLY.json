@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-11-15T14:29:00.044752Z",
+  "fetchedAt": "2026-11-22T14:12:25.870336Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -194,27 +194,22 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
-          "Yale University",
-          "Harvard University"
+          "Harvard University",
+          "Yale University"
         ],
         "employers": [
-          {
-            "company": "University of California, Los Angeles",
-            "start": "2005-01-01",
-            "end": "2007-01-01"
-          },
           {
             "company": "National Bureau of Economic Research",
             "start": "2001-01-01",
             "end": null
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -222,6 +217,11 @@
             "company": "University of Chicago",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "University of California, Los Angeles",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
           },
           {
             "company": "Dartmouth College",
@@ -269,6 +269,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
+          },
+          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -277,11 +282,6 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
           }
         ],
         "positions": [
@@ -380,8 +380,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "immunologist"
+          "immunologist",
+          "businessperson"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
