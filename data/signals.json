@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-signals-v1",
-  "updatedAt": "2026-11-23T19:15:58.983736Z",
+  "updatedAt": "2026-11-23T19:30:07.694717Z",
   "tickerCount": 22,
   "signals": {
     "macro": {
@@ -34,7 +34,7 @@
       }
     },
     "valuation": {
-      "raw": -0.18069375748883465,
+      "raw": -0.18063645543114853,
       "confidence": 0.85,
       "tier": "LIVE",
       "note": {
