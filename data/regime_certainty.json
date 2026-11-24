@@ -1,21 +1,21 @@
 {
- "asOf": "2026-11-23",
- "generatedAt": "2026-11-23T16:33:07+00:00",
- "regime": "risk_off",
+ "asOf": "2026-11-24",
+ "generatedAt": "2026-11-24T00:44:49+00:00",
+ "regime": "neutral",
  "quadNowcast": null,
  "quadOfficial": null,
- "certainty": 0.175,
+ "certainty": 0.193,
  "threshold": 0.65,
  "dialedIn": false,
  "mode": "regime-agnostic",
  "components": {
   "margin": {
-   "value": 0.075,
-   "score": 0.248,
+   "value": 0.093,
+   "score": 0.309,
    "weight": 0.3
   },
   "stability": {
-   "flips20": 4,
+   "flips20": 5,
    "score": 0.0,
    "weight": 0.25
   },
@@ -26,35 +26,28 @@
    "weight": 0.25
   },
   "crossCheck": {
-   "family": "down",
+   "family": "flat",
    "score": 0.5,
    "weight": 0.2
   }
  },
  "trackRecord": {
   "horizonSessions": 21,
-  "n": 94,
+  "n": 95,
   "correct": 60,
-  "accuracyPct": 63.8,
-  "baseRateUpPct": 55.3,
+  "accuracyPct": 63.2,
+  "baseRateUpPct": 54.7,
   "minN": 20,
   "capped": false
  },
  "why": [
-  "classifier picks risk_off at 47% vs 40% runner-up",
-  "4 regime flip(s) in the last 20 sessions",
+  "classifier picks neutral at 45% vs 36% runner-up",
+  "5 regime flip(s) in the last 20 sessions",
   "quad nowcast or official quad missing",
-  "market regime family 'down' vs quad growth axis \u2192 0.5",
-  "track record 64% right over 94 judged calls (naive base rate 55%)"
+  "market regime family 'flat' vs quad growth axis \u2192 0.5",
+  "track record 63% right over 95 judged calls (naive base rate 55%)"
  ],
  "calls": [
-  {
-   "date": "2026-07-24",
-   "regime": "expansion",
-   "family": "up",
-   "fwd21Pct": 3.32,
-   "correct": true
-  },
   {
    "date": "2026-07-27",
    "regime": "expansion",
@@ -486,7 +479,9 @@
   {
    "date": "2026-10-23",
    "regime": "neutral",
-   "family": "flat"
+   "family": "flat",
+   "fwd21Pct": -4.96,
+   "correct": false
   },
   {
    "date": "2026-10-24",
@@ -617,6 +612,11 @@
    "date": "2026-11-23",
    "regime": "risk_off",
    "family": "down"
+  },
+  {
+   "date": "2026-11-24",
+   "regime": "neutral",
+   "family": "flat"
   }
  ]
 }
