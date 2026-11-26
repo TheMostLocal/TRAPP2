@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-25",
- "generatedAt": "2026-11-25T22:24:27+00:00",
+ "asOf": "2026-11-26",
+ "generatedAt": "2026-11-26T00:36:19+00:00",
  "regime": "neutral",
  "quadNowcast": null,
  "quadOfficial": null,
@@ -48,13 +48,6 @@
   "track record 62% right over 96 judged calls (naive base rate 54%)"
  ],
  "calls": [
-  {
-   "date": "2026-07-28",
-   "regime": "expansion",
-   "family": "up",
-   "fwd21Pct": 3.4,
-   "correct": true
-  },
   {
    "date": "2026-07-29",
    "regime": "expansion",
@@ -615,6 +608,11 @@
   },
   {
    "date": "2026-11-25",
+   "regime": "neutral",
+   "family": "flat"
+  },
+  {
+   "date": "2026-11-26",
    "regime": "neutral",
    "family": "flat"
   }
