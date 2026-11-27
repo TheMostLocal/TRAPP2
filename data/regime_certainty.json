@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-26",
- "generatedAt": "2026-11-26T22:15:22+00:00",
+ "asOf": "2026-11-27",
+ "generatedAt": "2026-11-27T00:44:49+00:00",
  "regime": "risk_off",
  "quadNowcast": null,
  "quadOfficial": null,
@@ -15,7 +15,7 @@
    "weight": 0.3
   },
   "stability": {
-   "flips20": 5,
+   "flips20": 4,
    "score": 0.0,
    "weight": 0.25
   },
@@ -42,19 +42,12 @@
  },
  "why": [
   "classifier picks risk_off at 44% vs 29% runner-up",
-  "5 regime flip(s) in the last 20 sessions",
+  "4 regime flip(s) in the last 20 sessions",
   "quad nowcast or official quad missing",
   "market regime family 'down' vs quad growth axis \u2192 0.5",
   "track record 62% right over 97 judged calls (naive base rate 54%)"
  ],
  "calls": [
-  {
-   "date": "2026-07-29",
-   "regime": "expansion",
-   "family": "up",
-   "fwd21Pct": 5.71,
-   "correct": true
-  },
   {
    "date": "2026-07-30",
    "regime": "expansion",
@@ -615,6 +608,11 @@
   },
   {
    "date": "2026-11-26",
+   "regime": "risk_off",
+   "family": "down"
+  },
+  {
+   "date": "2026-11-27",
    "regime": "risk_off",
    "family": "down"
   }
