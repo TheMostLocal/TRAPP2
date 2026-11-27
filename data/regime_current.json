@@ -70,7 +70,7 @@
       "vix9d_over_vix": 1.1049
     },
     "valuation": {
-      "spy_pe": 23.11,
+      "spy_pe": 23.1,
       "earnings_yield": 0.0433,
       "real_10y": 0.0083,
       "fed_model_spread": 0.035
@@ -100,6 +100,6 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-11-27T17:00:06+00:00",
+  "computed_at": "2026-11-27T17:15:09+00:00",
   "inputs_complete": true
 }
